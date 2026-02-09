@@ -57,6 +57,16 @@ behar ditugu."""
 EXPECTED_KEYS = {"kodea", "ebaluazioa", "laburpena", "akats_taldeak", "EP100", "meta"}
 
 
+def sanitize(text: str) -> str:
+    """Kontsolarako bateragarri ez diren karaktereak kendu (Windows cp1252)."""
+    replacements = {"\u2192": "->", "\u2190": "<-", "\u2014": "--", "\u2013": "-",
+                    "\u2018": "'", "\u2019": "'", "\u201c": '"', "\u201d": '"',
+                    "\u2026": "...", "\u2022": "*", "\u00b7": "*"}
+    for old, new in replacements.items():
+        text = text.replace(old, new)
+    return text.encode("cp1252", errors="replace").decode("cp1252")
+
+
 # ── Konfigurazioa kargatu ─────────────────────────────────────────────────
 
 def load_config() -> tuple[str, str, dict[str, str]]:
@@ -243,21 +253,21 @@ def print_summary(result: dict):
         console.print(f"\n  Akats-taldeak: {len(akatsak)}")
         for a in akatsak:
             z = " [dim](zalantzazkoa)[/]" if a.get("zalantzazkoa") else ""
-            console.print(
+            console.print(sanitize(
                 f"    [{a.get('larritasuna', '?')}] {a.get('kategoria', '?')} "
                 f"x{a.get('kopurua', '?')} ({a.get('akats_id', '?')}){z}"
-            )
+            ))
 
     # Lehentasuna
     if lab.get("lehentasuna"):
-        console.print(Panel(lab["lehentasuna"], title="Lehentasuna", width=70))
+        console.print(Panel(sanitize(lab["lehentasuna"]), title="Lehentasuna", width=70))
 
     # Irakasle berrikusketa
     meta = result.get("meta", {})
     ir = meta.get("irakasle_berrikusketa", {})
     if ir.get("beharrezkoa"):
         console.print(Panel(
-            "\n".join(ir.get("arrazoiak", [])),
+            sanitize("\n".join(ir.get("arrazoiak", []))),
             title="[red]IRAKASLE BERRIKUSKETA BEHAR DA[/]",
             width=70,
         ))
