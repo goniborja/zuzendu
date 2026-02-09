@@ -20,9 +20,11 @@
 ### `src/ia_detekzioa.py` — IA detekzio independentea
 - API dei separatuan, ebaluazioa BAINO LEHEN
 - 7 seinale (S1-S7), 0-3 bakoitza, max 21
-- Mailak: BAXUA (0-5), ERTAINA (6-10), ALTUA (11-15), OSO_ALTUA (16-21)
-- ALTUA+: testua blokeatu, ez ebaluatu
+- **Bug konpondua:** modeloaren `ia_puntuazioa` ez fidatu, Python-etik S1-S7 batura kalkulatu
+- Atalaseak (v2): **BAXUA (0-7)**, **ERTAINA (8-13)**, **ALTUA (14-21)**
+- ALTUA: testua blokeatu, ez ebaluatu
 - ERTAINA: ebaluatu + irakasle berrikusketa oharra
+- BAXUA: ebaluatu normalean
 
 ### `src/docx2txt.py` — Bihurtzailea
 - `.docx` fitxategiak `.txt` bihurtu
@@ -48,39 +50,38 @@
 
 ## Prozesuan / Bug-ak
 
-### IA detekzio bug-a: `ia_puntuazioa` vs seinaleen batura
-- Modeloak `ia_puntuazioa` eta `seinaleak` (S1-S7) independenteki sortzen ditu
-- `ia_puntuazioa` EZ da S1-S7 batura — modeloak batez bestekoa edo beste formula bat erabiltzen du
-- Ondorioz, blokeatzeko atalasea (>=11) ez da inoiz aktibatzen
-- **Adibidea:** Paula — seinaleak batura = 19 (OSO_ALTUA), baina ia_puntuazioa = 2.3 (BAXUA)
-- **Konponbidea:** Python-etik kalkulatu seinaleen batura, modeloaren ia_puntuazioa-ri ez fidatu
+### ~~IA detekzio bug-a~~ KONPONDUA + atalaseak doituta
 
-### 13 testuen emaitzak (azken exekuzioa)
+### 4B emaitza finalak (atalase berriak: BAXUA 0-7, ERTAINA 8-13, ALTUA 14-21)
 
-| Ikaslea | Nota | AB | AK | BLH | ZL | EP100g | EP100p | Hitzak | IA_punt | IA_maila | S1-S7 batura |
-|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|---|:---:|
-| Ahetz | 4 | 6 | 4 | 2 | 4 | 26.24 | 2.83 | 743 | 0.0 | BAXUA | 0 |
-| Amets | 8 | 8 | 7 | 9 | 8 | 0.24 | 0.20 | 1247 | 9.0 | ERTAINA | 20 |
-| Ander | 8 | 8 | 7 | 8 | 8 | 2.63 | 2.30 | 456 | 0.5 | BAXUA | 1 |
-| Euskara | 7 | 8 | 7 | 7 | 7 | 2.12 | 1.54 | 518 | 0.5 | BAXUA | 1 |
-| Harriet | 7 | 8 | 7 | 6 | 5 | 7.52 | 1.96 | 918 | 0.3 | BAXUA | 1 |
-| Iset | 7 | 8 | 7 | 8 | 7 | 1.45 | 0.77 | 1038 | 2.0 | BAXUA | 16 |
-| Maia | 8 | 9 | 8 | 8 | 8 | 2.37 | 1.66 | 845 | 0.5 | BAXUA | 1 |
-| Maria | 8 | 8 | 8 | 8 | 8 | 1.01 | 0.79 | 891 | 1.4 | BAXUA | 11 |
-| Oier | 6 | 6 | 5 | 5 | 6 | 6.98 | 1.80 | 917 | 0.3 | BAXUA | 1 |
-| Paula | 9 | 9 | 9 | 8 | 9 | 0.60 | 0.54 | 838 | 2.3 | BAXUA | 19 |
-| Penelope | 7 | 8 | 7 | 5 | 7 | 9.35 | 2.64 | 738 | 0.5 | BAXUA | 1 |
-| Solafa | 7 | 8 | 7 | 7 | 7 | 3.58 | 1.28 | 782 | 2.3 | BAXUA | 17 |
-| Telmo | 7 | 8 | 7 | 7 | 7 | 3.20 | 1.96 | 562 | 1.3 | BAXUA | 11 |
+| Ikaslea | S1-S7 | Maila | Egoera | Nota | AB | AK | BLH | ZL | EP100g | EP100p |
+|---|:---:|---|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ahetz | 0 | BAXUA | Ebaluatua | 2 | 3 | 2 | 3 | 2 | 22.28 | 2.14 |
+| **Amets** | **20** | **ALTUA** | **BLOKEATUA** | - | - | - | - | - | - | - |
+| Ander | 1 | BAXUA | Ebaluatua | 6 | 3 | 7 | 6 | 7 | 2.60 | 1.62 |
+| Euskara | 1 | BAXUA | Ebaluatua | 7 | 8 | 7 | 7 | 7 | 3.62 | 1.81 |
+| Harriet | 1 | BAXUA | Ebaluatua | 3 | 3 | 4 | 4 | 2 | 20.40 | 2.83 |
+| **Iset** | **20** | **ALTUA** | **BLOKEATUA** | - | - | - | - | - | - | - |
+| Maia | 1 | BAXUA | Ebaluatua | 6 | 2 | 8 | 7 | 6 | 3.06 | 1.34 |
+| Maria | 3 | BAXUA | Ebaluatua | 7 | 8 | 7 | 6 | 7 | 2.00 | 0.84 |
+| Oier | 1 | BAXUA | Ebaluatua | 4 | 2 | 4 | 5 | 4 | 9.97 | 2.69 |
+| **Paula** | **18** | **ALTUA** | **BLOKEATUA** | - | - | - | - | - | - | - |
+| Penelope | 1 | BAXUA | Ebaluatua | 5 | 3 | 5 | 6 | 5 | 11.06 | 3.93 |
+| **Solafa** | **18** | **ALTUA** | **BLOKEATUA** | - | - | - | - | - | - | - |
+| Telmo | 8 | ERTAINA | Ebaluatua + oharra | 6 | 4 | 6 | 6 | 6 | 3.99 | 1.99 |
+
+**Ondorioa:** 9 ebaluatuta, 4 blokeatuta (Amets, Iset, Paula, Solafa), 1 irakasle-oharrarekin (Telmo).
 
 ---
 
 ## Falta
 
-- [ ] IA detekzio bug-a konpondu: Python-etik S1-S7 batura kalkulatu
-- [ ] 13 testuen emaitzak berrikusi (IA bug-a konpondu ondoren berriz pasa)
-- [ ] Irakaslearen berrikusketa: notak egiaztatu (AB altuegi izan daiteke?)
-- [ ] Commit eta push emaitza guztiekin
+- [x] IA detekzio bug-a konpondu: Python-etik S1-S7 batura kalkulatu
+- [x] Atalaseak doitu: BAXUA 0-7, ERTAINA 8-13, ALTUA 14-21
+- [x] 13 testuak berriz pasa pipeline-tik (atalase berriekin)
+- [ ] Irakaslearen berrikusketa: 4 ikasle blokeatuak aztertu (Amets, Iset, Paula, Solafa)
+- [ ] Irakaslearen berrikusketa: Telmo (ERTAINA, 8/21) berrikusi
+- [ ] Irakaslearen berrikusketa: ebaluatutako 8 ikasleen notak egiaztatu
 - [ ] Beste talde bat prozesatu (4A, 3A, 3B)
 
 ---

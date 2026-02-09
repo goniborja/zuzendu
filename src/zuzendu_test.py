@@ -395,6 +395,7 @@ def main():
     result["meta"]["segurtasun_azterketa"] = {
         "susmagarria": ia_maila != "BAXUA",
         "ia_puntuazioa": ia_punt,
+        "ia_puntuazioa_modelo": ia_result.get("ia_puntuazioa_modelo", ia_punt),
         "seinaleak": seinaleak,
         "maila": ia_maila,
         "iruzkina": ia_result.get("iruzkina", ""),

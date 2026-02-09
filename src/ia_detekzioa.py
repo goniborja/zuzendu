@@ -26,11 +26,10 @@ Erantzun JSON SOILIK:
 {"ia_puntuazioa": X, "seinaleak": {"S1": X, "S2": X, "S3": X, "S4": X, "S5": X, "S6": X, "S7": X}, "iruzkina": "..."}
 """
 
-# Probabilitate-mailak
-BAXUA = 5      # 0-5
-ERTAINA = 10   # 6-10
-ALTUA = 15     # 11-15
-# 16-21 = OSO ALTUA
+# Probabilitate-mailak (S1-S7 batura, max 21)
+BAXUA = 7      # 0-7:  ebaluatu normalean
+ERTAINA = 13   # 8-13: ebaluatu + irakasle-oharra
+# 14-21 = ALTUA: blokeatu, ez ebaluatu
 
 
 def ia_detekzioa(testua: str, api_key: str, model: str) -> dict:
@@ -42,7 +41,7 @@ def ia_detekzioa(testua: str, api_key: str, model: str) -> dict:
             "ia_puntuazioa": int,
             "seinaleak": {"S1": int, ...},
             "iruzkina": str,
-            "maila": "BAXUA" | "ERTAINA" | "ALTUA" | "OSO_ALTUA",
+            "maila": "BAXUA" | "ERTAINA" | "ALTUA",
             "blokeatu": bool  # True bada, ez ebaluatu
         }
     """
@@ -75,19 +74,24 @@ def ia_detekzioa(testua: str, api_key: str, model: str) -> dict:
             "blokeatu": False,
         }
 
-    puntuazioa = result.get("ia_puntuazioa", 0)
+    # BUG KONPONDUA: modeloaren ia_puntuazioa EZ da fidagarria.
+    # Python-etik S1-S7 seinaleen batura kalkulatu eta hori erabili.
+    seinaleak = result.get("seinaleak", {})
+    batura = sum(seinaleak.get(f"S{i}", 0) for i in range(1, 8))
 
-    if puntuazioa <= BAXUA:
+    # Modeloaren jatorrizko balioa gorde trazabilitaterako
+    result["ia_puntuazioa_modelo"] = result.get("ia_puntuazioa", 0)
+    result["ia_puntuazioa"] = batura
+
+    if batura <= BAXUA:
         maila = "BAXUA"
-    elif puntuazioa <= ERTAINA:
+    elif batura <= ERTAINA:
         maila = "ERTAINA"
-    elif puntuazioa <= ALTUA:
-        maila = "ALTUA"
     else:
-        maila = "OSO_ALTUA"
+        maila = "ALTUA"
 
     result["maila"] = maila
-    result["blokeatu"] = puntuazioa >= 11
+    result["blokeatu"] = batura >= 14
 
     return result
 
