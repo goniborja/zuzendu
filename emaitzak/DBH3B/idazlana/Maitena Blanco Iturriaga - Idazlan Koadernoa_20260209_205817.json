@@ -1,0 +1,36 @@
+{
+  "kodea": "MAITENA BLANCO ITURR",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 19,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 2,
+        "S3": 3,
+        "S4": 3,
+        "S5": 2,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu hau IA bidez sortua dela adierazten duten seinale sendoak daude. Perfekzio linguistikoa nabaria da DBH4 maila baterako: akatsik ez dago eta egiturak oso profesionala da hiru paragrafo orekatuekin. Hizkuntza oso landua da ('autoestimua', 'bakarrik uzten zuten', 'enpatiaren beharra azpimarratuz') eta hitz-aukerak C1 mailan kokatuko lirateke. Egitura akademiko perfektua da: sarrera narratiboa, garapena sakonarekin eta ondorio didaktiko moralista bat. Tonua robotikoa eta pertsonalitate gabekoa da, narrazio generiko bat dirudi, formulu estandarrak erabiliz. Luzera (~650 hitz) susmagarria da DBH4 maila baterako, batez ere hain perfektua denean. Akats naturalik ez dago: ez dago errepikapen desleiaturik, ez lotura desegokiak, ez erregistro aldaketak. Kalitatea uniformea da hasieratik amaieraraino, arazorik gabe. Azken paragrafoko leloa ('Horrela amaitzen da istorioa...') oso IA motakoa da. DBH4ko ikasle batek istorio bat kontatuko luke modu naturalagoan, akats gehiagorekin eta egituraketa dohaikabea izango litzatekeena.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 19/21)"
+      ]
+    }
+  }
+}

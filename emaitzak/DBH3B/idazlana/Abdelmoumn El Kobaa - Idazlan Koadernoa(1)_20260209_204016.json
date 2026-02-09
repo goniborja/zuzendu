@@ -1,0 +1,98 @@
+{
+  "kodea": "ABDELMOUMN EL KOBAA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-3",
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [],
+        "feed_forward": ""
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [],
+        "feed_forward": ""
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [],
+        "feed_forward": ""
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 1,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [],
+        "feed_forward": ""
+      },
+      "zl_modelo": 0,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=0 baxuegi da EP100=0.0 (bikaintasuna, tartea 9-10). ZL=1 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 0.25,
+    "biribiltzea": 0,
+    "heziberri_maila": "lortu_gabea",
+    "orokorra": "Zure testua ezin da ebaluatu, ez delako ebaluatzeko moduko testurik. 16 hitz bakarrik daude eta esaldi bat ere ez da osatzen. Narrazioa egiteko, behintzat 3-4 paragrafo behar dira: sarrera (pertsonaiak aurkeztu), korapiloa (arazoa/gatazka) eta amaiera (konponbidea). Zuk hasteko esaldi bat bakarrik idatzi duzu. Mesedez, lana burutu eta testua oso-osorik idatzi. Ez da nota jarri daitekeen egoera.",
+    "lehentasuna": "Testua osatu: gutxienez 150-200 hitz, hasiera-garapena-amaierarekin. Hori egin gabe ezin da ebaluatu.",
+    "batez_bestekoa_modelo": 0.0,
+    "biribiltzea_modelo": 0.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [],
+  "EP100": {
+    "hitz_kopurua": 16,
+    "minor": 0,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.0,
+    "EP100_pisuduna": 0.0,
+    "EP100_gordina_modelo": 0.0,
+    "EP100_pisuduna_modelo": 0.0,
+    "minor_modelo": 0,
+    "major_modelo": 0,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0,
+      "ia_puntuazioa_modelo": 0,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua oso laburra da (2 esaldi bakarrik) eta ipuin baten hasiera da. Ezin da ebaluazio egokia egin hain testu laburrarekin. Hala ere, ikusi daitezkeen ezaugarriak guztiz normalak dira DBH4 ikasle batentzat: hizkuntza erraza eta zuzena, ipuin klasiko baten hasiera tipikoa ('Behin batean' estilokoa). Ez dago IA seinalerik, baina ezta daturik ere ebaluazio sendo bat egiteko. Puntuazio baxuena eman da testu osatugabe honek ez duelako aukera ematen IAren ezaugarriak detektatzeko."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Testua osatu gabe dago — 16 hitz bakarrik",
+        "Ezin da ebaluatu, ez dago ebaluatzeko materiala",
+        "Ikasleak lana ez du bukatu edo ez du entregatu nahi zen testua"
+      ]
+    }
+  }
+}

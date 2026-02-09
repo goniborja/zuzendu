@@ -1,0 +1,191 @@
+{
+  "kodea": "IBAI ETXANIZ MEAZA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo egituratuta dago: hasiera argia (Aneren aurkezpena), korapiloa (itzalaren gertakizuna), eta amaiera koherentea (gainditzea). Egitura klasikoa primeran aplikatu duzu!",
+          "Pertsonaia garapena bikaina da: Ane lotsatitik hasten da eta azkenean bere burua gainditzen du. Bilakaera emozionala ondo kontatuta dago, esperientzia arraroarekin (itzala) lotuta."
+        ],
+        "hobetzekoak": [
+          "Bukaera pixka bat azkarregi geratzen da. Azken paragrafoan hainbat gauza pasatzen dira: lana aurkeztu, txaloak, lagunak... Horiek gehiago landu zenezakeen, emozio gehiago azalduaz. Horrela narrazioak oihartzun handiagoa izango luke!",
+          "Deskribapen sentsorial gehiago jar zenitzakeen: nola sentitzen da Ane barnean korapiloan? Nolakoa da basoa? Xehetasun horiek irakurlea istorioan sartzen laguntzen dute."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu momentu garrantzitsuenak motelago kontatzen, xehetasunekin: zer ikusten da, zer entzuten da, nola sentitzen da pertsonaiak. Horrekin, irakurlea benetan han egongo da zurekin!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura sekuentziala argia da: sarrera → korapiloa → amaiera. Irakurlea gidatzen duzu pausoz pauso eta horrek kohesio handia ematen dio testuari.",
+          "Denborazko sekuentziak ondo kudeatzen dituzu: 'egun batean', 'hurrengo egunetan', 'larunbat batean', 'azkenean'... Lotura-hitz hauek narrazioa aurrera eramaten dute modu naturalean."
+        ],
+        "hobetzekoak": [
+          "Paragrafoen banaketa hobetu beharko zenuke: batzuk oso luzeak dira (16 lerro!) eta irakurtzea zailtzen dute. Saiatu eszenak edo uneak bereizten. Adibidez, basoko eszena paragrafo independente batean jar zenezakeen.",
+          "Lotura-hitz gehiago erabiltzea falta da paragrafo bakoitzaren BARRUAN. Esaldi batzuk 'eta' bakarrik lotzen dituzu. Erabili 'orduan', 'hala ere', 'horrez gain'... Horrekin koherentzia hobetuko da askoz!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, begiratu paragrafo bakoitza: 8 lerrotik gora badu, zatitu bi paragrafotara. Eta esaldi bakoitza lotura-hitz batekin hasi (edo amaitu). Hori eginda, testua profesionalagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da maila honetarako: 'hausnartzen', 'ausartagoa', 'onartua', 'mugitu zitzaion'... Hitz hauek madurotasuna erakusten dute!",
+          "Perpaus-egitura ugari erabiltzen dituzu: sinpleak eta konplexuak txandakatzen dituzu. Kasu batzuetan erlatiboak ('esaten ez zituen hitzak') eta kausazkoak ('beldur zen... ziotelako') ondo erabiltzen dituzu."
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk errepikatzen dituzu asko: 'zegoen' (12 aldiz!), 'ikusi zuen' (7 aldiz). Erabili sinonimoak: 'zegoen' → 'aurkitzen zen', 'ikusi zuen' → 'antzeman zuen', 'begiratzen zuen'...",
+          "Errepikatzen dituzun egitura: 'bat-batean', 'orduan', 'hala ere' hasieran jarri, baina batzuetan esaldi-hasierak monotonoak dira. Saiatu aldatzen: 'Une horretan', 'Harrituta', 'Barne-barruan'..."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, bilatu 5 aldiz baino gehiago errepikatzen den hitza. Gero, markatu eta bilatu 2-3 sinonimo. Horrekin hiztegia askoz aberatsagoa izango duzu eta irakurlea ez da aspertuko!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema ondo kontrolatzen duzu orokorrean: NOR-NORK (ikusi zuen), NOR-NORI (gertatu zitzaion, ematen zion) zuzen erabiltzen dituzu gehienetan. Hori ez da erraza eta ondo egiten duzu!",
+          "Denbora-aldaketa zuzena da narrazioaren zehar: iraganeko denborak koherenteki erabiltzen dituzu. Hori garrantzitsua da narrazioan!"
+        ],
+        "hobetzekoak": [
+          "Puntuazio-akatsak oso ugariak dira: esaldi bukaera punturik gabe, komak falta lotura-hitzen ondoren, espazioak falta puntuaren ondoren... Hauek testua zailago egiten dute irakurtzeko eta nota jaisten dute.",
+          "Ortografia-akats batzuk: 'Gahin' (gehien?), 'pentsatsen' (pentsatzen), 'okurritu' (bururatu). Kontuz idazteko unean, eta ondoren errepasatzea oso garrantzitsua da!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta ONDOREN IRAKURRI ozen. Pausarik egiten baduzu, puntua jarri; lotura-hitzen ondoren, koma. Eta azken errepasoan, ortografiara begiratu, batez ere esaldi hasierak letra larriz. Hori eginda, akatsen kopurua erdira jaitsiko da!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "Modeloaren ZL=6 koherentea EP100=5.96 (tartekoa, tartea 5-6)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Benetan lan ona egin duzu! Narrazioa oso interesgarria da eta pertsonaia garapena polita. Egitura argia du eta hiztegia egokia da maila honetarako. Hobetzeko tarte handiena puntuazioan dago: esaldi bukaeretan puntua, lotura-hitzen ondoren koma. Horiek konpontzen badituzu, testua profesionalagoa izango da eta nota gorantz egingo du. Aurrera zu, badaukazu maila!",
+    "lehentasuna": "Puntuazioa: esaldi bukaeretan BETI puntua jarri. Idatzi eta ozen irakurri, eta pausak egiten dituzun lekuan puntua jarri. Hori da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Puntua falta esaldi bukaeretan",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Gahin pentsatsen zuen,baina normalean ez zituen pentsamenduak esaten",
+        "zuzenketa": "Gehien pentsatzen zuen. Baina normalean ez zituen pentsamenduak esaten.",
+        "azalpena": "Esaldi bukaera beti puntuz markatu behar da. Esaldi bi badira, banatu puntuz eta letra larriz hasi bigarrena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala ere Ane oso lotsatia zen",
+        "zuzenketa": "Hala ere, Ane oso lotsatia zen",
+        "azalpena": "Lotura-hitzen ondoren ('hala ere', 'orduan', 'beraz', 'horregatik'...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Espazioa falta puntuaren/komaren ondoren",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 6,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zuen.Gahin pentsatsen zuen,baina",
+        "zuzenketa": "zuen. Gehien pentsatzen zuen, baina",
+        "azalpena": "Puntu/koma/puntu eta koma ondoren BETI espazio bat utzi behar da hurrengo hitza hasi aurretik."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia-akatsak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gahin pentsatsen zuen",
+        "zuzenketa": "Gehien pentsatzen zuen",
+        "azalpena": "Hitz hau ez da zuzena: 'gahin' → 'gehien'. Eta 'pentsatsen' → 'pentsatzen'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'zegoen' hitza 12 aldiz errepikatzen da",
+        "zuzenketa": "Erabili sinonimoak: 'aurkitzen zen', 'bazegoen', 'zihoan', 'egoten zen'",
+        "azalpena": "Hitz bat gehiegi errepikatzen denean, testua monotonoa bilakatzen da. Aldatu sinonimoekin!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz mailegu okerra",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "okurritu zitzaion",
+        "zuzenketa": "bururatu zitzaion / burura etorri zitzaion",
+        "azalpena": "'Okurritu' gaztelaniako 'ocurrir' hitza da zuzenean. Euskaraz 'bururatu' edo 'burura etorri' erabili behar da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 638,
+    "minor": 22,
+    "major": 8,
+    "critical": 0,
+    "EP100_gordina": 5.96,
+    "EP100_pisuduna": 1.33,
+    "EP100_gordina_modelo": 5.8,
+    "EP100_pisuduna_modelo": 4.9,
+    "minor_modelo": 21,
+    "major_modelo": 8,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzitakoa dirudi. Hainbat akats tipiko aurkitzen dira: puntuazio-akatsak (adib. 'zen.Gahin', 'zuen.Hurrengo egunetan', 'zuen.Oraingoan'), zuriunea falta hainbat tokitan, eta ortografia-akatsak ('Gahin' 'Gainera' beharrean). Hiztegi naturala da maila honetarako, ez dago C2 mailako hitzik. Egitura nahiko ona da (hasiera-garapena-amaiera), baina ez perfektua - errepikapena badago eta batzuetan paragrafoak ez daude oso ongi antolatuta. Testuak pertsonalitate naturala du, ez da robotikoa. Luzera (800 hitz inguru) egokia da DBH4ko lan batentzat. Kalitatea ez da uniformea, akats naturalak agertzen dira zehar. Guztira, ikasle gazte batek idatzitako testu sinetsgarria da, ez IAk sortua."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

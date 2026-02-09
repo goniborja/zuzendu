@@ -1,0 +1,36 @@
+{
+  "kodea": "PAUL JAUREGIZAR ELGE",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 20,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 3,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu hau IA bidez sortu dela adierazten duten seinale argiak daude. Perfekzio teknikoa nabarmena da: ez dago akats ortografikorik, puntuazio-akatsik edo diskurtso-koherentzia faltak, DBH4ko ikasle batean ez-oharkaboa. Hiztegia oso sofistikatua da ('oihartzun', 'ezkutatzen', 'artifiziala', 'kritika soziala'), C1/C2 mailako hitzak eta egitura konplexuak naturalki erabiltzen dituena. Egitura narratiboa perfektua da, distopia literarioko eredu guztiak betetzen dituena: deskribapen poetikoa, Red Hot Chili Peppers aipamen kulturala, metafora landuak eta galdera erretoriko filosofikoak amaieran. Luzera 650+ hitz inguru da, oso zabala DBH4rako. Tonua literarioegia da, estilo uniformea mantenduz hasieratik bukaeraraino, gazte batek idaztean espero daitezkeen irregulartasunak, errepikapenak edo estilo-aldaketak gabe. DBH4ko ikasle batek normalean ez luke hainbeste kontrolik izango metafora kateatu, erreferentzia kultural eta galdera filosofikoen gainean.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 20/21)"
+      ]
+    }
+  }
+}

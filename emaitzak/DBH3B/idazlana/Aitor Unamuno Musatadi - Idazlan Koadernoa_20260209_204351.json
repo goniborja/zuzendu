@@ -1,0 +1,215 @@
+{
+  "kodea": "AITOR UNAMUNO MUSATA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioa ondo garatuta dago hasieratik amaierara: aurkezpena, korapiloa eta desenlazea argi bereizten dira. Txapela zu!",
+          "Narrazioa interesgarria da eta irakurlearen arreta mantentzen duzu testu osoan zehar. Suspensea sortzeko gaitasuna erakutsi duzu oso ondo!"
+        ],
+        "hobetzekoak": [
+          "Pertsonaien karakterizazioa sakonago egin zenezake: Ander nolakoa da? Zer sentitzen du barne-barruan? Gehiago deskribatu zenezake bere pentsamenduak eta emozioak.",
+          "Testuinguruaren deskribapena gehiago landu zenezake: herriak nolakoak dira, paisaia, ingurune fisikoa... Horrekin irakurleak hobeto imajinatuko luke eszena bakoitza."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu protagonistaren barne-munduari leiho bat zabaltzen: zer pentsatzen du une zailetan? Zer gogoratzen du? Honek emozio handiagoa emango dio narratziari!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa argia da: hasiera (aurkezpena) → korapiloa (lehiaketa) → amaiera (irteera). Oso ondo!",
+          "Denbora-sekuentzia logikoa da eta egun bakoitza bereizten duzu. Hau narrazioetan funtsezkoa da eta kontrolatzen duzu."
+        ],
+        "hobetzekoak": [
+          "Paragrafoen banaketa hobetu behar duzu: testu osoan 3 paragrafo bakarrik daude oso-oso luzeak. Ideia edo une bakoitza paragrafo berezi batean jarri beharko zenuke (adibidez, lehenengo eguna, bigarren eguna...). Horrela askoz irakurgarriagoa izango litzateke!",
+          "Lotura-hitzak gehitu behar dituzu: 'baina', 'beraz', 'orduan' errepikatzen dituzu. Erabili 'hala ere', 'gainera', 'hori dela eta', 'ondoren'... Testua askoz hobeto lotuko da!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi paragrafoak: 150 hitz baino gehiago baditu paragrafoak, zatitu ezazu. Une bakoitza bere espazioan!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia nahikoa aberatsa da narrazio batean: 'despistatu', 'ukabilkada', 'kobazulo', 'inkontziente'... Hitz hauek puntu ematen dute!",
+          "Perpaus konplexuak erabiltzen dituzu (mendekoak, erlatibozkoak): 'inoiz baino azkarrago', 'zarata entzunda'... Badaukazu maila hori!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko ugari dago: 'korrika abiatu zen' 6 aldiz, 'aurkitu zuen' 8 aldiz, 'baina' 25 aldiz! Aldatu itzazu: 'lasterka joan zen', 'topatu zuen', 'hala ere'...",
+          "Esaldi-egitura batzuk oso sinpleak dira eta errepikatzen dira: 'Subjektua + aditza + osagarria'. Konbinatu ezazu ordena, erabili perpausa mendekoak hasieran, fokalizatu elementu bat..."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero nabarmendutaz markatu errepikatzen diren hitz edo egitura guztiak. Sinonimoak bilatu eta aldatu! Hitz-ordena alda ezazu batzuetan. Horrek emango dizu doitasuna!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema ondo kontrolatuta daukazu oro har: 'ikusi zuen', 'hartu zituen', 'aurkitu zuen'... Primeran!",
+          "Aditz-denborak ondo erabiltzen dituzu orokorrean: lehenaldia narraziorako, eta askotan aspektuak ere zuzen ('korrika ari zen', 'begirarazten')."
+        ],
+        "hobetzekoak": [
+          "Puntuazioa da arazo handiena: koma falta perpaus askotan, esaldi oso luzeak punturik gabe, eta lotura-hitzen ondoren koma sistematikoki falta da. Hau konpontzea LEHENTASUNA da!",
+          "Ortografia-akatsak: hitz-banaketa ('aste betez', ez 'aste bete'), letra larriak izen propietan ('Pirinioak', ez 'Pininioetako'), eta zenbait typo ('eskutaleku', ez 'eskutaleku')."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero BERRIKUSI perpaus bakoitza. Lotura-hitz bat badago ('baina', 'beraz', 'orduan'), koma jarri ondoren. Esaldi bat 30 hitz baino luzeagoa bada, zatitu ezazu. Honek nota bat-biak igoko dizu!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=5 baxuegi da EP100=4.33 (aurreratua, tartea 7-8). ZL=6 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.25,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Oso lan ona egin duzu, benetan! Narrazioa dinamikoa da, interesgarria, eta amaiera harrigarria du. Istorioa kontatzeko gaitasuna erakutsi duzu. Hobetzeko tartea puntuazioan dago batez ere: komak eta puntuak kontuz jartzea, eta paragrafoak hobeto antolatzea. Baina kontuz: badaukazu potentzial handia!",
+    "lehentasuna": "Puntuazioa: lotura-hitzen ondoren koma jarri BETI ('baina', 'beraz', 'orduan' → koma ondoren). Esaldi luzeak puntuarekin zatitu. Hau lantzeak nota aipatzen lagunduko dizu!",
+    "batez_bestekoa_modelo": 6.0,
+    "biribiltzea_modelo": 6.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 18,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Horregatik ez zen lanera joaten",
+        "zuzenketa": "Horregatik, ez zen lanera joaten",
+        "azalpena": "Lotura-hitz hauek beti koma behar dute ondoren: 'horregatik', 'beraz', 'baina', 'orduan', 'gainera'..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Esaldi oso luzeak punturik gabe (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 12,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ander korrika abiatu zen, inoiz baino azkarrago, ez zekien nora zihoan baina bazekien bere bizitzako momenturik garrantsitzuenetariko bat zela",
+        "zuzenketa": "Ander korrika abiatu zen, inoiz baino azkarrago. Ez zekien nora zihoan, baina bazekien bere bizitzako momenturik garrantsitzuenetariko bat zela.",
+        "azalpena": "Esaldi bakoitza puntuarekin bukatu behar da. 40 hitz baino gehiago duen esaldiak zatitu egin behar dira."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "pentsatu zuen \"hau harrapatzen badut josea amaitzen zait\"orduan makila luze batekin",
+        "zuzenketa": "pentsatu zuen: \"Hau harrapatzen badut, gosea amaitzen zait\". Orduan, makila luze batekin",
+        "azalpena": "Subjektu eta aditz artean EZ da koma jartzen euskaraz (gaztelaniako kalkoa da)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "aste bete bat barru",
+        "zuzenketa": "aste betez / aste bete barru",
+        "azalpena": "'Aste bete' eta 'barru' bi hitz dira: 'aste bete barru' edo 'aste betez', baina ez 'aste bete bat barru'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Letra larriak izen propietan",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Pininioetako herri galdu batera",
+        "zuzenketa": "Pirinioetako herri galdu batera",
+        "azalpena": "Izen propioak letra larriz hasten dira: 'Pirinioak' (mendikatea)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'korrika abiatu zen' 6 aldiz, 'aurkitu zuen' 8 aldiz, 'baina' 25 aldiz",
+        "zuzenketa": "Aldatu: 'lasterka joan zen', 'topatu zuen', 'hala ere', 'ordea'...",
+        "azalpena": "Hitz eta esapide berak behin eta berriz errepikatzea saihestea komeni da. Sinonimoak erabili!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Paragrafo-banaketa eskasa",
+      "akats_id": "OK-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "3 paragrafo oso-oso luzeak (500+ hitz bakoitzak)",
+        "zuzenketa": "Egun bakoitza edo une bakoitza paragrafo berezi batean jarri",
+        "azalpena": "Paragrafoak ideia edo une bakoitza bereizten dute. 150 hitz baino gehiago baditu paragrafo batek, zatitu egin behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo isolatuak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "eskutatuko (ezkutatuko), azkenengo (azkeneko), josea (gosea)",
+        "zuzenketa": "ezkutatuko, azkeneko, gosea",
+        "azalpena": "Letra baten aldaketa edo falta: berrikusi testua idatzi ondoren."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1247,
+    "minor": 30,
+    "major": 12,
+    "critical": 0,
+    "EP100_gordina": 4.33,
+    "EP100_pisuduna": 0.84,
+    "EP100_gordina_modelo": 4.2,
+    "EP100_pisuduna_modelo": 3.8,
+    "minor_modelo": 28,
+    "major_modelo": 12,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau ziur asko DBH4ko ikasle batek idatzia da. Akats ugari daude zehar: puntuazio arazoak (\"zituenean, ama\" tartea falta, \"aurrera familiak\" koma falta), ortografia akatsak (\"eskutatu\" ezkutatu ordez, \"eskutatuak\" berriro, \"ziona\" zuen ordez), esaldi laburregiak eta koordinazio falta, hitz gabeziak (\"josea\" hitza adibidez, \"egarri askorekin\"), eta egitura inconsistentea. Narrazioa dinamikoa eta inperfektua da, gazte batek idatzitako istorio bat bezala. Hala ere, S3 eta S7 puntuatu ditut pixka bat positiboki (1), narrazio orokorra (sarrera-gatazka-desenllacea) egituraturik dagoelako eta kalitatea mantentzen delako, baina akats naturalak zehar-zehar agertzen dira, gazte idazle baten ezaugarri tipikoak. Ez da IAren ezaugarririk ikusten (ez da hiztegi akademikoa, ez da akats-gabekoa, ez da robotiko samar). Oso idatzia da DBH4ko ikasle batek egin lezakeen lana."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

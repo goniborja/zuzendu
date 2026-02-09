@@ -1,0 +1,203 @@
+{
+  "kodea": "LUKA LARRAURI GARMEN",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo egituratu duzu! Hasiera-korapiloa-amaiera eskema argi dago, eta historia koherentea da hasieratik amaierara. Bikain!",
+          "Suspensea sortzeko gaitasuna harrigarria da DBH3 mailako ikasle batentzat: irakurlearen arreta erakartzen duzu hasieratik eta interesa mantendu. Primeran idatzia!"
+        ],
+        "hobetzekoak": [
+          "Bukaera bat-batekoa da eta istorioa zabalik geratzen da — 'amaiera irekia' hau intentzioa bada, ondo dago, baina konponbide bat edo isla pertsonalago bat falta da ondorioari indar handiagoa emateko.",
+          "Pertsonaia nagusiaren sentimenduak gehiago aztertu zenitzake (gela urdinean nola sentitu zen, zergatik negarra, zer pentsatu zuen benetan). Horrek emozio handiagoa emango lioke testuari."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu amaiera zertxobait landiago uztea: protagonistaren hausnarketa bat, jarrera-aldaketa bat edo konponbide bat. Hori eginda, testua oso oso osatua geratuko da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa oso logikoa da: lehen eguna, bigarren eguna, gela urdina, esnatzea, eta amaiera. Egitura argia eta jarraitzeko erraza. Txapeldun!",
+          "Lotura-hitzak ondo erabiltzen dituzu sekuentzia markatzeko: 'lehenik', 'gero', 'jarraian', 'azkenik', 'bat batean'... Horrekin istorioa ondo lotzen duzu."
+        ],
+        "hobetzekoak": [
+          "Paragrafo luzeenak zatitu egin zenitzake (batez ere bigarren eta hirugarren paragrafoak) irakurketa errazagoa izateko. Paragrafo bakoitzean ideia nagusi bat egon behar luke.",
+          "Lotura-hitz gehiago erabil zenitzake barnean ere, ez bakarrik denborazkoak: 'hala ere', 'gainera', 'horrez gain', 'horregatik'. Horien bidez koherentzia oraindik hobetuko litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren errepasatu paragrafoak eta begiratu ea batean bi ideia nagusi daukazun — hala bada, bi paragrafon zatitu. Hori eginda, testu profesionalagoa izango duzu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia ondo hautatu duzu: 'ikaratuta', 'zorabiatuta', 'larriturik', 'jakin-mina', 'amorruaren amorruz'... Hitz horiek emozio desberdinen zerrenda bat osatzen dute eta testuari aberastasun handia ematen diote!",
+          "Perpaus konplexuak ere erabili dituzu: mendeko perpausak, kausazkoak, denborazkoak... Horrek erakusten du maila ona duzula egitura konplexuetan. Bikain!"
+        ],
+        "hobetzekoak": [
+          "Aditz batzuk gehiegi errepikatzen dituzu: 'gertatu' (16 aldiz), 'esan' (askotan). Sinonimoak erabili: 'gertatu' → 'suertatu/jazo', 'esan' → 'adierazi/azaldu/aipatu/komentatu'.",
+          "Narrazioan deskribatzaile gehiago behar dira: nola zen gela urdina zehatz-mehatz? Ze koloretako arropak zeramaten pertsonek? Xehetasun sentsorialek bizi-bizia egiten dute istorioa."
+        ],
+        "feed_forward": "Hurrengo narrazioan, hitz-zerrenda bat egin ezazu sinonimoekin aditz errepikatzaileenak saihesteko. Eta gogora: deskribapen batean, bost zentzuak erabili (ikusi, entzun, ukitu, usaindu, dastatu). Horrela testua askoz aberatsagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatzen duzu orokorrean: NOR-NORK sistema zuzen ('ikusi nuen', 'esan zidan'), denborak ere ondo ('zen', 'nengoen', 'nintzen'). Hau ez da batere erraza DBH3 mailan!",
+          "Ortografia oso zuzena duzu: letra larriak, hitz-elkarketa, grafia... Oso gutxi akats, eta horrek erakusten du kontuz idazten duzula. Zorionak!"
+        ],
+        "hobetzekoak": [
+          "Koma-akatsak dira zure akats nagusia: lotura-hitzen ondoren koma falta (adib. 'Baina argi zegoen' → 'Baina, argi zegoen'), mendeko perpausen ondoren koma falta. Araua sinplea da: lotura-hitz ondoren eta mendeko perpausa aurretik badago, koma jarri.",
+          "Erderakada batzuk dauzkazu, adibidez 'gertatu egingo banintz' → 'gertatuko banintz' (egin gehiegizkoa), edo 'ezer gehiagorik ez' → 'ezer gehiago ez' (partitibo okerra). Hauek gaztelaniaren eragina dira."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, berrikusi SOILIK lotura-hitzak eta begiratu ea komaren bat falta den. Lotura-hitz bat ikusten duzunean (baina, hala ere, beraz...), ondoren koma jarri. Sistema sinple horrekin akats asko konponduko dituzu!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=0.64 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain idatzi duzu, benetan! Narrazioa oso interesgarria da eta ondo egituratu duzu hasieratik amaierara. Hizkuntza-baliabideak ondo erabiltzen dituzu eta istorioak arreta erakartzen du. Hobetzeko gunea batez ere puntuazioan dago (komak lotura-hitzen ondoren) eta hitz batzuk ez errepikatzea hainbeste. Jarrai lan honekin, idazle bikaina zarela ikusten da!",
+    "lehentasuna": "Komak lotura-hitzen ondoren: idatzi eta gero, begiratu lotura-hitz bakoitza ('baina', 'hala ere', 'beraz', 'orduan'...) eta ondoren koma jarri. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina argi zegoen zerbait gertatu zela",
+        "zuzenketa": "Baina, argi zegoen zerbait gertatu zela",
+        "azalpena": "Lotura-hitz ondoren ('baina', 'orduan', 'beraz', 'hala ere'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta mendeko perpausaren ondoren",
+      "akats_id": "ZL-PUN-5",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Nire lagun guztiei Txinako gauza bera gertatu zitzaiela zirudien",
+        "zuzenketa": "Nire lagun guztiei Txinako gauza bera gertatu zitzaiela zirudien (ondo dago — ez dago mendekoa aurretik)",
+        "azalpena": "Mendeko perpausa esaldi hasieran badago, ondoren koma jarri behar da. Mendekoa atzean bada, koma ez da beharrezkoa."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Gerundio erderakada",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "gertatu egingo banintz bezala",
+        "zuzenketa": "gertatuko banintz bezala",
+        "azalpena": "Gaztelaniazko gerundio kalko bat da ('egin' gehigarria gehitzen da). Euskaraz partizipioa bakarrik: 'gertatuko banintz'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Partitiboa (-rik) gehiegizko erabilera",
+      "akats_id": "ZL-SIN-8",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ezer gehiagorik ez",
+        "zuzenketa": "ezer gehiago ez",
+        "azalpena": "Partitiboa (-rik) ezezkoan erabiltzen da, baina 'ezer' esatean dagoeneko partitiboa da ('ezer' = 'gauza-rik'), beraz ez da -rik birritan jarri behar."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma okerra vokatiboetan",
+      "akats_id": "ZL-PUN-5",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "E, Liher!",
+        "zuzenketa": "E, Liher! (ondo dago)",
+        "azalpena": "Bokatiboetan (deitzaileetan) koma jarri behar da. Hemen ondo egin duzu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua — 'gertatu' aditza",
+      "akats_id": "LH-1",
+      "kopurua": 16,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'gertatu' hitza 16 aldiz erabili duzu",
+        "zuzenketa": "Sinonimoak erabili: suertatu, jazo, pasa, eman (zerbait eman zen), izan (zer izan zen?)",
+        "azalpena": "Hitz bera gehiegi errepikatzea BLH (Baliabide Linguistikoen Hedadura) mugatzen du. Sinonimoak erabiliz, testua askoz aberatsagoa izango da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Letra larri falta",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "google-era sartu",
+        "zuzenketa": "Google-era sartu",
+        "azalpena": "Izen propioak (enpresa-izenak, herri-izenak, pertsona-izenak) letra larriz idatzi behar dira."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1086,
+    "minor": 15,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 1.38,
+    "EP100_pisuduna": 0.64,
+    "EP100_gordina_modelo": 1.57,
+    "EP100_pisuduna_modelo": 1.57,
+    "minor_modelo": 15,
+    "major_modelo": 1,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.3,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 1,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4 mailako ikasle batek idatzia dirudi. Akats naturalak agertzen dira ('ostean' lekuan 'ondoren', puntuazio akatsak, perpaus molde ez-akademikoak), hizkera informala eta egunerokoa erabiltzen du ('flipatuko duzu', 'E, Liher!'), egitura ez dago oso landurik (errepikapenak, lotura akatsak), eta tonu pertsonala eta ausarta du. Luzera 800 hitz ingurukoa da, baina hori ez da oso susmagarria narratiba fantastikoetan. Kalitatea ez da uniformea - hasieran sinpleagoa da eta gero sakonagoa bihurtzen da istorioarekin batera. Hitz akademikorik ez dago (C1/C2 mailakoak), eta idazkera estilo narratibo naturala du, gazte baten ahotsarekin. Akats naturalak daudenez (puntuazioa, egitura), ez dirudi IAk sortua denik."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

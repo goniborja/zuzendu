@@ -1,0 +1,227 @@
+{
+  "kodea": "PERU AGUIRRE URRUTIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioa oso ondo garatuta dago hasiera-korapiloa-amaiera egituraz. Peioren bizitzaren bilakaera argi eta koherenteki kontatzen duzu, eta istorioari zentzua ematen diote gertakizunek.",
+          "Pertsonaien aurkezpena bikaina da: Peioren ingurua (familia, lagunak, Maialen) eta haien arteko harremanak ongi azaltzen dituzu. Irakurleak pertsonaiak ezagutzen ditu eta konektatu egiten da haiekin."
+        ],
+        "hobetzekoak": [
+          "Narrazioak xehetasun sentsorial gehiago behar ditu biziagoa izateko. Adibidez, Peiok gitarra jotzen zuenean, zer sentitzen zuen? Nola zen musika hura? Nola zegoen giro hura kontzertuetan? Deskribapen hauek irakurleari bizitza ematen diote istorioari.",
+          "Denbora-erritmoa azkarregia da batzuetan. Urte askoak pasatzen dira paragrafo bakarrean ('Urte batzuk geroago...'), eta hori moteldu egin behar litzateke momentu garrantzitsuak gehiago lantzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu une garrantzitsu batzuk (kontzertua, Mailenekin ezagutzea, diskoa grabatzea) gehiago deskribatzen, xehetasun sentsorialekin eta pertsonaien pentsamenduak sartuz. Horrekin nota gorena harrapatuko duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura kronologikoa argia da: Peioren haurtzarotik heldutasunera, koherentzia mantenduz. Paragrafo bakoitzak bizitzaren fase bat lantzen du, eta logika narrative ona dago.",
+          "Paragrafoen banaketa egokia da orokorrean: 1) aurkezpena, 2) haurtzaroa eta gaztaroa, 3) helduaroa eta arrakasta, 4) amaiera zoriontsu. Irakurleak erraz jarraitzen du istorioa."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak errepikatu egiten dira ('eta' 'baina' 'beraz'). Erabili anitzagoak: 'orduan', 'hala ere', 'horrez gain', 'bitartean', 'ondoren'... Horiek testua askoz fluidoago egiten dute.",
+          "Hirugarren paragrafoa oso luzea da eta bi zatitan banatu behar litzateke: bat institutua eta batxilergoa lantzeko, eta bestea taldea eta Maialen ezagutzeko. Horrela irakurketa errazagoa litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitzean gutxienez lotura-hitz DESBERDIN 2-3 sartzen ('orduan', 'ondoren', 'bitartean'...). Hori eginda, koherentzia maila 8-9 izango duzu seguru!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa eta egokia erabiltzen duzu: 'kokatuta', 'baliotsu', 'famatua', 'grabatu', 'dedikatu'... Hitz hauek testuari kalitatea ematen diote!",
+          "Perpaus konplexuak ondo erabiltzen dituzu: erlatibozkoak ('Peio izeneko mutil bat'), denborazkoak ('urte bat geroago'), kausazkoak ('diru asko ez zegoenez')... Egitura aniztasuna ona da!"
+        ],
+        "hobetzekoak": [
+          "Aditz batzuk errepikatzen dira gehiegi: 'izan zen', 'hasi zen', 'egin zuen'... Aldatu batzuk beste aditz batzuekin: 'gertatu', 'jarraitu', 'burutu', 'gauzatu'... Horrela monotonia ekiditen da.",
+          "Zenbait hitz generiko gehiegi erabiltzen da: 'oso' (oso ona, oso posik, oso adi...). Erabili alternatiba zehatzagoak: 'izugarri', 'benetan', 'guztiz', 'oso-oso'..."
+        ],
+        "feed_forward": "Hurrengo aldian, errepasatu testua idatzi ondoren eta aldatu aditz errepikatuak sinonimoekin (aberastu, gauzatu, lortu, jarraitu...). Hori eginda, BLH nota 8 edo gehiago izango duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema ondo kontrolatuta daukazu orokorrean: 'hil egin zen', 'oparitu zuen', 'grabatu zuten'... Hau DBH3 mailan bikaina da!",
+          "Denbora-aldaketa zuzenak dira gehienetan: lehenaldia eta orainaldia ongi nahasten dituzu narrazioan. Horrek erakusten du aspektu-sistema barneratuta daukazula."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) hainbat aldiz ahaztu duzu subjektu pluraletan eta izen zehatzekin. Hau da akatsik ohikoena. Kontuz: NOR-NORK aditzetan subjektuak -K behar du BETI. Adibideak: 'Mailenengana hurbildu' → 'MailenENGANA', 'Horregaitik irakasle lana' → 'HorregatiK'.",
+          "Kasu-markak batzuetan nahastuta daude, batez ere leku-kasuetan (-ra/-n/-tik). Berrikusi deklinabide-taula eta fijatu ondo kasu bakoitzaren esanahian."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin akats hauek desagertuko dira eta ZL nota 7-8ra igoko da!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=3.34 (aurreratua, tartea 7-8). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Primeran egin duzu lana, benetan! Narrazioa ondo garatuta dago, egitura argia du eta Peioren istorioa koherenteki kontatzen duzu hasieratik amaierara. Hiztegi aberatsa erabiltzen duzu eta perpaus konplexuak kudeatzen dakizu ondo. Hobetzeko tarte handiena ZL-n dago, batez ere ergatiboa (-K) eta kasu-marketan. Horiek konpondu eta gora zu!",
+    "lehentasuna": "Ergatiboa (-K): NOR-NORK aditzetan subjektuak BETI -K behar du. Errepasatu esaldi bakoitza eta fijatu. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta subjektu pluraletan eta izen zehatzetan",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Horregaitik irakasle lana alde batera utzi zuen",
+        "zuzenketa": "HorregatiK irakasle lana alde batera utzi zuen",
+        "azalpena": "Aditza NOR-NORK denean (utzi → nork utzi?), subjektuak -K marka behar du. 'Horregaitik' lotura-hitza da baina subjektu gisa funtzionatzen du esaldi honetan kausa adierazteko, beraz -K behar du: 'HorregatiK'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Adlatiboa (-ra) vs inesiboa (-n) nahasketa",
+      "akats_id": "ZL-KAS-3",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ez zen batere ona ikasketetan",
+        "zuzenketa": "ez zen batere ona ikaske(t)etan (ondo) EDO ikaske(t)etan ona (ondo)",
+        "azalpena": "Kasu honetan 'ikasketetan' zuzena da (-n inesiboa). Baina beste esaldi batzuetan -ra/-n nahasketa dago: 'eskolarengan' vs 'eskolarengan' (kasu honetan 'eskolarekiko' hobea litzateke)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "guztiek futbolariak izan nahi zituzten",
+        "zuzenketa": "guztiek futbolariak izan nahi zituzteN (ondo) — kasu honetan zuzena da",
+        "azalpena": "Aditz hau zuzena da. Beste kasu batean: 'ez zaizkion gustatzen' vs 'ez zaio gustatzen' — subjektua plurala denean, aditza ere plurala izan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Genitiboa (-ren) okerra",
+      "akats_id": "ZL-KAS-7",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "interesa galdu zuen eskolarengan",
+        "zuzenketa": "interesa galdu zuen eskolarEKIKO / eskolarengan (bizkaieraz, batuan hobea: eskolarekiko)",
+        "azalpena": "'Eskolarengan' dialektismoa da (batuan 'eskolarekiko' edo 'eskolarenganako'). Bestalde, 'Peioren ametsa' ZUZENA da — hori ez da akats bat."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Beraz Mailenengana hurbildu",
+        "zuzenketa": "Beraz, Mailenengana hurbildu",
+        "azalpena": "Lotura-hitzen ondoren ('beraz', 'orduan', 'horrela', 'horregaitik'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erlatibozko ordena okerra",
+      "akats_id": "ZL-SIN-3",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Peio izeneko mutil bat",
+        "zuzenketa": "Peio izeneko mutil bat (ONDO dago — 'izeneko' forma zuzena da)",
+        "azalpena": "Erlatiboa izenaren AURRETIK joan behar da euskaraz: 'ikusi dudan gizona' (ez 'gizona ikusi dudana'). Baina 'X izeneko Y' forma zuzena da eta ez da akats bat."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Hitz-elkarketa eta banaketa (ortografia)",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "apurka-apurka",
+        "zuzenketa": "apurka-apurka (ONDO dago — marratxoa zuzena da)",
+        "azalpena": "Hitz elkarketa zuzena da 'apurka-apurka'. Beste kasu batean: 'azkenengo' vs 'azkenean' — biak zuzen daude."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko sintaktikoa",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "kasualitatez",
+        "zuzenketa": "kasualki / zoriaren bat / kasualitatez (hau mailegua da baina onargarria)",
+        "azalpena": "'Kasualitatez' gaztelaniazko 'casualidad' hitzetik dator. Euskaraz hobea da 'kasualki', 'zoriaren bat', edo 'ustekabez'. Baina hitz hau hedatua dagoenez, ez da larria."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Aspektua nahasketa",
+      "akats_id": "ZL-ADI-5",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gitarra jotzen jarraitzen zuen",
+        "zuzenketa": "gitarra jotzen jarraitu zuen / gitarra jotzEn jarraitzen zuen (biak zuzen)",
+        "azalpena": "'Jarraitu' aditzak bi forma onartzen ditu: jarraitzen + -tzen (ohikoa), edo jarraitu + partizipioa. Testuan zuzena da."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 658,
+    "minor": 7,
+    "major": 20,
+    "critical": 0,
+    "EP100_gordina": 7.14,
+    "EP100_pisuduna": 3.34,
+    "EP100_gordina_modelo": 5.9,
+    "EP100_pisuduna_modelo": 4.4,
+    "minor_modelo": 7,
+    "major_modelo": 16,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.3,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia dirudi. Hainbat akats naturalek eta ezaugarriek baieztatzen dute: hasiera moztua dago (testuak 'akats horretatik...' hasten da, aurreko zatiren bat falta da), gramatika akatsak agertzen dira ('ikaragarrizko harremana' / 'Mailenengana'), puntuazio arazoak ('jende askok, grabatu'), maileguen erabilera ez oso zuzena ('pua', 'kasualitatez'), errepikapenak eta erreiterazio naturalak ('Peiok', 'hasi ziren'), egitura nolabaiteko desorekatua (amaiera azeleratua da), luzera egokia DBH4rako (800 hitz inguru), hizkera naturala eta gazte batentzat espero daitekeen estiloa. IAk ez lituzke akats horiek egingo eta egitura lerratuagoa izango luke hasieratik amaieraraino."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

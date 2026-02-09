@@ -1,0 +1,36 @@
+{
+  "kodea": "IDAZLAN KOADERNOA",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 21,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu hau IA bidez sortu dela oso argi dago. Hona arrazoi nagusiak: (1) Perfekzio linguistiko totala - ez dago akats ortografikorik, sintaktikorik edo puntuaziokorik, DBH4ko ikasle batean ezohikoa dena. (2) Hiztegi oso sofistikatua eta ez-naturala maila horretarako: 'urmael', 'esmeralda kolorekoa', 'kriseilu', 'oihartzun sakon', 'hautsez estalitako', 'norberaren burua ezagutzeko aukeraz beteta'. (3) Egitura narratibo perfektua hiru ataletan, trantsizio leunekin eta arku narratibo osatua. (4) Tonu uniformea eta literarioa hasieratik amaieraraino, pertsonalitate gabekoa. (5) ~800 hitz, oso luzea DBH4rako lan bat izateko. (6) Ez dago akats-patroi naturalik (errepikapenik, inkoherentziarik, esaldien konplexutasunaren aldaketarik). (7) Kalitate homogeneo perfektua testu osoan zehar. Gainera, metafora eta deskribapen literarioak oso landuak dira, eta estiloa gehiegi sofistikatua da maila horretarako. Kontaketa fantastikoaren genero-konbentzioak ezin hobeto aplikatuta daude.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 21/21)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "kodea": "UDANE BIDASOLO ZARRA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo egituratuta dago: hasiera argia (aurkezpena), korapilo latza (gertaera arriskutsua), eta amaiera koherentea (salbamendua eta hausnarketa). Bikain!",
+          "Istorioa interesgarria da eta irakurlearen arreta erakartzen du. Suspensea sortzeko gaitasuna erakutsi duzu eta gertaerak modu egokian kontatu dituzu. Oso ondo!"
+        ],
+        "hobetzekoak": [
+          "Pertsonaien deskribapena sakondu zenezake — nola da Irati fisikoki? Zer sentitzen du bere barruan egoera bakoitzean? Hori gehituz, istorioa askoz biziagoa izango litzateke.",
+          "Azken paragrafoa (hausnarketa moralaren ingurukoa) pixkat lehenago txerta zenezake, istorioarekin gehiago loturik. Orain zatiketa nabarmena dago narrazioaren amaiera eta ondorio morala artean."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu pertsonaien pentsamenduak eta sentimenduak gehiago azaltzen. Esaldi batzuk erantsiz bakarrik ('Iratik larritasuna sentitu zuen...', 'Bere bihotza azkar zegoela nabaritu zuen...') istorioa askoz ere indargarriagoa egingo duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da eta sekuentzia kronologikoa errespetatzen duzu. Irakurleak erraz jarraitzen du istorioa hasieratik amaierara. Bikain egina!",
+          "Lotura-hitz egokiak erabiltzen dituzu ('egun batean', 'arratsalde batean', 'zorionez', 'orduan'...). Horiek testuari fluidotasuna ematen diote."
+        ],
+        "hobetzekoak": [
+          "Zenbait paragrafok lotura hobea behar dute. Adibidez, gizonaren agerpenaren eta gertakaria kontatzeko transizioetan, lotura-hitz konplexuagoak erabiltzeak testuari koherentzia gehiago emango lioke ('hori dela eta', 'une horretan bertan', 'halako batean').",
+          "Azken bi paragrafoak (ertzaintzaren atxiloketaren ondorena eta ondorio morala) banaketa nabarmegia dute. Lehenengoa aurreko paragrafoarekin batu zenezake, ondorio morala banandu ordez."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafoen arteko loturak indartzen. Erabili lotura-hitz konplexuagoak ('halako batean', 'hori dela eta', 'une horretan bertan') trantsizio naturalagoak lortzeko. Horrekin AK 8-9 tartera igoko zara!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia egokia da narraziorako eta erregistroa koherentea da testu osoan. Konplexutasun narratiboa mantentzen duzu ondo.",
+          "Zenbait egitura konplexu erabili dituzu ('bere lanagaitik', 'ezer esan gabe', 'ez duen ezagutzen pertsona batekin'). Hori maila ona erakusten du!"
+        ],
+        "hobetzekoak": [
+          "Aditz-errepikapenak nabarmenak dira ('zen', 'zuen', 'zuten' gehiegitan). Aldatu aditz hauek sinonimoekin edo egitura desberdinekin: 'bizi zen' → 'bizi zegoen', 'hitz egin zuten' → 'mintzatu ziren'...",
+          "Deskribapen-hiztegia mugatua da. Erabili adjektibo gehiago eta zehatza: 'etxe txikiz betetako herri' ona da, baina gehitu 'herri lasaia', 'gizon kezkagarria', 'egoera ikararagarria'... Horrek testua biziago egiten du!"
+        ],
+        "feed_forward": "Hurrengo aldian, prestatu aditz eta adjektibo zerrenda bat testu bat idatzi aurretik. Errepikapenak saihesteko, aldatu aditz-hautua eta erabili deskripzio-hitz aberatsagoak. Hori eginez gero, BLH 7-8ra igoko zaizu ziur!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema ondo kontrolatuta dago oro har: NOR-NORK, NOR-NORI eta NOR-NORI-NORK zuzen erabiltzen dituzu gehienetan. Hori ez da erraza eta bikain egin duzu!",
+          "Deklinabidea ondo erabiltzen duzu: kasuak zuzen aplikatzen dituzu gehienetan ('etxean', 'berarekin', 'buruzko'...). Lan ona!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboak (-k) batzuetan ahazten zaizkizu. Adib: 'lanpostu berria... onura ekarriko zuen' → 'lanpostu berriak... ekarriko ZUEN' (ergatiboa!). Esaldi bakoitza berrikusi eta NOR-NORK denean subjektuari -k jarri!",
+          "Erderakada batzuk dauzkazu: 'lanagaitik' → 'lanaren ondorioz / lanarengatik', 'erlazionatzeko' → 'erlazionatu' (gerundio kalkoa), 'salbatutako' → 'salbatu zuen' (partizipioa okerra). Erderakada hauek saihestuz ZL hobetu egingo duzu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, esaldi bakoitza berrikusi eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuak -K behar du. Sistema sinple horrekin akats hauek desagertuko dira. Badaukazu gaitasuna horretarako!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=1.54 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu, Udane! Narrazioa ondo egituratuta dago eta istorioa interesgarria da. Zure idazkera koherentea da eta maila ona erakusten duzu. Hobetzeko tartea BLH eta ZL-n dago: hiztegia aberastu eta ergatiboak berrikusi. Jarrai horrela, oso ondo zoaz!",
+    "lehentasuna": "Ergatiboa (-k): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -k jarri. Hau da lehen lehentasuna. Bigarrena: erderakadak saihestea ('erlazionatzeko' → 'erlazionatu', 'lanagaitik' → 'lanarengatik').",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Lanpostu berria, enpresa berri baten zuzendariarena zen eta horrek onura ekarriko zuen familiarentzako.",
+        "zuzenketa": "Lanpostu berriak... onura ekarriko zuen familiarentzako.",
+        "azalpena": "Aditza NOR-NORK denean (ekarri → nork ekarri?), subjektuak -K marka behar du. 'Lanpostu berria' (absolutiboa) → 'Lanpostu berriak' (ergatiboa)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko sintaktikoa edo lexikoa",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "bere lanagaitik",
+        "zuzenketa": "lanaren ondorioz / lanarengatik",
+        "azalpena": "'Lanagaitik' kalkoa da. Euskaraz 'lanarengatik' edo 'lanaren ondorioz' erabiltzea hobetsi behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — gerundio okerra",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "arazo asko izaten zituen jendearekin erlazionatzeko",
+        "zuzenketa": "arazo asko izaten zituen jendearekin erlazionatu",
+        "azalpena": "Gaztelaniazko '-arse' kalkoa da '-tzeko' formarekin. Euskaraz infinitibo soila erabil daiteke."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Zorionez pausu batzuk entzuten hasi ziren",
+        "zuzenketa": "Zorionez, pausu batzuk entzuten hasi ziren",
+        "azalpena": "Lotura-hitzen ondoren ('zorionez', 'gainera', 'hala ere'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra (partizipioa vs erlatiboa)",
+      "akats_id": "ZL-SIN-4",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "neskari salbatutako mutila",
+        "zuzenketa": "neska salbatu zuen mutila",
+        "azalpena": "Partizipio forma 'salbatutako' ez da zuzena hemen. Erlatiboa erabil behar da: 'neska salbatu zuen mutila'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Egitura konplexu okerra (-tzen + ibili/zebilen)",
+      "akats_id": "ZL-ADI-5",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "atea indar handiz eusten zebilela",
+        "zuzenketa": "atea indar handiz eustean zegoen / atea indar handiz eusten ari zen",
+        "azalpena": "'Eusten zebilen' forma dialektala da. Batuan 'eusten ari zen' edo 'eusten zegoen' erabiltzea hobetsi behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-errepikapen nabarmena (zen/zuen/zuten)",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Aditz 'zen/zuen/zuten' gehiegitan errepikatuta testu osoan",
+        "zuzenketa": "Aldatu aditz hauek: 'bizi zen' → 'bizi zegoen', 'lan egiten zuen' → 'lan egiten aritzen zen'...",
+        "azalpena": "Testu osoan aditz-errepikapenak nabarmenak dira. Aldatu aditz-forma desberdinekin aberastasuna emateko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 648,
+    "minor": 8,
+    "major": 4,
+    "critical": 0,
+    "EP100_gordina": 2.47,
+    "EP100_pisuduna": 1.54,
+    "EP100_gordina_modelo": 2.78,
+    "EP100_pisuduna_modelo": 4.01,
+    "minor_modelo": 8,
+    "major_modelo": 5,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau DBH4ko ikasle batek idatzia dirudi. Akats naturalak agertzen dira ('trajedun' 'traje' gaztelerazko hitza euskaratua, 'lanagaitik' 'lanaren gatik' idatzi beharko luke, 'argazkia zuen perfilean' ez da guztiz zuzena, 'baiziren' 'baitziren' idatzi beharko luke, 'bultzatzu' 'bultzatu' beharko luke, 'ostiko' kolokiala da). Egitura narratiboa egokia da baina ez perfektua (errepikapenak daude, batzuetan narrazioa nahasi egiten da). Hiztegia maila egokikoa da DBH4rako, ez dago C1/C2 hitz sofistikatuak. Luzera aproposada da (600-700 hitz inguru) maila honetarako lan narratibo baterako. Azken paragrafoa didaktikoa da baina ez robotikoa. Kalitatea ez da uniformea, hasiera eta amaieran hobeto idatzita dago. Guztira, ikasle baten lan tipikoa da, prebentzio-kanpainaren testuinguruan idatzia."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

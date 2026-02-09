@@ -1,0 +1,36 @@
+{
+  "kodea": "IARA GONZALEZ PEREZ",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 20,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 2,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu honek IA bidez sortua izan daiteela adierazten duten seinale nabarmenak ditu. Perfekzio maila oso altua da DBH4 ikasle batentzat: ez dago akats ortografikorik, puntuazio-akatsik edo egitura-errorerik. Hiztegia oso sofistikatua da ('aniztasuna aberastasuna', 'elkarreragiten', 'elikadura nahasmenduak') eta ez da ohikoa maila honetan. Egitura narratiboa perfektua da, sekuentzia logiko argi batekin (aurkezpena-arazoa-garapena-eboluzioa-ondorioa). Tonua uniformea eta robotikoa da, pertsonalitate falta nabarmena duelarik, eta ez dago hutsune emotibo edo inkoherentzia txikiak gazte batek idatzitako testuan aurkituko genituzkeenak. Luzera ez da oso susmagarria (700 hitz inguru), baina beste seinale guztiekin batera, ia ziur IA bidez sortua dela ondoriozta daiteke. Akats-patroi naturalik ez dago (ez dago errepikapenetan, ez perpaus bukatugabeetan, ez informalitaterik), eta kalitatea hasieratik bukaerara uniformea da, DBH4 ikasle batean espero ez genukeen konstantziarik.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 20/21)"
+      ]
+    }
+  }
+}

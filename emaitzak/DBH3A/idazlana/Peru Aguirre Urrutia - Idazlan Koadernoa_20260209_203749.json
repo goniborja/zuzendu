@@ -1,0 +1,192 @@
+{
+  "kodea": "PERU AGUIRRE URRUTIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Oso narrazioa osoa eta koherentea idatzi duzu! Istorioa hasiera-korapilo-amaiera egitura argiarekin dago eraikita, eta pertsonaien garapena oso ona da.",
+          "Xehetasunak eta testuinguru-deskribatzeak bikain txertatzen dituzu: 'Kale estuak ziren, baina kolorez, hizkuntzez eta istoroz beteta zeuden' — horrek irakurlea istorioan sarrarazten du benetan!"
+        ],
+        "hobetzekoak": [
+          "Istorioak denbora-jauzi handiak ditu (urte batzuk) eta zatika sakonagoak izan zitezkeen. Adibidez, batxilergoko erabakia edo Maialenekin ezkontzea gehiago garatu zenezake, sentimenduekin eta gorabeherekin.",
+          "Amaiera pixkat azkar dator: 'Azkenean, Peiok bere ametsa bete zuen eta gainera, Maialenerekin ezkondu zen' — hau gehiago landu ahal zenuke, klimaxa sendoagoa izateko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istoriako momentu gakoak (erabakiak, aurkikuntzak, amaiera) gehiago zabaltzen, barruko sentimenduak eta gorabeherak erakutsiz. Horrekin, irakurlea are gehiago engantxatuko duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da: haurtxaroa → gaztaroa → heldutasuna. Egitura kronologikoa jarraitzen duzu eta horrek istorioa errazten du irakurtzeko.",
+          "Lotura-hitzak ondo erabiltzen dituzu ('Urteak pasa ahala', 'Urte batzuk geroago', 'Azkenean') eta paragrafoen arteko trantsizioak naturalak dira."
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso luzeak dira eta barruan hainbat ideia daudenez, irakurlea apur bat galtzen da. Adibidez, hirugarren paragrafoak hainbat gairakoada ditu: Euskal Filologia, irakasle izatea, Maialenen ezagutza, Iker, grabaketak... Zatitu zenezake paragrafo bakoitzak gai bat izateko.",
+          "Batzuetan, lotura-hitz gehiago erabiltzeak lagundu lezuke: 'Kontzertu horietako batean' ondoren gehitu zenezake 'Hain zuzen ere' edo 'Eta hantxe' trantsizioa sendotzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren berrikusi eta paragrafo luzeak bilatzen saiatu. Gai nagusia aldatzen denean, paragrafo berria hasi. Horrekin koherentzia maila jauzika igoko zaizu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa eta zehatza erabiltzen duzu: 'xume', 'altxor', 'zaletasun', 'proposamen'... Horiek testu literarioa ematen diote zure narrazioari.",
+          "Perpaus-egitura desberdinak dituzu: sinpleak, konplexuak, mendekoak... 'Nahiz eta umea izan, Peiok gitarra jotzen jarraitu zuen' — kontzesioa ondo eratuta!"
+        ],
+        "hobetzekoak": [
+          "Zenbait hitz errepikatzen dituzu (musika, gitarra, ametsa) eta, nahiz eta testuaren funtsezko elementuak izan, batzuetan sinonimoak erabil zenitzake: 'gitarra' → 'tresna', 'instrumentua'; 'ametsa' → 'helburua', 'ameskeria'.",
+          "Erregistroa ia beti egokia da, baina batzuetan nahiko informala: 'gustura sentitzen zen' → 'atsegin sentitzen zen' literarioagoa litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren errepaso bat egin eta hitz errepikatuenak markatu. Bilatu sinonimoak eta ordezkatu batzuk. Horrekin hiztegia are gehiago aberastuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema orokorrean ondo kontrolatuta daukazu: NOR-NORK, NOR-NORI adostasuna gehienetan zuzena da ('ezagutu zituen', 'gustatu zitzaizkion').",
+          "Denbora-aldien erabilerak koherentzia du testu osoan: iraganeko narrazioa lehenaldian eta aspektuak zuzen erabiltzen dituzu gehienetan."
+        ],
+        "hobetzekoak": [
+          "Ortografia-akatsak: 'etra' → 'eta', 'galsetzen' → 'galdezka', 'estena' → 'eszenara', 'gosatzen' → 'gozatzen', 'saletasun' → 'zaletasun', 'Maialenek' → 'Mailenek', 'derrigortu' → 'derrigortu' (ez da akats, baina 'behartu' argiagoa), 'bihen' → 'bien', 'esfortsu' → 'ahalegin', 'famatuagoa' → 'ezagunagoa', 'bidaitzen' → 'bidaiatzera joaten'. Hauek typo soilak dira batzuk, baina beste batzuk ez.",
+          "Kasu-marka falta: 'Ikerrek' → 'Ikerri' (datiboa behar du: 'Ikerri asko gustatu zitzaizkion'), 'Grabekatak' → 'Grabaketak'.",
+          "Puntuazio-akatsak: Koma falta lotura-hitzen ondoren ('Hala ere Peiok' → 'Hala ere, Peiok'), eta subjektu-aditz artean komak daudenean ('Hala ere, Peiok ez zituen gitarra eta bere ametsa alde batera utzi' — ondo; baina 'Peio estenatokira igotzen zen momentuan' erara zuzendu behar)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi testu osoa LETRA BAKOITZA irakurriz (ez azkar irakurri). Typo eta ortografia-akatsak horrela ikusiko dituzu. Eta gogoratu: lotura-hitz ondoren BETI koma! Sistema sinple horrekin EP100a jaitsiko duzu eta ZL nota igoko!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.17 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Zorionak, Peru! Narrazioa oso ona da, koherentea, aberatsa eta emozioa transmititzen duena. Egitura argia du eta hiztegi aberatsa erabiltzen duzu. Hobetzeko tarte nagusiena ZL-n dago: ortografia eta typo-akatsak dira, gehienak, eta hori ERRAZ konpontzen da erreparatuz. Gora zu!",
+    "lehentasuna": "Ortografia-akatsak: idatzi ondoren, berrikusi testu osoa letra-letra. Typo guztiak desagertuko dira eta EP100a jaitsiko! Hori da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ortografia — typo eta letra-akatsak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 10,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "etra egunero",
+        "zuzenketa": "eta egunero",
+        "azalpena": "Typo sinplea: 'etra' → 'eta'. Letra-akatsak saihesteko, idatzi ondoren berrikusi testu osoa."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa eta elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "bere burua asko lazaitu",
+        "zuzenketa": "bere burua asko pentsatu / gogoan izan",
+        "azalpena": "Hitz okerra: 'lazaitu' ez da existitzen euskaraz. Agian 'pentsatu' esan nahi zenuen?"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Datiboa falta",
+      "akats_id": "ZL-KAS-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ikerrek asko gustatu zitzaizkion abestiak",
+        "zuzenketa": "Ikerri asko gustatu zitzaizkion abestiak",
+        "azalpena": "NOR-NORI aditzetan (gustatu) subjektua NOR da eta esperimentatzailea NORI (-ri). 'Ikerrek' (erg.) → 'Ikerri' (dat.)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala ere Peiok ez zituen",
+        "zuzenketa": "Hala ere, Peiok ez zituen",
+        "azalpena": "Lotura-hitz ondoren ('hala ere', 'gainera', 'bestalde'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz kalkoak",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esfortsu asko",
+        "zuzenketa": "ahalegin handia",
+        "azalpena": "'Esfortzu' gaztelaniazko 'esfuerzo' kalkoa da. Euskaraz 'ahalegin' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz okerrak edo zalantzazko formak",
+      "akats_id": "LH-6",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "galsetzen zien",
+        "zuzenketa": "galdezka joaten zien / galdetzen zien",
+        "azalpena": "'Galsetzen' ez da existitzen euskaraz. 'Galdezka' edo 'galdetzen' esan nahi zenuen?"
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 682,
+    "minor": 19,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 3.08,
+    "EP100_pisuduna": 1.17,
+    "EP100_gordina_modelo": 3.96,
+    "EP100_pisuduna_modelo": 3.81,
+    "minor_modelo": 25,
+    "major_modelo": 1,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 6,
+      "ia_puntuazioa_modelo": 6,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 1,
+        "S3": 1,
+        "S4": 1,
+        "S5": 0,
+        "S6": 2,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testuak akats naturalak ditu DBH4ko ikasle batek idatzitakoak izango lituzkeenak: 'etra egunero' (eta egunero), 'galsetzen' (galdatzen), 'gosatzen' (gozatzen), 'euskararekio' (euskararekin), 'saletasun' (zaletasun), 'lazaitu' (lasaitu), 'Grabekatak' (Grabaketak), 'derrigortu' (derrigortu/behartu), 'Ikerrek/Ikerri' (Ikeri). Akats hauek hezkuntza-maila horretako idazle baten ezaugarriak dira. Egitura narratiboa ona da baina ez perfektua, zenbait perpaus nahastuak edo lekuz kanpo daude. Hizkera naturala da, ez dago C2 mailako hitz susmagarririk. Luzera (700 hitz inguru) egokia da DBH4rako lan baterako. Kalitatea ez da uniformea: hasierak sarrera ondo formatua du baina gero narrazio-fluxua irregularragoa da. Guztira, testua giza idazle gazte baten lana dirudi, IAk sortutakoa baino"
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

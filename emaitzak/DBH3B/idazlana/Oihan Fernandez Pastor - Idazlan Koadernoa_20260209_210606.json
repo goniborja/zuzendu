@@ -1,0 +1,251 @@
+{
+  "kodea": "OIHAN FERNANDEZ PAST",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso ondo garatua eta koherentea! Egitura narratiboa perfektua duzu: hasiera (aurkezpena), korapiloa (itsasontziaren ondoramena), eta amaiera (lagunaren erreskatea). Horrek erakusten du narrazio-gaitasun ona duzula.",
+          "Pertsonaien garapena bikaina da: Beñaten superboterea eta bere sentimenduak (kezka, tristura, poza) oso ondo azaltzen dituzu. Irakurleari erraza egiten diozu istorioarekin identifikatzea."
+        ],
+        "hobetzekoak": [
+          "Deskribapen sentsorialak gehitu ditzakezu (paisaia, soinuak, koloreak, sentimenduak) istorioa biziagoa egiteko. Adibidez, irlan zeudela: 'Irlaren hondarra grisa zen, eta haizeak ozta-ozta heltzen zen basotik' bezalako zerbait.",
+          "Elkarrizketak naturalagoak egin ditzakezu aditz-denborak hobeto egokituz. Zenbaitetan laguntzaile txikiak falta dira (adib. 'amak esan zion' → 'amak esan ZION')."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu deskribapen bat gehitzen eszena garrantzitsu bakoitzean: nola zen itsasontzia? Nola zen irlara heltzea? Honek istorioa askoz bisiboagoa egingo du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da eta istorioak aurrera egiten du modu koherentean. Ez dago salto logikorik eta irakurleak erraz jarraitzen du.",
+          "Lotura-hitz desberdinak erabiltzen dituzu: 'orduan', 'baina', 'ostean', 'eta'... Horrek istorioa lotzen laguntzen du."
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso luzeak dira eta zatitu egin beharko lirateke. Adibidez, lehen paragrafoa bi zatitan bana zenezake: bat Beñaten aurkezpenerako eta beste bat superboterearen azalpenerako.",
+          "Lotura-hitz gehiago erabil ditzakezu paragrafo hasieretan koherentzia hobetzeko: 'gainera', 'hala ere', 'horregatik', 'horrez gain'... Orain 'orduan' eta 'eta' asko errepikatzen dituzu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren errepasatu eta paragrafo luzeak zatitu. Arau sinple bat: 10 lerro baino gehiago baditu paragrafoak, zatitu egin! Horrekin irakurgarritasuna handituko duzu."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz-altxorra nahikoa da istorioa modu ulergarrian kontatzeko eta hitz batzuk oso egokiak dira: 'ondoratu', 'ikaratu', 'lasaitu'... Horiek istorioa bizi-bizi egiten dute!",
+          "Erregistroa narrazio baterako egokia da eta elkarrizketak naturalak dira gehienetan."
+        ],
+        "hobetzekoak": [
+          "Esaldi sinpleak nagusi dira testu osoan. Animatu zaitez egitura konplexuagoak erabiltzen! Adibidez, mendeko perpausak gehitu: 'Beñat lasterka abiatu zen, ZEREN bere laguna aurkitu nahi baitzuen'.",
+          "Hitz batzuk asko errepikatzen dituzu: 'esan' (27 aldiz!), 'jarri' (10 aldiz), 'joan' (14 aldiz). Erabili sinonimoak: 'adierazi', 'komentatu', 'gelditu', 'sentitu', 'abiatu', 'hurbildu'... Hitz-altxorra aberatsten baduzu, testua askoz profesionalagoa izango da!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu esaldi bat baldintza edo kausa batekin egiten: 'Beñat pozik jarri zen, LAGUNAREN AHOTSA ENTZUN ZUELAKO'. Egitura hau gehitzen duzunean, BLH maila igoko zaizu eta 7-8 tartean egongo zara!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 4,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema kontrolatzen duzu orokorrean: NOR-NORK eta NOR-NORI formak ondo erabiltzen dituzu gehienetan. Hori ez da erraza DBH3 mailan!",
+          "Ortografia ona da gehienetan eta hitz-elkarketa ere ondo erabiltzen duzu."
+        ],
+        "hobetzekoak": [
+          "Puntuazio-arazoak dira akats nagusia. Esaldien artean koma jartzen duzu puntu beharrean, eta horrek testua irakurtzea zailtzen du. Gogora: bi esaldi independente badituzu, puntua jarri behar da, ez koma.",
+          "Erderakada batzuk daude: 'ezaten' → 'esaten', 'zegituan' → 'berehala/zuzenean', 'salatoka' → 'negarrez'. Hauek gaztelaniazko eragina dute eta euskarazko forma egokia erabili behar da."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, irakurri testu osoa ozen. Arnasa hartu behar baduzu, bertan puntua jarri. Sistema sinple honekin run-on esaldiak (puntu falta) konpontzen dira. Proba ezazu!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=5 altuegi da EP100=12.28 (oinarrizkoa, tartea 3-4). ZL=4 ezarri da (-1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.25,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Istorio bikaina idatzi duzu! Egitura narratiboa argia da, pertsonaiak ondo garatuta daude eta irakurlearen arreta erakartzen duzu hasieratik. Hobetzeko bi arlo nagusi daude: puntuazioa (run-on esaldiak saihesteko) eta hitz-errepikapena (sinonimoak erabiliz). Jarrai ari zara oso ondo!",
+    "lehentasuna": "Puntuazioa: Esaldi independenteen artean puntua jarri, ez koma. Adibidea: 'Beñat esnatu zen. Telebista ikusi zuen.' Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 6.5,
+    "biribiltzea_modelo": 6.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Run-on esaldiak — Puntu falta esaldien artean",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 18,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Beñatek 13 urte zituen, eta Elantxoben bizitzen zen.",
+        "zuzenketa": "Beñatek 13 urte zituen. Elantxoben bizitzen zen.",
+        "azalpena": "Bi esaldi independente ditugunean (bakoitzak bere subjektua eta aditza), puntua jarri behar da haien artean, ez koma. Hau oso ohikoa da eta testua irakurtzea zailtzen du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Beñat, laguna bizirik zegoela jakinda, oheratu zen",
+        "zuzenketa": "Beñat laguna bizirik zegoela jakinda oheratu zen (komak tartekikoarentzat dira, ez subjektu-aditz artean)",
+        "azalpena": "Euskaraz ez da koma jartzen subjektu nagusia eta bere aditza artean. Tartekiko bat badago (adib. 'laguna bizirik zegoela jakinda'), hura joan daiteke koma artean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — 'ezaten' → 'esaten'",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 11,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "orduan ezaten zion",
+        "zuzenketa": "orduan esaten zion",
+        "azalpena": "Gaztelaniazko 'decir' kalkatua da 'ezaten'. Euskaraz 'esan' aditza da eta partizipioa 'esaten' da, ez 'ezaten'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — 'zegituan' → 'berehala/zuzenean'",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "eta zegituan deitu zion lagunari",
+        "zuzenketa": "eta berehala/zuzenean deitu zion lagunari",
+        "azalpena": "'Zegituan' gaztelaniazko 'seguido' edo 'enseguida' mailegu zuzena da. Euskaraz 'berehala', 'zuzenean', 'jarraian' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gurasoak jaiki arte",
+        "zuzenketa": "gurasoak jaiki ZIREN arte",
+        "azalpena": "Subjektua plurala denean ('gurasoak' = haiek), aditzak ere plural-marka behar du: 'jaiki arte' → 'jaiki ZIREN arte'. Aditz-partizipioa bakarrik uzten denean (jaiki), laguntzailea falta da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-elkarketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "bere superboterearengaitik",
+        "zuzenketa": "bere superbotereAREN GAITIK (bi hitz)",
+        "azalpena": "'-ren gaitik' bi hitz dira beti euskaraz, ez hitz bat. 'Superboterearengaitik' → 'superboterearen gaitik'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — 'salatoka' → 'negarrez/pozez negarrez'",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "laguna salatoka hasi zen",
+        "zuzenketa": "laguna negarrez/pozez negarrez hasi zen",
+        "azalpena": "'Salatoka' ez da euskarazko hitz arrunta. Gaztelaniazko 'sollozar' mailegu zuzena da. Euskaraz 'negarrez', 'negar eginez', 'malkoz' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — 'siñistea' → 'sinistea'",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ez zela beraren errua besteak ez siñistea",
+        "zuzenketa": "ez zela beraren errua besteak ez SINISTEA",
+        "azalpena": "Euskaraz 'sinistea' idazten da, ez 'siñistea'. Ñ letra ez da erabiltzen euskarazko hitzetan, salbu izen propio batzuetan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "categoria": "Erderakada — '-gaitik' (finalitatea) → '-gatik' (kausa)",
+      "akats_id": "ZL-ERD-5",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "pozarengaitik",
+        "zuzenketa": "pozarenGATIK",
+        "azalpena": "Kausa adierazteko (arrazoiagatik), '-gatik' erabiltzen da, ez '-gaitik'. Gaztelaniazko 'por' (kausa) vs 'para' (helburua) nahasketa da hau."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 6,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "orduan Beñat lasai geratu zen",
+        "zuzenketa": "Orduan, Beñat lasai geratu zen",
+        "azalpena": "Lotura-hitzak ('orduan', 'gero', 'baina', 'hala ere'...) beti jarri behar dira koma batekin ondoren. Hau puntuazio-arau zorrotza da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Letra larriak esaldi hasieran",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "orduan Beñat",
+        "zuzenketa": "Orduan, Beñat",
+        "azalpena": "Esaldi bakoitzak letra larriz hasi behar du. Puntu baten ondoren datorren lehenengo hitza beti letra larriz."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 782,
+    "minor": 22,
+    "major": 37,
+    "critical": 0,
+    "EP100_gordina": 12.28,
+    "EP100_pisuduna": 3.07,
+    "EP100_gordina_modelo": 7.8,
+    "EP100_pisuduna_modelo": 6.5,
+    "minor_modelo": 23,
+    "major_modelo": 19,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats naturalak ugariak dira: puntuazio falta sistematikoa (esaldi bat orri zuri batean,mundu), zuriune-akatsen patroi argia (ez zen,ez egaz), ortografia-hutsak (ezaten/esan, oztean/ostean, hordu/ordu), koherentzia-akatsak (denbora-jauzi logikoak, 15.250 km 20 ordutan helikopteroz ezinezkoa da), egitura ez-sofistikatu bat (elkarrizketa sinpleak, lotura-hitz errepikakorra 'orduan'), hizkera oso naturala eta gazteena (kolorekoa, ez akademikoa), luzera egokia (~800 hitz, baina ez-uniformea), hasiera poetiko interesgarria baina kontaketa desorekatua. Istorio originala da, inor ez sinistetzea bezalako gai pertsonalekin. IAk ez luke akats natural hain koherente-multzo bat sortuko, ez eta kontaketa hain desorekatua ere."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

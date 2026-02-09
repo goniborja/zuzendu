@@ -1,0 +1,36 @@
+{
+  "kodea": "PAUL JAUREGIZAR ELGE",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 20,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 2,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu hau IA bidez sortua izan dela adierazten duten seinale asko daude: (1) Perfekzioa: ia akatsik gabe, puntuazio eta sintaxi perfektua DBH4 mailan; (2) Hiztegi oso sofistikatua: 'kaduzitate', 'korapilatuta', 'hasperen', 'mikatza', 'artifiziala', 'iheskor' - C1/C2 mailako hitzak 14-15 urteko ikasle batean; (3) Egitura literario perfektua: sarrera deskriptiboa, garapena sinbolikoa, ondorio filosofikoa galdera erretorikoez; (4) Tonua oso literarioa eta filosofikoa, 14 urteko ikasle batentzat neurrigabea; (5) Luzera egokia baina konplexutasun maila altuegia; (6) Ez dago akats naturalen arrastorik (ortografia, puntuazio, koherentzia); (7) Kalitate uniformea eta sofistikazioa hasieratik amaierara. Metafora konplexuak ('ur-pototik jauzitako arrosa'), erreferentzia kulturalak (Red Hot Chili Peppers), eta pentsamendu filosofiko sakona ezohikoak dira DBH4ko lan batean. Estilo literario heldua eta koherentzia narratibo perfektua dira IA sorkuntzaren adierazle nagusiak.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 20/21)"
+      ]
+    }
+  }
+}

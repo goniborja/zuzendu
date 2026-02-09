@@ -1,0 +1,281 @@
+# Segurtasun Azterketa — IA Detekzioa
+
+Lehenik testua aztertu IA bidez sortua izan daitekeen jakiteko.
+
+## Seinaleen Analisia
+
+**S1. Perfekzio susmagarria (0-3):** 0 puntu
+- Testuan akats ugari daude (morfologia, sintaxia, ortografia)
+- EP100 > 10 izango da ziur
+- Ez da perfektua
+
+**S2. Hiztegi-maila ez-naturala (0-3):** 0 puntu
+- Hiztegi oso sinplea eta kolokiala
+- Ez da C1/C2 mailako hitzik
+- DBH3 mailakoa da
+
+**S3. Egitura perfektua (0-3):** 1 puntu
+- Egitura orokorra onartekoa (sarrera-garapena-amaiera)
+- Baina paragrafoak irregularrak, salto batzuk
+- Ez da perfektua
+
+**S4. Tonu robotikoa (0-3):** 0 puntu
+- Narratiba dinamikoa, dialogoa, intriga
+- Pertsonalitate nabarmena
+- Ez da robotikoa
+
+**S5. Luzera susmagarria (0-3):** 0 puntu
+- 650 hitz inguru (arrunta DBH3 narraziorako)
+- Ez da susmagarria
+
+**S6. Akats-patroi naturalen falta (0-3):** 0 puntu
+- Akats-patroi ARGI errepikakorrak
+- Aditz-forma errepikatuak gaizki (zeunden, zegoela...)
+- Errepikapen naturalak ikasle erreal batena
+
+**S7. Koherentzia uniformea (0-3):** 0 puntu
+- Hasiera-amaiera kalitate berdinekoak
+- Batzuetan pixka bat nahasiak baina ez da susmagarria
+
+**KALKULUA:**
+Puntuazio totala = 0+0+1+0+0+0+0 = **1/21**
+
+**IA_probabilitatea: BAXUA (<25%)**
+
+→ Ebaluazioarekin jarraitu normalean.
+
+---
+
+# Ebaluazio Osoa
+
+```json
+{
+  "kodea": "MARKEL ASTORECA IBAR",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioa ondo garatzen duzu hasieratik bukaeraraino! Intriga mantentzen duzu eta irakurlea engantxatuta uzten duzu zer gertatuko den jakiteko. Hau oso garrantzitsua da narrazio batean!",
+          "Plot-twista txapeldunezkoa: irakurlea engainatzen duzu Mikelekin eta amaieran Patxi eta Eneko dira hiltzaileak. Hori oso ondo pentsatuta dago eta sorpresa ematen du!"
+        ],
+        "hobetzekoak": [
+          "Pertsonaien deskribapenak gehiago landu behar dituzu. Nolakoak dira fisikoki? Nolako izaerakoak? Zergatik jokatzen dute horrela? Hori gehituz, istorioa askoz bizi-biziagoa izango litzateke!",
+          "Zenbait pasarte lausoegia da: nola hil dute? zergatik? Xehetasun horiek gehituz (bakarrik 2-3 esaldi), narrazioa askoz indartsua izango litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez pertsonaia nagusi bat deskribatzen (2-3 lerrotan): itxura fisikoa, nolakoa den, zer gustatzen zaion... Horrekin, irakurleak hobeto ezagutuko ditu pertsonaiak eta konektatu egingo da haiekin!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa argia da: sarrera (aurkezpena) → korapiloa (hilketak) → ebazpena. Hori oso ondo egituratuta dago!",
+          "Denborazko lotura-hitzak ongi erabiltzen dituzu ekintza aurrera eramateko: 'hurrengo goizean', 'arratsalderako', 'biharamunean'... Horrek narrazio fluidoa ematen du."
+        ],
+        "hobetzekoak": [
+          "Paragrafoen artean saltoak daude. Adibidez, 'Ander etxera joan zen eta beraren ondoren beste guztiak' esaldia bat-batekoa da — azalpen gehiago behar du. Zergatik joan ziren? Zer gertatzen zen?",
+          "Errepikapen batzuk daude lotura-hitzetan: 'horren ostean', 'horregaitik', 'orduan'... hainbeste aldiz. Erabili 'une horretan', 'gero eta gero', 'hala ere', 'bestalde'... Aniztasuna eman behar diozu testuko loturei!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, berrikusi ea paragrafo bakoitza aurrekoari lotuta dagoen modu logikoan. Galdera hau egin: 'Zergatik hau orain?' Erantzuna argi badago, ondo zoaz!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz-altxorra nahikoa da istorioa kontatzeko eta irakurleari ulertzeko aukera ematen diozu.",
+          "Narrazioko erregistroa egokia da: informala baina ez gehiegi, eta dialogoa naturalki txertatzen duzu."
+        ],
+        "hobetzekoak": [
+          "Errepikapenik gehiena aditz sinpleetan dago: 'zegoen' (8 aldiz), 'ziren/zeunden' errepikatua, 'joan zen' (4 aldiz). Erabili sinonimoak: 'zeuden' → 'baziren', 'egon ziren', 'aurkitzen ziren'. 'Joan zen' → 'abiatu zen', 'alde egin zuen', 'itzuli zen'...",
+          "Perpaus gehienak sinpleak dira. Animatu zaitez egitura konplexuak erabiltzen! Adibidez: 'Ander bat-batean usb bat atera zuen, diru guztia berena zela esanez' (gerundioaz). Edo: 'Mikel haserretu zen, diru hori guztiena zelako' (kausala)."
+        ],
+        "feed_forward": "Hurrengo aldian, bilatu testuan gehien errepikatzen den aditza eta aldatu sinonimoarekin. Horrekin soilik, testua askoz aberatsagoa izango da eta irakurleari ez zaio aspertuko!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioa ulergarria da akatsak gorabehera. Komunikazioa ez da eragotzi eta irakurleak jarraitu dezake intrigan.",
+          "Zenbait egitura ondo kontrolatzen dituzu: NOR-NORK oinarrizkoak ('atera zuen', 'esan zuen'), eta deklinabidearen zati bat ('poliziari', 'parkean')."
+        ],
+        "hobetzekoak": [
+          "Aditz-forma 'zeunden' eta 'zegoela' erabiltzen dituzu hainbat aldiz, baina BIAK OKERRAK dira. Zuzenak: 'zeUDEN' (haiek) eta 'zegoEN' (hura). Gogoratu: haiek → plurala → -N (zeuden, ziren, zituzten). Hau akats nagusia da eta behin eta berriz errepikatzen da testuan!",
+          "Ergatiboan (-K) akats batzuk daude: 'Mikelek' → ONDO ✓, baina 'Enekok' → 'EnekoK' (banan-banakoa: -k). Pluralean: 'bostak' → ONDO ✓. Arau hau barneratuz gero, akats asko saihestuko dituzu!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu aditz GUZTIAK eta egiaztatu subjektua. Haiek badira → -EN bukaera. Hura bada → -EN/-AN. Gu badira → -N bukaera. Sistema hau aplikatuz, aditz-akatsak nabarmen gutxituko dira. Badaukazu gaitasuna!"
+      }
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 5.5,
+    "biribiltzea": 5.5,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Oso lana ona egin duzu, Markel! Istorioa interesgarria da eta plot-twista ondo pentsatuta dago. Irakurlea engantxatzen duzu. Hobetzeko tarte handiena ZL-n dago: aditz-formetan batez ere ('zeunden' → 'zeuden', 'zegoela' → 'zegoEN'). Hori konpontzen badituzu, jauzia emango duzu. Aurrera!",
+    "lehentasuna": "Aditz-formak: pluralean haiek → -EN bukaera ('zeuden', 'ziren'); singularrean hura → -EN/-AN ('zegoen', 'zen'). Errepasatu eta zuzendu, eta gora zu!"
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "zeunden",
+        "zuzenketa": "zeuden",
+        "azalpena": "Subjektua plurala denean (zuek, haiek), aditzak -EN bukaera behar du: zeUDEN, zIREN, zEUDEN. 'Zeunden' forma ez da existitzen batuan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — singularra",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "zegoela",
+        "zuzenketa": "zegoEN",
+        "azalpena": "Mendeko perpausetan ere numero-adostasuna behar da. Subjektua singularra bada (Peru), aditzak -EN bukaera behar du: zegoEN."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ergatiboa pluralean",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Enekok",
+        "zuzenketa": "EnekoK",
+        "azalpena": "Izen propio bakarrean ergatiboa -K da, ez -ek. Pluralean bakarrik: 'mutilEK'. Singularrean: 'mutilaK', 'EnekoK'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "whatssappeko",
+        "zuzenketa": "WhatsAppeko",
+        "azalpena": "Izen propioak letra larriz hasten dira eta ortografia zuzena errespetatu behar da: 'WhatsApp'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko sintaktikoa",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "eztabaidarengaitik",
+        "zuzenketa": "eztabaida harengaitik / eztabaidagatik",
+        "azalpena": "Gaztelaniazko 'por la discusión' kalkoa. Euskaraz: 'eztabaidagatik' (kausa) edo 'eztabaida harengaitik' (eztabaida zehatz bat)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "motxila begiratu zion",
+        "zuzenketa": "motxila begiratu zion (ONDO) / begiratu zion motxila (fokua)",
+        "azalpena": "Hau zuzen da. Ordena SOV: motxila (objektua) + begiratu (aditza) + zion (laguntzailea). Kasu honetan ez da akatsik."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala ere inork ez zuen ezer esan",
+        "zuzenketa": "Hala ere, inork ez zuen ezer esan",
+        "azalpena": "Lotura-hitzen ostean ('hala ere', 'horren ostean', 'horregaitik', 'orduan') BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntua falta esaldien artean (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "...poliziari. Horren ostean, betikolez, sagardotegira joan ziren bazkaltzen, baina...",
+        "zuzenketa": "...poliziari. Horren ostean, betikolez, sagardotegira joan ziren bazkaltzen. Baina...",
+        "azalpena": "Esaldi bakoitza puntuz bukatu behar da. 'Baina' perpaus berri baten hasiera da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Letra larri falta",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "interneteko ezizena",
+        "zuzenketa": "Interneteko ezizena",
+        "azalpena": "Esaldi hasieran edo izen propio baten atzetik letra larria jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hiztegi generikoa",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ezer" (errepikatua 6 aldiz)",
+        "zuzenketa": "deus, ezer ere, gauza bat ere",
+        "azalpena": "'Ezer' hitz generikoa da eta askotan errepikatzen da. Erabili sinonimoak testuari aberastasuna emateko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "zegoen (8 aldiz), zeunden (6 aldiz), joan zen (4 aldiz)",
+        "zuzenketa": "zegoen → bazegoen, aurkitzen zen, egoten zen; joan zen → abiatu zen, alde egin zuen, itzuli zen",
+        "azalpena": "Aditz berdinak gehiegitan errepikatzen dira. Erabili sinonimoak edo egitura desberdinak testua aberasteko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 650,
+    "minor": 11,
+    "major": 17,
+    "critical": 0,
+    "EP100_gordina": 6.9,
+    "EP100_pisuduna": 11.5
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}
+```

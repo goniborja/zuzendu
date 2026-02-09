@@ -1,0 +1,159 @@
+{
+  "kodea": "NAIA LOPEZ BUSTOS",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Istorioa oso ondo garatuta dago: pertsonaiak argi aurkeztu dituzu, korapiloa sortu duzu (Ane eta Kemenen harremana), eta ondorio koherentea eman duzu. Narrazioaren egitura perfektua da!",
+          "Pertsonaien sentimenduak oso ondo adierazi dituzu: Aneren lotsatia eta nerbiosotasuna, lagunen susmoak... Hori guztia naturalki kontatu duzu. Irakurlea istorioan sartzen da!"
+        ],
+        "hobetzekoak": [
+          "Istorioa oso luzea da (700+ hitz), eta erdian zenbait pasarte errepikatzen da (lagunek galdetzen dute, Ane ukatzen du...). Konprimitu ahal zenuke pixka bat, intentsitatea galdu gabe.",
+          "Amaiera bat-batekoa da: 'utzi egin zutela' eta kitto. Korapiloa gehiago garatu ahal zenuke: zergatik utzi zuten? Zer gertatu zen? Irakurleak jakin nahi du!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istorioa kontatzean pasarte bakoitzak funtzio bat izaten: aurkezpena, korapiloa, gailurra, erorketa, amaiera. Horrela, errepikapenik gabe, historia trinkoagoa egingo duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da: bakoitzak momentu narratibo bat darama. Hori oso ona da testuaren irakurketa errazteko!",
+          "Lotura-hitzak modu egokian erabiltzen dituzu denborazko jarraipena adierazteko: 'hasieran', 'pixkanaka', 'egun batean', 'azkenik', 'azken finean'... Horrek testuari kohesioa ematen dio."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz batzuk gehiegi errepikatzen dituzu: 'hala ere' 3 aldiz, 'baina' 6 aldiz. Anitza eza: erabili 'ordea', 'aldiz', 'bestalde', 'gainera'... Horrek aberastuko luke testua!",
+          "Zenbait paragrafok ideia nagusi bat baino gehiago dute. Adibidez, 5. paragrafoan Naiak Juanjorekin duen istorioa eta Maitenak bere bizitza maitasunari buruzkoa nahasten dira. Banatu ahal zenituzke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz zerrenda bat egiten idatzi aurretik eta bakoitza behin bakarrik erabiltzen. Horrek aberastasun handiagoa emango dio zure testuari!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia naturala eta aberatsa da DBH3 mailako ikasle batentzat: 'irribarretsu', 'umoretsua', 'pentsakor', 'hurbiltasun berezia', 'ukabilarekin agurtu'... Txapela kendu behar dizut!",
+          "Perpaus konplexuak modu naturalean erabiltzen dituzu: erlatibozkoak ('mutil baten istorio bat'), denborazkoak ('bitartean', 'ahala'), kausazkoak ('baitzitzaion')... Maila oso ona!"
+        ],
+        "hobetzekoak": [
+          "Zenbait hitz gehiegi errepikatzen duzu: 'esaten zuen/zuten' 9 aldiz, 'kontatu' 5 aldiz, 'lagun' 14 aldiz. Erabili sinonimoak: adierazi, azaldu, esan, jakinarazi / adiskide, konplize...",
+          "Erregistroan noizean behin erderakada txiki bat: 'Ba, Ane' (gaztelaniako 'pues'), 'Ba al duzu' (gaztelaniako 'pues'). DBH3-n ohikoa da baina idatzizko erregistro formalagoan saihestuko zenuke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu zer hitz errepikatzen duzun gehien eta sinonimoen zerrenda egin. Horrek hiztegia gehiago aberastuko dizu eta testua profesionalagoa egingo!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Gramatika kasik perfektua da! Aditz-sistema ondo kontrolatzen duzu: NOR, NOR-NORK, NOR-NORI sistemak zuzen erabiltzen dituzu. Oso ondo!",
+          "Kasu-markak zuzen dauzkazu ia beti: ergatiboa, datiboa, adlatiboa... Maila altua da hau DBH3-rako!"
+        ],
+        "hobetzekoak": [
+          "Puntuazio-akats txiki batzuk: koma falta lotura-hitz batzuen ondoren ('Hala ere bere portaerak' → 'Hala ere, bere portaerak'). Kontrol oso erraza da hau!",
+          "Hitz-elkarketa batean marratxoa falta: 'begirada luzeak' → 'begirada-luzeak' (izen-taldea adjektibotzat). Nahiz eta kasu honetan biak onargarriak izan."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu lotura-hitz guztiak (hala ere, gainera, bestalde...) eta ondoren koma dagoen egiaztatu. Sistema sinple honekin puntuazio-akats gehienak desagertuko dira!"
+      },
+      "zl_modelo": 9,
+      "python_doikuntza": "Modeloaren ZL=9 koherentea EP100=0.21 (bikaintasuna, tartea 9-10)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.75,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Primeran egin duzu! Narrazioaren egitura ondo garatuta dago, istorioa interesgarria da eta irakurlea hooked-atzen duzu. Hizkuntza-maila oso ona da DBH3rako: gramatika kasik perfektua eta hiztegia aberatsa. Hobetzeko tartea lotura-hitzen aniztasunean eta istorioa gehiago konprimitzean dago. Jarrai horrela, badaukazu idazle potentziala!",
+    "lehentasuna": "Lotura-hitzak anitzatu: erabili zerrenda bat ('ordea', 'aldiz', 'gainera', 'bestalde'...) eta saiatu bakoitza behin bakarrik erabiltzen. Horrek maila bat igo egingo dizu ebaluazioetan!",
+    "batez_bestekoa_modelo": 7.75,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala ere bere portaerak eta begirada luzeak",
+        "zuzenketa": "Hala ere, bere portaerak eta begirada luzeak",
+        "azalpena": "Lotura-hitzen ondoren ('hala ere', 'gainera', 'bestalde'...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua — 'esan/esaten'",
+      "akats_id": "LH-1",
+      "kopurua": 9,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ane, hasieran, bere lagunei esaten zien...",
+        "zuzenketa": "Ane, hasieran, bere lagunei azaltzen zien... / adierazten zien... / jakinarazten zien...",
+        "azalpena": "'Esan' 9 aldiz errepikatzen da testuan. Erabili sinonimoak: azaldu, adierazi, kontatu, jakinarazi, aipatu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua — 'lagun'",
+      "akats_id": "LH-1",
+      "kopurua": 14,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "bere lagunek, bere lagunei, lagun bat, lagunekin...",
+        "zuzenketa": "bere adiskideek, bere konplizeei, kideak, lankideak...",
+        "azalpena": "'Lagun' 14 aldiz errepikatzen da. Erabili sinonimoak: adiskide, konplize, kide, lankide, taldekide..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erregistro-nahasketa — 'Ba'",
+      "akats_id": "LH-5",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ba, Ane, Kemenekin zer moduz zaude?",
+        "zuzenketa": "Ane, Kemenekin zer moduz zaude? (zuzenean, 'ba' gabe)",
+        "azalpena": "'Ba' gaztelaniazko 'pues' kalkoa da elkarrizketa informaletan. Idatzizko erregistro formalagoan saihestuko zenuke."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 731,
+    "minor": 3,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.41,
+    "EP100_pisuduna": 0.21,
+    "EP100_gordina_modelo": 0.7,
+    "EP100_pisuduna_modelo": 0.7,
+    "minor_modelo": 5,
+    "major_modelo": 0,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0,
+      "ia_puntuazioa_modelo": 0,
+      "seinaleak": {},
+      "maila": "BAXUA",
+      "iruzkina": "JSON parseatzean huts egin du: ```json\n{\n  \"ia_puntuazioa\": 2.3,\n  \"seinaleak\": {\n    \"S1\": 3,\n    \"S2\": 3,\n    \"S3\": 3,\n    \"S4\": 2,\n    \"S5\": 2,\n    \"S6\": 3,\n    \"S7\": 3\n  },\n  \"iruzkina\": \"Testua IA bidez sortua izan daitekeela "
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

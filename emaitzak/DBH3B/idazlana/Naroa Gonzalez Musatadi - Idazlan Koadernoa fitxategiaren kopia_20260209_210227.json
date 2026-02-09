@@ -1,0 +1,219 @@
+{
+  "kodea": "NAROA GONZALEZ MUSAT",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Gaia oso ondo garatu duzu eta ideia nagusia argi dago testu osoan zehar: isiltasuna gaur egungo gizartean beharrezkoa dela. Gaia sakonki landu duzu, adibide anitzak emanez (natura, ikastetxea, harremanak).",
+          "Egitura oso ona da: sarrerak kontestualizatzen du, garapenean puntu bakoitza landu duzu eta ondorioak biribildu egiten du guztia. Testu-motaren eskakizunak bete dituzu eta gainera, gogoeta pertsonala nabarmentzen da."
+        ],
+        "hobetzekoak": [
+          "Batzuetan argudioak sakonago garatu zenitzake datu zehatzagoekin edo ikerketa baten aipu batekin. Adibidez, 'osasun mentalerako baliogarriak dira' esaten duzu, baina ikerketa batek hori babesten balu, are indargarriagoa litzateke.",
+          "Testu luzea da (900+ hitz) eta oso ona da horrek, baina zenbait pasartetan errepikapena nabari da ('horregaitik' askotan, 'isiltasunak' errepikatua). Hori saihesteko, sinonimoak erabili: 'isilunea', 'isiltasun hori', 'hori'..."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu datu edo ikerketa zehatzen bat txertatzen argumentu bat indartzeko. Horrekin, zure testua are akademikoagoa eta sinesgarriagoa izango da, eta AB notarik altuenak lortzeko bidean egongo zara!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura argia eta koherentea: sarrera-garapena-ondorioa oso ondo definituta daude eta paragrafoak logikoki antolatuta. Irakurleari erraza zaio jarraitzea.",
+          "Lotura-hitz ugari erabili dituzu eta gehienak egokiak dira: 'horregaitik', 'gainera', 'hala ere', 'ondorioz'. Honek koherentzia handia ematen dio testuari."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz batzuk errepikatzen dira gehiegi: 'horregaitik' 8 aldiz agertzen da gutxi gorabehera. Saiatu aniztasun handiagoa erabiltzen: 'hori dela eta', 'horrenbestez', 'horregatik', 'hortaz'.",
+          "Paragrafo batzuk oso luzeak dira (150+ hitz) eta horrek irakurketa zailagoa egiten du. Hobe litzateke batzuk bi zatitan banatzea, ideia bakoitza paragrafo batean garatzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, lotura-hitzak aztertu eta errepikatuenen bat beste batzuekin ordeztu. Horrek zure testua are naturalagoa eta profesionalagoa egingo du. Badaukazu gaitasuna horretarako!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da: 'ezin bestekoa', 'baliogarria', 'zentratuago', 'ondorioz', 'orekatu'... Hitz hauek maila altua erakusten dute eta erregistro akademikoa finkatzen dute.",
+          "Egitura sintaktiko konplexuak erabili dituzu zuzen: mendeko perpausak, erlatibozkoak, baldintzazkoak... 'Teknologiak neurrian erabiltzen badugu, oso lagungarria izan daiteke baina gehiegi erabiltzen badugu, kaltegarria izatera heldu daiteke' — egitura hau oso ona da!"
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk errepikatzen dira: 'isiltasuna' 40+ aldiz agertzen da (testua luze denez ulergarria bada ere). Erabili sinonimoak edo erreferentzia-estrategiak: 'isilune hori', 'hau', 'elementu hori'.",
+          "Zenbait esapide erderatik datorren kalko txikia dirudi: 'eragina izan ahal dezakete' → 'eragina izan dezakete' (ahal gehiegizkoa); 'aurre egiten behartzen gaituena' → 'aurre egitera behartzen gaituena'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, testu osoa aztertu eta hitz errepikatuak bilatu. Horietako batzuk sinonimoekin edo erreferentzia-estrategiekin ordeztu. Horrek zure hiztegi-baliabideak are gehiago nabarmenduko ditu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema NOR-NORK eta NOR-NORI-NORK ondo kontrolatuta daukazu orokorrean: 'laguntzen gaitu', 'ematen digu', 'aldatzen dute'. Hori ez da erraza eta primeran egin duzu!",
+          "Ortografia ia guztiz zuzena da eta puntuazio gehienetan egokia da. Testu luze honetan, ez da erraza akatsik gabe mantentzea eta ia lortu duzu!"
+        ],
+        "hobetzekoak": [
+          "Koma batzuk falta dira lotura-hitzen ondoren: 'Gainera isiltasunak' → 'Gainera, isiltasunak' — lotura-hitz bat esaldi hasieran agertzen denean, BETI koma jarri ondoren. Hau 8-10 aldiz gertatu da testuan.",
+          "Ergatiboa (-k) zenbait tokitan ahaztu zaizu: 'naturak' → 'naturak' (zuzen); 'teknologiak' → 'teknologiak' (zuzen) baina 'zaratak eta presak' → 'zaratak eta presak' zuzen da baina 'nekea eta estresa sortzen dute' → subjektuak 'zaratak eta presak' dira (plurala), beraz 'hauek' eta ondo dago. Kontuz egon -k eta -ak arteko nahasketa/faltenarekin!",
+          "Hitz-banaketa batzuk: 'horregaitik' / 'horregatik' nahasketa — biak zuzen dira baina hobeto da bat aukeratu eta horrekin mantendu; 'isil-tasunak' → lerro amaieran zatitu da baina hitz zatiketa okerra da (marratxoa soberan); 'etaa' → 'eta' typo bat."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu lotura-hitz guztiak eta egiaztatu koma bat jarri duzun ondoren. Sistema sinple hau erabiliz, koma-akatsak %80 murriztu ditzakezu. Badaukazu maila hori harrapatzeko, fijatu besterik ez duzu egin behar!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=0.63 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu, benetan! Testu oso osoa eta koherentea idatzi duzu, gaia sakonki landuz eta adibide anitzak emanez. Egitura argia da eta hizkuntza-baliabideak aberatsak dira. Hobetzeko arlo nagusia ZL-n dago: koma lotura-hitzen ondoren eta zenbait errepikapena saihestea. Horiek konponduz, 8ra iritsiko zara erraz!",
+    "lehentasuna": "Lotura-hitzen ondorengo komak: 'Gainera,', 'Horregaitik,', 'Hala ere,' — lotura-hitz bat esaldi hasieran agertzen denean BETI koma jarri ondoren. Hau automatizatuz, ZL nota nabarmen igoko duzu!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gainera isiltasunak",
+        "zuzenketa": "Gainera, isiltasunak",
+        "azalpena": "Lotura-hitz bat ('gainera', 'horregaitik', 'hala ere'...) esaldi hasieran agertzen denean, BETI koma jarri behar da ondoren."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua — 'isiltasuna/isiltasunak'",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'isiltasuna' 40+ aldiz errepikatuta testu osoan",
+        "zuzenketa": "Erabili sinonimoak: 'isilune hori', 'hau', 'elementu hau', erreferentzia-estrategiak",
+        "azalpena": "Hitz nagusia errepikatzea normala da baina 40+ aldiz gehiegizkoa da. Sinonimoak eta erreferentzia-estrategiak erabili."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz errepikatua — 'horregaitik'",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'horregaitik' 8 aldiz errepikatuta",
+        "zuzenketa": "Erabili alternatibak: 'hori dela eta', 'horregatik', 'hortaz', 'horrenbestez', 'ondorioz'",
+        "azalpena": "Lotura-hitz bat gehiegi errepikatzeak monotonia sortzen du. Aniztasuna erabili."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo — letra bikoiztua",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "nekea etaa estresa",
+        "zuzenketa": "nekea eta estresa",
+        "azalpena": "Letra bikoiztuaren errorea: 'etaa' → 'eta'"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-zatiketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "isil-tasunak (lerro amaieran)",
+        "zuzenketa": "isilta-sunak edo isiltasunak",
+        "azalpena": "Hitz-zatiketa silaba artean egin behar da, ez morfema erdian. 'Isil-tasun-ak' → 'isilta-sunak'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean (gaztelaniako kalkoa)",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Pertsona bakoitzak, bere zarataz kanpoko momentua aurkitu behar du",
+        "zuzenketa": "Pertsona bakoitzak bere zarataz kanpoko momentua aurkitu behar du",
+        "azalpena": "Euskaraz subjektu eta aditz nagusia artean EZ da koma jartzen. Hau gaztelaniako kalkoa da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa nahasketa — 'horregaitik' vs 'horregatik'",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "'horregaitik' eta 'horregatik' nahasian erabiltzen dira",
+        "zuzenketa": "Bat aukeratu eta mantendu: 'horregatik' batuan hobetsiago da",
+        "azalpena": "Biak zuzen dira baina koherentziagatik bat aukeratu eta horrekin jarraitu testu osoan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erregistro-txikitasun bat — 'apur bat'",
+      "akats_id": "LH-5",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Apur bat pentsatzen badugu",
+        "zuzenketa": "Pixka bat gogoratzen badugu / Kontuan hartzen badugu",
+        "azalpena": "Testu akademiko batean 'apur bat' informalegia da. 'Pixka bat' edo 'zerbait' egokiagoa."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 952,
+    "minor": 13,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 1.37,
+    "EP100_pisuduna": 0.63,
+    "EP100_gordina_modelo": 2.2,
+    "EP100_pisuduna_modelo": 2.1,
+    "minor_modelo": 13,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2,
+      "ia_puntuazioa_modelo": 1,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau DBH4ko ikasle batek idatzia dirudi. Hainbat elementu naturalak agertzen dira: akats ortografikoak eta gramatikalak ('deritzo' 'deritza' beharrean, 'esagutzeko' 'ezagutzeko' beharrean, 'onfizatea' 'ongizatea' beharrean), puntuazio erabilera irregularra, errepikapenetan oinarritutako argumentazio estiloa, eta koherentzia falta tokitan tokian. Hiztegi maila egokia da DBH4rako, kontzeptu filosofikoak lantzen ditu baina modu xumean. Egitura nahiko ordenatua da baina ez perfektua - sarrera/garapena/ondorioa daude baina paragrafo batzuk ez dira ondo lotzen. Testua luzea da (1000+ hitz) baina ez da arraroa ikasle arduratsu batek idazlan formal bat egitean. Tonua pertsonala da, 'gure' eta 'gu' erabiltzen ditu. Azken esaldia ('ez dut idazlan hau aurkeztu nahi') benetan adierazgarria da ikasle batek idatzia izatearen alde. Kalitatea uniformea da baina ez perfektua. Guztira, ikasle on batek idatzitako lan bat dirudi, ez IAk sortua."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Ikaslearen ohar pertsonala: 'ez dut idazlan hau aurkeztu nahi'. Irakaslearen berrikusketa beharrezkoa da egoera hau argitzeko.",
+        "Testu oso luzea (952 hitz) eta kalitate handikoa. Irakaslearen iritziz, berrikusketa egokia izan daiteke ikaslearekin hitz egiteko."
+      ]
+    }
+  }
+}

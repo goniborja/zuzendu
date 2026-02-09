@@ -1,0 +1,203 @@
+{
+  "kodea": "ITSASO MERA CARRASCO",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Txapel kendu! Pertsonaia bat sortu duzu benetakoa dirudieña: Ane neska bat da bere burua identifikatzeko zailtasunak dituena politikarekin. Hori da idazle onaren marka!",
+          "Narrazioaren egitura ondo landuta daukazu: hasieratik (Aneren aurkezpena) korapiloraino (barne-gatazka politikarekiko) eta ondorio batera iritsi zara (onartzea eta irekitzea). Bikain!"
+        ],
+        "hobetzekoak": [
+          "Istorioak bihotz gehiago behar du: egoera zehatzagoak kontatu (adibidez, klase batean zer gertatu zen zehaztasunez, elkarrizketa bat edo une bat). Orain gauza asko kontatzen duzu baina 'zehazka' falta da.",
+          "Aneren aldaketa azkarregi da bukaeran: 'denborarekin onartu zuen...' oso labur doa. Erakutsi aldaketa hori nola gertatu zen — une bat, pertsona bat, gertakizun bat... Horrela irakurleak sinestu egingo du."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu narrazioaren une nagusi bat aukeratzen eta hori ESZENATUZ kontatzen: dialogoak, deskripzioak, pentsamenduak... Horrela istorioa biziago egingo da eta nota igoko duzu seguru!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa argia da: sarrera (Aneren aurkezpena), garapena (barne-gatazka), ondorioa (onartzea). Egitura narratiboa ondo kontrolatuta daukazu!",
+          "Lotura-hitzak erabiltzeko gaitasuna ikusten da: 'horregaitik', 'horrek', 'pixkanaka', 'denborarekin'... Testua ondo lotuta dago eta sekuentzia logikoa jarraitzen du."
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso luzeak dira eta barnean gai-aldaketa batzuk daude. Adibidez, hirugarren paragrafoan politikatik gizarterako salto egiten duzu eta paragrafo bera jarraituko duzu. Bereizi paragrafo bietan hobeto lotuko da!",
+          "Noizean behin salto txikiren bat dago: 'kalean ere, egoera berdina...' esaten duzu baina aurretik ez duzu kaleko egoera berezirik aipatu. Egin trantsizioa argiago: 'klasean bezala, kalean ere...'"
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo bat idatzi ondoren, galdetu zeure buruari: paragrafo honek gai bakarra du? Baleuka zatitu? Hori eginda, antolaketa maila 8-9ra igoko duzu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da DBH3 mailako ikasle batentzat: 'pentsakorra', 'identifikatuta', 'manifestazioak', 'tentsioa'... Ez dituzu hitz orokorrak bakarrik erabiltzen, bikain!",
+          "Perpaus konplexuak erabiltzen dituzu eta horrek testu interesgarria egiten du: 'aurkakoa pentsatu arren', 'badirudi gauza guztiek oso argi dituztela baina berak ez'... Primeran!"
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk errepikatzen dituzu askotan: 'pentsatzen/pentsamendu' 7 aldiz agertzen da! Erabili sinonimoak: gogoeta, iritziz, ustez, hausnarketa... Horrela testu aberatsagoa egingo duzu.",
+          "Egitura batzuk errepikatu egiten dituzu: 'ez du/ditu' formula asko aldiz. Aldatu egitura: 'falta zaio', 'ezin du', 'gai ez da'... Aniztasuna aberastasuna da!"
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, bilatu hitzik gehien errepikatzen dena eta aldatu 2-3 alditan sinonimoekin. Erraz egingo duzu eta BLH-n nabarmen igoko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Oinarrizko gramatika ondo kontrolatuta daukazu: NOR-NORK sistema gehienetan ondo (ikusi dituzu, ematen dizkio...). Hori ez da erraza eta ondo egin duzu!",
+          "Aditz-denborak ondo erabiltzen dituzu orokorrean: orainaldia narrazioan, iraganean pasatutakoa... Horrek erakusten du aspektu-sistema barneratuta daukazu."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) ahaztu duzu 6 aldiz eta hau da zuzentasunean hobetzeko lehentasuna. Gogoratu: aditza NOR-NORK denean, subjektuak BETI -k behar du. 'Ane pentsatzen duela' → 'AneK pentsatzen duela', 'arazo nagusia da' → 'arazo nagusiA da' (NOR aditzetan).",
+          "Ortografia-akats batzuk: 'iraksleei', 'iritsia', 'uzte', 'horrregaitik', 'asotan', 'iksuten', 'btez', 'bestten', 'iritsietarako', 'sabalagoa'... Kontuz idaztean eta errepasatu! Gehienak 's/z' nahasketa dira, kontu hartuz konponduko dituzu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin ergatiboaren arazoa konponduko duzu eta ZL 7-8 maila lortuko duzu!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=2.61 (aurreratua, tartea 7-8). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu! Narrazioa interesgarria da eta pertsonaia errealak sortu dituzu. Egitura argia du eta hizkuntza-baliabideak ondo erabiltzen dituzu. Hobetzeko tartea bi arloan dago: ergatiboa (-k) eta ortografia. Horiek konpontzen dituzunean, maila altuko idazlea izango zara!",
+    "lehentasuna": "Ergatiboa (-k): esaldi bakoitza idatzi ondoren, berrikusi ea aditza NOR-NORK den. Baietz bada, subjektuari -k jarri. Hau da lehen lehentasuna eta erraz konponduko duzu!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Horrek aserrea ekartzen dio",
+        "zuzenketa": "Horrek aserrea ekartzen dio (ondo) / Ane pentsatzen duela → AneK pentsatzen duela",
+        "azalpena": "Aditza NOR-NORK denean (pentsatu, ekarri, irakatsi, ikusten...), subjektuak -K marka behar du beti. Adibidez: 'Ane pentsatzen duela' → 'AneK pentsatzen duela'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — sibilante nahasketa (s/z)",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 10,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "iraksleei / iritsia / uzte / asotan / iksuten",
+        "zuzenketa": "irakasleei / iritzia / uste / askotan / ikusten",
+        "azalpena": "Euskaraz 's' eta 'z' bereizten dira. Kontuz idatzi eta errepasatu! Gehienak 's/z' nahasketa dira: 'uste' (ez 'uzte'), 'askotan' (ez 'asotan'), 'ikusten' (ez 'iksuten')."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — elkarketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "horrregaitik / zelan / txarra izal",
+        "zuzenketa": "horregaitik / zelan (ondo) / txarra izan",
+        "azalpena": "Kontsonante bikoitza: 'horregaitik' 'rr' batekin soilik. 'Zelan' ondo dago. 'Izan' (ez 'izal')."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Horregaitik gai politikoak",
+        "zuzenketa": "Horregaitik, gai politikoak",
+        "azalpena": "Lotura-hitzen ondoren (horregaitik, hala ere, beraz...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz-kalkoa",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "etorkinik",
+        "zuzenketa": "etorkizunik",
+        "azalpena": "Hitz hau 'etorkizunik' da (futuro), ez 'etorkinik' (inmigrante)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "denen iritsia jaso nahi dute",
+        "zuzenketa": "denen iritzia jaso nahi dute",
+        "azalpena": "'Iritzia' (opinión) da forma zuzena, ez 'iritsia' (llegada)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "pentsatzen/pentsamendu 7 aldiz",
+        "zuzenketa": "pentsatzen/pentsamendu → gogoeta, ustez, iritziz, hausnarketa",
+        "azalpena": "Hitz bat oso askotan errepikatzen duzu. Erabili sinonimoak aberastasuna emateko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 402,
+    "minor": 16,
+    "major": 7,
+    "critical": 0,
+    "EP100_gordina": 7.46,
+    "EP100_pisuduna": 2.61,
+    "EP100_gordina_modelo": 5.97,
+    "EP100_pisuduna_modelo": 4.73,
+    "minor_modelo": 16,
+    "major_modelo": 8,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia dirudi. Akats ortografiko ugari daude (poltitika, urruneko, iritsia, estabaidak, urduri, zelan, ikusten, pentsazen, ezineskoa, iksuten, sinezten, daukadan, zentitzen, bestten), tipografikoak (espazioak falta) eta gramatikako erroreak (adibidez, 'beharko nahiz' 'beharko naiz' beharrean). Hiztegia oso naturala da DBH mailako batentzat, ez dago C1/C2 mailako hitzik. Nahiz eta egitura txukuna izan (sarrera-garapena-ondorioa), akats naturalek eta kalitate desberdinak paragrafoetan erakusten dute giza idazlana dela. Luzera ere egokia da DBH4rako lan batentzat (400 hitz inguru). Tonua pertsonala da eta protagonistarekin identifikazioa erakusten du, ez robotikoa."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "kodea": "NILE ARANAZ SECO",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso hunkigarria eta koherentea sortu duzu. Hasiera-korapiloa-amaiera egitura perfektua da eta irakurlea hasieratik bukaerara eramateko gaitasuna daukazu. Zorionak!",
+          "Pertsonaien garapena bikaina da: Ane protagonista gisa sendoa da, baina baita bigarren mailako pertsonaiak ere (Iker, Ander, ama) ondo garatuta daude. Egoera konplexu bat modu argian kontatzen duzu."
+        ],
+        "hobetzekoak": [
+          "Narrazioak xehetasun sentsorialak behar ditu: zapatak, koloreak, usainak, soinuak... 'Usain arraro bat zegoen, gasolinarena' ON dago, baina gehiago behar dira testu osoan irakurlea egoera horretan murgil dadin.",
+          "Batzuetan salto kronologikoak apur bat azkarregiak dira ('Egun batzuk geratu ziren amonaren etxean' → 'Egun batean, erosketak egitetik bueltatzean'). Trantsizio gehiago lagundu luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu esaldi bakoitzean sentsazio bat sartzen: nola entzuten da zarata, nola dastatu egiten da beldurra, zein kolore dauka kea... Horrek testuari bizitasun handiagoa emango dio!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da: sarrera (familia aurkezpena), korapiloa (gatazka handituz doa), gailurra (sutea), desenllacea (Ikeren itzulera). Hau oso garrantzitsua da eta bikain egin duzu!",
+          "Denbora-sekuentzia argi mantentzen duzu: 'Behin', 'Denborarekin', 'Egun batean', 'Bat-batean'... Irakurleak ez du inolaz ere galtzen."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz konplexuagoak falta dira. 'Ondorioz' erabili duzu (bikain!), baina gehiago behar dira: 'hala ere', 'horrez gain', 'hori dela eta', 'are gehiago'. Horiekin testua askoz profesionalagoa egingo da.",
+          "Paragrafoen hasierak batzuetan errepikakorregiak dira: 'Egun batean' bi aldiz, 'Ane...' askotan. Aldatu pixka bat hasierak, dinamikotasuna emateko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitzean GUTXIENEZ lotura-hitz berezi bat sartzen: 'halaber', 'aitzitik', 'horrez gain'... Horrek koherentzia-maila handiagoa emango dio testuari eta AK notaren jauzi handia egingo duzu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia ona da eta narraziorako egokia: 'arrasto sakona utzi', 'hutsik sentitzen zen', 'ahotsa ez zen entzuten'... Hau maila ona da!",
+          "Perpaus-egitura konplexuak erabiltzen dituzu naturalki: erlatibozko perpausak ('Ane hamabost urteko neska bat zen'), kausazkoak ('-lako'), denborazkoak ('-nean'). Hau ez da erraza eta oso ondo egiten duzu!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko batzuk daude: 'etxe/etxean/etxetik' (13 aldiz), 'egun' (8 aldiz), 'beldurra/beldurtuta' (6 aldiz). Hitz hauek beharrezkoak dira, baina noizean behin aldatu sinonimoekin: 'etxea' → 'etxebizitza', 'egun' → 'une', 'beldurra' → 'larritasuna/beldurtasuna'.",
+          "Aditz batzuk ere errepikatzen dira: 'zegoen' (14 aldiz), 'zen' (24 aldiz). Saiatu 'aurkitzen zen', 'zirauen', 'geratzen zen' bezalako aldaerak erabiltzen."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero testu osoa errepasatu eta hitz errepikatuak detektatu. Lehen 5 hitz errepikatuenen bat gutxienez aldatu sinonimoekin. Horrek hiztegiaren aberastasuna erakusten du eta BLH nota igoko da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Oinarrizko gramatika ondo kontrolatuta daukazu: NOR-NORK sistema ia beti zuzen, aditz-aldiak ondo erabiltzen dituzu (iragana, oraina).",
+          "Deklinabidearen erabilera orokorrean zuzena da: -ra, -tik, -rekin kasuak ongi erabiltzen dituzu gehienetan."
+        ],
+        "hobetzekoak": [
+          "Typo eta ortografia-akats kopuru altua dago (19 akats): 'mantentzen' bi aldiz, 'zaiatzen' ('saiatzen'), 'presentzia' ('presentzia' ondo, baina inconsistenteki erabiltzen duzu), 'matentzen' ('mantentzen'), 'ausartu' ('ausartu'), 'harrera-zentro' (zuzen, baina beste momentuan 'harrrera')... Errepasatu behar duzu testua idatzi ondoren.",
+          "Koma-akats batzuk daude: subjektu eta aditz artean ('Anek, ez zekien'), lotura-hitz ondoren koma falta ('Ondorioz eta etxean gertatzen zenarengaitik').",
+          "Morfologia-akats larriak: 'zenarengaitik' → 'zenarengaitik/zergatik', 'zomatzen' → 'botatzen' (?), 'berataz' → 'beragatik/beraz', 'zorabiatzenn' → 'zorabiatzen'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero ERREPASATU arretaz testu osoa. Irakurri ozenki eta hitz bakoitza aztertu: ondo idatzia al dago? Typo batzuk bistatik pasatzen dira, baina errepasatzean detekta daitezke. Hau eginez gero, EP100 %50 jaitsiko da eta ZL nota 7-8ra igoko da!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=5 baxuegi da EP100=2.89 (aurreratua, tartea 7-8). ZL=6 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain idatzi duzu, benetan! Istorioa hunkigarria da, egitura argia duzu eta narraziorako dohain naturala daukazu. Ideia konplexuak garatzeko gaitasuna daukazu eta hori ez da ohikoa DBH3 mailan. Hobetzeko tarte nagusia ZL-n dago: ortografia eta typo kopurua jaitsi behar da testua idatzi ondoren errepasatuz. Horrek eginda, nota 8-9 tartean egongo zateke. Jarraitu horrela!",
+    "lehentasuna": "ERREPASATU testua idatzi ondoren: typo, ortografia-akats eta koma-arazoak detektatzeko. Hau da lehenengo lehentasuna, gainerakoa maila bikainean dago!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ortografia — Typo eta idazkera okerrak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 19,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zaiatzen, matentzen, ausartu, zenarengaitik, zomatzen, berataz, zorabiatzenn, bueletatu, hitzegiten, itxarotea, izten",
+        "zuzenketa": "saiatzen, mantentzen, ausartu (ondo), zenarengaitik → zeren/zergatik, botatzen, beragatik/harekin, zorabiatzen, bueltatu, hitz egiten, itxaron, uztean",
+        "azalpena": "Typo eta ortografia-akats ugari daude. Gehienak errepasatuz konpon daitezke. 'Zaiatzen' → 'saiatzen', 'matentzen' → 'mantentzen', 'zenarengaitik' → 'zeren/zergatik', 'berataz' → 'beragatik', 'zorabiatzenn' → 'zorabiatzen', 'bueletatu' → 'bueltatu', 'hitzegiten' → 'hitz egiten', 'itxarotea' → 'itxaron', 'izten' → 'uztean'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ondorioz eta etxean gertatzen zenarengaitik",
+        "zuzenketa": "Ondorioz, eta etxean gertatzen zeren...",
+        "azalpena": "Lotura-hitzen ('ondorioz', 'bitartean', 'jarraian') ondoren beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Anek, ez zekien zer egin",
+        "zuzenketa": "Anek ez zekien zer egin",
+        "azalpena": "Subjektu eta aditz nagusia artean EZ da koma jartzen euskaraz. Hau gaztelaniako kalko ohikoa da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa / elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hitzegiten",
+        "zuzenketa": "hitz egiten",
+        "azalpena": "'Hitz egin' bi hitz dira: 'hitz' (izena) + 'egin' (aditza). Ez dira elkartzen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Morfologia — Deklinabidea",
+      "akats_id": "ZL-KAS-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "berataz",
+        "zuzenketa": "beragatik / harekin / beraz",
+        "azalpena": "'Berataz' ez da existitzen. Hitz hau zehaztugabea da. Testuinguruan ('ez zuten ezer gehiago jakin berataz') 'beragatik' edo 'harekin/haren berri' izan beharko luke."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Erderakada — Hitz okerra",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zomatzen zutelako",
+        "zuzenketa": "botatzen zutelako / falta egiten zielako",
+        "azalpena": "'Zomatzen' ez da existitzen euskaraz. Testuinguruan ('falta zomatzen zutelako') 'botatzen' (echar de menos) edo 'falta egiten' izan beharko luke."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Sintaxia — Kalko sintaktikoa",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zenarengaitik",
+        "zuzenketa": "zeren / gertatzen zelako / -lako",
+        "azalpena": "'Zenarengaitik' ez da existitzen euskaraz. Hau gaztelaniako 'lo que' edo 'por lo que' kalko bat da. Euskaraz 'zeren' edo '-lako' erabili behar da kausazkoak adierazteko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1038,
+    "minor": 28,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 2.89,
+    "EP100_pisuduna": 0.96,
+    "EP100_gordina_modelo": 2.89,
+    "EP100_pisuduna_modelo": 2.89,
+    "minor_modelo": 26,
+    "major_modelo": 2,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia dirudi. Akats naturalak ugariak dira: 'zaiatzen' (saiatzen), 'sainale' (seinale), 'matentzen' (mantentzen), 'mantetzentzeko', 'berataz', 'zomatzen' (botatzen), 'zorabiatzenn', 'izten' (utzita), etab. Hiztegi maila DBH4rentzat egokia da, hitz konplexurik gabe. Narrazioaren hasiera eta amaiera egokiak dira baina ez perfektuak. Testuak emozio pertsonala eta inplikazioa transmititzen du, ez da robotikoa. Luzera (900 hitz inguru) egokia da ikasle batek literatur-lan bat egiteko. Akatsen maiztasuna eta mota guztiz naturalak dira. Egitura narratiboa ona da baina paragrafo batzuk desorekatuak daude (batzuk oso laburrak, besteak luzeak). Kalitatea ez da uniformea, hasieran eta erdian kontu gehiago daude akatsei buruz."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

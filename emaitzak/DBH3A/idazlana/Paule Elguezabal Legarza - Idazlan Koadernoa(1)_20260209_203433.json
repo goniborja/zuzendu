@@ -1,0 +1,107 @@
+{
+  "kodea": "PAULE ELGUEZABAL LEG",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-1",
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testua ez da idatzi. Ataza-fitxako argibideak bakarrik daude, baina ez dago zure idazlana.",
+          "Idazlan bat aurkeztu behar duzu ebaluazioa jaso ahal izateko."
+        ],
+        "feed_forward": "Hurrengo aldian, irakurri ataza ondo eta idatzi zure testua argibide horiek ezabatuta. Lasai, hasi eta proba egin!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testua ez da aurkeztu, beraz ezin da antolaketa ebaluatu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi zure testua sarrera, garapena eta ondorioarekin."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testua ez da aurkeztu, beraz ezin da hizkuntza-baliabiderik ebaluatu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi zure testua eta erakutsi zure euskara maila."
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 1,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testua ez da aurkeztu, beraz ezin da zuzentasun linguistikorik ebaluatu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi zure testua euskaraz."
+      },
+      "zl_modelo": 0,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=0 baxuegi da EP100=0.0 (bikaintasuna, tartea 9-10). ZL=1 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 0.25,
+    "biribiltzea": 0,
+    "heziberri_maila": "lortu_gabea",
+    "orokorra": "Testua ez da aurkeztu. Ataza-fitxako argibide teknikoak bakarrik daude, baina ez da zure idazlanik ikusi. Ezin da ebaluaziorik egin testua ez dagoenean. Mesedez, idatzi zure narrazioa eta aurkeztu berriz.",
+    "lehentasuna": "Idatzi zure testua. Hori da lehenengo pausoa!",
+    "batez_bestekoa_modelo": 0.0,
+    "biribiltzea_modelo": 0.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [],
+  "EP100": {
+    "hitz_kopurua": 0,
+    "minor": 0,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.0,
+    "EP100_pisuduna": 0.0,
+    "EP100_gordina_modelo": 0.0,
+    "EP100_pisuduna_modelo": 0.0,
+    "minor_modelo": 0,
+    "major_modelo": 0,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0,
+      "ia_puntuazioa_modelo": 0,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Ezin da analizatu testua ez delako existitzen. Parentesi arteko argibideak bakarrik daude, baina ikaslearen idazlana ez da idatzi. Testu hutsa da, plantilla bat soilik, beraz ezin da ebaluatu ea DBH4ko ikasle batek idatzi duen ala IA bidez sortu den. Idazlan erreala behar da analisia egiteko."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Testua ez da aurkeztu",
+        "Ikasleak argibideak ez ditu ezabatu eta bere testua ez du idatzi",
+        "Egoera hau irakaslearekin hitz egin behar da"
+      ]
+    }
+  }
+}

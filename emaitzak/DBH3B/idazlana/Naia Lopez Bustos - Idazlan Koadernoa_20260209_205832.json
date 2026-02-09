@@ -1,0 +1,36 @@
+{
+  "kodea": "NAIA LOPEZ BUSTOS",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 19,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 2,
+        "S3": 3,
+        "S4": 3,
+        "S5": 2,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testua IA bidez sortua izan daiteke. Egitura perfektua da (sarrera, garapena, ondorioa oso landuak), eta akats morfosintaktikorik ez dago, DBH4 ikasle batek espero ez bezalakoa. Hiztegi uniformea eta sofistikatua da ('hurbiltasun berezia', 'ohartu', 'pixkanaka'), baina ez oso zaila. Tonu generikoa eta didaktikoa nabarmentzen da, pertsonalitate gabekoa. Kontaketa lineal perfektua da, akats naturalik gabe (errepikapenak, perpaus laburrak, koherentzia-arazoak...). Amaierako 'morala' oso tipikoa da IA sortutako istorioetan. Luzera (~750 hitz) ere suspektua da DBH4 ikasle batentzat. Dena den, gaia (lehen maitasuna) eta estiloa (kontaketa sinplea) DBH ikasle batek idatzi zezakeena da, baina kalitate uniformeegi dago.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 19/21)"
+      ]
+    }
+  }
+}

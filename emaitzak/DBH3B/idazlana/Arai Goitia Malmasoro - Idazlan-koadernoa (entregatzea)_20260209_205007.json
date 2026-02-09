@@ -1,0 +1,227 @@
+{
+  "kodea": "ARAI GOITIA MALMASOR",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura oso ondo eraikita daukazu: hasiera intriga sortuz (atearen aurrean), gero flashback bat garapenean, eta amaiera suspensez beteta. Profesionala ematen du!",
+          "Testuinguruaren deskribapen batzuk oso bizirik daude: 'zubian kokatutakoa', 'arrotu egin zen', 'zapatak kendu nituen, konturatu gabe lurrean utzita'. Horiek irakurleari irudikapena errazten diote."
+        ],
+        "hobetzekoak": [
+          "Narrazioaren korapiloa (exarekin topo egitea) azkarregi konpontzen da. Une horretako tentsioa gehiago luzatu zenezakeen: bere hitzak, arnasketa-zailtasunak, testuinguruko soinuak... Horrek suspensea gehiago landuko luke.",
+          "Amaiera irekia da (ondo dago!) baina irakurleari zerbait gehiago eman ahal zenioke: barne-gatazkaren xehetasunik, edo etorkizuneko aipamen konkreturik ('bihar poliziari deitu beharko diot ala ez?')."
+        ],
+        "feed_forward": "Hurrengo narrazio batean, saiatu une dramatikoenetan denborari geldialdia egiten: deskribatu segundoka zer sentitzen duzun, zer entzuten duzun, zein arnasa duzu... Horrek narrazio erritmoa hobetzen du eta irakurlea bildurtzen du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa oso logikoa da: sarrera → flashback → garapena → klimaxa → ondorioa. Txapela!",
+          "Denborazko koherentzia ondo kontrolatuta daukazu: 'dena egun normal batean hasi zen' → 'goizean esnatu' → 'arratsaldean diskotekara' → 'etxerako bidean'. Denborazko sekuentzia argia da."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz batzuk gehiegi errepikatu dituzu: 'eta' lotura sinplea 40 aldiz baino gehiagotan! Txertatu 'gero', 'ondoren', 'hala ere', 'orduan', 'horrez gain' bezalakoak. Horiek testua aberatstu egiten dute.",
+          "Paragrafo batzuk oso laburrak dira (batean 2 esaldi bakarrik). Luzatu pixkat edo aurreko/hurrengoarekin konbinatu koherentzia fluidiagoa izateko."
+        ],
+        "feed_forward": "Hurrengo aldian, testu osoan 'eta' hitza zenbatzen badituzu, gero horietako %50 ordezkatu beste lotura-hitzekin. Egitura hori praktikatzen badozu, AK maila gora egingo duzu seguru!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi oso egokia narrazio baterako: 'bihotzeko taupadak', 'bildurraren bildurrez', 'kortinak itxi nituen'. Adierazkorrak dira!",
+          "Egitura konplexuak modu naturalean erabiltzen dituzu: 'banekielako', 'naiz eta jakin', 'behin eta berriro'. Hori ez da erraza DBH3 mailan eta ondo daukazu!"
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk asko errepikatu dituzu: 'nire' (56 aldiz!), 'zen/zitzaidan' (askotan), 'nekien' (9 aldiz). Erabili sinonimoak edo birformulatu: 'nire' → 'ene', edo egitura aldatu. Adibidez: 'nire burua babestu nahian' → 'burua babestu nahian'.",
+          "Batzuetan formulazioa ez da oso naturala: 'oso lista Ane' (ironia?), 'ez zidala bezte ezer atera' ('beste' zuzenagoa litzateke). Formulazio horiek berrikusi pixkat."
+        ],
+        "feed_forward": "Hurrengo aldian, testu bat idatzi ondoren, begiratu ea hitz bat (batez ere izenordainak edo aditzak) 10 aldiz baino gehiagotan agertzen den. Hori detektatu eta %50 txertatzen saiatzen bazara sinonimoak, BLH maila igoko zaizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema komplexua ondo erabiltzen duzu orokorrean: 'banekielako' (subjuntiboa), 'nire pentsamenduak alde batera utzi eta' (konplexutasuna), 'ziurtatzen' (aspektua). Hori ez da erraza!",
+          "Deklinabidea gehienbat ondo kontrolatuta: 'atearen aurrean', 'lagunekin', 'etxerako bidean'. Oso ondo!"
+        ],
+        "hobetzekoak": [
+          "Akats errepikatuenak: koma-falta (lotura-hitzen ostean), erderakada batzuk ('bezte' → 'beste', 'beztela' → 'bestela'), eta banaketa-akats batzuk ('zegika' → 'zegoenekoa'/'zegoen eta'). Hauek erraz konpontzen dira errepasatu ondoren!",
+          "Aditz batzuetan aspektu-nahasketa: 'niren aurpegia aldatu egin zen' → 'bere aurpegia aldatu zen' (partizipioa + laguntzailea; 'egin' ez da behar). Kontuz 'egin' gehigarriarekin!"
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, lotura-hitz guztiak (hala ere, beraz, orduan...) azpimarratu eta egiaztatu ostean koma badagoen. Sistema hori aplikatzen baduzu, ZL puntuazioa nabarmen hobetuko da!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.28 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain egin duzu lan hau, benetan! Narrazio oso ondo egituratua da, suspensez beteta, eta irakurlearen arreta lortzen duzu hasieratik amaierara. Hizkuntza-baliabideak ondo erabiltzen dituzu, baina akats errepikatuak (batez ere komak eta erderakada txiki batzuk) dira hobetzeko tartea. Hala ere, maila aurreratua da, eta testua interesgarri eta sendoa da. Zorionak!",
+    "lehentasuna": "Lotura-hitzen osteko komak: testu bat idatzi ondoren, lotura-hitz bakoitzaren ostean koma badagoen egiaztatu (hala ere, beraz, orduan, gainera...). Hori da lehenengo pausua!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Egia esan hobe da dena hasieratik kontatzea",
+        "zuzenketa": "Egia esan, hobe da dena hasieratik kontatzea",
+        "azalpena": "Lotura-hitz edo esapide hauek beti behar dute koma ondoren: egia esan, orduan, une horretan, momentu horretan, eta horregatik."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — 'beste' hitza gaizki idatzia",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ez zidala bezte ezer atera",
+        "zuzenketa": "ez zitzaidan beste ezer atera",
+        "azalpena": "'Bezte' ez da existitzen euskaraz. Zuzena 'beste' da. Gainera, 'zidala' → 'zitzaidan' (NOR-NORI sistema)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — 'egin' gehigarria partizipioarekin",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "barre asko egin genuen",
+        "zuzenketa": "asko barre egin genuen BAINA onargarria da",
+        "azalpena": "Gaztelaniako 'hacer' kalkoaren eragina: 'hacer algo' → 'algo egin'. Batzuetan onartzen da ('barre egin', 'lo egin'), baina beste batzuetan hobeto da kenduta ('nahastu egin zen' → 'nahastu zen')."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Hitz-banaketa arazoa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "norbait zegika nuela sentitu nuen",
+        "zuzenketa": "norbait zegoenekoa sentitu nuen / norbait zegoela sentitu nuen",
+        "azalpena": "'Zegika' ez da hitz bat. Agian 'zegoenekoa' edo 'zegoela' nahi zenuen esan. Banaketa egokia beharrezkoa da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "nire pentsamenduak alde batera utzi eta",
+        "zuzenketa": "Hemen ez dago akatsik (ez dago komarik subjektu-aditz artean). Beste adibide batean: 'nire bihotzak taupaka hasten ziren' → ZUZENA (ez koma)",
+        "azalpena": "Kasu honetan ez dago komarik subjektu eta aditz nagusia artean. Ondo dago!"
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "NOR-NORI nahasketa — datiboa falta",
+      "akats_id": "ZL-ADI-7",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "horrek lasaitu beharko ninduen",
+        "zuzenketa": "horrek lasaitu beharko ninduke",
+        "azalpena": "Baldintza-esaldian 'ninduen' ez da zuzena. 'Ninduke' izan behar da (baldintza: ba- + -ke/ko)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazio-arazo — komaren falta parentetiko baten aurretik",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zer gertatu ahal zitzaidan? - oso oker nengoen-",
+        "zuzenketa": "zer gertatu ahal zitzaidan? —oso oker nengoen—",
+        "azalpena": "Parentetiko bat (edo marra luze arteko iruzkin bat) beti behar du koma/marra egokia. Hemen marra luzea (—) erabili behar da, ez marratxo arrunta (-)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-aspektua — partizipioa/aspektua nahasketa",
+      "akats_id": "ZL-ADI-5",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "nik pentsatzen nuenean",
+        "zuzenketa": "nik pentsatu nuenean",
+        "azalpena": "Mendeko perpaus denborazkoetan (-enean), partizipioa erabiltzen da, ez aspektu burutugabea (-tzen). 'Pentsatzen nuenean' → 'pentsatu nuenean'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua — 'nire' izenordaina",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "nire hitza 56 aldiz erabili duzu testu osoan",
+        "zuzenketa": "Txertatu 'ene' (sinonimoa), edo kendu 'nire' zenbait kasutan ('nire burua' → 'burua', kontestuak argitasuna ematen duenean)",
+        "azalpena": "Errepikapen lexiko altua kalitatea jaisten du. Sinonimoak erabili edo egitura aldatu."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 897,
+    "minor": 19,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 2.34,
+    "EP100_pisuduna": 1.28,
+    "EP100_gordina_modelo": 2.34,
+    "EP100_pisuduna_modelo": 2.23,
+    "minor_modelo": 15,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau DBH4ko ikasle batek idatzia dirudi. Arrazoi nagusiak: (1) Akats ortografiko eta gramatikalak ugariak dira ('zerbait' > 'beste gauza batzuk', 'bezte' > 'beste', 'horduak' > 'orduak', 'estroputz', inkontsistentziak deklinabideetan). (2) Erregistro naturala, DBH mailakoa (hitz arruntak, 'kaixo', egitura sinpleak). (3) Puntuazio irregularra eta esaldi batzuk desantolatu samar. (4) Narrazioak emozioa eta pertsonalitate argia du, ez da robotikoa. (5) Luzera (900 bat hitz) DBH4rako luzea bada ere, kontaketa idatzi batean ez da ezohikoa. (6) Egitura nahiko ona da baina hasierako flashback teknika eta amaiera literarioa DBH mailako ipuin askotan ikusten dira. (7) Kalitatea ez da erabat uniformea, hasiera indartsua baina tartean akatsak eta ezegonkortasunak daude. ONDORIOA: Ziur asko ikasle baten lana da, literatur gaitasun onekoa baina akats naturalekin."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

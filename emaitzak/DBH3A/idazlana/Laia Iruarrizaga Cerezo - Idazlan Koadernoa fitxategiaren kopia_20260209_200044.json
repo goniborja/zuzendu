@@ -1,0 +1,191 @@
+{
+  "kodea": "LAIA IRUARRIZAGA CER",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso indartsua idatzi duzu, hasiera-korapiloa-amaiera egitura perfektua duena. Irakurlea harrapatu egin duzu lehenengo lerroetatik, eta tentsioa gora egin duzu bukaeraraino. Txapela zu!",
+          "Pertsonaiaren garapena bikaina da: Ane 'arrunta' da, baina bilakaera psikologiko bat egiten du aurkikuntza batetik bestera. Bukaeran bere bakartzea benetan ukitzen du. Oso ondo egina!"
+        ],
+        "hobetzekoak": [
+          "Batzuetan denbora-salto batzuk nabarmenak dira ('Aste osoa egon zen pentsatzen' → bat-batean 'Sukaldean aurkitu zuen'). Trantsizio bat gehiago jarri zenezake hor, irakurleari laguntzeko jarraipen horretan.",
+          "Amaiera oso liriko eta poetikoa da ('bakarrik, guztiz bakarrik eta inor gabe' errepikapenak indartsua da), baina istorioa bukatu gabe gelditzen da pixka bat. Zer gertatuko da? Poliziari esango al dio? Aurreikuspen txiki bat ematea ere aukera bat izan liteke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu denbora-trantsizioak landuago egiten, batez ere pasadizo handietan ('astebete geroago', 'ilunabarra zen dagoeneko'...). Horrekin istorioak askoz ere kontrol handiagoa izango du eta irakurlea ez da galduko!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa argia da eta bakoitzak bere ekintza edo une bat du. Ez dago nahasmenik irakurtzeko.",
+          "Lotura-hitzak egokiak dira eta erritmoa ematen dute: 'baina', 'eta', 'ordea', 'beraz'... Oso ondo erabiltzen dituzu!"
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso laburrak dira ('Bi gazte agertzen ziren...' 2 esaldi bakarrik). Gehiago landu zenezake horrelako pasadizoak, edo aurreko paragrafoarekin batu.",
+          "Denbora-koherentzian txikitxo bat: lehenik etxera iristen da, gero 'aste osoa' igarotzen da, eta gero 'sukaldean aurkitu zuen'. Denbora hori markatu gabea gelditzen da. Zerbait gehiago behar luke ('Astebetea igaro ondoren...', 'Azkenean ausardia hartu zuen...')."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitzean gutxienez 3-4 esaldi idazten. Horrek garapenean sakontzeko aukera emango dizu eta idazlana uniformeagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso naturala eta egokia da narrazioan: 'seko gelditu zen', 'dirutza kostatzen zuten', 'malko batzuk isuri zituen'... Oso ondo aukeratu dituzu adierazpenak!",
+          "Mendeko perpausak modu konplexuan erabiltzen dituzu: 'nahiz eta adoptatua izan', 'emakume gazte ilehoria begiratzen'... Horrek testua askoz ere aberatsagoa egiten du!"
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk errepikatzen dituzu asko: 'arrunta/normala' (9 aldiz), 'argazki' (14 aldiz). Sinonimoak erabiltzea oso ona izango litzateke: 'arrunta' → 'ohikoa, komuna'; 'argazki' → 'irudi, erretratu, irudia'.",
+          "Erregistroan zerbait kolokialago jartzen duzu ('ero moduan', 'dirutza'). Hau narrazioan benetan ondo dago, baina kontuz formalagoa behar duen testurik idazten baduzu!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepikapen lexikoak identifikatzeko errepasoa egin. Hitz bat 3 aldiz baino gehiagotan agertzen bada, bilatu sinonimo bat. Hau automatikoki hobetuko zaizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia orokorrean oso ondo kontrolatuta daukazu: 'etorri zen', 'hasi zen', 'aurkitu zuen'... Ia akatsik gabe!",
+          "Deklinabidea ere ondo: 'etxera', 'sotora', 'eskuetan'... Kasuen erabilera zuzen eta naturala duzu!"
+        ],
+        "hobetzekoak": [
+          "Puntuazio-arazoak ditugu, batez ere koma subjektu eta aditz artean: 'Aneri ordea, ez zitzaion axola' → 'ordea' koma artean joan beharko litzateke, baina subjektua ('Aneri') eta aditza ('zitzaion') arteko koma KENDU behar da. Hau askotan errepikatzen duzu.",
+          "Ortografia-akatsak: 'ezagautu' → 'ezagutu', 'erantzunak aurkitzeko' (ondo), baina 'entregatzeko' → euskaraz 'entregatu' existitzen da baina 'eman/eskaintzeko' hobeto litzateke. 'Mingots' → 'mingarri' edo 'mingain' hobeto."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu ondo puntuazioa. Komak subjektu eta aditz artean EZ jarri. 'Ordea', 'gainera', 'halaber' bezalako lotura-hitzak koma artean jarri behar dira (adibidez: 'Nik, ordea, ez dut hala uste'). Hori praktikatuz, akats gehienak desagertuko dira!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=0.86 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Benetan idazlan paregabea idatzi duzu! Istorioa oso originala da, pertsonaia garatu egiten da, eta bukaera oso emotiboak ukitzen du. Maila aurreratua duzu argi eta garbi. Hobekuntza-tarte nagusia puntuazioan dago, batez ere koma-erabilera zuzentzen. Horrekin, bikaintasunera helduko zara! Jarrai horrela, badaukazu benetako idazle baten potentziala!",
+    "lehentasuna": "Puntuazioa: komak subjektu eta aditz artean KENDU, eta lotura-hitzak (ordea, gainera...) koma artean jarri. Arau hau barneratzen duzunean, saltoa nabarmen egingo duzu!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Aneri ordea, ez zitzaion axola",
+        "zuzenketa": "Aneri, ordea, ez zitzaion axola",
+        "azalpena": "Subjektua (Aneri) eta aditza (zitzaion) artean EZ da koma jartzen. 'Ordea' lotura-hitza koma artean joan behar da, baina ez subjektu-aditz artean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia-akatsak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ezagautu",
+        "zuzenketa": "ezagutu",
+        "azalpena": "Grafia okerra: 'ezagutu' da forma zuzena, ez 'ezagautu'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'Arrunta/normala' hitza 9 aldiz errepikatuta",
+        "zuzenketa": "Sinonimoak erabili: 'ohikoa', 'komuna', 'arrunta'",
+        "azalpena": "Hitz bera gehiegitan errepikatzeak testua pobreagoa egiten du. Sinonimoak erabili eta aberastasuna eman."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'Argazki' hitza 14 aldiz errepikatuta",
+        "zuzenketa": "Alternatibak: 'irudia', 'erretratu', 'irudi', 'fotografia'",
+        "azalpena": "Hitz generiko edo errepikatu bat asko erabiltzen denean, testua monotonoa bihurtzen da. Sinonimoak erabili."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz arraro edo zalantzazkoa",
+      "akats_id": "ZL-ORT-4",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "mingots",
+        "zuzenketa": "mingarri / mingain",
+        "azalpena": "'Mingots' ez da forma estandarra batuan. 'Mingarri' edo 'mingain' erabiltzea hobeto."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Mailegu okerra edo zalantzazkoa",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "entregatzeko",
+        "zuzenketa": "emateko / eskaintzeko",
+        "azalpena": "'Entregatu' mailegu bat da gaztelaniatik. Euskaraz 'eman' edo 'eskaindu' hobeto."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 637,
+    "minor": 9,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 1.41,
+    "EP100_pisuduna": 0.86,
+    "EP100_gordina_modelo": 2.67,
+    "EP100_pisuduna_modelo": 2.36,
+    "minor_modelo": 9,
+    "major_modelo": 4,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 4,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 1,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 1,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau DBH4ko ikasle batek idatzia dirudi. Hainbat elementu naturalen aurkitzen dira: 'Anek pentsatzen zuen' bezalako formulazio sinpleak, errepikapenak ('normala zen, arrunta zen'), zenbait akats gramatikalak ('nahiz eta txikia zenean bere guraso bilogikoei buruzko jakin mina eduki'), eta koherentzia falta batzuk narratiban (sotoan dagoena ez dago guztiz argi). Hizkuntza arrunta da, sakoneko hiztegirik gabe. Egitura onargarria da baina ez perfektua: hasiera errepikakorregiak ('arrunta') eta amaiera pixka bat lausotua. Tonua pertsonala da, erreflexioak eta emozioak agertzen dira modu naturalean. Luzera egokia da (700 bat hitz), ez da luzeegia. Kalitatea ez da uniformea: zenbait pasarte hobeto idatziak daude beste batzuk baino. Guztira, gazte baten lan autentikoaren ezaugarriak ditu, IA-k sortutako testu garbi eta perfektuagoaren ezaugarrietatik urrun."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

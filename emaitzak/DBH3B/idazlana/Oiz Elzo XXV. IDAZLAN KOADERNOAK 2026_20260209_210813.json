@@ -1,0 +1,203 @@
+{
+  "kodea": "OIZ ELZO XXV",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo garatuta dago: hasiera argia daukazu (aitak bidaia, aitaren heriotza, orfanatoa), korapiloa (Indonesiara bidaia, bertan bizitzea), eta amaiera koherentea (Red Bull-en proposamena eta ukatzea). Egitura narratiboa bikaina!",
+          "Istorioak xehetasun aberatsak ditu: surf taulak, janarien izenak (dragoi fruta, durian...), tribu-bizitza, umeekin jolasa... Irakurlea zure esperientzian sartzen da eta hori da idazle onaren ezaugarria!"
+        ],
+        "hobetzekoak": [
+          "Narrazioan 'zergatik' gehiago azaldu zenezake: zergatik Frantziako Landes aitak (ez beste leku bat)? Zergatik Austria (zure jatorria)? Xehetasun hauek ematen badituzu, pertsonaia gehiago sakonduko duzu.",
+          "Amaieran Red Bull-en proposamena ukatzen duzu, baina erabaki hori hartzeko prozesua labur azaltzen da. Zure barruko borrokari gehiago lekua emanez gero, narrazioaren klimaxa oraindik indargarriagoa izango litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gertaerak kontatzeaz gain, pertsonaien pentsamenduak eta sentimenduak gehiago agertzen (barneko monologoa). Horrela irakurleak zurekin gehiago konektatuko du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen egitura logikoa da: bakoitzak une narratibo bat adierazten du (hasiera, bidaia, irlara iritsiera, eguneroko bizitza, Red Bull-en proposamena). Hau oso ondo dago narrazioetan!",
+          "Denbora-sekuentzia argia da: 'txikia nintzenean', 'hilabete bat igaro zen', 'urte batzuk igaro ziren', 'egun batez'. Lotura kronologiko hauek testu osoa lotzen dute bikain."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz gehiago erabiltzea falta da: 'gainera', 'hala ere', 'horregatik', 'orduan'... Hitz hauek paragrafo artean koherentzia handiagoa emango lukete.",
+          "Zenbait saltoren bat antzematen da paragrafoen artean: lehen Red Bull aipatu ondoren, zuzenean konpetizioaren amaierara saltatzen zara. Tarteko une bat azaltzeak (adib. konpetizioa nola garatu zen) salmena saihestuko luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bat amaitu eta beste bat hastean lotura-hitz bat jartzen ('hala ere', 'gainera', 'ondoren'...). Honek irakurketa fluidoagoa egingo du!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da narrazioa baterako: 'olatu erraldoi', 'ur garden-gardena', 'arratsalde gorrizta', 'tuboaren barnean', 'ortuataz okupatu'... Xehetasun hauek kalitatea ematen diote zure testuari!",
+          "Perpaus-egitura konplexuak modu naturalean erabiltzen dituzu: mendeko perpausak ('Aita hil zenetik'), erlatibozkoak ('ikusi nuen Indonesia paraisoa zela'), baldintzazkoak ('Ahala bazan edo ez bazan'). Maila altua da hau DBH3 batean!"
+        ],
+        "hobetzekoak": [
+          "Zenbait errepikapen lexiko badago: 'oso ona/zoragarria' errepikatzen da hainbat aldiz. Erabili sinonimoak: 'primerakoa', 'aparta', 'harrigarria', 'paregabea'...",
+          "Gaztelaniaren eragina antzematen da zenbait lekutan: 'oso ona eman zidaten' (harrera ona egin), 'diru mordoa' (diru asko), 'gosatzen' (gozatzen). Hauek ez dute komunikazioa eragozten baina erregistroa formal bihurtu nahi baduzu, batuagoak dira beste aukera batzuk."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu adjektibo berdin-berdinak errepikatu ordez, sinonimoak bilatzen. Hiztegia aberasten baduzu, maila gorena lortuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema orokorrean ondo kontrolatzen duzu: NOR-NORK ('eraman ninduen', 'hartu nuen'), NOR-NORI-NORK ('eman zidaten', 'esan zidan'). Hau ez da erraza eta benetan ondo egin duzu!",
+          "Ortografia ona da oro har: hitz gehienak zuzen daude eta irakurketa erraza egiten da. Hau garrantzitsua da!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 6 aldiz ahaztu duzu testuan. Hau da akatsik ohikoena eta garrantzitsuena: subjektua NOR-NORK aditzetan -K behar du. Adibidea: 'Aitak eraman' (ondo), baina 'duriam usain txarra du' → 'duriamEK usain txarra dU' (plurala, beraz -EK).",
+          "Aditz-adostasuna pluralean: 'umeen barreekin izartu nintzen' (ondo singularra), baina 'duriamek usain txarra du' → 'duriamek usain txarra DUTE' (plurala)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, berrikusi esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K/-EK jarri. Sistema sinple horrekin akats hauek desagertuko dira!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=2.41 (aurreratua, tartea 7-8). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain idatzi duzu! Narrazioa koherentea da, hasiera-korapilo-amaiera egiturarekin, eta hiztegia aberatsa duzu. Istorioak xehetasun ederrak ditu eta irakurlea barnean sartzen du. Hobetzeko arloa ZL da: ergatiboa (-K/-EK) eta aditz-adostasunak zuzendu behar dituzu, baina gainontzean oso maila ona daukazu. Jarraitu horrela!",
+    "lehentasuna": "Ergatiboa (-K/-EK): NOR-NORK aditzetan subjektuak beti -K behar du (singularra) edo -EK (plurala). Hau praktikatu eta gora zu!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-k/-ek)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Duriamek usain txarra du",
+        "zuzenketa": "Duriamek usain txarra dute",
+        "azalpena": "Subjektua plurala denean (duriamEK), aditzak ere plurala izan behar du: du (berak) → dute (haiek). Ergatiboa -EK da pluralean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-adostasuna — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "denak tuboak egiten denak",
+        "zuzenketa": "denak tuboak egiten dituzte",
+        "azalpena": "Subjektua plurala denean (denak = haiek), aditzak ere plurala behar du. 'Egin' → 'egiten dituzte' (objektua plurala denean)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Orain surfa egiteko unea zen",
+        "zuzenketa": "Orain, surfa egiteko unea zen",
+        "azalpena": "Lotura-hitz bat ('orain', 'orduan', 'gero'...) esaldiaren hasieran jartzean, koma behar du ondoren."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "utzi zidan diruarekin arropak ordaindu nituen",
+        "zuzenketa": "Aitak utzi zidan diruarekin arropak, surf taula eta bi hegazkin txartel ordaindu nituen",
+        "azalpena": "Euskaraz ordena naturala SOV da: subjektua + objektua + aditza. Objektua ('arropak') aditzaren aurretik joan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko lexikoa",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "diru mordoa",
+        "zuzenketa": "diru asko / diru pilo bat",
+        "azalpena": "'Diru mordoa' gaztelaniazko 'un montón de dinero' kalko zuzena da. Euskaraz 'diru asko' edo 'diru pilo bat' naturalagoak dira."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "haibeste",
+        "zuzenketa": "hain beste",
+        "azalpena": "Euskaraz 'hain beste' bi hitz dira, ez 'haibeste' bat. Kontuz hitz-elkarketa honekin."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "categoria": "Puntuazioa — esaldi bukaera puntua falta",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "turistarik ez,...",
+        "zuzenketa": "turistarik ez.",
+        "azalpena": "Esaldi bat amaitzerakoan puntua jarri behar da. Koma gehiegi jartzeak 'run-on' esaldiak sortzen ditu."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 582,
+    "minor": 11,
+    "major": 10,
+    "critical": 0,
+    "EP100_gordina": 5.33,
+    "EP100_pisuduna": 2.41,
+    "EP100_gordina_modelo": 4.6,
+    "EP100_pisuduna_modelo": 3.4,
+    "minor_modelo": 11,
+    "major_modelo": 9,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Hainbat akats ortografiko eta gramatikalak agertzen dira naturaltasunez ('dauzkat' / 'ditut', 'nasi-goreng', 'ortuataz', 'ospa egin', 'haibeste'). Hiztegi maila DBH ikasle batentzat egokia da, ez da C1/C2 mailako hitzik agertzen. Egitura, nahiz eta sarrera-garapena-ondorioa izan, ez da perfektua - errepikapen batzuk daude eta trantsizio batzuk naturalak dira baina ez profesionalak. Tonua oso pertsonala da, emozio eta esperientzia biziarekin. Luzera egokia da (600 hitz inguru). Amaierako esaera herrikoiak ('Ahala bazan edo ez bazan...') DBH ikasle baten ezaugarri tipikoa da. Narratzailea lehen pertsonan kontatua, esperientzia pertsonala, familia eta abentura elementuekin - guztiz naturala DBH4 mailan. IAk ez lituzke hainbeste akats espezifiko egingo euskaraz."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

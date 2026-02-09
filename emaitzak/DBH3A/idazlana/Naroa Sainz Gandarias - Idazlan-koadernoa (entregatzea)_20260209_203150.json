@@ -1,0 +1,191 @@
+{
+  "kodea": "NAROA SAINZ GANDARIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio bikaina kontatu duzu! Egitura argia du, hasiera-korapiloa-amaiera ondo garatuta, eta pertsonaiak garatzen dituzu (Izaro, Sara, James). Oso interesgarria da Izaroren eboluzioa eta gero Saratik besteen laguntza.",
+          "Narrazioak zentzua du, irakurlea erakartzen du eta amaiera ondo lotuta dago hasierarekin. Irakurri ondoren zerbait sentitu dut: hori da istorio on baten seinale!"
+        ],
+        "hobetzekoak": [
+          "Elkarrizketako zatia (Ben-en hitzak gaztelaniaz) ez da narrazioaren parte: nahi baduzu, laburtu ezazu zuzenean eta euskaraz kontatu. Horrela koherentzia handiagoa izango luke.",
+          "Denbora-salto batzuk azkaregiak dira: 'Bi aste geroago', 'Urte bat beranduago', '6 hiletako entrenamenduak'... saiatu denbora-trantsizioak laburragoak egiten edo gehiago lotzen, irakurleak jarraituta egon dadin."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu elkarrizketa-zatiak EUSKARAZ idazten, narrazioaren barruan txertatuta. Horrek naturalagoa egingo du testua eta koherentzia handiagoa izango du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narrazio klasikoa ondo jarraitzen duzu: aurkezpena (Izaroren haurtzaroa) → garapena (desgaitasuna, entrenatzailea, arrakasta, Sara, finala) → amaiera (torneoa irabaztea).",
+          "Paragrafoen banaketa argia da eta bakoitzak ideia nagusi bat du. Oso ondo kudeatzen dituzu denbora-trantsizioak ('Egun batean', 'Handik aste batera', 'Bi hile eta gero')."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz gehiago erabil zenitzake. Darabiltzazunak zuzena dira baina askotan 'eta' errepikatzen duzu esaldien artean. Erabili 'gainera', 'hala ere', 'ondoren', 'bitartean', 'horrez gain'... testua askoz ere koherenteagoa izango da!",
+          "Paragraforen bat luzeegia da (lehen paragrafoak 6 lerro, azken biak 10 inguru). Saiatu ideiak gehiago banatzen: paragrafo bakoitza 4-6 lerro artean egoten bada, irakurlearentzat erosoagoa da."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz DESBERDINAK erabiltzen esaldi bakoitzean. Ipini esaldi bat amaitu ondoren eta galdetu: 'Nola lotu daiteke hurrengoarekin?'. Hori eginda, koherentzia-maila igoko zaizu ziur!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia nahikoa aberatsa da narrazioa jarraitzeko: 'miresten', 'teknika berriak', 'ilusio handia', 'ojeador', 'potencial', 'etsi', 'urduri'... hitz hauek maila ona ematen dute.",
+          "Erregistroa egokia da narraziorako: naturalitatea daukazu kontatzen eta irakurleari interesa ematen diozu."
+        ],
+        "hobetzekoak": [
+          "Egitura gehienak oso sinpleak dira: subjektua + aditza + osagarria. Animatu zaitez egitura konplexuagoak erabiltzen! Baldintzak ('Baldin... ba...'), kausazkoak ('...lako'), erlatibozkoak ('...dudan/duen')... horiek gehituz, testua askoz aberatsagoa izango da.",
+          "Errepikapena nabarmena da batzuetan: 'oso' (18 aldiz!), 'asko' (17 aldiz), 'pozik' (9 aldiz). Erabili sinonimoak: 'oso' → 'benetan', 'erabat', 'guztiz'; 'asko' → 'ugari', 'ia'; 'pozik' → 'alai', 'zorionez', 'kontent'. Hori eginda, BLH igotzeko bidean!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasa itzazu zure esaldiak. Hautatu 3-4 esaldi eta konplexuago egin: gehitu 'zeren...lako', 'nahiz eta...', '-tzen ari zen bitartean'... Horrek zure maila jauzi bat egingo du!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Oinarrizko gramatika ondo erabiltzen duzu gehienetan: aditz-aldia, NOR-NORK sistema, kasuen gehiengoa... Testua ulergarria da eta akatsek ez dute irakurketa oztopatzen.",
+          "Ortografia ona da orokorrean, typo gutxi eta hitz-banaketarekin ez daukazu arazorik."
+        ],
+        "hobetzekoak": [
+          "Gerundio erderakadak daude (6 aldiz): 'erakutsitz', 'begiratzen zebilela'... Euskaraz 'erakutsiz' ERE onartzen da baina hobeto da bi esaldi egin: 'teknika berriak erakutsi zion: pase onak egiten...'. Horrela naturalagoa da.",
+          "Aditz-komunztadura: 'gurasoak asko poztu ziren' / 'neskak ere pozik zeuden' → zuzena. Baina: 'denak zeuden oso pozik' → zuzena DA baina oso errepikatzen duzu 'pozik zeuden/ziren'. Aldatu: 'poztu ziren', 'alai zeuden', 'kontent geratu ziren'."
+        ],
+        "feed_forward": "Hurrengo aldian, gerundiorik idazten duzunean (-tzen/-ten), gelditu eta pentsatu: 'Hau bi esaldi egin daiteke?'. Erantzuna baietz bada, bi esaldi egin! Sistema sinple horrekin gerundio erderakadak desagertuko dira."
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=0.33 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Primeran egin duzu lana, benetan! Narrazioaren edukia polita da, istorioa erakartzen du eta pertsonaiak garatuta daude. Egitura argia du eta koherentzia ona. Hobetzeko tartea BLH-n dago batez ere: egitura konplexuagoak eta errepikapen gutxiago. Gerundio erderakada batzuk zuzendu eta gora zu!",
+    "lehentasuna": "Gerundio erderakadak saihestea: '-tzen ari zen' edo bi esaldi egin. Hori da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Gerundio erderakada",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 6,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "teknika berriak erakutsitz",
+        "zuzenketa": "teknika berriak erakutsi zion: pase onak egiten, penaltiak tiratzen...",
+        "azalpena": "Gaztelaniazko gerundioa (-ando/-iendo) euskarara -z eraman ohi da, baina askotan ez da zuzena. Bi esaldi egin eta kito: 'erakutsi zion' + 'pase onak egiten', edo '-tzen ari zen' egitura erabili."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'oso' hitza 18 aldiz, 'asko' 17 aldiz, 'pozik' 9 aldiz",
+        "zuzenketa": "'oso' → 'benetan', 'erabat'; 'asko' → 'ugari', 'ia'; 'pozik' → 'alai', 'zorionez'",
+        "azalpena": "Hitz berberak errepikatzen dira gehiegitan. Erabili sinonimoak: hori da hiztegia aberasteko bidea!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz eskasak",
+      "akats_id": "OK-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'eta' juntagailua gehiegitan erabiltzen da esaldien artean lotura egiteko",
+        "zuzenketa": "Erabili lotura-hitz gehiago: 'gainera', 'hala ere', 'ondoren', 'bitartean', 'horrez gain'",
+        "azalpena": "Esaldiak lotzeko 'eta' bakarrik erabiltzeak koherentzia ahultzen du. Lotura-hitz anitzagoak erabili behar dira testua naturalagoa izateko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Paragrafo luzea",
+      "akats_id": "OK-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Azken bi paragrafoak 10 lerro inguru dituzte",
+        "zuzenketa": "Banatu ideiak 2-3 paragrafotan, bakoitza 4-6 lerro artean",
+        "azalpena": "Paragrafo luzeak irakurlearentzat neketsuenak dira. Saiatu ideia bakoitza paragrafo batean jarri, 4-6 lerro artean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lokailuaren ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Handik aste batera Ben-ekin elkartu zen",
+        "zuzenketa": "Handik aste batera, Ben-ekin elkartu zen",
+        "azalpena": "Lotura-hitzen ostean ('handik aste batera', 'egun batean', 'bi hile eta gero'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Konplexutasun sintaktiko eskasa",
+      "akats_id": "LH-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Esaldien gehiengoa egitura sinplekoak dira (S-O-A)",
+        "zuzenketa": "Saiatu egitura konplexuak erabiltzen: baldintzak ('baldin... ba...'), kausazkoak ('...lako'), erlatibozkoak ('...duen/dudan')",
+        "azalpena": "Narrazioetan egitura konplexuagoak erabiltzeak testua aberatsagoa egiten du. Animatu zaitez mendeko perpausak eta egitura konplexuak erabiltzen!"
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 917,
+    "minor": 9,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.98,
+    "EP100_pisuduna": 0.33,
+    "EP100_gordina_modelo": 2.4,
+    "EP100_pisuduna_modelo": 1.8,
+    "minor_modelo": 9,
+    "major_modelo": 6,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats naturalak ugari daude: 'erakutsitz' (erakutsiz), 'etrenatzailea' (entrenatzailea), 'entrenamnduko' (entrenamenduetako), 'nibel' (maila), 'itzeleko' (itsasoko? itzela?), 'kontzientzia garbia' (ez da egokia testuinguru horretan). Hiztegia DBH mailakoa da, ez dago C1/C2 mailako hitzik. Egitura oinarrizkoa da baina ez perfektua: kontaketa lineala da, transizio sinpleekin. Tonua naturala da, gaztearen kontaketa estiloarekin. Luzera (900 hitz inguru) luzea bada ere, ipuin/narraziorako normala da DBH4n. Akats-patroia oso naturala da: ortografia akatsak, interferentziak gazteleratik (perpausak gazteleraz), errepikapenak. Kalitatea uniformea da baina 'uniformitate naturala' da, ez perfekzioa. Izen-abizena goiburuan, norbaiten lan akademikoa da argi eta garbi."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

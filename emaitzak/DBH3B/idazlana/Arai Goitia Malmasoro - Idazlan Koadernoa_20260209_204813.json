@@ -1,0 +1,229 @@
+{
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: 1/3 - Akatsak badaude, batez ere kasu-marketan eta puntuazioan",
+      "S2: 0/3 - Hiztegia DBH3 maila baterako naturala da",
+      "S3: 1/3 - Egitura ona baina ez perfektua; narrazioa behar bezala garatuta",
+      "S4: 0/3 - Tonua oso pertsonala da, esperientzia subjektiboa kontatzen",
+      "S5: 0/3 - Luzera (965 hitz) egokia da DBH3 narraziorako",
+      "S6: 2/3 - Akats-patroi naturalak: kasu-marka errepikatuak, puntuazio-akatsak, interferentzia batzuk",
+      "S7: 0/3 - Kalitatea ez da uniformea: hasiera sendo, erdian garapen ona, bukaeran errepikapenak"
+    ],
+    "oharrak": "IA_probabilitatea BAXUA (< 25%). Testua egiazko ikasle batek idatzitakoa dirudi. Ebaluazioarekin jarraitu."
+  },
+  "kodea": "ARAI GOITIA MALMASOR",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo garatuta dago! Egitura argia duzu: sarrera intrigarekin ('NOR NAIZ?'), korapiloa ('nire exa jarraitzen ninduen'), eta amaiera irekia emozio-kargarekin. Ttak!",
+          "Testuingurua ondo ezarri duzu: pertsonaia (Ane), lekua (diskoteka, taberna, zubia), denbora-erritmoa... Irakurleak istorioa jarraitu ahal du erraz eta intrigarekin."
+        ],
+        "hobetzekoak": [
+          "Erdiko zati batzuetan errepikapena dago: 'beldurra', 'bihotz-taupadak', 'ez nekien' esapideak askotxo errepikatzen dira. Hori intentzionala izan daiteke (intentsitatea igotzeko), baina noizean behin sinonimoak edo beste modu bat erabiltzea hobea da: 'izua', 'larritasuna', 'ezin pentsatu', 'burutik atera ezin nuen'...",
+          "Bukaeran errepikapen semantikoa dago: 'ez nuen inoiz ahaztuko' eta antzeko ideiak 2-3 aldiz agertzen dira. Amaiera indartsua izateko, ideia bat hartu eta HORI azpimarratu modu bakarrean."
+        ],
+        "feed_forward": "Hurrengo aldian, istorioa idatzi ondoren, errepasatu eta esaldi antzekoak bilatu. Bakoitzean, galdetu: hau errepikapena da ala gehitzen du zerbait? Errepikapena bada, aldatu edo kendu. Horrekin nota 9-10 tartean harrapatuko duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da eta narrazioaren erritmoa ondo markatuta dago: egoera normala → korapiloa → gailurra → amaiera. Oso ondo!",
+          "Denbora-markatzaileak ongi erabiltzen dituzu: 'Goizean', 'Arratsaldean', 'Horduak azkar pasatu ziren', 'Une horretan'. Horrek testua egituratzen laguntzen du."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz gutxi erabiltzen dituzu: gehienetan 'eta' eta 'baina' errepikatzen dituzu. Erabili gehiago: 'hala ere', 'ordea', 'horregatik', 'hori dela eta', 'gainera'. Adibidez: 'Lagunek laguntza eskeini zidaten, baina ez nuela behar erantzun nien. Ordea, oso oker nengoen.' → 'Ordea' hobeak lotzen du kontrastea.",
+          "Zenbait paragrafoan ideia batzuk deskonektatuta daude: 'Bazioen egun batzuk...' paragrafoa ez da ondo lotzen aurrekoarekin. Trantsizio bat falta da: 'Egun hartatik aurrera' edo 'Istripuaren ondoren'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, begiratu paragrafo bakoitzaren arteko trantsizioak. Paragrafo berrira pasatzean, lotura-hitz bat jarri (ordea, hala ere, horrez gain...) eta irakurleak jarraituko du arazoak gabe!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia naturala da eta emozio-baliabideak ondo erabiltzen dituzu: 'bihotz-taupadak', 'dardarka', 'bildurraren bildurrez', 'ilunpetan'. Horiek indar narratiboa ematen diote testuari!",
+          "Zenbait egitura konplexu erabiltzen dituzu: 'naiz eta jakin ez zidala kasurik egingo', 'ahal nuena egin'. Hori oso positiboa da BLH-n."
+        ],
+        "hobetzekoak": [
+          "Baliabide batzuk errepikatzen dituzu: 'ez nekien' 8 aldiz agertzen da gutxi gorabehera. Aldatu noizean behin: 'ezin pentsatu', 'zalantzatan nengoen', 'burutik kendu ezin nuen'.",
+          "Aditz batzuk errepikatzen dituzu: 'sentitu' 5 aldiz. Erabili sinonimoak: 'nabaritu', 'ohartu', 'sumatu', 'kontuan hartu'."
+        ],
+        "feed_forward": "Hurrengo aldian, hitz bat 3 aldiz baino gehiagotan erabiltzen duzunean, bilatu sinonimo bat eta aldatu. Hiztegia aberasteak zuzenean BLH nota igotzen dizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia nahiko ongi kontrolatuta duzu orokorrean: 'nengoen', 'nuen', 'ziren', 'nintzen'... NOR-NORK sistema ondo erabiltzen duzu gehienetan.",
+          "Ortografia ona da orokorrean eta testua ulergarria da akatsak gorabehera."
+        ],
+        "hobetzekoak": [
+          "Kasu-marka batzuk ahazten dituzu: 'banekielako' → 'banekiElako', 'behar nituen' → 'behar niTUELAko', 'jarraitzen ninduen' → 'jarraitzen ninDUEN'. Adi konpletiboa (-la/-enik) eta erlatiboa (-(e)n) ez nahastu!",
+          "Puntuazioan: esaldi batzuk oso luzeak dira koma faltarekin. 'Lagunek etxerako bidean laguntzea eskeini zidaten baina ez nuela behar erantzun nien egunero egiten nuen, zer gertatu ahal zitzaidan?' → 'Lagunek etxerako bidean laguntzea eskeini zidaten, baina ez nuela behar erantzun nien. Egunero egiten nuen, zer gertatu ahal zitzaidan?'"
+        ],
+        "feed_forward": "Hurrengo aldian, errepasatu esaldi luzeak eta zatitu bi esalditan bai puntua, bai koma jarriz. Eta mendeko perpausetan, begiratu -(e)la atzizkia jarri behar duzun (konpletiboa): 'jakin zidala', 'zegoen'. Hori praktikatuz, akats horiek desagertuko dira!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.71 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain idatzi duzu narrazio hau! Egitura argia duzu, pertsonaiak ondo garatuta, eta irakurleari intriga ematen diozu hasieratik. DBH3 mailan oso lan sendo da. Hobetzeko eremu nagusia errepikapenak murriztea da (hitzak eta ideiak), eta puntuazioa lantzea esaldi luzeetan. Kasu-marketan arreta handiagoa jarrita, 8-9 tartean sartuko zara erraz!",
+    "lehentasuna": "Errepasatu esaldiak eta hitz errepikatuak bilatu. Bakoitzean, aldatu sinonimoz edo berregituratu esaldia. Hori eginda, BLH eta AK irizpideetan gora egingo duzu!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Konpletiboa (-la/-enik) falta",
+      "akats_id": "ZL-SIN-4",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "banekielako zerbait oso gaizki egin nuela",
+        "zuzenketa": "banekiElako zerbait oso gaizki egin nuela",
+        "azalpena": "Aditz batzuek -(e)la atzizkia behar dute mendeko perpausetan konpletiboa adierazteko: 'jakin', 'ikusi', 'pentsatu', 'esan'. Hemen: 'banekien' + '-lako' → 'banekiElako'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erlatiboa (-(e)n) vs konpletiboa (-la) nahasketa",
+      "akats_id": "ZL-SIN-4",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "jarraitzen ninduen norbait",
+        "zuzenketa": "jarraitzen ninDUEN norbait",
+        "azalpena": "Erlatiboa denean (norbait modifikatzen duenean), -(e)n atzizkia behar da, ez -la. 'Jarraitzen ninduen' (iragana) → 'jarraitzen ninDUEN' (erlatiboa)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta esaldi luzeetan",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Lagunek etxerako bidean laguntzea eskeini zidaten baina ez nuela behar erantzun nien egunero egiten nuen",
+        "zuzenketa": "Lagunek etxerako bidean laguntzea eskeini zidaten, baina ez nuela behar erantzun nien. Egunero egiten nuen.",
+        "azalpena": "'Baina' lotura-hitzaren aurretik koma jarri behar da, eta esaldi oso luzeak puntuz zatitu. Run-on esaldiak saihesteko, 15-20 hitz baino gehiago badira, zatitu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Egia esan hobe da",
+        "zuzenketa": "Egia esan, hobe da",
+        "azalpena": "Lotura-hitz edo esaldi-hasierako lokailuen ondoren koma jarri behar da: 'egia esan', 'nire ustez', 'adibidez', 'hala ere'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Letra larriak izen propioen ondoren",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Kaixo, Ane naiz",
+        "zuzenketa": "Kaixo, Ane naiz (ondo — Ane izen propioa da)",
+        "azalpena": "Izenak letra larriz hasi behar dira. 'Ane' ondo dago. Baina, 'ane' ez da zuzena hasieran baino."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Espazio/puntuazio hutsak",
+      "akats_id": "ZL-PUN-7",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "behar nituen.                                    —Utzi nazazu",
+        "zuzenketa": "behar nituen.\n—Utzi nazazu",
+        "azalpena": "Elkarrizketetan, marratxoak lerro berri batean hasi behar dira, espazio gehiegirik gabe."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerrak (typo edo nahasketa)",
+      "akats_id": "ZL-ADI-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ez esan zidana",
+        "zuzenketa": "esan zidana (edo: ez zidana esaten)",
+        "azalpena": "'Ez esan zidana' anbiguoa da. Erlatiboa bada: 'esan zidana' (positiboa) edo 'ez zidana esaten' (ezezkoa)."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Hitz-elkarketa (typo batzuk)",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "estroputz egin",
+        "zuzenketa": "estropezu egin",
+        "azalpena": "'Estropezu' da forma zuzena (ez 'estroputz'). Typo bat dirudi."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 965,
+    "minor": 12,
+    "major": 11,
+    "critical": 0,
+    "EP100_gordina": 3.52,
+    "EP100_pisuduna": 1.71,
+    "EP100_gordina_modelo": 3.3,
+    "EP100_pisuduna_modelo": 2.9,
+    "minor_modelo": 10,
+    "major_modelo": 11,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua DBH4ko ikasle batek idatzia dirudi. Akats naturalak agertzen dira: 'banekielako' (banekilako), 'bezte' (beste), 'itz' (hitz), 'azken gauza hori berriro ikustea zen' (ikusi), 'horduak' (orduak), 'ahurrera' (ihurrera?), 'baxuago ateraz' (ateratzean), etab. Hizkera naturala da, pertsonalitate eta emozio handikoa. Egitura orokorrean koherentea bada ere, ez da artifizialki perfektua - trantsizio naturalak ditu eta errepikapenak. Hiztegia maila egokia da DBH4rako, ez dago C1/C2 mailako hitz korapilatsurik. Luzera (960 hitz inguru) pixka bat luzea da baina ez da ezohikoa narrazioan murgildutako ikasle batean. Akats-patroi naturalak agertzen dira sistematikoki. Kalitatea ez da uniformea: zenbait atal landuagoak dira eta beste batzuk naturalagoak."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

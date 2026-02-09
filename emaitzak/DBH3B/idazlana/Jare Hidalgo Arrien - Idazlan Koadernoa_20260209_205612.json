@@ -1,0 +1,227 @@
+{
+  "kodea": "JARE HIDALGO ARRIEN",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioa oso ondo kontatu duzu! Narrazioaren egitura perfektua da: sarrera (ametsaren jatorria), korapiloa (bidaia prestaketa eta garapena), eta amaiera (etxeratzea eta hurrengo bidaiaren ametsarekin bukatuta). Ideia primerakoa!",
+          "Xehetasun ugari dituzu eta esperientzia pertsonala oso ondo transmititu duzu: sentimenduak, pentsamenduak, anekdotak... Irakurleari irudiak sortzen dizkiozu buruan. Bikain!"
+        ],
+        "hobetzekoak": [
+          "Batzuetan narrazioa azalekoa bihurtzen da: 'Central Parkean ibili ginen' edo 'dendetara joan ginen' bezalako pasadizoak gehiago garatu zenezakeen. Adibidez: zer ikusi zenuten? Nola sentitu zineten? Zein une bat bereziki gogoan duzu? Xehetasun sentsorial gehiago emango lukete kolorea testuari.",
+          "Amaiera pixka bat lausoa da. 'Hurrengo bidaiarekin amestu nuen' esaten duzu baina ez duzu esaten zein den helmuga. Misterioa sortu nahi baduzu, ondo dago, baina irakurleari koska bat utziko zenion helmuga hori aipatuz (adib. 'Tokyo'ren argiekin amestu nuen' edo antzekoa)."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu pasadizo bakoitza 'erakusten', ez soilik 'kontatzen'. Adibidez, 'Times Square ikusgarria zen' ordez: 'Times Squareko pantaila erraldoiek argi ugaria botatzen zuten, gure aurpegiak kolorez betetzen zituztenak, eta jendea gelditu egin ginen, ahoa zabalik, begira'. Hori da bidea!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da eta koherentzia narratiboa oso ona: hasieratik bukaeraraino istorioak fluxua dauka. Oso ondo!",
+          "Lotura-hitz desberdinak erabili dituzu eta ondo txertatuta daude: 'baina', 'azkenean', 'hurrengo egunetan', 'zoritxarrez'... Horrek testu arina eta irakurgarria egiten du."
+        ],
+        "hobetzekoak": [
+          "Batzuetan trantsizio bat falta da paragrafo baten eta bestearen artean. Adibidez, 4. paragrafoan 'Hotelera iritsi...' hasita bertan salto bat dago aurreko paragrafoarekin. Lotura-hitz bat gehitu zenezakeen: 'Taxitik jaitsi eta hotelera iritsi ginenean...' edo antzekoa.",
+          "Laugarren paragrafoa oso luzea da (12 lerro inguru). Bi paragrafotxotan banatu zenezakeen: bat Times Square eta gaueko ibilaldiarekin, eta bestea pizzarekin. Horrela irakurlea ez da nekatzen eta arnasa hartzen du."
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo bakoitza idatzi ondoren, galdetu zeure buruari: aurreko paragrafotik nola pasatzen naiz honetara? Lotura bat behar bada, gehitu 'ondoren', 'horrekin batera', 'egun berean'... bezalako adierazpenak. Horrek testua askoz fluidoago egingo du!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da eta hitz egokiak erabiltzen dituzu: 'izugarria', 'ikusgarria', 'agobiatu', 'lasaitasuna ematen du'... Sentimenduak eta deskribapenak ondo adierazten dituzu!",
+          "Perpaus-egitura konplexuak erabiltzen dituzu: erlatibozkoak ('zeuden egunetako bat'), kausazkoak ('erosi nituen gauzengatik'), baldintzak ('betirako biziko nintzateke bertan, baina...')... Primeran!"
+        ],
+        "hobetzekoak": [
+          "Zenbait errepikapen lexiko nabarmentzen da: 'oso' hitza 10 aldiz baino gehiagotan agertzen da ('oso urduri', 'oso luze', 'oso polita', 'oso ongi'...). Erabili alternatibak: 'benetan', 'izugarri', 'biziki', 'ikaragarri'... edo kendu eta adjektiboa bakarrik utzi.",
+          "Hitz generikoak gehiegi: 'gauza' 5 aldiz ('gauza txar bakarra', 'turisten gauza tipikoak', 'erosi nituen gauzengatik'...). Zehaztu gehiago: 'arazoa', 'jarduerak', 'erosketak'... Horrekin gailuagoa izango zara!"
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, bilatu testuan 'oso' eta 'gauza' hitzak eta ordezkatu ditzazu. Sinonimoen zerrenda bat idatzi kontsulta dezakezuna: oso → benetan/ikaragarri/biziki; gauza → elementua/kontua/produktua/jarduera/arazoa... Txantxangorri!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema ondo kontrolatuta duzu orokorrean: NOR-NORK forma gehienak zuzen ('atera genituen', 'hartu genuen', 'erosi genituen'). Oso lan ona!",
+          "Deklinabidea nahiko ondo erabiltzen duzu: 'airepotuan', 'hotelera', 'kalean', 'New Yorken'... Kasu-markak gehienetan zuzenak dira. Primeran!"
+        ],
+        "hobetzekoak": [
+          "Akats ohikoena ergatiboa (-k) ahaztea da: 8 aldiz gertatu da ('Junek serio jarraitu zuen' → 'Juni serio jarraitu zuen', 'Emakumeak hasieran' → 'Emakumeak hasieran', etab.). Gogoratu: NOR-NORK aditza denean, subjektuak -K behar du beti. Hau da lehentasun nagusia!",
+          "Puntuazioan akats batzuk: koma falta lotura-hitzen ondoren ('Hasieran txantxa' → 'Hasieran, txantxa') eta subjektu eta aditz artean komak gehiegi ('Ane gurekin zetorren, bera da' → 'Ane gurekin zetorren. Bera da' edo 'Ane, gurekin zetorrena, ingelesez...')."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren esaldi bakoitza berrikusi eta galdetu: aditza NOR-NORK da? (ikusi/atera/hartu/esan/egin...?). Baietz bada, subjektuari -K jarri. Sistema sinple honekin ergatiboaren akatsa desagertuko da. Badaukazu maila hori harrapatzeko, bai!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.53 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Benetan ondo idatzitako narrazioa da hau, zorionak! Istorioa koloretsu eta interesgarria da, eta irakurleari esperientzia transmititzen diozu oso modu naturalean. Egitura argia du eta idazkera jatorra duzu. Hobetzeko arlo nagusia ZL da, batez ere ergatiboa (-K). Hori konpondu eta testu bikaina izango duzu, bai!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Honek 6tik 8ra igoko zaitu ZL-n!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Junek, nire lagunik onenak, bat-batean esan zuen",
+        "zuzenketa": "Juni, nire lagunik onenak, bat-batean esan zuen",
+        "azalpena": "Aditza NOR-NORK denean (esan → nork esan?), subjektuak ergatiboa behar du: Jun + -ek = Juni. Baina izen propioak -k soilik hartzen du: Jun → Juni (bokal + -i, kontsonante + -ek)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — singularra/plurala nahasketa",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Maletak ia ez zitzaizkigun maleteroan sartzen",
+        "zuzenketa": "Maletak ia ez zitzaizkigun sartu maleteroan",
+        "azalpena": "Aditz perifrastikoetan (aditz nagusia + laguntzailea) 'ez zitzaizkigun sartu' forma zuzena da. 'Sartzen' progresiboarekin nahastuta egon daiteke."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 6,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hasieran txantxa bat zela uste nuen",
+        "zuzenketa": "Hasieran, txantxa bat zela uste nuen",
+        "azalpena": "Lotura-hitzen ondoren ('hasieran', 'azkenean', 'egia esan', 'zoritxarrez'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma okerra perpausaren barruan",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Eskerrak Ane gurekin zetorren, bera da ingelesez hoberen moldatzen dena",
+        "zuzenketa": "Eskerrak Ane gurekin zetorren. Bera da ingelesez hoberen moldatzen dena.",
+        "azalpena": "Kasu honetan bi esaldi independente dira eta puntuz banatu behar dira. Bestela, 'Eskerrak Ane, gurekin zetorrena, ingelesez hoberen moldatzen dena' bezala apositibotzat har daiteke."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua — 'oso' hitzarekin",
+      "akats_id": "LH-1",
+      "kopurua": 12,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "oso urduri / oso luze / oso polita / oso ongi...",
+        "zuzenketa": "benetan urduri / izugarri luze / oso polita / bikain...",
+        "azalpena": "'Oso' errepikatzen da testu osoan 12 aldiz. Erabili alternatibak: benetan, izugarri, ikaragarri, biziki, asko... edo kendu eta adjektiboa bakarrik utzi."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera — 'gauza'",
+      "akats_id": "LH-2",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gauza txar bakarra / turisten gauza tipikoak / erosi nituen gauzengatik",
+        "zuzenketa": "arazoa / turisten jarduerak / erosi nituen erosketengatik",
+        "azalpena": "'Gauza' hitz generikoa da eta zehaztasuna falta du. Ordezkatu zehatzagoekin: arazoa, kontua, elementua, jarduera, produktua, erosketak..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko lexikoa",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "aprobetxatzea / agobiatu",
+        "zuzenketa": "aprobetxatu → baliatzea; agobiatu → larrialditan/urduritu",
+        "azalpena": "'Aprobetxatu' eta 'agobiatu' gaztelaniatik datozen maileguak dira. Euskaraz: aprobetxatu → baliatu/aprobetxatu (batuan onartuak biak); agobiatu → larrialditan egon/urduritu/burdina eman."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa — SOV arauaren haustea",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "es nintzen lehio ondotik mugitu",
+        "zuzenketa": "ez nintzen lehio ondotik mugitu (lehio ondoan mugitu gabe egon nintzen)",
+        "azalpena": "Euskaraz SOV (Subjektua-Objektua-Aditza) ordena da. 'Mugitu ez nintzen' naturalagoa litzateke baina 'ez nintzen mugitu' ere onartzen da. 'Es' ez da existitzen; 'ez' da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo / Ortografia",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "es nintzen / espaloi / sarratzea / piperrik",
+        "zuzenketa": "ez nintzen / espaloi (ondo, zuzena da) / sartzea / piper",
+        "azalpena": "'Es' → 'ez' (ezezkoa beti 'z' amaierakoa). 'Sarratzea' → 'sartzea'. 'Piperrik' → 'piper ere' edo 'ezer ere'. 'Espaloi' zuzena da (eserlekua kalean)."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 883,
+    "minor": 18,
+    "major": 10,
+    "critical": 0,
+    "EP100_gordina": 4.3,
+    "EP100_pisuduna": 1.53,
+    "EP100_gordina_modelo": 4.42,
+    "EP100_pisuduna_modelo": 3.96,
+    "minor_modelo": 19,
+    "major_modelo": 10,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau giza ikasle batek idatzia dirudi. Akats naturalak agertzen dira: 'es nintzen' ('ez'), 'sarratzea' ('sartzea'), 'opor horien helmuga da…' (amaiera zehatza ez). Aditz-formetan zalantzak: 'denboraz heltzeko', 'ordenatzen'. Hiztegia DBH4 mailakoa da, ez dago C2 terminorik. Tonua oso pertsonala da, lehen pertsonan idatzia, esperientziak kontatzen, emozio eta anekdota pertsonal asko. Luzera egokia da (700 hitz inguru), ez susmagarria. Egitura ona du baina ez perfektua: hasiera txukunagoa da amaiera baino, azkenean pixka bat presaka idatzi duen itxura du. Akats gramatikalak eta adierazpen naturalak ('mila aldiz', 'zistu bizian', 'piperrik ere') DBH mailako idazle baten ezaugarriak dira."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

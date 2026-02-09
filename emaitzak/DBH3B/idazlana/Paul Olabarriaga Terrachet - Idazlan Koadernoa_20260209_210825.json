@@ -1,0 +1,36 @@
+{
+  "kodea": "PAUL OLABARRIAGA TER",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 17,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 2,
+        "S6": 2,
+        "S7": 2
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testua IA bidez sortua izan daiteke, nahiz eta ziurtasun osoz ezin baieztatu. Hainbat seinale kezkagarri: perfekzio sintaktikoa eta ortografikoa DBH4 mailako ikasle batentzat (deklinabide eta aditz konplexuak perfektuki erabiltzen ditu), hiztegi oso sofistikatua ('madarikatu', 'mespretxuz', 'peoiak', 'haragi', 'distira egiten dute'), eta egitura narratibo oso landu eta koherentea, kapitulu banaketarekin eta dena. Tonu literarioa da, Red Dead Redemption bideojokoaren giroko istorioa dirudien arren. Hala ere, baditu elementu humanoak ere: narratiba apasionatua, antzinako western filmeen eragina, eta zenbait esaldi jario naturalagoa. Luzera (900+ hitz) eta kalitate uniformea ere susmagarriak dira DBH4 mailako lan batentzat. Akatsik ez egotea eta erregistro literario hain landua, gazteentzat ez-ohizkoa da.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 17/21)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "kodea": "ABDELMOUMN EL KOBAA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioa oso ondo garatuta dago: hasiera, korapiloa eta amaiera argi daude. Istorioak protagonista bat du (Ane), arazo bat (basoa arriskuan) eta konponbide bat (atea itxi). Egitura perfektua!",
+          "Deskribapenak ederrak dira eta irudimena erakusten duzu: 'argi bizi batek inguratu zion', 'loreek distira egiten zuten', 'irudi arraroak ikusi zituen ibaiaren uran'... Horrek istorioa bizirik jartzen du!"
+        ],
+        "hobetzekoak": [
+          "Tarteko zatian pixka bat azkartu egiten da: Anek animali guztiekin hitz egiten du eta ondoren zuzenean atea itxita agertzen da. Nola itxi zuen? Zer egin zuen zehatz-mehatz? Ekintza hori gehiago garatzea falta da.",
+          "Amaiera apur bat azalekoa da: 'ausardiaz aurrera joan zen eta ate magikoa itxi zuen' — hori oso labur kontatzen da. Borroka bat edo zailtasun bat egon balitz, korapiloa sendoagoa izango zen."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu korapiloa gehiago garatzen: zer gertatu zen ekintza nagusian, nola sentitu zen protagonista, zer oztopo aurkitu zuen... Horrek istorioa askoz indartsuago egingo du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoak oso ondo antolatuta daude: sarrera (Ane eta basoa), arazoaren agerpena (ate berria), mundua aldatzea, animaliekin topaketa, konponbidea eta amaiera. Denborazko sekuentzia argia da!",
+          "Lotura-hitz ugari eta egokiak erabiltzen dituzu: 'bat-batean', 'pixkanaka-pixkanaka', 'orduan', 'hurrengo egunean', 'une batez'... Horrek testua oso erraz irakurtzea egiten du!"
+        ],
+        "hobetzekoak": [
+          "Laugarren paragrafoan typo bat dago: 'horrretan' (r gehiegi). Errepasatzean hori konpondu behar zenuen.",
+          "Lehen paragrafoan puntu bat falta da: 'zapata zaharrak jantzita basora joaten zen askotan.Han lasaitasuna' → puntua behar du 'askotan' eta 'Han' artean. Bi esaldi dira eta ez dituzu bereizi."
+        ],
+        "feed_forward": "Hurrengo aldian, azken errepasoan arreta jarri puntuazioari: esaldi bakoitza bukatzean puntua jarri al duzu? Hori eginda, testua guztiz profesionala izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da eta narraziorako egokia: 'lasaitasuna sentitu', 'hosto lehorrez estalita', 'bihotza azkar jotzen', 'ahoa zabalik geratu'... Esamolde naturalak eta egokiak!",
+          "Perpaus-egitura konplexuak erabiltzen dituzu: 'Lurra hosto lehorrez estalita zegoen', 'Anek arretaz entzun zuen, eta harri bakoitzak iraganeko sekreturen bat gordetzen zuen'. Bikain!"
+        ],
+        "hobetzekoak": [
+          "Batzuetan sinonimoak erabili ordez hitz bera errepikatzen duzu: 'sentitu' hitza 7 aldiz agertzen da (beldurra sentitu, lasaitasuna sentitu, triste sentitu...). Erabili 'nabaritu', 'sumatu', 'izan', 'pairatu' aldatzeko.",
+          "Erregistroa gehienetan zuzena da, baina 'hegan egingo balu bezala' lekuan 'hegaka' edo 'airean zehar' erabiltzea naturalagoa litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, bilatu errepikatzen diren hitz nagusiak (aditzak batez ere) eta ordezkatu sinonimoekin. Hori eginda, BLH-n 8-9 lortuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia oso ondo kontrolatuta dago: 'entzun zuen', 'ikusi zituen', 'itzuli zen', 'mantentzen zen'... Komunztadura zuzena da ia beti. Primeran!",
+          "Deklinabidea nahiko ondo erabiltzen duzu orokorrean: 'basora', 'zuhaitzen artean', 'etxera', 'animaliekin'... Kasuak ondo aplikatuta daude gehienetan!"
+        ],
+        "hobetzekoak": [
+          "Puntu bat falta edo sobera dagoen leku batzuetan: 'askotan.Han' (puntua + letra larri), 'horrretan' (typo, 'horretan' behar zen). Hau errepasoak konponduko luke!",
+          "Ortografia-akats txiki bat: 'zhuaitzak' behar zen 'zuhaitzak'. Letra-nahasmendua da, baina idazketa-prozesuan ziurrenik tekla okerra sakatu zenuen."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, irakurri testua osoa ozean, esaldi bakoitza arretaz. Puntuak ondo jarrita daude? Hitzak zuzen idatzita daude? 5 minutu horrek akatsak %50 murriztuko ditu!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=1.13 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.75,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain idatzi duzu! Narrazioa oso ondo egituratuta dago, istorioa interesgarria da eta irudimena erakusten duzu. Hizkuntza-maila altua duzu DBH3rako: aditz-morfologia ondo, hiztegia aberatsa eta lotura-hitzak egoki erabiltzen dituzu. Hobetzeko gunea akats txiki batzuk konpontzea da (puntuazioa, typo batzuk) eta korapiloa gehiago garatzea. Jarraitu horrela!",
+    "lehentasuna": "Azken errepasoa: idatzi ondoren, irakurri testua ozean eta begiratu puntuak esaldi artean, letra larriak hasieretan eta typo posibleak. Hori eginda, ZL 8-9ra igoko da!",
+    "batez_bestekoa_modelo": 7.5,
+    "biribiltzea_modelo": 7.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Puntu falta esaldien artean",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "askotan.Han lasaitasuna sentitzen zuen",
+        "zuzenketa": "askotan. Han lasaitasuna sentitzen zuen",
+        "azalpena": "Bi esaldi dira eta puntua behar dute artean bereizten. Letra larria esaldi berriaren hasieran."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo — letra errepikatua",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Momentu horrretan",
+        "zuzenketa": "Momentu horretan",
+        "azalpena": "R bat gehiegi idatzi duzu. Idazketa-prozesuan tekla-sakatzea izan da ziurrenik."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo — letra okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zhuaitzak",
+        "zuzenketa": "zuhaitzak",
+        "azalpena": "Z eta H artean nahasmendua. 'Zuhaitzak' da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa/elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "burua hustu egitenzuen",
+        "zuzenketa": "burua hustu egiten zuen",
+        "azalpena": "Hiru hitz bereizi dira: 'egiten' (aditz-izena) + 'zuen' (laguntzailea). Ez dituzu lotu behar."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa/elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "santitu zuen",
+        "zuzenketa": "sentitu zuen",
+        "azalpena": "Forma zuzena 'sentitu' da (n eta i artean). Typo txikia, baina aldatu behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo — letra falta",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hazieran beldur pixka bat sentitu zuen",
+        "zuzenketa": "Hasieran beldur pixka bat sentitu zuen",
+        "azalpena": "Hitza zuzena 'hasieran' da. Z eta S artean nahasketa."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena — 'sentitu'",
+      "akats_id": "LH-1",
+      "kopurua": 7,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Anek beldurra sentitu zuen / lasaitasuna sentitzen zuen / triste sentitu zen",
+        "zuzenketa": "Erabili sinonimoak: nabaritu zuen, sumatu zuen, izan zen, pairatu zuen",
+        "azalpena": "'Sentitu' aditza 7 aldiz erabiltzen duzu testu osoan. Hori gehiegizkoa da. Aldatu hitz honekin: nabaritu, sumatu, izan, pairatu, antzeman."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 618,
+    "minor": 5,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 1.13,
+    "EP100_pisuduna": 1.13,
+    "EP100_gordina_modelo": 1.29,
+    "EP100_pisuduna_modelo": 1.29,
+    "minor_modelo": 6,
+    "major_modelo": 1,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 9,
+      "ia_puntuazioa_modelo": 1.3,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 1,
+        "S3": 2,
+        "S4": 1,
+        "S5": 0,
+        "S6": 3,
+        "S7": 1
+      },
+      "maila": "ERTAINA",
+      "iruzkina": "Testu honek DBH4ko ikasle batek idatzitako ezaugarriak ditu nagusiki. Hainbat akats natural agertzen dira: 'lazaitzen' (lasaitzen), 'hazieran' (hasieran), 'horrretan' (momentu), 'santitu' (sentitu), 'isitsi' (iritsi), 'zhuaitzak' (zuhaitzak), 'dortoka' (txinbo/urretxindorra?), 'aspaldidanik' (aspaldian). Akats tipografikoak ere badaude ('hurrengo', 'zuel' [zuela]). Puntuazio eta espazioen erroreak ere ageri dira ('animaliek aspalditik'). Egitura klasikoa da (sarrera-garapena-ondorioa) baina ez da perfektua, trantsizio batzuk latzak dira. Hizkera naturalagoa da, nahiz eta zenbait pasarte literarioagoak izan. Istorioak kohrentzia du baina ez du IA batek sortuko lukeen uniformitate eta perfekzio maila. Luzera egokia da DBH4rako (700 hitz inguru). Akats natural hauek, batez ere ortografikoak eta morfologikoak, giza idazle gazte baten lan direla adierazten dute."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo ertaina (puntuazioa: 9/21)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "kodea": "ENEKO UGARTEBURU URZ",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 18,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 2,
+        "S6": 2,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testua IA bidez sortua izan daitekeela adierazten duten hainbat seinale nabarmen daude. Euskara ia perfektua da DBH4 mailako ikasle batentzat (S1=3), akats morfosintaktiko edo ortografiko ia gabe. Hiztegia ere susmagarria da (S2=3): 'behatzailea', 'suspmarririk', 'intrigatuta', 'naturaz gaindiko', 'isilpeko sistema' bezalako terminoak ez dira naturalak heldugabeko ikasle batengandik. Egitura oso landurik dago (S3=3), narrazioaren eskema klasiko bati jarraitzen diola hasieratik amaierara, sarrera deskribatzaile batekin, garapena eta konkluzio moralarekin. Kalitatea uniformea da testu osoan zehar (S7=3). Tonua neurri batean robotikoa da (S4=2), nahiz eta istorio bat izan saiatu den. Luzera (S5=2) ez da harrigarri luzeegia (~650 hitz) baina nahiko garatua da. Akats naturalak (S6=2) gutxi daude, 'ozrn' izan ezik (ziurrenik 'ozen'), eta testuak ez du DBH4ko idazlan arrunta den desantolamenturik edo koherentzia-faltak.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 18/21)"
+      ]
+    }
+  }
+}

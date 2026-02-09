@@ -1,0 +1,204 @@
+{
+  "kodea": "PAULE ELGUEZABAL LEG",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Zoragarria! Narrazioa oso pertsonala eta sentikorta da. Irakurleari eragiten dion istorioa kontatu duzu, hasiera-korapilo-amaiera egitura argiarekin.",
+          "Testuinguruaren deskribapenak oso egokiak dira: 'Etxean giroa arraroa zen. Nire gurasoak euren artean baxu hitz egiten zuten' — hori benetan sentiarazten du!"
+        ],
+        "hobetzekoak": [
+          "Azterketa beraren deskribapena laburregia da: zer galdera zeuden, nola sentitu zinen bakoitzari erantzuten, zertarako balio izan zuen... Hori gehiago garatu izan bazenu, historia oraindik indarrago etorriko zen.",
+          "Amaiera oso polita da baina pixka bat laburregia: nola aldatu zinen, zer egin zenuen ondoren... Bi-hiru esaldi gehiago jarri ahal zenituen bukaera biribiltzen."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu une garrantzitsuak PAUSAZ deskribatzen: zer pentsatu zenuen, zer sentitu zenuen, zertarako balio izan zuen. Horrek narrazioa sakondu egiten du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa oso argia da: hasiera (egoeraren aurkezpena) → garapena (azterketaren deskribapena) → amaiera (buelta emozionala). Primeran egituratuta!",
+          "Paragrafoen banaketa logikoa da: atzerapena, etxeko giroa, azterketa-eguna, azterketa bera, ondorioa. Irakurleari erraza egiten diozu jarraitzea."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak oinarrizkoak dira batez ere: 'eta', 'baina', 'gero'. Erabili askoz gehiago: 'hala ere', 'horrez gain', 'orduan', 'horregatik', 'azkenean'... Horiekin testua askoz lotua etorriko zen!",
+          "Zenbait paragraforen artean salto bat dago: adibidez, 'Astea super luzea egin zaidan' → kontatu apur bat gehiago nola igaro zenuen astea hori. Trantsizio hori faltan da."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bat bestera konektatzeko esaldi bat jartzen. Adibidez: 'Hori pentsatuta, etxera joan nintzen' edo 'Egun horretatik, guztia aldatu zen'. Lotura hori eginda, koherentzia haundiagoa!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia narratiboa egokia da: 'arduratuta', 'kontzentratuta', 'lasai eta urduri', 'dezepzionatu'... Hitz hauek istorioa biziagoa egiten dute!",
+          "Erregistroa naturala da eta narratzailearen ahotsa somatzen da. Hori oso ona da narrazioan!"
+        ],
+        "hobetzekoak": [
+          "Aditz-egitura gehienak sinpleak dira. Animatu zaitez konplexuagoak erabiltzen: perpaus erlatiboak ('ikusi nuen gelara sartu nintzenean'), baldintzak ('ikasi izan banu, ez nintzateke hain kezkatuta egongo'), kausazkoak ('...zelako').",
+          "Zenbait hitz errepikatzen dira: 'azterketa' (9 aldiz), 'pentsatu' (hainbat), 'aprobatu' (7 aldiz). Erabili sinonimoak edo erreferentzia-sistema: 'proba', 'frogaldia', 'gainditu', 'lortu'."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu perpaus konplexu BAT sartzen baldintzarekin: 'Ikasi izan banu, gaur bestelako egoera izango litzateke'. Hori BLH-n eta ZL-n nabarmen igoko zaizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia orokorrean ondo kontrolatzen duzu: 'konturatu nintzen', 'sentitzen nintzen', 'ematen zuen'. Hori ez da erraza eta ondo egin duzu!",
+          "Deklinabidea gehienetan zuzena da: datiboa ('niri', 'galderari'), adlatiboa ('institutora'), ablatiboa ('klasetik'). Hau ondo!"
+        ],
+        "hobetzekoak": [
+          "Erderakada ugari daude: 'aprobatu' (GAINDITU), 'lengua' (GAZTELANIA), 'portunidade' (AUKERA), 'jantxi' (JANTZI), 'altzatu' (ALTXATU), 'intentatu' (SAIATU). Hitz hauek gaztelaniakoak dira zuzenean. Badakizu euskarazko baliokideak, erabili itzazu!",
+          "Ortografia-akatsak: 'zelan' (NOLA), 'zelan' (oso errepikatu), 'explikatu' (AZALDU), 'teilatuari' (TEILATUARI — ondo dago), 'kurtsoz' (KURTSOA). Akats hauek ez dute testua ulertezina egiten baina nabaritzen dira.",
+          "Puntuazio-akatsak: zenbait esalditan koma falta da lotura-hitzen ondoren: '*Eta nik eskertzen dut' → 'Eta, nik eskertzen dut' (aukerakoa baina gomendatua)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu eta bilatu gaztelaniazko hitzak. Ordezkatu euskarazko sinonimoekin: problema → arazo, intentar → saiatu, aprobar → gainditu. Hori eginda, ZL nota igoko da nabarmen!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "Modeloaren ZL=6 koherentea EP100=6.93 (tartekoa, tartea 5-6)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.75,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Primeran lana egin duzu! Narrazioa oso polita da eta irakurleari ukitzen dion istorioa kontatu duzu. Egitura argia du eta testuinguruak ondo deskribatzen dituzu. Hobetzeko tarte handiena ZL-n dago: erderakadak kendu eta ortografia zaindu. BLH-n ere tarte handiak dituzu: lotura-hitz gehiago eta egitura konplexuagoak. Badaukazu gaitasuna lan zoragarriak egiteko, eta idazlan honek hori erakusten du. Aurrera zu!",
+    "lehentasuna": "Erderakadak kendu: 'aprobatu' → 'gainditu', 'intentar' → 'saiatu', 'portunidade' → 'aukera'. Hau da lehen lehentasuna — horiek konponduta, nota 7-8 tartean egongo zara!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Erderakadak — Hitzak gaztelaniaz",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 11,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ez dut aprobatu bat ere ez",
+        "zuzenketa": "ez dut GAINDITU bat ere ez",
+        "azalpena": "'Aprobar' gaztelaniakoa da zuzenean. Euskaraz 'gainditu' erabili behar da. Beste adibideak: 'portunidade' → 'aukera', 'explikatu' → 'azaldu', 'jantxi' → 'jantzi', 'altzatu' → 'altxatu', 'intentatu' → 'saiatu'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — Grafia okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 7,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zelan nengoen klasean",
+        "zuzenketa": "NOLA nengoen klasean",
+        "azalpena": "'Zelan' ez da batua. Erabili 'nola'. Beste adibideak: 'zelan sentitzen nintzen' (NOLA), 'zelan esango nien' (NOLA), 'urte nintzen' (URTEN), 'urrengo' (HURRENGO), 'kurtsoz' (KURTSOA), 'giñenean' (GINENEAN)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakadak — Hitz gaztelaniakoak testuan",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ez euskara, ez lengua",
+        "zuzenketa": "ez euskara, ez GAZTELANIA",
+        "azalpena": "'Lengua' gaztelaniakoa da zuzenean. Euskaraz 'gaztelania' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Eta nik eskertzen dut",
+        "zuzenketa": "Eta, nik eskertzen dut",
+        "azalpena": "Lotura-hitz ondoren ('eta', 'baina', 'gero', 'orduan'...) koma jartzea gomendatzen da, batez ere perpausaren hasieran badaude. Beste adibideak: 'Eta ez zen hori' → 'Eta, ez zen hori', 'Eta nik erantzun nuen' → 'Eta, nik erantzun nuen'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'azterketa' 9 aldiz, 'pentsatu' 5 aldiz, 'aprobatu' 7 aldiz",
+        "zuzenketa": "Erabili sinonimoak: 'proba', 'frogaldia' (azterketa); 'hausnartu', 'gogoeta egin' (pentsatu); 'gainditu', 'lortu' (aprobatu)",
+        "azalpena": "Hitz bera oso askotan errepikatzeak testua monotonoa egiten du. Erabili sinonimoak edo erreferentzia-sistema (adibidez, 'proba hori', 'azken frogaldia', 'ebaluazioa')."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — Pertsona-adostasuna",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "nire gurasoak ez zidaten galdetzen",
+        "zuzenketa": "nire gurasoak ez ZIDATEN galdetzen (ondo dago — plurala)",
+        "azalpena": "Kasu honetan ONDO dago: 'gurasoak' (haiek, plurala) → 'zidaten' (haiek niri). Baina kontuz: 'guraso' (singularrean) → 'zidan' (hark niri)."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Ordena sintaktikoa — SOV vs SVO",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "nik uste dut beldurra ematen zielako erantzunak",
+        "zuzenketa": "nik uste dut erantzunak beldurra ematen zielako",
+        "azalpena": "Euskaraz ordena SOV da: subjektua ('erantzunak') + objektua ('beldurra') + aditza ('ematen'). Hona beste adibide bat: 'ez nuela nahi eman azalpenik' → 'ez nuela azalpenik eman nahi'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 577,
+    "minor": 14,
+    "major": 13,
+    "critical": 0,
+    "EP100_gordina": 6.93,
+    "EP100_pisuduna": 1.99,
+    "EP100_gordina_modelo": 7.3,
+    "EP100_pisuduna_modelo": 6.2,
+    "minor_modelo": 12,
+    "major_modelo": 15,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats naturalak ugari daude: 'eseki' (eski/suspenditu), 'teilatuari' (sabaia?), 'ezertzen' (esertzen), 'jantxi' (janzi), 'giñenean' (ginenean), 'hozka' (lotsa?), 'urte nintzen' (urten), 'esperantza pixka bat geratzen zaidan' (zait), 'errepikatu' (errepikatu/errepikatuko), 'altzatu' (altxatu), 'intentatu' (saiatu). Hizkuntza-kalitatea ez da uniformea eta ez dago perfekzio susmagarririk. Hiztegia DBH mailakoa da (ez dago C1/C2 hitzik). Egitura nahiko ona da (sarrera-garapena-ondorioa), baina ez perfektua. Istorio pertsonala da, emozio errealekin eta tonu naturala dauka. Luzera egokia da DBH4rako (500 hitz inguru). Akats-patroi naturalak ugari. Kalitatea ez da uniformea, batez ere hasiera hobea da amaiera baino. Guztira, ikasle gazte batek idatzitako testu bat da, ez IA batek sortua."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

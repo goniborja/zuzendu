@@ -1,0 +1,203 @@
+{
+  "kodea": "SOFIA FETESCU",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioa oso ondo egituratuta dago: hasiera-korapiloa-amaiera eskema perfektua da. Istorioak erritmoa du eta irakurlearen interesa mantentzen duzu bukaeraraino.",
+          "Pertsonaiak ondo garatuta daude eta egoera emozionalak era naturalean deskribatzen dituzu. 'Sofia negarrez egon zen, baina barruan indartsu izan nahi zuen' — hori oso ona da, benetan!"
+        ],
+        "hobetzekoak": [
+          "Istorioak akats txiki bat du: Josh eta kafetegiaren zatia bat-batean agertzen da eta gero desagertzen. Narrazioaren bukaeran ez da argitzen zer gertatzen den Josh-ekin ametsean. Lerro bat gehituz (adib. 'Josh-ekin amets batean bezala izan zen dena'), koherenteagoa izango litzateke.",
+          "Zenbait xehetasun gehiago eman zenezake deskribapen sentsorialetan: nola zen aireportua? Zer usain zuen etxe berria? Horrek testua biziago egingo luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istorioko hari guztiak lotzen bukaeran. Hari bat zabaltzen baduzu (Josh-en harremana), itxi egin behar da amaieran, irakurleari zalantzarik uzteko."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura nagusia ondo dago: hasiera (Sofia herrian) → korapiloa (AEBetako bizitza zaila) → amaiera (ametsa da). Egitura hori narrazio batean funtsezko funtsezkoa da eta menperatu duzu!",
+          "Paragrafoen banaketa logikoa da oro har: paragrafo berria sekuentzia berri bat hasteko. Hori oso ondo dago!"
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk LABURREGIAK dira eta paragrafo bakarra osatu beharko lukete. Adibidez, lehenengo bi paragrafoak elkartu zenitzake, biak Sofia aurkezten baitute. Paragrafo bakoitzean gutxienez 3-4 esaldi izan behar luke.",
+          "Lotura-hitzak errepikatu egiten dituzu: 'baina' 11 aldiz! Erabili sinonimoak: 'hala ere', 'ordea', 'aldiz', 'bestalde'. Horrek testua askoz naturalagoa egingo du eta AK maila igoko zaizu nabarmen."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero errepasatu: 'baina' hitza aurkitu eta gutxienez ERDIA beste lotura-hitz batekin ordezkatu. Horrekin paragrafoen arteko lotura hobetuko da eta nota 7-8ra igotzeko bidean egongo zara!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia nahiko erraza da baina naturalitatea du: 'faltan botatzen', 'etsita', 'erakargarria', 'edalontzia bete' — horiek ondo erabiltzen dituzu eta ematen dute maila!",
+          "Mendeko perpaus batzuk erabiltzen dituzu ondo: 'ez zuen ondo ulertzen ingelesa', 'inoiz ez zelako hitz egin'. Hori BLH-n oso garrantzitsua da!"
+        ],
+        "hobetzekoak": [
+          "Egitura sinpleak nagusi dira. Animatu zaitez egitura konplexuagoak erabiltzen: baldintzak ('Josh ezagutu ez banu, etxera itzuliko nintzateke'), kausazkoak ('familia gaizki tratatzen zuelako'), kontzesiboak ('nahiz eta zaila izan'). Arriskatu egin behar da!",
+          "Errepikapen lexikoak: 'oso' 12 aldiz, 'zen/zuen' etengabe. Erabili sinonimoak: 'benetan', 'erabat', 'izugarri', 'oso-oso'. Adberbio gehiago erabiliz, testu biziagoa egingo duzu."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez BALDINTZA-ESALDI BAT ('...banu/balu, ...luke/nuke') eta NAHIZ ETA esaldi bat sartzen. Hori eginez gero, BLH 7-8 mailara igoko da ziur!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema ondo kontrolatuta daukazu orokorrean: 'muxu bat eman zion', 'aholku asko eman zizkion', 'barre egin zioten'. Horiek ez dira errazak eta primeran egin dituzu!",
+          "Aditz-denborak (lehenaldia, orainaldia) ondo erabiltzen dituzu narrazio batean. Hori ez da erraza DBH3 mailan eta zuk ongi kudeatzen duzu!"
+        ],
+        "hobetzekoak": [
+          "Puntuazio-akatsak: komak falta lotura-hitz ondoren (13 kasu!) eta puntu falta esaldien artean (4 kasu). 'Baina' ondoren BETI koma jarri behar da: 'Baina, erabaki zuen...' Hau erraz konpontzen da: idatzi eta gero errepasatu lotura-hitz bakoitza.",
+          "Ortografia-akatsak: espazioak falta puntuazio-ikurren ondoren ('zen,Amorebieta'), hitz-elkarketa falta ('aire konpainia' → 'airekonpainia')."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero ERREPASATU: lotura-hitz bakoitza (baina, orduan, beraz...) bilatu eta komarekin inguratuta dagoela egiaztatu. Sistema sinple horrekin, puntuazio-akats gehienak desagertuko dira eta ZL 8-9ra igoko zaizu!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "Modeloaren ZL=7 koherentea EP100=4.13 (aurreratua, tartea 7-8)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.75,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Primeran egin duzu lana, benetan! Narrazioa oso ondo egituratuta dago, istorioak erritmoa du eta irakurlea harrapatzen du. Hobetzeko guneak argi daude: lotura-hitzen aniztasuna eta puntuazioa. Horien gainean lan egiten baduzu, 8-9ko notetara iristeko bidean egongo zara. Aurrera zu!",
+    "lehentasuna": "Komak lotura-hitz ondoren: 'Baina,' 'Orduan,' 'Beraz,' bezalakoak BETI komarekin. Idatzi eta errepasatu bakoitza. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 13,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina erabaki zuen isilik geratzea",
+        "zuzenketa": "Baina, erabaki zuen isilik geratzea",
+        "azalpena": "Lotura-hitz hauek ('baina', 'orduan', 'beraz', 'hala ere'...) beti koma behar dute ondoren."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Punturik ez esaldien artean (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Sofia izeneko neska bat zen, 16 urtekoa.Herri txiki batean bizi zen,Amorebieta-Etxano.",
+        "zuzenketa": "Sofia izeneko neska bat zen, 16 urtekoa. Herri txiki batean bizi zen, Amorebieta-Etxano.",
+        "azalpena": "Esaldi bakoitzak puntua behar du bukaeran. Gainera, puntuaren ondoren zuriunea utzi behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Zuriune falta puntuazio-ikurren ondoren",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "urtekoa.Herri txiki",
+        "zuzenketa": "urtekoa. Herri txiki",
+        "azalpena": "Puntu, koma eta beste ikurren ondoren zuriune bat utzi behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-elkarketa falta",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "aire konpainia",
+        "zuzenketa": "airekonpainia",
+        "azalpena": "Hitz elkartua batera idatzi behar da, marratxoarekin edo elkarturik."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Estatu Batuak gustatzen zitzaizkion",
+        "zuzenketa": "Estatu Batuak gustatzen zitzaizkion (ONDO)",
+        "azalpena": "Kasu honetan ZUZENA da: NOR plurala (Estatu Batuak) eta laguntzailea pluralean (zitzaizkion). Hau ez da akatsa, feedback positiboa da!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'oso' 12 aldiz, 'baina' 11 aldiz",
+        "zuzenketa": "Erabili sinonimoak: 'benetan', 'erabat', 'izugarri' (oso-rentzat); 'hala ere', 'ordea', 'aldiz' (baina-rentzat)",
+        "azalpena": "Hitz bat gehiegitan errepikatzeak testuaren kalitatea jaisten du. Sinonimoak erabiliz aberastuko duzu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kalko sintaktikoa — 'pentsatu gabe, bi aldiz pentsatu gabe'",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "eta ez pentsatu gabe, bi aldiz pentsatu gabe, onartu zuen",
+        "zuzenketa": "eta dudatu gabe onartu zuen / berehala onartu zuen",
+        "azalpena": "Gaztelaniazko 'sin pensarlo dos veces' esapidearen kalkoa da. Euskaraz naturalagoa da 'dudatu gabe' edo 'berehala'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 824,
+    "minor": 24,
+    "major": 5,
+    "critical": 0,
+    "EP100_gordina": 4.13,
+    "EP100_pisuduna": 1.27,
+    "EP100_gordina_modelo": 4.1,
+    "EP100_pisuduna_modelo": 3.5,
+    "minor_modelo": 24,
+    "major_modelo": 5,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.3,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 1,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats naturalak ageri dira zehar: puntuazio-akatsak ('16 urtekoa.Herrian', 'bizi zen,Amorebieta'), espazio falta perpaus artean, errepikapenak ('pentsatzen, pentsatzen'), esaldi ez oso lan datuak ('ez pentsatu gabe, bi aldiz pentsatu gabe'). Narrazioaren egitura tipikoa da adingabe batek idatzitakoa: hasiera interesgarria, erdian pixka bat nahasturik (planaren deskribapenak koherentzia falta du), eta amaiera topikoa amets batekin. Hiztegian ez dago C1/C2 mailako hitzik, eta tonua erabat pertsonala da, DBH mailako istorio sortzaile batekin bat datorrena. Luzera luzexka da (800 hitz inguru), baina hau ez da nahikoa IA-ren seinale izateko, batez ere kalitate irregularra eta akats naturalak ikusita."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

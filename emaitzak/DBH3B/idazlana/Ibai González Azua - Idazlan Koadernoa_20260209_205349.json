@@ -1,0 +1,215 @@
+{
+  "kodea": "IBAI GONZÁLEZ AZUA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Istorio oso polita eta emozionala sortu duzu! Narrazioak osagai guztiak ditu: protagonista argia (Miren), korapiloa (liburuaren galera eta amumaren heriotza), eta amaiera pentsatua (katuarekin geratzearen erabakia). Oso ondo!",
+          "Pertsonaia nagusien garapena bikaina da: Mirenen bilakaera umetatik katuarenganako enpatiarako NATURAL da eta ondo justifikatuta dago. Katuaren monologoak benetako sakonera ematen dio istorioari. Hau ez da ohikoa DBH3 mailan!"
+        ],
+        "hobetzekoak": [
+          "Istorioak egitura ona du, baina tarteko zatian apur bat galtzen da erritmoa: tximeletaren agerraldia (lagun bila joatea 4 egunetan) ez da gero berriro aipatzen. Koherentziaren aldetik, elementu guztiak lotu beharko lirateke bukaeran.",
+          "Amaiera oso poetikoa da, baina azaleko bat da: 'askoz hobea izango zela' esaten da baina ez da konkretizatzen NOLA bizi den katuarekin. Detaile bat gehiago eman bazenezake, askoz indargarriagoa litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istorio hasieran planteatzen dituzun elementu guztiak bukaeran lotzen. Tximeletaren aipamena hor geratu da zintzilik — zer gertatu zen tximeletarekin? Horrelako xehetasunak kontatzeak istorioa biribilagoa egiten du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa argia da eta irakurleari erraza egiten dio istorioa jarraitzea. Ekintza bakoitza paragrafo batean, ondo bereizita. Txapela!",
+          "Lotura-hitz ondo erabiltzen dituzu: 'orduan', 'bat-batean', 'horregatik', 'halako batean'... Hauek diskurtsoa gidatzen dute eta irakurleari laguntzen diote. Bikain egina!"
+        ],
+        "hobetzekoak": [
+          "Narrazioak salto temporalak egiten ditu baina ez dira beti argi markatzen: 'lau egunetan' esaten da baina gero zuzenean 12 urtebetetzearen gabara jauzi egiten da. Irakurleak ez daki iragarritako lagunak etorri diren edo ez. Trantsizio bat falta da hemen.",
+          "Elkarrizketa-zatiak laburregiak dira: azeriak baino ez du hitz egiten luzaroan. Tximeletarekin, adibidez, truke bat baino ez dago. Elkarrizketak naturaltasuna ematen dute narrazioari — luzatu egin beharko lirateke apur bat!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu denbora-trantsizioak argiago markatu 'lau egun geroago', 'hurrengo goizean' bezalako adierazpenak erabiliz. Horrek egitura indartzen du eta irakurleari orientazioa ematen dio!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia ulergarria da eta naturala: 'baso iluna', 'lehioan', 'ohean etzun', 'teilatuetan saltoka'... Deskribapenetarako baliabide egokiak erabiltzen dituzu, eta hori ez da erraza!",
+          "Perpaus-egitura desberdinak erabiltzen dituzu: nahiz eta + subjuntiboa ('nahiz eta ez zitzaien gustatu'), kausa-perpausak ('-lako'), denbora-perpausak ('-nean'). Konplexutasun sintaktiko ondo tartekatzen duzu!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko nabarmenak daude: 'oso' hitza 10 aldiz baino gehiagotan agertzen da eta 'ondo' / 'pozik' errepikatzen dira. Sinonimoak erabili: 'oso pozik' → 'zoragarri pozik', 'oso altua' → 'neurrigabe altua', 'oso luzeak' → 'asperdura handikoak'.",
+          "Hitz generikoak gehiegitan erabiltzen dituzu: 'gauza', 'ona', 'egiten', 'izaten'... Hauek zehatzago ordeztu: 'gauza' → 'sorginkeria', 'ona' → 'onuragarria / erosoa', 'egiten' → 'praktikatzen / gauzatzen'."
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi eta gero, bilatu 'oso' hitza eta ordeztu beste intensifikatzaile batzuekin: 'benetan', 'izugarri', 'itxuragabeko', 'neurriz kanpo'... Hiztegia aberastea praktikatzea da, badaukazu maila hori harrapatzeko!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema gehienetan ondo erabiltzen duzu: 'katuak hitz egiten hasi zitzaion', 'liburuak eman zizkien'... Hau ez da erraza eta ondo kontrolatuta daukazu orokorrean!",
+          "Mendeko perpausak gehienetan ongi eratuta daude: 'zuen moduan', 'entzun zuenean', 'heldu zenean'... Hau DBH3 mailan maila ona da!"
+        ],
+        "hobetzekoak": [
+          "Bizkaierazko formak daude testu osoan (dau, dot, jateko...). Testua idatzizkoa denez, batuko formak gomendatzen ditut: 'dau' → 'du', 'dot' → 'dut', 'jateko' → 'janari'. Hau nahitaezkoa ez bada ere, idatzizko testu formaletan batua erabiltzen da normalean.",
+          "Puntuazio-akatsuak daude: koma falta lotura-hitzen ondoren ('Orduan Mireni' → 'Orduan, Mireni') eta subjektu-aditz artean koma ('Mirenek bere istorioa' → 'Mirenek, bere istorioa' OKERRA da!). Koma arauak berrikusi behar dituzu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, begiratu ea lotura-hitz ondoren koma jarri duzun ('orduan', 'beraz', 'horregatik'...). Sistema sinple bat da eta erraz konpontzen da!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=0.68 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Narrazioa oso polita eta emozionala da, benetan! Istorioak indar handia du eta pertsonaien garapena bikaina da. Egitura eta koherentzia aldetik ondo dago, nahiz eta zenbait trantsizio argitu behar den. Zuzentasun linguistikoaren aldetik hobetzeko tartea dago: bizkaierazko formak batuko formez ordeztea (idatzizko testu denez) eta puntuazio-arauak finkatzea. Baliabide linguistikoetan, hiztegia aberastuz gero, maila nabarmen igoko da. Jarrai horrela!",
+    "lehentasuna": "Batuko formak idaztean: 'dau' → 'du', 'dot' → 'dut', 'jateko' → 'janari'. Hau da lehen lehentasuna idatzizko testuetarako!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Bizkaierazko laguntzaileak",
+      "akats_id": "LH-7",
+      "kopurua": 15,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "nik ez dot nahi / baditut lagun batzuk / ezin zaitut lagundu / lagun ahal dizutenak",
+        "zuzenketa": "nik ez dut nahi / baditut lagun batzuk / ezin zaitut lagundu / lagun ahal dizaketenak",
+        "azalpena": "Bizkaierazko laguntzaileak dira ('dot', 'dau', 'ditut', 'dizutenak'). Idatzizko testu formaletan batuko formak erabiltzea gomendatzen da: 'dot' → 'dut', 'dau' → 'du', 'ditut' → 'ditut (hau batua da)', 'dizutenak' → 'dizaketenak'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Bizkaierazko lexikoa",
+      "akats_id": "LH-7",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "jateko",
+        "zuzenketa": "janari",
+        "azalpena": "Bizkaierazko forma ('jateko' izen gisa). Batuan 'janari' erabiltzen da. Kontestua: 'ez dut ezer jateko' → 'ez dut janaririk'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Orduan Mireni ideia bat bururatu zitzaion",
+        "zuzenketa": "Orduan, Mireni ideia bat bururatu zitzaion",
+        "azalpena": "Lotura-hitz ondoren ('orduan', 'beraz', 'horregatik', 'halako batean'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 0,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "",
+        "zuzenketa": "",
+        "azalpena": "Ez da akats hau detektatu testuan. Subjektu eta aditz artean EZ da koma jartzen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia: letra larriak",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "miren / mirenen",
+        "zuzenketa": "Miren / Mirenen",
+        "azalpena": "Izen propioak letra larriz hasi behar dira. 'Miren' izen propioa da eta beti letra larriz idatzi behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "oso + adjektiboa (10+ aldiz errepikatuta)",
+        "zuzenketa": "Alternatibak: benetan, izugarri, itxuragabeko, neurriz kanpo, bereziki, oso-oso (indartzeko)",
+        "azalpena": "'Oso' hitza gehiegitan erabiltzen da intentsifikatzaile gisa. Hiztegia aberastu sinonimoak erabiliz."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "categoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gauza, ona, egiten (errepikatuak)",
+        "zuzenketa": "Alternatibak: 'gauza' → 'sorginkeria/elementua', 'ona' → 'onuragarria/erosoa/atseginagoa', 'egiten' → 'praktikatzen/gauzatzen'",
+        "azalpena": "Hitz generikoak errepikatzen dira. Zehatzagoak erabili hiztegia aberasteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Azeri umeek jan egin zuten nahiz eta ez zitzaien gustatu",
+        "zuzenketa": "Azeri umeek jan egin zuten nahiz eta ez zitzaieN gustatu",
+        "azalpena": "Subjektua plurala denean (azeri umeEK), datibo-marka ere plurala izan behar da: 'zitzaien' → 'zitzaien' (hau zuzena da). Arazorik ez dago kasu honetan."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 738,
+    "minor": 7,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 1.22,
+    "EP100_pisuduna": 0.68,
+    "EP100_gordina_modelo": 4.1,
+    "EP100_pisuduna_modelo": 4.7,
+    "minor_modelo": 26,
+    "major_modelo": 2,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzi duela dirudi. Hainbat ezaugarri naturalak agertzen dira: hasierako mezua bere ikaskideari zuzendurik ('GOÑI NIK EZ DOT NAHI ZUK IDAZLANA BOTATZEA'), akats tipografikoak eta egiturakoak (puntuazio faltak, lerroarteak desberdinak), errepikapenak ('oso-oso', 'bakar-bakarrik'), eta orokorrean DBH mailako ikasle baten estilo naturala. Hiztegi eta egitura egokiak dira maila honetarako, baina ez dira perfektuak. Ipuinaren garapena koherentea da baina baditu txikiketak (adibidez, 'hilden usaina' estandarra baino forma lokalagoa da). Katuaren azken monologoa apur bat luzea da baina oraindik ere jasangarria da DBH mailako ikasle batentzat. Narrazio-erritmoak altibajadunak ditu, tipikoa da ikasle batengan. IA-k ez luke hasierako mezu informalik jarriko, ez eta 'txapa emoten' bezalako esamolderik erabiliko."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

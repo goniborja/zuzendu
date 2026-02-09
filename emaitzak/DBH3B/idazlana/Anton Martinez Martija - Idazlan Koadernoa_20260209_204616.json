@@ -1,0 +1,36 @@
+{
+  "kodea": "ANTON MARTINEZ MARTI",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 16,
+      "seinaleak": {
+        "S1": 2,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 3,
+        "S6": 1,
+        "S7": 2
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testua ziurrenik IA bidez sortua da. Zenbait arrazoi: (1) Luzera oso handia DBH4 ikasle batentza (800+ hitz), narrazioa oso luzea eta konplexua da. (2) Hiztegi ez-naturala maila honetarako: 'pergamino', 'dardarka', 'distiratsu', 'iluntasuna sakona', 'arroila', 'harribitxi' - hitz sofistikatuak. (3) Egitura literario perfektua: sarrera-nondoa-arazoa-erronka-ebazpena-ondorio filosofikoa, literatura klasikoko eredu arkitektonikoa. (4) Metaforak eta sinbolismoa (harribitxia/barne-indarra) oso elaboratuak. (5) Kalitate uniformea hasieratik amaieraraino, DBH ikasle batean normalean txikiagoa izango litzatekeena. BAINA: baditu akats naturalak (puntuazio falta, 'zuen. Une' lerro-jauzia erdian, 'mahia' 'mahai' ordez, 'bideamoztu', 'ezin sinetsita' puntuazio akatsak), honek adierazten du edo DBH ikasle batek IArekin laguntzaz idatzi duela edo IAk simulatu dituela akatsok adabaki gehiago izateko. Testuko akatsek puntuazioa jaisten dute, baina orokorrean IA profila du.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 16/21)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "kodea": "JARE HIDALGO ARRIEN",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo garatuta dago hasiera-korapiloa-amaiera egituraz. Istorio bat kontatzea ez da erraza eta zuk oso ongi egin duzu!",
+          "Xehetasunak bikainak dira: Times Square, Central Park, denda-izenak... Irakurleak bidaia hori bizi du zurekin. Hori da narrazioaren ahalmen erreala!"
+        ],
+        "hobetzekoak": [
+          "Korapiloa (metroan galtzea) azkar konpontzen da eta intensitate gutxikoa da. Tentsio gehiago sortzeko, areagotu momentu hori: nola sentitu zineten, zer pentsatu zenuten...",
+          "Amaiera pixka bat lausoa da: 'Hurrengo bidaiarekin amestu nuen' itxiera oso poetikoa da, baina irakurleak zerbait gehiago espero du. Gogoeta txiki bat gehitu zenezake (zer ikasi zenuen, nola aldatu zinen...)."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu korapiloa gehiago lantzen eta amaieran gogoeta pertsonala sartzen. Horrekin, istorioak sakonera gehiago izango du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa argia da: aurkezpena, prestaketa, bidaia, arazoa, itzulera. Narrazioan egitura hau barneratuta daukazu!",
+          "Denbora-loturak ondo erabiltzen dituzu: 'Egun hartatik aurrera', 'Hara iristean', 'Hurrengo egunetan'... Irakurtzaileari erraz jarraitzen zaio."
+        ],
+        "hobetzekoak": [
+          "Laugarren paragrafoa oso luzea da (20 lerro inguru). Zatitu bi edo hiru paragrafokoa: bat Central Park-erako, bestea erosketarako... Paragrafoak laburragoak direnean irakurgarritasuna hobetzen da.",
+          "Noizean behin 'salto' txiki bat egiten duzu testu hariak galduta: 'Baina beti bezala, ezinezkoa izango litzateke dena perfektua izatea' → Lotura-hitz hori bikaina da baina hurrengo esaldia ez da jarraitzen logikoki. Lotura zuzenagoa behar luke."
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo bat 15 lerro baino luzeagoa denean, zatitu bi paragrafotan. Eta trantsizio-esaldi bat gehitu paragrafo berri bat hasten denean. Horrela koherentzia perfektua izango duzu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hizkiak oso aberatsa da DBH3 mailako: 'zistu bizian', 'ikaragarria', 'izugarria', 'poz-pozik', 'lasaitasuna ematen du'... Hitz hauek testuari kolorea ematen diote!",
+          "Egitura konplexuak erabiltzen dituzu naturalki: erlatibozkoak ('horia eta beltza zen'), denborazkoak ('ondoren, zuzenean joan ginen'), baldintzazkoak ('ezinezkoa litzateke, nire familia urrun egongo litzatekelako'). Hau maila oso ona da!"
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk errepikatzen dituzu gehiegi: 'izugarri' (4 aldiz), 'pilo bat' (3 aldiz). Erabili sinonimoak: 'ikaragarria', 'izugarria', 'jendetsua', 'asko', 'pila-pila', 'hainbat'...",
+          "Zenbait erderakada txiki: 'argazki pila bat atera' → 'argazki asko atera'; 'erosi genituen' → 'erosketak egin genituen'. Hauek ez dira larri baina erregistroa landuagoa egingo luke euskara hutsean."
+        ],
+        "feed_forward": "Hurrengo aldian, hitz bat 3 aldiz baino gehiagotan erabili aurretik, gelditu eta pentsatu: ba al dago sinonimoren bat? Hiztegi-orrian edo buruan bilatu. Horrekin, hiztegiaren hedadura are hobeto erakutsiko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema ondo kontrolatuta duzu orokorrean: 'genuen', 'genion', 'joan ginen'... DBH3 mailan zailtasun handia da hau eta zuk ondo menperatzen duzu!",
+          "Ortografia ia perfektua da: ez dago typo ia batere, letra larriak zuzenak dira, hitz-banaketa ona... Lan bikaina!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) ahaztu duzu 5-6 aldiz: 'Junek serio jarraitu zuen' → 'Junek serioAN jarraitu zuen' (hau zuzen da!), 'emakumeak ez zigun' → 'emakumeAK ez zigun' (zuzena!), BAINA: 'gauza txar bakarra jende asko zebilela zen' → 'gauza txar bakarra jende asko zebileLA zen' (ez du ergatiborik behar 'jende' subjektua delako eta NOR aditza). Ergatiboa BAKARRIK NOR-NORK aditzetan jarri behar da. Berrikusi esaldi bakoitza!",
+          "Aditz-komunztadura batzuk: 'ez zigun piperrik ulertu' → 'ez ZUEN piperrik ulertu' (subjektua 'emakumeak' = hura, ez 'emakumeek'). 'Laguntzra etorri zitzigula' → 'laguntzera etorri ZITZAIGUN' (NOR-NORI: guri = zaigu)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, irakurri esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuak -K behar du. Ez bada (NOR aditza), EZ du -K behar. Sistema honekin akats hauek desagertuko dira!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.24 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Benetan, primeran idatzi duzu! Narrazioa oso ondo garatuta dago, xehetasun politzekin eta egitura argiarekin. Hizkuntza aberatsa erabiltzen duzu eta testua irakurtzea gozoa da. Hobetzeko tarte nagusia ZL-n dago: ergatiboa eta aditz-komunztadura. Hor lan pixka bat eginda, bikaintasuna lortuko duzu!",
+    "lehentasuna": "Ergatiboa (-k): berrikusi esaldi bakoitza eta galdetu ea aditza NOR-NORK den. Baietz bada, subjektuari -K jarri. Ez bada, EZ jarri. Hau da lehentasun bakarra!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa gehiegi edo gutxiegi",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gauza txar bakarra jende asko zebilela zen",
+        "zuzenketa": "gauza txar bakarra jende asko zebilela zen (ZUZENA — 'jende' NOR aditzarekin dago, ez du -K behar)",
+        "azalpena": "Ergatiboa (-K) BAKARRIK NOR-NORK aditzetan jarri behar da. 'Zebilen' NOR aditza da, beraz 'jende' ez du -K behar. Aditza 'ikusi', 'egin', 'hartu' modukoa bada (NOR-NORK), orduan BAI behar du -K."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-komunztadura — pertsona okerra",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "emakumeak ez zigun piperrik ulertu",
+        "zuzenketa": "emakumeak ez ZUEN piperrik ulertu",
+        "azalpena": "Subjektua 'emakumeak' = HURA da (hirugarren pertsona singularra). Laguntzailea 'zuen' izan behar da, ez 'zigun' (hark guri). 'Zigun' erabiltzen da NOR-NORI-NORK sisteman (adib. 'eman zigun'), baina hemen aditza 'ulertu' da, NOR-NORK sistema, eta objektua zuzenean 'piperrik' da, ez guri."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-komunztadura — NOR-NORI nahasketa",
+      "akats_id": "ZL-ADI-7",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "laguntzra etorri zitzigula",
+        "zuzenketa": "laguntzera etorri ZITZAIGUN",
+        "azalpena": "Aditza 'etorri' da, NOR-NORI sistema (gurengana etorri zen = 'guri etorri zitzaigun'). 'Zitzigula' ez da forma zuzena. Forma zuzena 'zitzaigun' da (NOR-NORI: guri = zaigu, lehenaldian = zitzaigun)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'izugarri' hitza 4 aldiz agertzen da testuan: 'hiri izugarri', 'izugarria zen', 'izugarri handia', 'oso izugarria'",
+        "zuzenketa": "Erabili sinonimoak: 'ikaragarria', 'liluragarria', 'harrigarria', 'zoragarria', 'ikusgarria', 'ezinhobea'",
+        "azalpena": "Hitz bat 3-4 aldiz baino gehiagotan errepikatzea monotonia sortzen du. Hiztegia aberasteko, sinonimoak bilatu eta txertatu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hasieran pixka bat agobiatu ginen",
+        "zuzenketa": "Hasieran, pixka bat agobiatu ginen",
+        "azalpena": "Lotura-hitz hauek koma behar dute ondoren: hasieran, azkenik, lehenik, azkenean, gainera, hala ere, beraz... Arau sinplea da eta erraz gogoratzen da!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'pilo bat' hitza 3 aldiz: 'argazki pila bat', 'arropa pilo bat', 'barre pilo bat'",
+        "zuzenketa": "Erabili alternatibak: 'argazki asko', 'arropa ugari', 'barre handia', 'jende-piloa', 'gauza asko'",
+        "azalpena": "'Pilo bat' oso generikoa da. Hiztegia landuagoa egiteko, zehatzagoak eta aldakorragoak diren adierazpenak erabili."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa — SOV haustea",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ez nintzen lehio ondotik mugitu",
+        "zuzenketa": "lehio ondotik ez nintzen mugitu",
+        "azalpena": "Euskaraz fokua aditzaren aurrean jartzen da. 'Lehio ondotik' informazio berria denean, aditzaren aurretik joan behar du enfasia emateko. Ordena hau ez da akats larria baina naturalagoa da beste horrela."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 847,
+    "minor": 3,
+    "major": 6,
+    "critical": 0,
+    "EP100_gordina": 1.77,
+    "EP100_pisuduna": 1.24,
+    "EP100_gordina_modelo": 2.0,
+    "EP100_pisuduna_modelo": 1.89,
+    "minor_modelo": 2,
+    "major_modelo": 8,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia dirudi. Hainbat ezaugarri naturalak agertzen ditu: akats ortografikoak ('es nintzen' 'ez nintzen'-en ordez), hizkuntza-interferentziak ('espaloi', 'aprobetxatzea'), errepikapen lexikoak ('oso' errepikatua), egitura ez-perfektua sarrera narrazio luzeegiarekin, tonu oso pertsonala eta informala ('pipak jaten', 'zistu bizian'), luzera egokia DBH mailarako (~800 hitz), eta kalitate desparekoa zati batzuetan koherentzia galduaz. Egitura orokorra (sarrera-garapena-ondorioa) ongi dago baina ez da robotikoa, narratiba natural batekin. Hiztegia erabat egokia da adin horretarako, inolako C1/C2 mailako hitzik gabe. Guztiz sinesgarria da ikasle gazte batek idatzi duela."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

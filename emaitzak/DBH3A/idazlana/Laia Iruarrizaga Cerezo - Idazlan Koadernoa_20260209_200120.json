@@ -1,0 +1,115 @@
+{
+  "kodea": "LAIA IRUARRIZAGA CER",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 0,
+    "oharrak": "Testua ez da aurkeztu. Ezin da ebaluatu."
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-1",
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testua ez da aurkeztu ebaluatzeko. Parentesi arteko argibideak soilik agertu dira, baina zure idazlana ez.",
+          "Ataza betetzeko, beharrezkoa da testu oso bat idaztea, eginkizuneko baldintzak betetzen dituena."
+        ],
+        "feed_forward": "Hurrengo aldian, ziurtatu zure testua osoki idatzi eta bidaltzea. Parentesi arteko argibideak ezabatu eta zure idazlana jarri behar duzu."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-5",
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testua aurkeztu gabe, ezin da antolaketa eta koherentzia ebaluatu.",
+          "Narrazioak sarrera, garapena eta ondorioa izan behar ditu."
+        ],
+        "feed_forward": "Hurrengo aldian, planifikatu zure istorioa hiru zatitan: hasiera (kokatzen duena), korapiloa (arazo edo gatazka nagusia) eta amaiera (ebazpena)."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testua ez denez aurkeztu, ezin da baliabide linguistikorik ebaluatu.",
+          "Narrazioetan garrantzitsua da aditz-denboren erabilera zuzena eta deskribapen-baliabideen barietatea."
+        ],
+        "feed_forward": "Hurrengo aldian, narrazioa idazterakoan, erabili lehenaldiko denborak (nintzen, nuen...) gertaerak kontatzeko, eta adjektiboak deskribapenak aberasteko."
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 1,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testua ez denez aurkeztu, ezin da zuzentasun linguistikorik ebaluatu.",
+          "Garrantzitsua da oinarrizko gramatika kontrolatzea: deklinabidea, aditz-morfologia eta ortografia."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, berrikusi zure testua eta egiaztatu ergatiboa (-k), datiboa (-ri) eta aditz-laguntzaileak zuzenak direla."
+      },
+      "zl_modelo": 0,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=0 baxuegi da EP100=0.0 (bikaintasuna, tartea 9-10). ZL=1 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 0.25,
+    "biribiltzea": 0,
+    "heziberri_maila": "lortu_gabea",
+    "orokorra": "Testua ez da aurkeztu ebaluatzeko. Parentesi arteko argibideak soilik agertu dira. Ataza betetzeko, beharrezkoa da idazlan oso bat aurkeztea. Hitz egin zure irakaslearekin eta aurkeztu berriz zure lana osatuta.",
+    "lehentasuna": "Testua aurkeztea da lehentasuna: argibideak ezabatu eta zure narrazioa idatzi.",
+    "batez_bestekoa_modelo": 0.0,
+    "biribiltzea_modelo": 0.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [],
+  "EP100": {
+    "hitz_kopurua": 0,
+    "minor": 0,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.0,
+    "EP100_pisuduna": 0.0,
+    "EP100_gordina_modelo": 0.0,
+    "EP100_pisuduna_modelo": 0.0,
+    "minor_modelo": 0,
+    "major_modelo": 0,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0,
+      "ia_puntuazioa_modelo": 0,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Ezin da azterketarik egin. Testua ez da idatzi, parentesi arteko argibideak bakarrik daude. Hau da txantiloi bat edo jarraibideak, ez ikasle batek idatzitako lana ez eta IAk sortutako testua ere. Ebaluazioa egiteko, testu erreala behar da."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Testua ez da aurkeztu",
+        "0 nota jartzen da",
+        "Irakaslearekin hitz egin behar du ikaslea ataza berriz aurkezteko"
+      ]
+    }
+  }
+}

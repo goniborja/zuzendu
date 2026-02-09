@@ -1,0 +1,203 @@
+{
+  "kodea": "NAROA GONZALEZ MUSAT",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Bikain! Gaia oso modu originalean landu duzu. Isiltasunari buruz idaztea ez da ohikoa eta ikuspegi oso interesgarria eman diozu. Benetan txapela kendu behar dizut!",
+          "Egitura perfektua: sarrera argia (arazoa aurkezten), garapena koherentea (zarataaren eta teknologiaren eragina), eta ondorio sendo bat. Tesis bat bezala dago antolatuta, oso ona!"
+        ],
+        "hobetzekoak": [
+          "Batzuetan, ideiak azalean gelditzen dira. Adibidez, 'zarata leku guztietan dago' diozu, baina ez duzu datu zehatzik edo esperientzia pertsonalik ematen. Konkretu gehiago izan, eta nota igo egingo da!",
+          "Ondorioa laburregia da — bi lerro bakarrik. Testua hain ondo hasi ondoren, ondorioan laburpen sendo bat behar luke, ideiak biribiltzeko eta irakurlearentzako mezu bat uzteko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu argumentu bakoitza hiru zatirekin osatzen: ideia + zergatia + adibide zehatza (esperientzia pertsonala, datua, ikerketa bat...). Hori egiten duzunean, 9-10 notak lortzeko prest egongo zara!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura bikaina: sarrera-garapena-ondorioa oso argi bereizten dira. Paragrafoen banaketa logikoa da eta irakurleari erraz jarraitzen zaio. Hori ez da txikikeria, benetan!",
+          "Lotura-hitzak oso ondo erabiltzen dituzu: 'horregaitik', 'gainera', 'ala ere', 'horrek'... Testua oso lotua dago eta diskurtso-fluxua perfektua da. Zorionak!"
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso laburrak dira (bigarrena eta bosgarrena batez ere, 2-3 lerro bakarrik). Funtzio bera duten paragrafoak batu ditzakezu, edo laburregiak gehiago landu. Horrela, testua oreka handiagoa izango luke.",
+          "Hirugarren paragrafoan, 'egia esan' erabilera kolokiala da eta ez dator bat gainerako testu formalarekin. Nahiago 'benetan' edo 'egiatan' erabili bat etortzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitzean gutxienez 4-5 lerro idazten. Bakoitzak ideia nagusi bat izan behar du baina nahikoa garatuta. Paragrafoak ez dira esaldi bakarrekoak izan behar!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia nahiko aberatsa da: 'zarata jarraikor', 'pentsamenduak ordenatuago', 'erabakia errazago hartu'... Ez dira hitz arrunt-arruntak eta horrek kalitatea ematen dio testuari!",
+          "Erregistroa oso egokia da testu hausnarkorra eta formalerako. Ez dago kolokialismo gehiegirik eta tonua koherentea da hasieratik bukaeraraino. Ondo!"
+        ],
+        "hobetzekoak": [
+          "Perpaus sinpleak gehiago dira konplexuak baino. Egitura konplexuagoak erabili beharko zenituzke: baldintzak konplexuagoak, erlatiboak, kausak askotarikoagoak... Badituzu baina gehiago erabili!",
+          "Zenbait hitz errepikatzen dira: 'zarata' 4 aldiz, 'isiltasun' 5 aldiz, 'garrantzitsua' 2 aldiz. Sinonimoak erabiltzea aberastu egingo luke testua: 'isiltasun' → 'isilune', 'lasaitasun', 'bakea'; 'garrantzitsua' → 'funtsezkoa', 'ezinbestekoa'."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez bi egitura konplexu sartzen modu naturalean: baldintza konplexua bat ('hori egingo balu, ondorioa izango litzateke'), eta erlatibozko bat ('... egiten dutenek...'). Hori eginda, BLH maila igo egingo duzu seguru!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Oinarrizko gramatika oso ondo kontrolatuta daukazu: aditz-komunztatua zuzen erabiltzen duzu gehienetan, eta NOR-NORK sistema ere ondo dago. Hori ez da erraza DBH3 mailan!",
+          "Puntuazioa ia perfektua da: paragrafoak puntu eta jarraituarekin ongi bereizita, komak lotura-hitzekin... Ez da txikikeria, benetan!"
+        ],
+        "hobetzekoak": [
+          "Koma-akats batzuk ageri dira: 'horregaitik' lotura-hitzaren ondoren koma jarri behar da beti. Hau 3 aldiz gertatu da. Arau hau finkatu eta akats hauek desagertuko dira!",
+          "Hitz-banaketa: 'horregaitik' euskaraz 'horregatik' da (batera). Hau 3 aldiz agertu da eta nabarmen gelditzen da. Gogoan izan 'horrek' + 'gatik' = 'horregatik'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu lotura-hitz guztiak (beraz, horregatik, gainera, hala ere...) eta egiaztatu bakoitzaren ondoren koma jarri duzula. Sistema sinple horrekin, ZL 8-9 mailara iritsiko zara!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "Modeloaren ZL=7 koherentea EP100=3.75 (aurreratua, tartea 7-8)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.5,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Benetan lan oso ona egin duzu, Naroa! Gai interesgarri bat hautatu duzu eta modu oso koherentean garatu duzu. Egitura bikaina da eta lotura-hitzak oso ondo erabiltzen dituzu. Hobetzeko aukera nagusia: argumentuak gehiago konkretu eta garatu (adibide zehatzagoak, esperientziak...), eta paragrafo laburregiak luzatu. Baina zure maila oso altua da DBH3rako. Aurrera!",
+    "lehentasuna": "Koma lotura-hitzekin: 'horregatik', 'gainera', 'horrek' bezalakoen ondoren BETI koma jarri. Hau da lehen hobetzeko puntua!",
+    "batez_bestekoa_modelo": 7.5,
+    "biribiltzea_modelo": 7.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzekin",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Horregaitik, gero eta zailagoa... / Horregaitik, isiltasuna bilatzea... / horregaitik, arazo baten aurrean...",
+        "zuzenketa": "Horregatik, gero eta zailagoa... / Horregatik, isiltasuna bilatzea... / horregatik, arazo baten aurrean...",
+        "azalpena": "Lotura-hitzen ondoren ('beraz', 'horregatik', 'gainera', 'hala ere'...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa okerra: 'horregaitik' → 'horregatik'",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Horregaitik",
+        "zuzenketa": "Horregatik",
+        "azalpena": "Euskaraz 'horregatik' idazten da batera (horrek + -gatik), ez 'horre gaitik' edo 'horregaitik'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Jende askok uste du, isiltasunak, triztezia... / Teknologiak, gure bizitza asko aldatu du...",
+        "zuzenketa": "Jende askok uste du isiltasunak triztezia... / Teknologiak gure bizitza asko aldatu du...",
+        "azalpena": "Subjektu nagusia eta aditz nagusiaren artean EZ da komarik jartzen. Hau gaztelaniako ohitura kalkatzea da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma perpaus mendekoaren aurretik (kalko sintaktikoa)",
+      "akats_id": "ZL-PUN-6",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "egia da, neurrian erabiltzen badugu, oso lagungarria izan daitekela",
+        "zuzenketa": "egia da neurrian erabiltzen badugu oso lagungarria izan daitekeela",
+        "azalpena": "Euskaraz konpletiboa (-la/-enik) aurretik EZ da koma jartzen. Hau gaztelaniako 'es verdad, que...' kalkoa da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa: 'isil-tasunak' → 'isiltasunak'",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "isil-tasunak",
+        "zuzenketa": "isiltasunak",
+        "azalpena": "Hitza ez da zatitzen. 'Isiltasuna' hitz bakarra da eta batera idazten da. Lerro-amaiera gisa ez da kasu honetan beharrezkoa."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-hautaketa: 'deritzo' → 'sortzen du'",
+      "akats_id": "ZL-ADI-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "horrek, zarata jarraikor bat deritzo",
+        "zuzenketa": "horrek zarata jarraikor bat sortzen du / eragiten du",
+        "azalpena": "'Deritzo' NOR-NORI aditza da ('nori deritzo?'), baina kontestuan NOR-NORK aditz bat behar da ('horrek sortzen DU'). Laguntzaile okerra hautatu duzu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra: 'esagutzeko' → 'ezagutzeko'",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esagutzeko",
+        "zuzenketa": "ezagutzeko",
+        "azalpena": "Aditza 'ezagutu' da, ez 'esagutu'. Grafia okerra: 'z' erabili behar da, ez 's'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 253,
+    "minor": 13,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 5.93,
+    "EP100_pisuduna": 3.75,
+    "EP100_gordina_modelo": 4.7,
+    "EP100_pisuduna_modelo": 4.3,
+    "minor_modelo": 10,
+    "major_modelo": 1,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testuak DBH4ko ikasle batek idatzitako ezaugarriak ditu garbi. Akats naturalak agertzen dira: puntuazio erroreak (zuriuneak behar ez direnean, 'astirik ere ez daukagu', 'uste du, isiltasunak'), hitz batzuetan tarteak okerrak ('isi-tasuna' zatitua), eta egitura desberdinak ('lagungarria izan daitekela baina' koherentzia falta pixka bat). Hiztegia maila egokian dago, ez da C1/C2 hitzik erabiltzen. Testua ez da luzeegia (250 hitz inguru) eta edukiak gazteon ikuspegitik idatzita daude (mugikorra, telebista, institutoa...). Egitura nahiko ongi egituratua dago baina ez perfektua, eta kalitatea ez da uniformea (hasieran deskribapen argiagoak, bukaeran pixka bat laburragoak). Tonua naturala da, ez robotikoa. Guztira, ikasle baten lan legitimoa dirudi."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

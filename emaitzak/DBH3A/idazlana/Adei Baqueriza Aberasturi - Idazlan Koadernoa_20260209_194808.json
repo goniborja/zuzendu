@@ -1,0 +1,229 @@
+{
+  "kodea": "ADEI BAQUERIZA ABERA",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: 2/3 - Testuan akats ugari daude (EP100 > 10), ez da perfektua",
+      "S2: 0/3 - Hiztegi normala DBH3 mailarako",
+      "S3: 1/3 - Egitura oinarrizkoa baina ez perfektua",
+      "S4: 0/3 - Tonua pertsonala da, ez robotikoa",
+      "S5: 1/3 - Luzera handia (815 hitz) baina ez susmagarria narrazioetan",
+      "S6: 0/3 - Akats-patroi naturalak agertzen dira",
+      "S7: 0/3 - Kalitatea ez da uniformea, akatsen dentsitatea aldatzen da"
+    ],
+    "oharrak": ""
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Primeran! Istorio oso osoa sortu duzu hasiera-korapiloa-amaiera egiturarekin. Pertsonaiak garatu dituzu (Txuri, Gorritxu, Beltz) eta ekintza-sekuentziak argi daude.",
+          "Oso interesgarria da nola egunez egun kontatzen duzun prestakuntza (Urriak 14, 15, 16...). Horrek erritmoa ematen dio narrazioari eta irakurleari laster-lasterketara eramaten gaitu!"
+        ],
+        "hobetzekoak": [
+          "Istorioa polita da, baina amaiera nahasia geratu da. Lehenengo hiru lasterketa ondo daude, baina gero 'Azken lasterketa' atalean txingorrak, hilak, hileta, baserriaren handitzea... dena azkarra-azkarra. Amaiera hori gehiago landu beharko zenuke, geldoago eta argi-argi azalduz zer gertatzen den eta zergatik.",
+          "Mezua ('Istorio honen mezua da...') oso luzea da eta testuarekiko deskonektatua. Narrazioan mezua integratuta egon beharko luke, ez paragrafo batean 'esanda' soilik. Adibidez, protagonistek (semeak, aitak) zerbait ikasi edo sentitu dute istorio honetatik?"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu amaiera gehiago garatzen: ekintza nagusia (lasterketa azkena) → ondorioa berehalakoa (zaldien heriotza) → ondorio luzea (familia nola sentitzen da, zer ikasten du). Horrela, mezua naturalagoa izango da eta ez da 'gehitua' zirudienik!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura kronologikoa (egunen arabera) oso argia da prestakuntza fasean. Horrek ordenatzen du istorioa eta irakurleari erraza egiten dio jarraitzea.",
+          "Paragrafoen banaketa nahiko egokia da; zati bakoitzak bere momentua du (prestakuntza, lasterketa bat, lasterketa bigarrena...)."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak errepikakorrak dira: 'eta' oso-oso maiz erabiltzen duzu, baita 'baina' ere. Saiatu lotura-hitz gehiago erabiltzen: 'orduan', 'hortik aurrera', 'momentu horretan', 'berehala', 'ondoren'... Horiek emango diote narrazioari fluidotasuna!",
+          "'Azken lasterketa' atalean saltoak daude: lasterketatik (Txuri irabazten du) → etxera joan → Beltzen jabea etortzen da → gaua → ametsgaiztoa → hurrengo egunean txingorra → zaldiak hil → hileta → baserria handitu... Dena oso azkar! Gehiago landu behar duzu trantsizio hau, pausoa ematen."
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, berrikusi esaldi bakoitza eta erabaki: 'eta' hau beste lotura-hitz batek ordezka al dezake? (adib: 'ondoren', 'berehala', 'orduan'). Horrela, diskurtsoa askoz naturalagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Saiatu zara hiztegia aldatzen: 'nabarmendu', 'funtzionatu', 'estrategia', 'irentsi', 'brutalitataren', 'injuziaren'... Horrek erakusten du idazteko aberastasun bat daukazula!",
+          "Egitura batzuk konplexuak dira: 'haien harrotasuna irentsi zuten zorionak emateko', 'une zoriontsuak dauden arren'. Hori oso ona da!"
+        ],
+        "hobetzekoak": [
+          "Esaldi askok egitura soila dute: subjektua + aditza + objektua. Saiatu mendeko perpaus gehiago sartzen baldintzakoekin ('baldin... ba'), kausazkoekin ('...(e)lako'), denborazkoekin ('...(e)nean'). Horrek emango dio testuari konplexutasun gehiago.",
+          "Hitz batzuk errepikatzen dituzu maiz: 'momentu batean' (3 aldiz edo gehiago), 'holantxe/holantxik', 'hortik'. Erabili sinonimoak: 'une batean', 'orduan', 'berehala', 'handik gutxira'..."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez baldintza-esaldi BAT sartzen ('baldin + ba-lehenaldia, -ke/ko-baldintza'), adibidez: 'Txuri azkarrago ibiltzen balitz, lehenengo postuan jarriko litzateke'. Hori BLH-n nabarmen igoko zaizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema orokorrean ondo erabiltzen duzu: 'familia batek izan zuen', 'aitak esan zion', 'semeak esan zion'. Hori ez da erraza eta ondo daukazu!",
+          "Deklinabidea gehienetan zuzena da: 'zaldien lasterketen zale', 'lasterketatik kanpo', 'tramparekin'."
+        ],
+        "hobetzekoak": [
+          "Akats nagusia ADITZ-KOMUNZTADURA da pluralean. 'Gauzak hazi ziren' idatzi duzu baina 'hazi' SINGULARREAN da → 'hazi ZIREN' edo 'hasi ziren'. Gogora: subjektua plurala bada, partizipioa ere plurala izan behar da askotan. Berrikusi hau!",
+          "Puntuazioan arazoak daude: koma subjektu eta aditz artean oso maiz ('Txuri, txikitatik izan zen', 'Beltz, logikarekin'). Euskaraz subjektu eta aditz artean EZ da koma jartzen ia inoiz. Hau errepasatu behar duzu!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, bilatu esaldi bakoitzean subjektua eta aditza. Plurala badira biak, egiaztatu partizipioa ere plurala den ('hasi ziren', ez 'hazi ziren'). Sistema sinple honekin akats asko desagertuko dira!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "Modeloaren ZL=5 koherentea EP100=5.15 (tartekoa, tartea 5-6)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.0,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Primeran egin duzu lana, Adei! Istorio oso polita sortu duzu pertsonaiak eta ekintza-sekuentzia argi batekin. Egitura kronologikoa (egunen arabera) oso argia da eta horrek laguntzen du istorioa jarraitzen. Hobetzeko bi arlo nagusi daude: 1) Amaiera gehiago garatu (txingorra-heriotza-hileta oso azkarra da), eta 2) Aditz-komunztadura pluralean eta koma erabilera subjektu-aditz artean. Badaukazu gaitasuna maila hau gainditzeko, ziur!",
+    "lehentasuna": "Aditz-komunztadura pluralean: 'hazi ziren' → 'hasi ziren' (pluralean partizipioa ere plurala izan behar da). Eta koma: ez jarri subjektu eta aditz artean euskaraz!",
+    "batez_bestekoa_modelo": 6.0,
+    "biribiltzea_modelo": 6.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Aditz-komunztadura pluralean",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "goizean hazi ziren",
+        "zuzenketa": "goizean hasi ziren",
+        "azalpena": "Subjektua plurala denean (haiek), partizipioa ere plurala izan behar da: hasi (plurala), ez hazi (singularra). Ikus: 'hasi ziren', 'sartu ziren', 'joan ziren'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Txuri, txikitatik izan zen",
+        "zuzenketa": "Txuri txikitatik izan zen",
+        "azalpena": "Euskaraz subjektu eta aditz nagusia artean EZ da koma jartzen. Gaztelaniako kalkoaren ondorioa da hau. Soilik apositibo edo tarteko esaldiak daramate koma."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "momentu batean (5 aldiz gutxi gorabehera)",
+        "zuzenketa": "momentu batean / une batean / orduan / berehala / handik gutxira",
+        "azalpena": "Hitz edo esamolde bat maiz errepikatzen denean, sinonimoak erabili behar dira testua aberasteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz errepikatuak ('eta' gehiegizko erabilera)",
+      "akats_id": "OK-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "eta... eta... eta... (30+ aldiz testuan)",
+        "zuzenketa": "Erabili lotura-hitz anitzagoak: ondoren, gero, hortik aurrera, momentu horretan, berehala, orduan, horrez gain...",
+        "azalpena": "'Eta' lotura-hitzik oinarrizkoen bat da, baina gehiegitan erabiltzeak testua monotonoa egiten du. Erabili lotura-hitz konplexuagoak diskurtsoa aberasteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-ordena anbiguoa",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "truko zikin bat atera zuen Txuri aurreratzeko",
+        "zuzenketa": "Txuri aurreratzeko truko zikin bat atera zuen",
+        "azalpena": "Euskaraz helburu-perpausak (adibidez: 'aurreratzeko') objektuaren ondoren joan ohi dira aditza baino lehen. Horrela argiagoa da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia (grafia okerra)",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "amabizitzarako",
+        "zuzenketa": "bizi-bizitzarako",
+        "azalpena": "Hitz hau ez da ondo idatzita. Egiazta ezazu euskaltzaindiaren hiztegian forma zuzena zein den. Ziurrenik 'bizi-bizitzarako' edo 'bizi osoan' nahi zenuen esan."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Erderakada lexiko (mailegu okerra)",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "injuztiaren",
+        "zuzenketa": "injustiziari / bidegabekeriaren",
+        "azalpena": "Gaztelaniazko 'injusticia' hitza euskarara itzultzean, 'injustizia' (batua) edo 'bidegabekeria' erabili behar da. 'Injuziaren' ez da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Orduan Txuri irabazi zuen",
+        "zuzenketa": "Orduan, Txuri irabazi zuen",
+        "azalpena": "Lotura-hitzen ondoren ('orduan', 'gero', 'beraz', 'hala ere'...) koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 815,
+    "minor": 26,
+    "major": 8,
+    "critical": 0,
+    "EP100_gordina": 5.15,
+    "EP100_pisuduna": 1.29,
+    "EP100_gordina_modelo": 5.4,
+    "EP100_pisuduna_modelo": 4.0,
+    "minor_modelo": 23,
+    "major_modelo": 10,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    },
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats asko ageri dira: ortografia akatsak ('hazi' 'hasi' ordez, 'mometntu', 'holantxe', 'holantxik'), egitura hutsuneak, perpaus nahasi eta luzeak puntuazio okerrekin, koherentzia falteak (txingor bat zaldi biak hiltzen dituela, esplikaziorik gabe), errepikapenak, hitz desegokiak ('apuntatu'), eta idazkera irregularra hasieratik bukaera arte. Amaierako hausnarketa filosofikoa (mezua) pixka bat nahasita dago eta bat-batean sartzen da, baina hori ere tipikoa da ikasle batek lana 'modu akademiko' batean amaitzeko ahaleginean. IAk ez lituzke halako akats morfosintaktiko eta ortografiko horiek egingo, ezta egitura desorganizatu hori ere. Ipuin soil bat da, gaizki idatzita, DBH4ko lan baten ezaugarri guztiekin."
+    }
+  }
+}

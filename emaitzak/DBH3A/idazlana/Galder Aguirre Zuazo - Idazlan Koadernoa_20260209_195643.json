@@ -1,0 +1,216 @@
+{
+  "kodea": "GALDER AGUIRRE ZUAZO",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura bikaina da: hasiera, korapiloa eta amaiera ondo definituta. Iker pertsonaiaren garapena sakonki landuta dago, hasieratik bukaerara eta bilakaera psikologikoa ondo erakusten duzu.",
+          "Kontaketa-gaitasun handia duzu: narrazioa dinamikoa da, interes-puntu asko ditu (Ikerren amaren gaixotasuna, aurkikuntza, gobernuaren aurkakotasuna, heriotza susmagarria...) eta irakurlea erakarrita mantentzen duzu. Primeran!"
+        ],
+        "hobetzekoak": [
+          "Narrazioaren amaiera apurka ahultzen da: errepikapen lexiko ugari agertzen dira azkeneko paragrafoan ('jende asko', 'egia', 'interneten bilatzen'...) eta ritmo arinagoa egiten da. Bukaera indartsuagoa presta zenezake, ondorioa argiagoa eginez.",
+          "Denbora-koherentzia hobetu beharko zenuke: iragana nagusia da narrazioan, baina tarteka orainaldia agertzen da ('denborak aurrera egiten du', 'Ikerrek ez da desagertzen') eta trantsizio hori ez da beti justifikatuta. Argi izan iraganaren eta orainaren arteko muga."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu bukaera berberak INDARTZEA: ideia bat azpimarratu eta itxi testu osoa itzulera batekin (adibidez, hasieran aipatu duzu 'ez utzi beldurrari bidea erabakitzen' esaldia — bukaerara ekar zenezake berriro eta efektu haundia lortuko zenuke!). Eta kontuz denbora-aldaketekin: iraganean hasi bazara, iraganean jarraitu eta orainaldia soilik ondorioan erabili."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da oro har: hasiera (haurtzaroa), garapena (ikasketak, aurkikuntza, gobernuarekin gatazka), amaiera (hilketa, ondorioa). Egitura narratiboak funtzionatzen du ondo.",
+          "Lotura-hitz desberdinak erabiltzen dituzu ('hala ere', 'horregatik', 'orduan', 'handik aste gutxira'...) eta honek narrazioa lotzen du modu naturalean. Ondo!"
+        ],
+        "hobetzekoak": [
+          "Azkeneko bi paragrafoak errepikakorrak dira edukian: biek jende anonimoak Ikerren lana zabaltzen duela esaten dute, informazio berria gehitu gabe. Paragrafo bat kendu edo biak batu argibide gehigarri batekin, errepikapenak saihesteko.",
+          "Noizean behin trantsizio bortitzak daude: 'Gala txiki batean...' esaldia bat-batean agertzen da aurreko testuinguruarekin loturarik gabe. Erabili trantsizio-esaldi bat ('Bilera egunean...', 'Hitzorduaren egunean...') eszenak lotzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, irakurri testua osorik eta begiratu ea paragrafo bakoitzak informazio BERRIA dakarrren ala aurreko baten errepikapena den. Errepikapenak aurkitzen badituzu, batu paragrafoak edo ezabatu informazio errepikatua. Honek testua trinkoagoa egingo du!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa eta zehatza: 'bigilatua sentitu', 'ofizialki agindu', 'aurrerapen zientifikoa', 'sendatze-tasak handitu'... Hitz tekniko eta formalak ondo erabiltzen dituzu narrazioari sakontasuna emateko. Bikain!",
+          "Perpaus-egitura konplexuak erabiltzen dituzu arriskatu gabe: mendekoak, erlatibozkoak, kausazkoak... Adibidea: 'Iker egunero joaten zen ospitalera, amak lo egiten zuen bitartean, medikuen gauzak irakurtzera'. Egitura hau ez da erraza DBH3 mailarako eta oso ondo erabiltzen duzu."
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko batzuk azken zatian: 'jende asko/askok' 7 aldiz agertzen da azken paragrafoan, 'egia' 4 aldiz, 'interneten' 3 aldiz. Erabili sinonimoak: jendea → pertsonak, herritar asko, ikerlari batzuk; egia → errealitatea, egitatea.",
+          "Hitz generikoak gehiegi: 'gauza' 4 aldiz ('gauza normal bat', 'gauza txarrak', 'gauza horiek'), 'ondo/ona' errepikatua. Zehaztu gehiago: 'gauza normal bat' → 'zerbait arrunta'; 'gauza txarrak' → 'mehatxuak, hitzak gogorrak'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, bilatu 'jende', 'gauza', 'ona' hitzak testuaren %60tik aurrera. Hitz horiek errepikatzen badira, ordezka itzazu sinonimoekin. Hau automatismo sinple bat da baina efektu handia du BLH-n!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK aditz-sistema ondo kontrolatuta duzu gehienetan: 'Ikerrek lan asko egiten zuen', 'aurkikuntza topatu zuen'. Subjektuan -k eta aditza zuzen. Horrek erakusten du sistema barneratuta duzula oinarrian.",
+          "Mendeko perpausen egitura askotan zuzena da: 'zelan bizitzen zen jendea', 'nola eramaten zituzten', 'denbora osoa datuak ikusten egon zen'. Hauek ez dira egitura errazak eta ondo erabiltzen dituzu!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 8 aldiz ahaztu duzu eta hau da akatsik garrantzitsuena. Adibideak: 'medikuek esperantzarik ez zuela esaten zuten' → 'medikuEK esperantzarik ez zueLA esaten zuTEN' (ondo!); BAINA 'bere amak minbizia hartu zue' → 'bere amak' subjektua da eta aditza iragankorra (hartu) → 'bere amaK minbizia hartu zuEN'. Berrikusi esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri.",
+          "Aditz-numero akatsak (6 aldiz): 'medikuen gauzak irakurtzera' → 'medikuEN gauzAK' plurala da, baina 'irakurtzera' singularrean dago inplizituki; 'tratamendu berriak agertzen hasi ziren' → 'tratamendu berriak agertu ziren' hobea da; 'bajatzen hasi zen zen' → errepikapen aditzailea, 'bajatzen hasi zen' nahikoa da.",
+          "Ortografia-akatsak: 'etra' → 'eta'; 'horregaitik' → 'horregatik'; 'astertzen' → 'aztertzen'; 'slbapena' → 'salbamena'; 'prbatu' → 'pribatu'; 'haurkikuntza' → 'aurkikuntza'; 'albisteetan' → 'albiste batean' edo 'albistegian'; 'sineztu' → 'sinetsi'; 'bajatzen' → 'bajatzen' (ondo gaztelaniaz baina euskaraz 'jaisten', 'gutxitzen', 'murrizten')."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi GUZTIAK eta galdetu: 'aditza NOR-NORK da? Baietz → subjektuari -K'. Markatu kolorez subjektuak eta aditzak, eta egiaztatu -K dagoen. Teknika hau erabiliz, ergatiboa automatikoki kontrolatuko duzu eta EP100 izugarri jaitsiko zaizu! Badaukazu gaitasuna, kontu honekin soilik falta zaizu."
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=5 baxuegi da EP100=3.77 (aurreratua, tartea 7-8). ZL=6 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Narrazioaren egitura bikaina da eta kontaketa-gaitasun haundia erakusten duzu. Istorioa interesgarria da, pertsonaiak ondo garatuta daude eta ritmo ona du. Hiztegi aberatsa eta egitura konplexuak ere modu naturalean erabiltzen dituzu. Hobetzeko tarte nagusia ZL-n dago: ergatiboa (-k) ahaztu duzu 8 aldiz eta hau da lehentasuna konpontzeko. Gainontzeko akatsak (ortografia, errepikapen lexikoak) txikiagoak dira eta kontu gutxirekin konpon ditzakezu. Testu bikaina duzu oinarrian — ergatiboa kontrolatzen duzunean, maila oso altua lortu ahal izango duzu!",
+    "lehentasuna": "Ergatiboa (-k): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna eta hau konpontzen duzunean ZL 7tik 8ra igoko zaizu!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa (-k) falta",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "bere amak minbizia hartu zue",
+        "zuzenketa": "bere amaK minbizia hartu zuEN",
+        "azalpena": "Aditza NOR-NORK denean (hartu → nork hartu? amak), subjektuak -K marka behar du. Gainera, 'hark' + 'hartu' (lehenaldia) → 'zuEN', ez 'zue'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — numero okerra",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "tratamendu berriak agertzen hasi ziren",
+        "zuzenketa": "tratamendu berriak agertu ziren / agertzen hasi ziren (hobea: agertu ziren)",
+        "azalpena": "Subjektua plurala denean ('tratamendu berriak'), aditzak ere plurala izan behar du. 'Agertzen hasi' perifrasiarekin kontuz ibili, batzuetan ez da beharrezkoa."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia-akatsak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 9,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "haurkikuntza",
+        "zuzenketa": "aurkikuntza",
+        "azalpena": "Sibilanteen nahasketa: 'h' sobera jarri duzu. Euskarazko hitzetan, 'h' hasieran bakarrik doa normalean, ez barnean (salbuespenak: 'ahal', 'behera'...)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'jende asko/askok' 7 aldiz azken paragrafoan",
+        "zuzenketa": "Erabili sinonimoak: pertsonak, herritar asko, ikerlari batzuk, publikoa...",
+        "azalpena": "Hitz bera oso dentsitate altuan errepikatzen denean, hiztegi-pobrezia sentsazioa ematen du. Birformulatu esaldiak sinonimoak erabiliz."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'gauza' 4 aldiz: 'gauza normal bat', 'gauza txarrak', 'gauza horiek', 'gauza batean'",
+        "zuzenketa": "Zehaztu: 'zerbait arrunta', 'mehatxuak / esaldi gogorrak', 'gertaera horiek', 'atal batean'",
+        "azalpena": "'Gauza' hitz oso generikoa da eta askotan zehaztu daiteke hitz zehatzekin. Horrek testua profesionalagoa egiten du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz-kalkoa",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "bajatzen hasi zen",
+        "zuzenketa": "jaisten hasi zen / gutxitzen hasi zen / murrizten hasi zen",
+        "azalpena": "'Bajar' gaztelaniazko hitza da zuzenean. Euskaraz 'jaitsi', 'gutxitu', 'murriztu' erabili behar da testuinguruaren arabera."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala ere bere lana zailagoa",
+        "zuzenketa": "Hala ere, bere lana zailagoa",
+        "azalpena": "Lotura-hitz hauek koma behar dute ondoren beti: hala ere, gainera, bestalde, beraz, horregatik, orduan..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra / aspektu okerra",
+      "akats_id": "ZL-ADI-5",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "saiatu ziren, txostenak ezkutatu zituzten",
+        "zuzenketa": "saiatu ziren (ondo), txostenak ezkutatu zituzten (ondo kontestuan)",
+        "azalpena": "Kasu honetan forma zuzenak dira. Beste adibide bat: 'nor den aberiguatzen hasi ziren' → 'nor zen aberiguatzen hasi ziren' (denbora-koherentzia: iragana)."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1142,
+    "minor": 11,
+    "major": 16,
+    "critical": 0,
+    "EP100_gordina": 3.77,
+    "EP100_pisuduna": 1.23,
+    "EP100_gordina_modelo": 5.1,
+    "EP100_pisuduna_modelo": 4.6,
+    "minor_modelo": 13,
+    "major_modelo": 22,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats ugari daude: ortografikoak (kantzer, artxibo, bajatzen, susmatzean, abestrasusun, famatua...), sintaktikoak (esaldi desordenatuak, puntuazio-erroreak), egitura-hutsuneak (azken esaldi arraroa 'Ez dut parte hartu nahi'), errepikapenak, eta koherentzia-arazoak. Hiztegia maila egokikoa da DBH4rentzat, batzuetan gehiegizkoa izan arren (aurkikuntza, organismo). Egitura oinarrizko bat dago baina ez da perfektua. Kalitatea ez da uniformea, hasieran hobea eta bukaeran nahasiago. Guztiz naturala da ikasle-lana."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

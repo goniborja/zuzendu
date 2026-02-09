@@ -1,0 +1,36 @@
+{
+  "kodea": "ANTON MARTINEZ MARTI",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 19,
+      "seinaleak": {
+        "S1": 2,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 2,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu honek IA bidez sortua izateko ezaugarri nabarmenak ditu. Hizkuntza literario eta egituratua da, DBH4ko ikasle batentzat espero ez litekeen mailan. Hitz-egiturak oso konplexuak dira ('dardarka hasi zen', 'distira leun batez', 'jakin-minak beldurra gainditu zuen') eta tonua erabat literarioa da. Testua 800+ hitz ditu eta kalitatea uniformea da hasieratik amaieraraino, aldaketa naturalik gabe. Egitura perfektua du: sarrera argiduna, garapena hainbat fasetan, eta ondorio poetikoa. Akats ortografikoak agertzen dira (zuriuneak falta puntuazio ondoren, 'maiha' ordez 'mahia'), baina akats hauek ez dira DBH4ko ikasle baten akats naturalak; IAk sortutako testuei gero akatsak gehitzeko estrategia dirudi. Tonu robotiko eta literarioa du, gazteen idazkera naturaletik urruti. Metafora eta deskribapen perfektuak ('itsasoko olatuen itzalak bezalako formak', 'haizearen antzekoa') DBH4 mailarako ez-naturalak dira.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 19/21)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "kodea": "SOFIA FETESCU",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-1",
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Ez duzu testurik idatzi. Ataza betetzeko, narrazioa idatzi behar duzu.",
+          "Irakurri ondo enuntziatua eta hasi idazten. Edozein idazlan hutsik baino hobea da!"
+        ],
+        "feed_forward": "Hurrengo aldian, irakurri ondo zer eskatzen dizun, eta hasi idazten lasai. Lehen zirriborroa beti da garrantzitsuena!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testurik ez denez, ezin da antolaketa ebaluatu.",
+          "Narrazioak hasiera-korapiloa-amaiera behar ditu. Idatzi eta gero antolatuko dugu!"
+        ],
+        "feed_forward": "Hurrengo aldian, pentsatu istorioa hiru zatitan: hasieran zer gertatzen den, erdian arazoa, eta bukaeran nola konpontzen den."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 0,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testurik ez denez, ezin da hizkuntz-aberastasuna ebaluatu.",
+          "Saiatu hitz desberdinak erabiltzen, eta ez beldurrik izan akatsak egitera!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta ez kezkatu perfektua izan behar duela. Hobeto zerbait idatzita akatsez beteta, hutsik baino!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 1,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [],
+        "hobetzekoak": [
+          "Testurik ez denez, ezin da zuzentasuna ebaluatu.",
+          "Idatzi lasai eta gero zuzentzen dugu denok elkarrekin!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi zure buruan dugun guztia, eta gero begiratuko diogu akatsak zuzentzeko. Hori da prozesua!"
+      },
+      "zl_modelo": 0,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=0 baxuegi da EP100=0.0 (bikaintasuna, tartea 9-10). ZL=1 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 0.25,
+    "biribiltzea": 0,
+    "heziberri_maila": "lortu_gabea",
+    "orokorra": "Sofia, ezin izan dut zure idazlana ebaluatu, ez duzulako testurik idatzi. Parentesi arteko argibideak utzi dituzu, baina zure narrazioa falta da. Ez da arazo larria, baina hurrengo aldian idatzi behar duzu zerbait! Zu gai zara, lasai hasi eta aurrera egingo duzu.",
+    "lehentasuna": "Hurrengo aldian, IDATZI. Edozein istorio txikia balio du hasteko. Lehen pausoa beti da zailena, baina behin hasten zarenean, gainerakoa errazagoa da. Animatu eta idatzi!",
+    "batez_bestekoa_modelo": 0.0,
+    "biribiltzea_modelo": 0.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [],
+  "EP100": {
+    "hitz_kopurua": 0,
+    "minor": 0,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.0,
+    "EP100_pisuduna": 0.0,
+    "EP100_gordina_modelo": 0.0,
+    "EP100_pisuduna_modelo": 0.0,
+    "minor_modelo": 0,
+    "major_modelo": 0,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0,
+      "ia_puntuazioa_modelo": 0,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua ez da ebaluagarria. Soilik argibide-testuak daude parentesi artean, baina ez dago ikaslearen edukia. Txantiloi hutsa da, idatzitako lana gabe. Ezin da erabaki giza idazlana den ala IAk sortua, ez baitago aztertzeko edukirik."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Ikaslearen testua hutsik dago",
+        "Ez da ebaluatu, testua ez delako aurkeztu",
+        "Irakaslearekin hitz egin behar du ikaslearen egoera ezagutzeko eta laguntzeko"
+      ]
+    }
+  }
+}

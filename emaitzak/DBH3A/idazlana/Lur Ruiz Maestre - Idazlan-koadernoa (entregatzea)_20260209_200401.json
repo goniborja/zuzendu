@@ -1,0 +1,36 @@
+{
+  "kodea": "LUR RUIZ MAESTRE",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 18,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 2,
+        "S6": 3,
+        "S7": 2
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testua IA bidez sortua izan daiteke hainbat arrazoi direla eta: (1) Perfekzio linguistikoa - DBH4ko ikasle batek ez luke hainbeste deklinabide eta aditz egitura konplexu hain ondo erabiliko ('konturatu nintzen', 'zitzaizkidan', 'iruditzen zitzaidan'). (2) Hiztegi sofistikatu eta uniformea - 'susmagarria', 'gertakaria', 'ausartena' bezalako hitzak naturalki txertatuta. (3) Egitura narratibo perfektua - sarrera, tentsioa, gailurra eta ikaskuntza-ondorioa oso kalkulatuta. (4) Akats natural faltsuak - badira akats batzuk ('kamisetan' 'kamisetan' izan beharko luke, 'etaa' bikoiztuta), baina hauek gehiegi dira 'perfektu' izan gabe, IA baten patroi arrunta. (5) Luzera (700+ hitz) eta konplexutasun narratiboa DBH4rako arraro da. (6) Kalitate uniformea - ez dago tipikoki ikasleek egiten dituzten gorabeherak (hasieran hobeto, amaieran nekaturik). Tonu eta erritmoa gehiegizko kontrolarekin idatzita daude DBH ikasle batentzat.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 18/21)"
+      ]
+    }
+  }
+}

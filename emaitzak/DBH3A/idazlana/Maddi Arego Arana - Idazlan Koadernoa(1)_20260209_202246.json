@@ -1,0 +1,195 @@
+{
+  "kodea": "MADDI AREGO ARANA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 3,
+      "maila": "hasiberria",
+      "cap_aplikatua": "CAP-3",
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren hasiera txukuna da: pertsonaia aurkeztu duzu (Malen, Bilbo, ama...) eta intriga sortu duzu lagun ikusezinaren idearekin. Hori benetan ondo!",
+          "Gutunaren ideia originala da: gutun bat erabiltzea informazioa emateko. Hori tresna literario polita da!"
+        ],
+        "hobetzekoak": [
+          "Testua bukatu gabe geratu da: bigarren paragrafoa erdian moztu da ('komunera') eta narrazioak ez du bukaera. Narrazioak hasiera-korapiloa-amaiera behar ditu, eta zurea bukatu gabe geratu da.",
+          "Luzera: narrazioa oso laburra da (97 hitz), DBH3 mailarako gutxienez 150-200 hitz espero dira. Horregatik ez dira puntu guztiak garatzen."
+        ],
+        "feed_forward": "Hurrengo aldian, planifikatu narrazioa osoa idatzi aurretik: hasiera (aurkezpena) + korapiloa (arazoa/misterio bat) + amaiera (konponbidea/bukaera). Eta kontatu hitzak idazten ari zaren bitartean, gutxienez 150 hitz lortzeko!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Bi paragrafo bereizita daude: lehena aurkezpena, bigarrena garapena (hasi bazen). Banaketa horrek erakusten du egitura kontzientzia dagoela.",
+          "Lehen paragrafoan denbora-sekuentzia argia da: aurkezpena → lau urte → gutuna → amak gorde. Ondo jarraitzen da."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak oso gutxi erabiltzen dituzu. Lehen paragrafoan 'Baina' soilik dago. Gehitu 'gainera', 'horregatik', 'gero', 'ondoren' bezalakoak ideiak hobeto lotzeko.",
+          "Bigarren paragrafoa bukatu gabe geratu da, eta horrek egitura apurtzen du. Paragrafo hori bukatuko bazenu eta hirugarren bat gehituko bazenu (desenllacea), egitura askoz hobea izango litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitzean gutxienez lotura-hitz BAT sartzen: 'Gainera, ...', 'Hala ere, ...', 'Ondoren, ...'. Horiekin testua hobeto lotuta egongo da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Zenbait hitz edo esamolde polita erabili dituzu: 'lagun ikusezina' (ideia poetikoa), 'imforme moduko bat' (nahiz eta ortografia oker idatzi).",
+          "Saiatu zara deskribapen-xehetasunak ematen: 'hamaika urte', 'neba-arreba bakarra', 'lau urte zituela'."
+        ],
+        "hobetzekoak": [
+          "Hiztegia oso sinplea da eta errepikapenak daude: 'zuen' hitza 4 aldiz, 'Malenen' 5 aldiz. Erabili izenordainak: 'bera', 'mutikoa', 'amak' → 'emakumeak', etab.",
+          "Perpaus-egitura guztiak oso sinpleak dira: subjektua + aditza + osagarria. Saiatu egitura konplexuagoak erabiltzen: mendekoak ('zeren', 'horregatik'), erlatibozkoak ('non', 'zein'), baldintzak ('balitz')."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu 2-3 esaldi konplexu idazten: baldintza bat ('Malenek ez balu lagun ikusezina, bakartia izango litzateke'), edo kausa bat ('Amak gutuna gorde zuen, zeren Malen babestea nahi baitzuen'). Horiek BLH-n maila asko igoko dizute!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 5,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Deklinabidea ondo kontrolatzen duzu orokorrean: 'Bilbon', 'amarekin', 'kutxa batean'. Oso ondo!",
+          "NOR-NORK aditz-sistema ondo erabiltzen duzu: 'zituen', 'zeuden', 'zuen'. Txapela!"
+        ],
+        "hobetzekoak": [
+          "Ortografia: 'imforme' → 'informe' (txikia baina kontuz); 'iñori' → 'inori' (tilderik ez euskaraz); 'izten' → 'uzten' (aditzaren forma).",
+          "Kausa-perpausetan arazoak daude: 'Malenen segurtasunerako' ez da ondo eratuta. Hobe: 'Malen babesteko' edo 'Malenen segurtasunagatik'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu ortografia kontuz: euskaraz EZ dago tilderik izenetan (iñori → inori), eta konsonanteak zuzendu (imforme → informe). Sistema sinple batekin errepasatzea nahikoa da akats hauek kentzeko!"
+      },
+      "zl_modelo": 4,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=4 baxuegi da EP100=8.25 (tartekoa, tartea 5-6). ZL=5 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 4.25,
+    "biribiltzea": 4,
+    "heziberri_maila": "hasiberria",
+    "orokorra": "Hasteko oso ideia polita duzu: Malen eta bere lagun ikusezina oso gai interesgarria da narrazio baterako. Hasiera ondo garatuta dago, pertsonaiak aurkeztu dituzu eta gutunaren tresna erabili duzu. Hobetzeko arlo nagusiak hauek dira: testua BUKATU behar duzu (orain erdian moztu da), LUZERA handitu (150-200 hitz), eta EGITURA konplexuagoak erabili (mendekoak, baldintzak). Badaukazu gaitasuna lan hau oso ondo egiteko, amaitu besterik ez duzu egin behar! Aurrera!",
+    "lehentasuna": "Testua bukatu eta 150 hitz baino gehiago idatzi: narrazioak amaiera behar du, eta luzera minimoa bete behar da. Hau da lehenengo lehentasuna!",
+    "batez_bestekoa_modelo": 4.0,
+    "biribiltzea_modelo": 4.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ortografia — grafia okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "imforme",
+        "zuzenketa": "informe",
+        "azalpena": "Hitz honetan konsonantea 'n' da, ez 'm'. Euskaraz: informe (informazioa)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — letra larriak",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "iñori",
+        "zuzenketa": "inori",
+        "azalpena": "Euskaraz ez da tilderik erabiltzen izen arruntetan. Tildea soilik letra larriekin (Iñaki) edo aditz-forma batzuetan (esan zién vs zien)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra",
+      "akats_id": "ZL-ADI-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "irakurtzen izten",
+        "zuzenketa": "irakurtzen uzten",
+        "azalpena": "Aditz-forma zuzena 'uzten' da ('permitir'), ez 'izten' (hori ez da existitzen euskaraz)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Deklinabidea — postposizioa okerra",
+      "akats_id": "ZL-KAS-7",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Malenen segurtasunerako",
+        "zuzenketa": "Malen babesteko / Malenen segurtasunagatik",
+        "azalpena": "Hemen helburua adierazten da, ez onuraduna. Zuzena: '-tzeko' (babesteko) edo '-gatik' (kausa)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Malenen izena 5 aldiz errepikatzen da paragrafo berean",
+        "zuzenketa": "Erabili izenordainak: 'bera', 'neskak', 'mutikoak'",
+        "azalpena": "Izen bera gehiegitan errepikatzeak testua astuna egiten du. Izenordainak erabili aberastasuna emateko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Adberbioa okerra ('ze' vs 'zer')",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ze ordutan jaio zen",
+        "zuzenketa": "zer ordutan jaio zen",
+        "azalpena": "Galdera zuzenetan 'zer' erabiltzen da, ez 'ze'. 'Ze' erlatiboetan soilik: 'jakin nahi dut ze ordutan jaio zen'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 97,
+    "minor": 5,
+    "major": 2,
+    "critical": 0,
+    "EP100_gordina": 9.28,
+    "EP100_pisuduna": 8.25,
+    "EP100_gordina_modelo": 11.3,
+    "EP100_pisuduna_modelo": 9.3,
+    "minor_modelo": 5,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 3,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 3,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua argi eta garbi DBH4ko ikasle batek idatzia dirudi. Hainbat akats natural agertzen dira: 'gutun bat idatzi zuen' (aita aipatzen ari da baina ez da argi), 'imforme' ('txosten' edo 'informe'), 'iñori irakurtzen izten' (egituraketa okerra), 'komunera' (testuak bertan bukatu egiten du). Testuak hasiera daukala baina ez du amaiera koherenterik. Hizkera sinplea da, egitura lineala eta ez oso egokia, eta idazkera-akatsak dituen narratiba bat da. Ez dago IA-ren ezaugarririk: ez dago perfekziorik, ez hiztegi sofistikaturik, egitura ez da inola ere perfektua, ez dago tonu robotiko edo akademikorik, laburra da, akats naturalak agertzen dira eta kalitatea ez da uniformea. Ikasle gazte baten saiakera literarioa da, osatu gabea."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Testua bukatu gabe dago: bigarren paragrafoa erdian moztu da eta ezin da ebaluazio osoa egin.",
+        "Luzera < gutxienekoaren %70: 97 hitz, gutxienez 150 espero (CAP-3 aplikatu da).",
+        "Nota oso baxua (4.0): irakaslearen berrikusketa gomendatzen da testuaren egoera zehaztu eta ikasleari orientazioa emateko."
+      ]
+    }
+  }
+}
