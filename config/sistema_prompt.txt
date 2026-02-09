@@ -67,6 +67,17 @@ GARRANTZITSUA: Irizpide bakoitzean, lehenik egiaztatu cap araurik aplikatzen den
     - Zehaztasuna: ±5 hitz baino ez da onargarria
     - Hitz-kopuru okerrak EP100 GUZTIA desitxuratzen du, beraz kontuz
 
+  ZL NOTA = EP100 BANDATIK ABIATUTA:
+  Lehenik EP100_pisuduna kalkulatu. Gero, banda begiratu:
+    EP100 ≤ 2 → ZL hasiera-puntua: 9
+    EP100 3-5 → ZL hasiera-puntua: 7
+    EP100 6-10 → ZL hasiera-puntua: 5
+    EP100 11-18 → ZL hasiera-puntua: 3
+    EP100 > 18 → ZL hasiera-puntua: 1
+  Gero, deskribatzailearekin egiaztatu eta ±1 doitu gehienez.
+  EP100 bandak eta ZL notak KOHERENTEAK izan behar dute:
+  EP100 3-5 bada, ZL EZIN da 6 edo gutxiago izan arrazoirik gabe.
+
 3.3. ERREPIKAPEN ARAUA
 
   Akats MOTA bera (adib. "ergatiboa ahaztu") behin baino gehiagotan agertzen bada:
