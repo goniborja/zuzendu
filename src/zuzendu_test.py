@@ -22,6 +22,7 @@ from pathlib import Path
 import anthropic
 from dotenv import load_dotenv
 from ep100 import post_prozesatu
+from ia_detekzioa import ia_detekzioa, sortu_blokeo_json
 from rich.console import Console
 from rich.panel import Panel
 from rich.table import Table
@@ -320,11 +321,38 @@ def main():
     else:
         output_izena = args.kodea
 
-    # 2. Konfigurazioa kargatu
+    # 2. IA detekzioa (API dei independentea)
+    console.print(f"[bold]IA detekzioa egiten[/] ({MODEL})...")
+    try:
+        ia_result = ia_detekzioa(testua, API_KEY, MODEL)
+    except anthropic.APIError as e:
+        console.print(f"[yellow]IA detekzio errorea (jarraituko da):[/] {e}")
+        ia_result = {"ia_puntuazioa": 0, "maila": "BAXUA", "blokeatu": False, "seinaleak": {}, "iruzkina": ""}
+
+    ia_punt = ia_result.get("ia_puntuazioa", 0)
+    ia_maila = ia_result.get("maila", "BAXUA")
+    seinaleak = ia_result.get("seinaleak", {})
+    sein_str = " ".join(f"{k}={v}" for k, v in seinaleak.items()) if seinaleak else "-"
+    console.print(f"[dim]IA detekzioa: {ia_punt}/21 ({ia_maila}) [{sein_str}][/]")
+
+    if ia_result.get("blokeatu"):
+        console.print(Panel(
+            f"[bold red]IA SUSMOA {ia_maila}[/] (puntuazioa: {ia_punt}/21)\n\n"
+            f"{ia_result.get('iruzkina', '')}\n\n"
+            "Testua EZ da ebaluatuko. Irakaslearekin hitz egin.",
+            title="[red]IA DETEKZIOA — BLOKEATUA[/]",
+            width=70,
+        ))
+        result = sortu_blokeo_json(args.kodea, ia_result)
+        output_path = save_json(result, output_izena)
+        console.print(f"[green]Emaitza gordeta:[/] {output_path}")
+        sys.exit(0)
+
+    # 3. Konfigurazioa kargatu
     sistema_prompt, errubrika, gramatika = load_config()
     console.print(f"[dim]Konfigurazioa: errubrika + {len(gramatika)} gramatika TSV[/]")
 
-    # 3. Mezua eraiki
+    # 4. Mezua eraiki
     user_message = build_user_message(
         errubrika, gramatika,
         args.kodea, args.maila, args.mota, args.hitzak, args.modua,
@@ -332,8 +360,8 @@ def main():
     )
     console.print(f"[dim]Mezua prestatuta: {len(user_message):,} karaktere[/]")
 
-    # 4. API deia
-    console.print(f"[bold]API deia egiten[/] ({MODEL})...")
+    # 5. API deia (ebaluazioa)
+    console.print(f"[bold]Ebaluazio API deia egiten[/] ({MODEL})...")
     try:
         client = anthropic.Anthropic(api_key=API_KEY)
         response = client.messages.create(
@@ -352,7 +380,7 @@ def main():
         f"{response.usage.output_tokens:,} output token[/]"
     )
 
-    # 5. JSON parseatu
+    # 6. JSON parseatu
     try:
         result = extract_json(response_text)
     except (json.JSONDecodeError, ValueError) as e:
@@ -361,7 +389,23 @@ def main():
         console.print(f"[dim]Raw erantzuna gordeta: {raw_path}[/]")
         sys.exit(1)
 
-    # 6. JSON baliozkoztatu
+    # 6b. IA detekzio emaitza JSON-ean txertatu
+    if "meta" not in result:
+        result["meta"] = {}
+    result["meta"]["segurtasun_azterketa"] = {
+        "susmagarria": ia_maila != "BAXUA",
+        "ia_puntuazioa": ia_punt,
+        "seinaleak": seinaleak,
+        "maila": ia_maila,
+        "iruzkina": ia_result.get("iruzkina", ""),
+    }
+    if ia_maila == "ERTAINA":
+        ir = result["meta"].setdefault("irakasle_berrikusketa", {})
+        ir["beharrezkoa"] = True
+        arrazoiak = ir.setdefault("arrazoiak", [])
+        arrazoiak.append(f"IA susmo ertaina (puntuazioa: {ia_punt}/21)")
+
+    # 7. JSON baliozkoztatu
     missing = validate_json(result)
     if missing:
         console.print(f"[yellow]ABISUA:[/] JSON-ean gako hauek falta dira: {', '.join(missing)}")
