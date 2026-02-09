@@ -1,0 +1,43 @@
+KATEGORIA	BIZKAIERA	BATUA	ERABAKIA	AZALPENA	ADIBIDEA_KONTEXTUAN
+ADITZ_LAGUNTZAILE	dau	du	Zuzendu_batua_proposatu	Bizkaierazko laguntzailea; batuan "du"	*Jonek ikusi dau → Jonek ikusi du
+ADITZ_LAGUNTZAILE	dabe	dute	Zuzendu_batua_proposatu	Bizkaierazko plurala; batuan "dute"	*Haiek egin dabe → Haiek egin dute
+ADITZ_LAGUNTZAILE	deusku	digu	Zuzendu_batua_proposatu	Bizkaierazko NOR-NORI-NORK; batuan "digu"	*Emon deusku → Eman digu
+ADITZ_LAGUNTZAILE	deust	dit	Zuzendu_batua_proposatu	Bizkaierazko NOR-NORI-NORK; batuan "dit"	*Esan deust → Esan dit
+ADITZ_LAGUNTZAILE	dot	dut	Zuzendu_batua_proposatu	Bizkaierazko "dut"; batuan "dut"	*Ikusi dot → Ikusi dut
+ADITZ_LAGUNTZAILE	dogu	dugu	Zuzendu_batua_proposatu	Bizkaierazko "dugu"; batuan "dugu"	*Egin dogu → Egin dugu
+ADITZ_LAGUNTZAILE	naz	naiz	Zuzendu_batua_proposatu	Bizkaierazko "naiz"; batuan "naiz"	*Ni joan naz → Ni joan naiz
+ADITZ_LAGUNTZAILE	da (=dio)	dio	Kontuz_testuingurua	Bizkaieraz "da" NOR-NORI-NORK gisa; anbiguoa	*Esan da → Esan dio (kontuz kontestua!)
+ADITZ_LAGUNTZAILE	jako	zaio	Zuzendu_batua_proposatu	Bizkaierazko NOR-NORI; batuan "zaio"	*Gustatu jako → Gustatu zaio
+ADITZ_LAGUNTZAILE	jaku	zaigu	Zuzendu_batua_proposatu	Bizkaierazko NOR-NORI; batuan "zaigu"	*Ahaztu jaku → Ahaztu zaigu
+ADITZ_NAGUSIA	emon	eman	Zuzendu_batua_proposatu	Bizkaierazko partizipioa	*Liburua emon → Liburua eman
+ADITZ_NAGUSIA	esan (=erran)	esan	EZ_zuzendu	"Esan" batua da ere; biak zuzen	Biak onartzen dira batuan
+ADITZ_NAGUSIA	ekarri	ekarri	EZ_zuzendu	Batua da	
+ADITZ_NAGUSIA	egon	egon	EZ_zuzendu	Batua da	
+ADITZ_NAGUSIA	ikusi	ikusi	EZ_zuzendu	Batua da	
+ADITZ_NAGUSIA	etorri	etorri	EZ_zuzendu	Batua da	
+ADITZ_NAGUSIA	ibilli	ibili	Zuzendu_batua_proposatu	Kontsonante bikoitza ez batuan	*Ibilli naiz → Ibili naiz
+FONETIKA	zein (=sein)	zein	EZ_zuzendu	Batua da	
+FONETIKA	barri	berri	Zuzendu_batua_proposatu	Bizkaierazko bokala; batuan "berri"	*Lagun barri → Lagun berri
+FONETIKA	batu	bildu	Zuzendu_batua_proposatu	Bizkaierazko forma; batuan "bildu"	*Batu dugu → Bildu dugu
+FONETIKA	txakurra	txakurra	EZ_zuzendu	Biak batuan onartuak	
+FONETIKA	okela	haragi	Batua_hobetsia	"Okela" bizkaiera; batuan "haragi" ohikoagoa	Baina "okela" ere onartzen da
+LEXIKOA	atzo	atzo	EZ_zuzendu	Batua da	
+LEXIKOA	gaur	gaur	EZ_zuzendu	Batua da	
+LEXIKOA	orain	orain	EZ_zuzendu	Batua da	
+LEXIKOA	aitite	aitona	Zuzendu_batua_proposatu	Bizkaierazko forma; batuan "aitona"	*Nire aitite → Nire aitona
+LEXIKOA	amama	amona	Zuzendu_batua_proposatu	Bizkaierazko forma; batuan "amona"	*Nire amama → Nire amona
+LEXIKOA	asko/anitz	asko	EZ_zuzendu	Biak batuan onartzen dira	
+LEXIKOA	ederto	bikain / ederki	EZ_zuzendu	"Ederto" informala baina ez erderakada	Kontestuan: informala bada onartu
+LEXIKOA	tximista	tximista	EZ_zuzendu	Batua da	
+LEXIKOA	txintxo	zintzoa	Batua_hobetsia	"Txintxo" informala; "zintzoa" batua formagoa	Erregistroaren arabera
+LEXIKOA	gura	nahi	Zuzendu_batua_proposatu	Bizkaierazko "nahi"; batuan "nahi"	*Gura dot → Nahi dut
+LEXIKOA	behar	behar	EZ_zuzendu	Batua da	
+SINTAXIA	ba + aditza (galdetzeko)	al + aditza	Biak_zuzen	Bizkaieraz "ba" galdera partikulatzat; "al" batua	*Badakizu? = Al dakizu? → Biak zuzen
+SINTAXIA	-tzen + egon (jarraitu)	-tzen + ari (jarraitu)	Batua_hobetsia	"Egon" jarduera adierazteko bizk.; "ari" batua	*Lanean egon naiz → Lanean ari naiz (hobetsia)
+SINTAXIA	ze (=zeren)	zeren / -lako	Zuzendu_batua_proposatu	"Ze" informala; batuan "zeren" edo "-lako"	*Ez dut nahi, ze berandu da → ...zeren/delako
+ELKARRIZKETA	ba	bai	Zuzendu_testu_formalean	Informala; elkarrizketan onartu, testu formalean "bai"	Generoaren arabera erabaki
+ELKARRIZKETA	bale	ados	Zuzendu_testu_formalean	Informala; elkarrizketan onartu	Generoaren arabera erabaki
+ELKARRIZKETA	zer moduz	zer moduz / nola	EZ_zuzendu	Erabat arrunta eta onargarria	
+ERREGISTROA	tio/tia	lagun / mutil / neska	Zuzendu_beti	Gaztelaniako slang; ez du lekurik idatzizko euskaran	*Nire tio dator → Nire osaba dator
+ERREGISTROA	mola	gustatu / ondo egon	Zuzendu_beti	Gaztelaniako slang	*Asko mola → Asko gustatzen zait
+ERREGISTROA	bua/bale/bah	kendu	Zuzendu_testu_formalean	Interjekzio informalak; elkarrizketetan soilik	Generoaren arabera

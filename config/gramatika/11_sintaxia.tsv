@@ -1,0 +1,32 @@
+KATEGORIA	ARAUA_ID	ARAUA	ADIBIDE_GAIZKI	ADIBIDE_ONDO	LARRITASUNA	AZALPENA
+ORDENA_BASIKOA	SIN-ORD-01	Euskara SOV da: Subjektua-Objektua-Aditza	*Nik irakurri dut liburua	Nik liburua irakurri dut	Major	Aditza beti perpausaren bukaeran (salbuespenak: galdera, harridura)
+ORDENA_BASIKOA	SIN-ORD-02	Fokua aditzaren aurrean jartzen da	*Atzo ni joan nintzen eskolara	Atzo NI joan nintzen eskolara / Ni joan nintzen atzo eskolara	Minor	Informazio berria edo azpimarratua aditzaren aurrean
+ORDENA_BASIKOA	SIN-ORD-03	Galde-hitza aditzaren aurrean	*Nora joan zara?	Nora joan zara? (ondo — galde-hitza aurretik)	—	Hau zuzen da normalean
+ORDENA_BASIKOA	SIN-ORD-04	Adjektiboa izenaren atzetik	*Handia etxea	Etxe handia	Major	Gaztelaniako ordena kalkatzea
+ORDENA_BASIKOA	SIN-ORD-05	Erakuslea izenaren atzetik	*Hau liburua	Liburu hau	Major	Gaztelaniako ordena kalkatzea
+ORDENA_BASIKOA	SIN-ORD-06	Genitiboa izenaren aurretik	*Liburua Jonena	Joneren liburua	Minor	Jabetza-egitura: jabea + -ren + izena
+ORDENA_BASIKOA	SIN-ORD-07	Postposizioak (ez preposizioak)	*Barruan etxearen	Etxearen barruan	Major	Euskarak postposizioak ditu, ez preposizioak
+ERLATIBOZKOAK	SIN-ERL-01	Erlatiboa izenaren AURRETIK	*Gizona ikusi dudana	Ikusi dudan gizona	Major	Gazt. "el hombre que he visto" → ikus. dud. gizona
+ERLATIBOZKOAK	SIN-ERL-02	Erlatibozko atzizkia: -(e)n	*Liburua irakurri dudan	Irakurri dudan liburua	Major	-(e)n aditz-forma + izena (modifikatzailea aurretik)
+ERLATIBOZKOAK	SIN-ERL-03	Erlatibozko askea: -(e)na/-enak	Ikusi dudana polita da	Ikusi dudana polita da (ondo)	—	-(e)na erlatibozko askea denean → ondo
+ERLATIBOZKOAK	SIN-ERL-04	Ez nahastu -(e)n erlatiboa eta -(e)la konpletiboa	*Esan zuen etorri zena (konpletiboa nahi zenean)	Esan zuen etorri zela	Major	-(e)n = erlatiboa; -(e)la = konpletiboa
+KONPLETIBOAK	SIN-KON-01	Konpletibo atzizkia: -(e)la	*Pentsatzen dut hori ona da	Pentsatzen dut hori ona dela	Major	Gazt. "que" → euskaraz -(e)la
+KONPLETIBOAK	SIN-KON-02	Konpletibo ezezkoa: -enik	*Ez dut uste ona dela	Ez dut uste ona denik	Major	Ezezko testuinguruan: -enik
+KONPLETIBOAK	SIN-KON-03	Aditz batzuek subjuntiboa eskatzen dute	*Nahi dut etorriko da	Nahi dut etor dadila	Major	Nahi/eskatu/agindu + subjuntiboa
+KAUSAZKOAK	SIN-KAU-01	Kausa: -(e)lako mendekoa	*Joan nintzen zeren berandu zen	Joan nintzen berandu zelako	Minor	Biak zuzen baina -(e)lako ohikoagoa ahozko erregistroan
+KAUSAZKOAK	SIN-KAU-02	Zeren + bait-: kausa formala	Zeren berandu baitzen, ez nintzen joan	Zeren berandu baitzen, ez nintzen joan (ondo)	—	Zeren... bait- egitura formala eta zuzena
+KONTZESIBOAK	SIN-KNZ-01	Nahiz eta + aditz partizipioa	*Nahiz eta euria egin du	Nahiz eta euria egin, joan ginen	Major	"Nahiz eta" + subjuntiboa/partizipioa, ez indikatiboa
+KONTZESIBOAK	SIN-KNZ-02	Arren + aditz-izena	*Joan arren ez nuen lortu	Joan arren, ez nuen lortu	Minor	"Arren" = "a pesar de"; koma ondoren
+BALDINTZAZKOAK	SIN-BAL-01	Baldintza erreala: ba- + orainaldia	*Jakingo baduzu, esan iezadazu	Badakizu, esan iezadazu	Major	Ba- + orainaldia = baldintza erreala; ba- + lehenaldia = irreala
+BALDINTZAZKOAK	SIN-BAL-02	Baldintza irreala: ba- + lehenaldia + -(k)e	*Ba jakingo nuen, esango nuen	Jakingo banu, esango nuke	Major	Protasia: ba- + lehenaldia; Apodosia: -ke/ko + baldintza
+BALDINTZAZKOAK	SIN-BAL-03	Baldintza + -ko/-go batera ez	*Jakingo banuke	Jakingo banu	Major	Ez nahastu -ke (ondorioa) protasiarekin
+DENBORAZKOAK	SIN-DEN-01	-(e)nean: "cuando"	*Joan zenean, ikusi nuen	Joan zenean, ikusi nuen (ondo)	—	Mendeko denborazkoa: -(e)nean
+DENBORAZKOAK	SIN-DEN-02	-t(z)ean: "al + infinitivo"	*Iristean, poztu nintzen	Iristean, poztu nintzen (ondo)	—	Aldiberekotasuna adierazten du
+DENBORAZKOAK	SIN-DEN-03	Baino lehen / ondoren	*Etorri aurretik joan nintzen	Etorri baino lehen joan nintzen	Minor	"Antes de" = baino lehen; "después de" = ondoren
+EZEZKOA	SIN-EZE-01	EZ aditzaren aurretik (laguntzaile)	*Ikusi ez dut	Ez dut ikusi	Major	Ezezkoan: EZ + laguntzailea + partizipioa
+EZEZKOA	SIN-EZE-02	Aditz sintetikoan EZ aurretik	*Dakizu ez	Ez dakizu	Major	Aditz sintetikoa: EZ + aditz sintetikoa
+EZEZKOA	SIN-EZE-03	Galdera ezezkoan: ez al	*Ez duzu al ikusi?	Ez al duzu ikusi?	Minor	Ordena: EZ + AL + laguntzailea + partizipioa
+KOMPARATIBOA	SIN-KON-01	Konparatiboa: -ago / baino	*Nik handiagoa zu baino	Ni zu baino handiagoa naiz	Major	Ordena: erreferentzia + baino + adjektiboa-ago
+KOMPARATIBOA	SIN-KON-02	Superlatiboa: -en	*Zein da handiena?	Zein da handiena? (ondo)	—	-en atzizkia superlatiboan
+PARTITIBOA	SIN-PAR-01	Galdera eta ezezkoan: -rik	*Ez dut liburu	Ez dut liburuRIK	Major	Partitiboa (-rik) ezezkoan eta galderetan
+PARTITIBOA	SIN-PAR-02	Ba- galderetan: -rik	*Badaukazu liburu?	Badaukazu liburuRIK?	Major	Galdera baikorrak ere -rik har dezakete

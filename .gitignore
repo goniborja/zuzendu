@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Data (no subir textos de alumnos ni resultados al repo)
+data/ikasle_testuak/*
+data/emaitzak/*
+!data/ikasle_testuak/.gitkeep
+!data/emaitzak/.gitkeep
+
+# Excel generados
+*.xlsx
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

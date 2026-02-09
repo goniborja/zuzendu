@@ -1,0 +1,62 @@
+id	parent_id	level	sortkey	atalburua	azalpena	esempio_eu	es_es	etiketak	iturriak
+EU-GRAM		0	00	GRAMÁTICA DEL EUSKERA (esqueleto jerárquico)	Estructura modular para consolidar reglas + ejemplos + trazabilidad de fuentes.			meta	(Euskaltzaindia/EHU)
+EU-GRAM-ITURRIAK	EU-GRAM	1	00.01	Iturriak eta irizpideak	Fuentes y criterio: descriptivo vs normativo; registrar variantes y marcas de uso.			metodologia	turn0search2;turn0search3;turn1search1;turn0search13;turn0search4
+EU-GRAM-IT-01	EU-GRAM-ITURRIAK	2	00.01.01	Euskaltzaindia: Gramatika (EGLU eta bestelakoak)	Marco descriptivo con referencias a normas/decisiones académicas.			iturri	turn0search2;turn0search3
+EU-GRAM-IT-02	EU-GRAM-ITURRIAK	2	00.01.02	Euskaltzaindia: Euskararen Gramatika	Obra de síntesis/actualización (catálogo 2021).			iturri	turn0search16;turn0search9
+EU-GRAM-IT-03	EU-GRAM-ITURRIAK	2	00.01.03	EHU: Sareko Euskal Gramatika (SEG)	Proyecto online del Euskara Institutua (EHU) para consulta en la red.			iturri	turn1search1;turn1search0
+EU-GRAM-IT-04	EU-GRAM-ITURRIAK	2	00.01.04	EHU: Euskal Gramatika: Egiturak eta Osagaiak (EGEO)	Gramática que combina descripción y reflexión teórica.			iturri	turn0search13
+EU-GRAM-IT-05	EU-GRAM-ITURRIAK	2	00.01.05	Euskal Gramatika Osoa (Zubiri & Zubiri / Didaktiker)	Obra de consulta extensa (ediciones registradas en repositorios/tiendas).			iturri	turn0search4;turn0search0
+
+EU-GRAM-01	EU-GRAM	1	01	ORTOGRAFÍA Y ESCRITURA	Sistema gráfico y convenciones de escritura (sin entrar en fonología exhaustiva).			ortografia	(Euskaltzaindia)
+EU-GRAM-01-01	EU-GRAM-01	2	01.01	Alfabeto y grafías habituales	Inventario de grafías usadas en euskera batua y usos convencionales.			ortografia	(Euskaltzaindia)
+EU-GRAM-01-02	EU-GRAM-01	2	01.02	Mayúsculas, abreviaturas, signos	Pautas de escritura para textos normativos/escolares.			ortografia	(Euskaltzaindia)
+
+EU-GRAM-02	EU-GRAM	1	02	FONOLOGÍA (mínimo operativo)	Lo imprescindible para justificar alternancias morfofonológicas frecuentes.			fonologia	(SEG/EGLU)
+EU-GRAM-02-01	EU-GRAM-02	2	02.01	Eufonía y alternancias	Adaptaciones al unir morfemas (p. ej. ajustes segmentales).			morfofonologia	(SEG/EGLU)
+
+EU-GRAM-03	EU-GRAM	1	03	MORFOLOGÍA: IZEN-SINTAGMA (NP)	Núcleo nominal, determinación, número y casos.			morfologia	(EGLU/EG)
+EU-GRAM-03-01	EU-GRAM-03	2	03.01	Izena: motak (arrunt/berezi, zenbakarria/zenbakaitza…)	Tipologías básicas del nombre y su efecto en determinación.	Izen arrunta da: "etxea". / Izen berezia: "Bilbo".	Nombre común: "la casa". / Propio: "Bilbao".	izena	turn0search19
+EU-GRAM-03-02	EU-GRAM-03	2	03.02	Determinatzaileak (artikuluak, erakusleak…)	Sistema de determinación y referencia.	"Etxe-a" / "etxe hau"	"la casa" / "esta casa"	determinazioa	(SEG/EGLU)
+EU-GRAM-03-03	EU-GRAM-03	2	03.03	Pluralgintza	Marcas de plural y concordancia.	"etxeak"	"las casas"	plurala	(SEG/EGLU)
+EU-GRAM-03-04	EU-GRAM-03	2	03.04	Deklinabidea: kasu-sistema (ikuspegi orokorra)	Casos y funciones sintácticas/semánticas; organizar por caso.			deklinabidea	(EGLU/EG)
+EU-GRAM-03-04-01	EU-GRAM-03-04	3	03.04.01	Absolutiboa (-∅ / -a/-ak)	Sujeto de intransitivas y objeto directo típico (esquema general).	"gizona etorri da"	"el hombre ha venido"	kasuak	(SEG/EGLU)
+EU-GRAM-03-04-02	EU-GRAM-03-04	3	03.04.02	Ergatiboa (-k)	Agente de transitivas.	"gizonak ogia jan du"	"el hombre ha comido el pan"	kasuak	(SEG/EGLU)
+EU-GRAM-03-04-03	EU-GRAM-03-04	3	03.04.03	Datiboa (-ri)	Receptor/beneficiario; núcleo de nor-nori-(nork).	"umeari liburua eman diot"	"le he dado el libro al niño"	kasuak	(SEG/EGLU)
+EU-GRAM-03-04-04	EU-GRAM-03-04	3	03.04.04	Genitiboa (-ren)	Relación posesiva/atributiva en NP.	"ikaslearen liburua"	"el libro del alumno"	kasuak	(SEG/EGLU)
+EU-GRAM-03-04-05	EU-GRAM-03-04	3	03.04.05	Inesiboa (-n), Allatiboa (-ra), Ablatiboa (-tik)	Localización: en / a / desde.	"etxean" / "etxera" / "etxetik"	"en casa" / "a casa" / "desde casa"	kasuak	(SEG/EGLU)
+EU-GRAM-03-04-06	EU-GRAM-03-04	3	03.04.06	Instrumentala (-z)	Medio/compañía/tema (según construcción).	"autoz"	"en coche"	kasuak	(SEG/EGLU)
+
+EU-GRAM-04	EU-GRAM	1	04	MORFOLOGÍA: ADITZA (verbo)	Perífrasis, auxiliares, trinko/lokuzio, categorías TAM y persona.			aditza	(EGLU/SEG)
+EU-GRAM-04-01	EU-GRAM-04	2	04.01	Aditz laguntzaileak: nor / nor-nork / nor-nori / nor-nori-nork	Paradigmas por valencia y marcas personales.	"etorri naiz" / "ikusi dut" / "eman diot"	"he venido" / "lo he visto" / "se lo he dado"	laguntzaileak	(SEG/EGLU)
+EU-GRAM-04-02	EU-GRAM-04	2	04.02	Aditz trinkoak vs aditz-lokuzioak	Verbos sintéticos vs construcciones perifrásticas.	"dator" vs "etorri da"	"viene" vs "ha venido"	trinkoak	(SEG/EGLU)
+EU-GRAM-04-03	EU-GRAM-04	2	04.03	Denbora-aspektu-modua (TAM): orain/lehena/gero; burutua/ohiturazkoa/puntukaria…	Organizar como rasgos combinables; registrar realizaciones típicas.	"etorri da" / "etortzen da" / "etorriko da"	"ha venido" / "viene (habitual)" / "vendrá"	TAM	(SEG/EGLU)
+EU-GRAM-04-04	EU-GRAM-04	2	04.04	Agintera eta modalitatea	Imperativo, exhortativo y modales (behar, nahi, ahal…).	"etor zaitez" / "joan behar dut"	"ven" / "tengo que ir"	modalitatea	(SEG/EGLU)
+EU-GRAM-04-05	EU-GRAM-04	2	04.05	Ezezkoa eta galdera	Negación y polaridad; interrogativas básicas.	"ez dut ikusi" / "ikusi duzu?"	"no lo he visto" / "¿lo has visto?"	polaritatea	(SEG/EGLU)
+
+EU-GRAM-05	EU-GRAM	1	05	MORFOLOGÍA: HITZ-SORKUNTZA	Derivación, composición, categorías y productividad.			hitz-sorkuntza	(Euskararen Gramatika)
+EU-GRAM-05-01	EU-GRAM-05	2	05.01	Atzizkigintza (eratorpena)	Derivación nominal/adjetival/adverbial; registrar sufijos y restricciones.			eratorpena	turn0search5
+EU-GRAM-05-02	EU-GRAM-05	2	05.02	Hitz elkartuak (konposizioa)	Composición: patrones frecuentes; ortografía y acentuación si procede.			konposizioa	(SEG/EGLU)
+
+EU-GRAM-06	EU-GRAM	1	06	SINTAXIS: PERPAUSA (cláusula)	Estructura oracional: argumentos, orden, foco, subordinación.			sintaxia	(EGLU/EG/SEG)
+EU-GRAM-06-01	EU-GRAM-06	2	06.01	Oinarrizko hurrenkera (SOV joera)	Orden canónico y variación pragmática.			hurrenkera	turn0search12
+EU-GRAM-06-02	EU-GRAM-06	2	06.02	Argumentu-egitura eta komunztadura	Valencia verbal y concordancia con auxiliares.			komunztadura	(SEG/EGLU)
+EU-GRAM-06-03	EU-GRAM-06	2	06.03	Perpaus bakunak vs konplexuak	Distinción operativa para análisis escolar y de corpus.			perpausak	(EGLU)
+EU-GRAM-06-04	EU-GRAM-06	2	06.04	Mendeko perpausak (subordinación)	Tipos: osagarriak, erlatiboak, adberbialak… (como árbol).			mendeko	(EGLU)
+EU-GRAM-06-05	EU-GRAM-06	2	06.05	Perpaus jokatugabeak	No finitas: participiales/infinitivas; usos y restricciones.			jokatugabeak	turn0search8
+EU-GRAM-06-06	EU-GRAM-06	2	06.06	Erlatiboak (que/relativo vasco)	Relativización: estrategia(s) en euskera y marcas.			erlatiboak	(SEG/EGLU)
+
+EU-GRAM-07	EU-GRAM	1	07	LEXIKOA ETA KATEGORIAK	Clases de palabras y comportamientos morfosintácticos.			kategoriak	(Euskararen Gramatika)
+EU-GRAM-07-01	EU-GRAM-07	2	07.01	Izenordainak (pronombres)	Personales, demostrativos, interrogativos…			izenordainak	(SEG/EGLU)
+EU-GRAM-07-02	EU-GRAM-07	2	07.02	Adjektiboak eta izenondoak	Posición, gradación, concordancia si aplica.			adjektiboa	(SEG/EGLU)
+EU-GRAM-07-03	EU-GRAM-07	2	07.03	Adberbioak eta adberbio-sorkuntza	Clases y sufijos adverbiales (p. ej. -ka/-ki y otros).			adberbioa	turn0search5
+EU-GRAM-07-04	EU-GRAM-07	2	07.04	Postposizioak eta adposizio-sintagmak	Postposiciones; régimen y combinatoria.			postposizioak	turn0search13
+
+EU-GRAM-08	EU-GRAM	1	08	PRAGMATIKA ETA DISKURTSOA (operativo)	Enfoque mínimo: foco, tópico, evidencialidad/énfasis en orden y partículas.			pragmatika	(SEG/EGEO)
+EU-GRAM-08-01	EU-GRAM-08	2	08.01	Topikoa vs fokua	Marcas y estrategias de orden; registrar ejemplos reales.			informazio-egitura	(SEG/EGEO)
+EU-GRAM-08-02	EU-GRAM-08	2	08.02	Lokailuak eta diskurtso-markatzaileak	Conectores y marcadores; valores frecuentes.			lokailuak	(SEG)
+
+EU-GRAM-09	EU-GRAM	1	09	ALDAERAK ETA ERREGISTROA	Euskalkiak/erregistroa: marcar siempre; separar “batua” vs “dial.”			aldaerak	(SEG)
+EU-GRAM-09-01	EU-GRAM-09	2	09.01	Estandarra (batua)	Lo recomendado para materiales escolares y administración.			batua	(Euskaltzaindia)
+EU-GRAM-09-02	EU-GRAM-09	2	09.02	Euskalkiak (etiketatzea)	No mezclar sin etiqueta; registrar distribución geográfica si procede.			euskalkiak	turn1search13
+
+EU-GRAM-10	EU-GRAM	1	10	INDIZEA ETA GURUTZ-ERREFERENTZIAK	Campos para enlaces internos: “ikusi: EU-GRAM-04-01” etc.			metadatuak	—

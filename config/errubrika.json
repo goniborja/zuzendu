@@ -1,0 +1,440 @@
+{
+  "meta": {
+    "bertsioa": "3.0",
+    "data": "2026-02-09",
+    "deskribapena": "ZUZENDU v3 — Errubrika osoa: irizpideak, deskribatzaileak, caps, penalizazioak, bonifikazioak, EP100, akats-katalogoa",
+    "oinarriak": ["MCER B1 (Companion Volume 2020)", "Heziberri 2020", "IELTS/Cambridge analitikoa 4x25%", "Hattie 2021", "Lipnevich 2023"],
+    "maila": "DBH 3-4",
+    "hizkuntza": "eu"
+  },
+
+  "eskala": [
+    { "nota_min": 9, "nota_max": 10, "maila": "bikaintasuna", "heziberri": "Bikaintasuna" },
+    { "nota_min": 7, "nota_max": 8,  "maila": "aurreratua",   "heziberri": "Maila aurreratua" },
+    { "nota_min": 5, "nota_max": 6,  "maila": "tartekoa",     "heziberri": "Tarteko maila" },
+    { "nota_min": 3, "nota_max": 4,  "maila": "hasiberria",   "heziberri": "Hasierako maila" },
+    { "nota_min": 0, "nota_max": 2,  "maila": "lortu_gabea",  "heziberri": "Lortu gabea" }
+  ],
+
+  "irizpideak": {
+    "AB": {
+      "izena": "Atazaren Betetzea",
+      "laburdura": "AB",
+      "pisua": 0.25,
+      "MCER_B1": "Informazioa eta ideiak gai abstraktu eta zehatzen inguruan transmititu ditzake arrazoizko zehaztasunarekin.",
+      "deskribatzaileak": {
+        "9-10": "Eskaerako puntu guztiak sakonki garatuta. Argudio/adibide zehatzak eta egokiak puntu bakoitzeko. Testu-motaren baldintza guztiak beteta (luzera, helburua, hartzailea, erregistroa). Ideia originalak edo ikuspegi pertsonala.",
+        "7-8": "Puntu guztiak landuta eta nahiko garatuta. Xehetasun/adibideak gehienetan. Testu-motaren baldintzak ia guztiz beteta. Noizean behin sakonago garatu zitekeen.",
+        "5-6": "Puntu gehienak badaude baina batzuk azalekoak. Adibide gutxi edo irregularrak. Oinarrizko baldintzak beteta baina garapenean hutsuneak.",
+        "3-4": "Puntu gutxi, ia garatu gabe. Adibiderik ia ez. Genero/helburu/irakurlearekiko egokitzapen eskasa.",
+        "0-2": "Gaitik guztiz urrun (off-topic), edo testua laburregia ebaluatzeko. Ez du testu-motaren eskakizunik betetzen."
+      }
+    },
+    "AK": {
+      "izena": "Antolaketa eta Koherentzia",
+      "laburdura": "AK",
+      "pisua": 0.25,
+      "MCER_B1": "Elementu laburren segida bat lotu dezake sekuentzia konektatu lineal batean.",
+      "deskribatzaileak": {
+        "9-10": "Egitura argia eta eraginkorra (sarrera-garapena-ondorioa). Paragrafoak ondo bereizita, ideia nagusi bat bakoitzean. Lotura-hitz ugari, egokiak eta anitzak (hala ere, gainera, horregatik, bestalde...). Erreferentzia-sistema argia. Formatua guztiz errespetatua.",
+        "7-8": "Egitura argia. Paragrafoak ongi antolatuta. Lotura-hitz nahikoak, batzuk konplexuak. Akats txikiak koheretzian baina ez dira oztopo. Formatua ia guztiz egokia.",
+        "5-6": "Oinarrizko egitura antzematen da baina garapena linealegia edo saltoduna. Paragrafoak badaude baina banaketa ez beti egokia. Oinarrizko lotura-hitzak nagusi (eta, baina, beraz, gero). Noizean behin saltoren bat.",
+        "3-4": "Egitura ahula; ideiak nahasita. Paragrafoen banaketa eskasa edo ez-existitzea. Lotura-hitz gutxi, oinarrizkoak edo desegokiak. Salto logiko nabarmenak.",
+        "0-2": "Egiturarik ez. Ideiak deskonektatuta. Kohesiorik ia ez. Paragraforik ez."
+      }
+    },
+    "BLH": {
+      "izena": "Baliabide Linguistikoen Hedadura",
+      "laburdura": "BLH",
+      "pisua": 0.25,
+      "MCER_B1": "Hiztegia nahikoa du, zirkumlokuzioekin; mugapen lexikoek errepikapena eragiten dute.",
+      "deskribatzaileak": {
+        "9-10": "Hitz-altxor aberatsa eta zehatza; sinonimoak eta esamoldeak tartekatuz errepikapena saihesten du. Perpaus-egitura ugari eta konplexuak (mendekoak, erlatibozkoak, kausazkoak, kontzesiboak). Erregistroa guztiz egokia eta koherentea. Esapide idiomatikoak edo esamolde bereziak naturalki txertatuta. Gaztelaniaren eraginik ia ez da antzematen formulazioan.",
+        "7-8": "Hitz-altxor nahikoa eta egokia; birformulazio batzuk. Perpaus-egitura desberdinak, nahiz eta sinpleagoak nagusi. Erregistroa gehienetan egokia. Noizean behin formulazio-zailtasun txikiren bat edo kalko isolatu bat.",
+        "5-6": "Oinarrizko hitz-altxorra, nahikoa ataza betetzeko. Errepikapen batzuk alternatiba falta delako. Perpaus sinpleak nagusi, noizean behin konplexuagoak. Erregistroan gorabehera batzuk. Gaztelaniaren eragin partziala formulazioan (kalko batzuk).",
+        "3-4": "Hitz-altxor mugatua; errepikapen ugari. Perpaus sinple eta laburrak ia beti. Erregistro desegokia edo aldakorra. Kalko lexiko eta egiturako nabarmenak. Hiztegiaren mugek komunikazioa zailtzen dute.",
+        "0-2": "Hitz-altxorra oso urria. Formulazioak komunikazioa eragozten du. Egitura minimoa. Gaztelaniaren eragin sistematikoa."
+      }
+    },
+    "ZL": {
+      "izena": "Zuzentasun Linguistikoa",
+      "laburdura": "ZL",
+      "pisua": 0.25,
+      "MCER_B1": "Komunikazioa arrazoizko zehaztasunarekin; kontrol orokorrean ona, ama-hizkuntzaren eragin nabarmenarekin; akatsek ez dute ulermena eragozten.",
+      "deskribatzaileak": {
+        "9-10": "Akats oso gutxi (EP100 ≤ 2). Ortografia, morfologia eta aditz-morfologia ondo kontrolatuta. Kasuen erabilera zuzena. NOR-NORI-NORK sistema zuzen. Ia interferentziarik ez.",
+        "7-8": "Akats batzuk (EP100 3-5) baina ez dute ulermena oztopatzen. Oinarrizko gramatika ondo kontrolatuta. Ortografia eta puntuazioa nahiko zuzenak. Noizean behineko interferentziak.",
+        "5-6": "Akats errepikatuak (EP100 6-10), batez ere kasu-marketan, aditz-adostasunean eta puntuazioan. Testua ulergarria baina akatsek irakurketa zailtzen dute batzuetan. Erderakada batzuk.",
+        "3-4": "Akats ugari eta sistematikoak (EP100 11-18). Oinarrizko egituretan ere akatsak. Ulermena tarteka zailtzen da. Erderakada ugari.",
+        "0-2": "Akats larriak eta oso ugari (EP100 > 18). Testua ia ulertezina. Interferentzia sistematikoak."
+      }
+    }
+  },
+
+  "nota_kalkulua": {
+    "formula": "(AB + AK + BLH + ZL) / 4",
+    "biribiltzea": "0.5era biribildu (6.25 → 6.0, 6.75 → 7.0)",
+    "dbh_itxaropena": {
+      "DBH3": "5-6 tartekoa da espero dena",
+      "DBH4": "7-8 aurreratua da espero dena"
+    }
+  },
+
+  "caps": [
+    {
+      "id": "CAP-1",
+      "baldintza": "Off-topic",
+      "irizpidea": "AB",
+      "gehienezko_nota": 2,
+      "azalpena": "Testua gaitik guztiz urrun dago."
+    },
+    {
+      "id": "CAP-2",
+      "baldintza": "Eskakizunen ≥50% falta",
+      "irizpidea": "AB",
+      "gehienezko_nota": 4,
+      "azalpena": "Eginkizuneko eskakizunen erdia edo gehiago bete gabe."
+    },
+    {
+      "id": "CAP-3",
+      "baldintza": "Luzera < gutxienekoaren %70",
+      "irizpidea": "AB",
+      "gehienezko_nota": 4,
+      "azalpena": "Testua laburregia da eskatutako gutxienekoaren %70etik beherakoa."
+    },
+    {
+      "id": "CAP-4",
+      "baldintza": "Generoa ez da errespetatzen",
+      "irizpidea": "AB",
+      "gehienezko_nota": 6,
+      "azalpena": "Eskatutako testu-mota ez du errespetatzen (adib. iritzi-artikulua eskatu eta narrazioa idatzi)."
+    },
+    {
+      "id": "CAP-5",
+      "baldintza": "Egiturarik ez (sarrera/garapena/ondoriotik 2 falta)",
+      "irizpidea": "AK",
+      "gehienezko_nota": 4,
+      "azalpena": "Sarrera-garapena-ondorio egituratik gutxienez 2 atal falta dira."
+    },
+    {
+      "id": "CAP-6",
+      "baldintza": "Inkoherentzia iraunkorra",
+      "irizpidea": "AK",
+      "gehienezko_nota": 6,
+      "azalpena": "Salto logiko nabarmenak eta koherentzia-arazo iraunkorrak testu osoan."
+    },
+    {
+      "id": "CAP-7",
+      "baldintza": "Perpaus sinpleak soilik testu osoan",
+      "irizpidea": "BLH",
+      "gehienezko_nota": 6,
+      "azalpena": "Testu osoan ez da mendeko perpausik edo egitura konplexurik erabiltzen."
+    },
+    {
+      "id": "CAP-8",
+      "baldintza": "Testua ia ulertezina akats kopuruagatik",
+      "irizpidea": "ZL",
+      "gehienezko_nota": 2,
+      "azalpena": "Akats-dentsitatea hain altua da ezen testua ia ulertezina baita."
+    }
+  ],
+
+  "penalizazioak": [
+    {
+      "id": "PEN-1",
+      "deskribapena": "Eskakizun bat garatu gabe",
+      "irizpidea": "AB",
+      "balioa": -0.5,
+      "gehienezko_metatze": -2.0
+    },
+    {
+      "id": "PEN-2",
+      "deskribapena": "Paragrafo bakarra",
+      "irizpidea": "AK",
+      "balioa": -0.5,
+      "gehienezko_metatze": -0.5
+    },
+    {
+      "id": "PEN-3",
+      "deskribapena": "Paragrafo batean gai-apurketa",
+      "irizpidea": "AK",
+      "balioa": -0.2,
+      "gehienezko_metatze": -1.0
+    },
+    {
+      "id": "PEN-4",
+      "deskribapena": "Lotura-hitz okerra (erlazio logiko faltsua)",
+      "irizpidea": "AK",
+      "balioa": -0.5,
+      "gehienezko_metatze": -1.5
+    },
+    {
+      "id": "PEN-5",
+      "deskribapena": "Errepikapen lexiko nabarmena",
+      "irizpidea": "BLH",
+      "balioa": -0.5,
+      "gehienezko_metatze": -1.5
+    },
+    {
+      "id": "PEN-6",
+      "deskribapena": "Hitz generikoen gehiegizko erabilera (gauza, egin, ona...)",
+      "irizpidea": "BLH",
+      "balioa": -0.3,
+      "gehienezko_metatze": -1.0
+    },
+    {
+      "id": "PEN-7",
+      "deskribapena": "Erregistro-nahasketa",
+      "irizpidea": "BLH",
+      "balioa": -0.5,
+      "gehienezko_metatze": -1.0
+    }
+  ],
+
+  "bonifikazioak": [
+    {
+      "id": "BON-1",
+      "deskribapena": "Esamolde idiomatiko egokiak",
+      "irizpidea": "BLH",
+      "balioa": 0.3,
+      "baldintza": "Kolokazio edo esamolde natural eta egokiak erabiltzen ditu."
+    },
+    {
+      "id": "BON-2",
+      "deskribapena": "Ikuspegi originala / ideia berria",
+      "irizpidea": "AB",
+      "balioa": 0.3,
+      "baldintza": "Planteamendu bereziki interesgarria gaia lantzeko."
+    },
+    {
+      "id": "BON-3",
+      "deskribapena": "Kohesio-baliabide aurreratuak",
+      "irizpidea": "AK",
+      "balioa": 0.3,
+      "baldintza": "Anafora, elipsi, erreferentzia konplexuak egoki erabiltzen ditu."
+    },
+    {
+      "id": "BON-4",
+      "deskribapena": "Konplexutasun sintaktiko egokia",
+      "irizpidea": "BLH/ZL",
+      "balioa": 0.3,
+      "baldintza": "Egitura konplexuak (baldintza, subjuntiboa, erlatiboak) AKATSIK GABE erabiltzen ditu."
+    }
+  ],
+
+  "EP100": {
+    "formula": "(minor × 1 + major × 2 + critical × 3) × 100 / hitz_kopurua",
+    "normalizazioa": "Dentsitate bidez neurtzen da, ez bolumen absolutuz. 5 akats 100 hitzetan (%5) ≠ 5 akats 300 hitzetan (%1.7).",
+    "bandak": [
+      { "maila": "bikaintasuna", "EP100_min": 0,  "EP100_max": 2,  "nota_tartea": "9-10" },
+      { "maila": "aurreratua",   "EP100_min": 3,  "EP100_max": 5,  "nota_tartea": "7-8" },
+      { "maila": "tartekoa",     "EP100_min": 6,  "EP100_max": 10, "nota_tartea": "5-6" },
+      { "maila": "hasiberria",   "EP100_min": 11, "EP100_max": 18, "nota_tartea": "3-4" },
+      { "maila": "lortu_gabea",  "EP100_min": 19, "EP100_max": null, "nota_tartea": "0-2" }
+    ]
+  },
+
+  "akats_errepikapen_araua": {
+    "printzipioa": "Akats mota bat ez da infinituki penalizatzen. Patroia identifikatu eta penalizatu, ez instantzia bakoitza.",
+    "aplikazioa": [
+      { "agerraldia": 1, "faktorea": 1.0,  "oharra": "Penalizazio osoa" },
+      { "agerraldia": 2, "faktorea": 0.5,  "oharra": "Penalizazio erdia" },
+      { "agerraldia": 3, "faktorea": 0.0,  "oharra": "Ez du puntuazioan eragiten; feedback-ean agertzen da kopuruarekin" }
+    ],
+    "adibidea": "Ergatiboa 5 aldiz ahaztu → EP100rako: 1. (×1) + 2. (×0.5) = 1.5 major; 3.-5. feedback soilik."
+  },
+
+  "larritasun_mailak": [
+    {
+      "maila": "minor",
+      "definizioa": "Ez du komunikazioa kaltetzen",
+      "adibideak": ["Typo", "Letra larri falta", "Koma bat falta"],
+      "EP100_pisua": 1
+    },
+    {
+      "maila": "major",
+      "definizioa": "Ulermena zailtzen du",
+      "adibideak": ["Kasu-marka okerra", "NOR-NORK nahasketa", "Aditz okerra"],
+      "EP100_pisua": 2
+    },
+    {
+      "maila": "critical",
+      "definizioa": "Esaldia ulertezin egiten du",
+      "adibideak": ["Esaldia zentzurik gabe", "Aditza guztiz okerra", "Laguntzaile-hautaketa guztiz okerra"],
+      "EP100_pisua": 3
+    }
+  ],
+
+  "zuzenketa_erabakia": [
+    {
+      "erabakia": "beti_zuzendu",
+      "noiz": "Akats larriak, komunikazioa kaltetzen dutenak, oinarrizko arau-hausteak",
+      "adibideak": ["Ergatiboa falta", "NOR-NORK nahasketa", "Off-topic", "Egiturarik ez"]
+    },
+    {
+      "erabakia": "zuzendu_neurriz",
+      "noiz": "Akats moderatuak; guztiak markatu ordez patroia identifikatu",
+      "adibideak": ["Ortografia-akats errepikatuak (lehen adibidea markatu, gainerakoak zenbatu)", "Puntuazio-arazoak"]
+    },
+    {
+      "erabakia": "aukerakoa",
+      "noiz": "Dialektismoak, estilo-aukerak, minor isolatuak",
+      "adibideak": ["'Dau' vs 'du' (dialektismoa)", "Koma aukerako baten falta", "Hitz arraro bat batua ez dena"]
+    },
+    {
+      "erabakia": "ez_zuzendu",
+      "noiz": "Akats intentzionalak estiloan, maila gainditzen duten ahaleginak",
+      "adibideak": ["Elkarrizketa batean kolokialismoaren erabilera", "Egitura konplexu bat saiatu eta huts egin (saiakera BLH-n baloratzen da)"]
+    }
+  ],
+
+  "akats_katalogoa": {
+
+    "AB": {
+      "izena": "Atazaren Betetzea",
+      "akatsak": [
+        { "id": "TB-1", "deskribapena": "Off-topic",                                      "larritasuna": "critical", "zuzendu": "beti",     "ekintza": "CAP-1" },
+        { "id": "TB-2", "deskribapena": "Eskakizun-falta (≥50%)",                          "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "CAP-2" },
+        { "id": "TB-3", "deskribapena": "Garapen eskasa (adibiderik/argudiorik ez)",        "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "PEN-1" },
+        { "id": "TB-4", "deskribapena": "Generoa ez du errespetatzen",                     "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "CAP-4" },
+        { "id": "TB-5", "deskribapena": "Erregistro desegokia",                            "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "PEN-7" },
+        { "id": "TB-6", "deskribapena": "Luzera insuficientea (<70% min)",                  "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "CAP-3" },
+        { "id": "TB-7", "deskribapena": "Informazio garrantzirik gabea (relleno)",          "larritasuna": "minor",    "zuzendu": "partziala","ekintza": "Komenta feedback-ean baina ez penalizatu larriki minor bada" }
+      ]
+    },
+
+    "AK": {
+      "izena": "Antolaketa eta Koherentzia",
+      "akatsak": [
+        { "id": "OK-1", "deskribapena": "Egiturarik ez",                                   "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "CAP-5" },
+        { "id": "OK-2", "deskribapena": "Paragrafo-banaketa eskasa",                       "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "PEN-2, PEN-3" },
+        { "id": "OK-3", "deskribapena": "Lotura-hitz eskasak / errepikatzaileak",          "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "Feedback + gomendio" },
+        { "id": "OK-4", "deskribapena": "Lotura-hitz okerrak (erlazio logiko faltsua)",    "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "PEN-4" },
+        { "id": "OK-5", "deskribapena": "Erreferentzia nahasak (izenordain aurrekaririk gabe)", "larritasuna": "major", "zuzendu": "beti",    "ekintza": "Markatu + azaldu" },
+        { "id": "OK-6", "deskribapena": "Salto logikoak",                                  "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "CAP-6 (iraunkorra bada)" },
+        { "id": "OK-7", "deskribapena": "Erredundantziak (ideia bera behin eta berriz)",   "larritasuna": "minor",    "zuzendu": "partziala","ekintza": "Komentatu, ez penalizatu larriki" }
+      ]
+    },
+
+    "BLH": {
+      "izena": "Baliabide Linguistikoen Hedadura",
+      "akatsak": [
+        { "id": "LH-1", "deskribapena": "Errepikapen lexiko altua",                        "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "PEN-5, sinonimoak gomendatu" },
+        { "id": "LH-2", "deskribapena": "Hiztegia generikoegia (gauza, egin, ona...)",     "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "PEN-6, alternatibak proposatu" },
+        { "id": "LH-3", "deskribapena": "Konplexutasun sintaktiko eskasa",                 "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "CAP-7 (muturrekoa bada)" },
+        { "id": "LH-4", "deskribapena": "Kalko lexikoak (gaztelaniatik)",                  "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "Markatu + euskarazko alternatiba eman" },
+        { "id": "LH-5", "deskribapena": "Erregistro ezegonkorra",                          "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "PEN-7" },
+        { "id": "LH-6", "deskribapena": "Gaztelaniazko hitza zuzenean sartuta",            "larritasuna": "major",    "zuzendu": "beti",     "ekintza": "Euskarazko baliokidea proposatu" },
+        { "id": "LH-7", "deskribapena": "Dialektismoak batua espero denean",               "larritasuna": "minor",    "zuzendu": "aukerakoa","ekintza": "Batua proposatu baina ez penalizatu larriki" },
+        { "id": "LH-8", "deskribapena": "Egitura konplexu bat saiatu eta huts egin",       "larritasuna": null,       "zuzendu": "ez",       "ekintza": "Saiakera BLH-n baloratzen da; akatsa ZL-n neurtzen da" }
+      ]
+    },
+
+    "ZL": {
+      "izena": "Zuzentasun Linguistikoa",
+      "azpikategoriak": {
+
+        "ZL-ORT": {
+          "izena": "Ortografia",
+          "gramatika_fitxategia": null,
+          "akatsak": [
+            { "id": "ZL-ORT-1", "deskribapena": "Grafia okerra (sibilanteak etab.)",            "adibidea": { "gaizki": "zagu",           "ondo": "sagu" },            "larritasuna": "minor" },
+            { "id": "ZL-ORT-2", "deskribapena": "Hitz-banaketa/elkarketa",                      "adibidea": { "gaizki": "etxekoandreak",  "ondo": "etxeko andreak" },   "larritasuna": "minor" },
+            { "id": "ZL-ORT-3", "deskribapena": "Letra larriak",                                "adibidea": { "gaizki": "bilbon",         "ondo": "Bilbon" },           "larritasuna": "minor" },
+            { "id": "ZL-ORT-4", "deskribapena": "Maileguen ortografia",                         "adibidea": { "gaizki": "sofware",        "ondo": "software" },         "larritasuna": "minor" }
+          ]
+        },
+
+        "ZL-KAS": {
+          "izena": "Morfologia nominala — Deklinabidea",
+          "gramatika_fitxategia": "05_deklinabidea.tsv",
+          "akatsak": [
+            { "id": "ZL-KAS-1", "deskribapena": "Ergatiboa falta (-k)",                         "adibidea": { "gaizki": "Nik gustatu da",       "ondo": "Niri gustatu zait" },      "larritasuna": "major" },
+            { "id": "ZL-KAS-2", "deskribapena": "Datiboa (-ri) okerra",                         "adibidea": { "gaizki": "laguna eman diot",     "ondo": "lagunARI eman diot" },     "larritasuna": "major" },
+            { "id": "ZL-KAS-3", "deskribapena": "Adlatiboa (-ra) falta",                        "adibidea": { "gaizki": "eskolan joan",         "ondo": "eskolaRA joan" },          "larritasuna": "major" },
+            { "id": "ZL-KAS-4", "deskribapena": "Ablatiboa (-tik) nahasketa",                   "adibidea": { "gaizki": "etxera etorri",        "ondo": "etxeTIK etorri" },         "larritasuna": "major" },
+            { "id": "ZL-KAS-5", "deskribapena": "Determinazioa (-a/-ak)",                       "adibidea": { "gaizki": "gizon etorri da",      "ondo": "gizonA etorri da" },       "larritasuna": "major" },
+            { "id": "ZL-KAS-6", "deskribapena": "Mugagabea (-rik) falta ezezkoan",              "adibidea": { "gaizki": "ez dut liburu",        "ondo": "ez dut liburuRIK" },       "larritasuna": "major" },
+            { "id": "ZL-KAS-7", "deskribapena": "Genitiboa (-ren)",                             "adibidea": null,                                                                    "larritasuna": "minor-major" },
+            { "id": "ZL-KAS-8", "deskribapena": "Soziatiboa (-rekin)",                          "adibidea": null,                                                                    "larritasuna": "minor" }
+          ]
+        },
+
+        "ZL-ADI": {
+          "izena": "Aditz-morfologia",
+          "gramatika_fitxategiak": ["01_aditz_NOR.tsv", "02_aditz_NOR-NORK.tsv", "03_aditz_NOR-NORI.tsv", "04_aditz_NOR-NORI-NORK.tsv", "09_aspektu_denborak.tsv"],
+          "akatsak": [
+            { "id": "ZL-ADI-1", "deskribapena": "Laguntzaile-hautaketa okerra (NOR vs NOR-NORK)", "adibidea": { "gaizki": "nik ikusi naiz",      "ondo": "nik ikusi DUT" },          "larritasuna": "critical" },
+            { "id": "ZL-ADI-2", "deskribapena": "Pertsona-adostasuna",                            "adibidea": { "gaizki": "guk joan naiz",       "ondo": "guk joan GARA" },          "larritasuna": "major" },
+            { "id": "ZL-ADI-3", "deskribapena": "Numero-adostasuna",                              "adibidea": { "gaizki": "umeak etorri da",     "ondo": "umeak etorri DIRA" },      "larritasuna": "major" },
+            { "id": "ZL-ADI-4", "deskribapena": "Aldia (tempusa) okerra",                         "adibidea": { "gaizki": "atzo joango naiz",    "ondo": "atzo joan NINTZEN" },      "larritasuna": "major" },
+            { "id": "ZL-ADI-5", "deskribapena": "Aspektua (ari/-tzen/-tu/-ko) okerra",            "adibidea": { "gaizki": "zer egiten duzu bihar?", "ondo": "zer EGINGO duzu?" },    "larritasuna": "major" },
+            { "id": "ZL-ADI-6", "deskribapena": "Ezezkoa gaizki kokatuta",                        "adibidea": { "gaizki": "ez ikusi dut",        "ondo": "EZ DUT ikusi" },           "larritasuna": "major" },
+            { "id": "ZL-ADI-7", "deskribapena": "NOR-NORI-NORK nahasketa",                        "adibidea": { "gaizki": "ikusi diot",          "ondo": "ikusi DUT (OZrik gabe)" }, "larritasuna": "critical" }
+          ]
+        },
+
+        "ZL-SIN": {
+          "izena": "Sintaxia",
+          "gramatika_fitxategia": "11_sintaxia.tsv",
+          "akatsak": [
+            { "id": "ZL-SIN-1", "deskribapena": "Osagaien ordena anbiguoa / SOV haustea",                "adibidea": null,                                                                                       "larritasuna": "minor-major", "sintaxia_arauak": ["SIN-ORD-01", "SIN-ORD-02", "SIN-ORD-04", "SIN-ORD-05", "SIN-ORD-07"] },
+            { "id": "ZL-SIN-2", "deskribapena": "Mendeko perpaus gaizki eratua",                         "adibidea": null,                                                                                       "larritasuna": "major",       "sintaxia_arauak": ["SIN-KAU-01", "SIN-KNZ-01", "SIN-BAL-01", "SIN-BAL-02"] },
+            { "id": "ZL-SIN-3", "deskribapena": "Erlatibozko gaizki eratua",                             "adibidea": { "gaizki": "gizona ikusi dudana",      "ondo": "ikusi dudan gizona" },                  "larritasuna": "major",       "sintaxia_arauak": ["SIN-ERL-01", "SIN-ERL-02", "SIN-ERL-04"] },
+            { "id": "ZL-SIN-4", "deskribapena": "Osagarritasun arazoak (konpletiboa)",                   "adibidea": { "gaizki": "pentsatzen dut hori ona da", "ondo": "pentsatzen dut hori ona DELA" },        "larritasuna": "major",       "sintaxia_arauak": ["SIN-KON-01", "SIN-KON-02", "SIN-KON-03"] },
+            { "id": "ZL-SIN-5", "deskribapena": "Esaldi osatu gabeak (mendekoa nagusirik gabe)",         "adibidea": null,                                                                                       "larritasuna": "major",       "sintaxia_arauak": [] },
+            { "id": "ZL-SIN-6", "deskribapena": "Ezezkoa gaizki eraikita (EZ + laguntzailea + partiz.)", "adibidea": { "gaizki": "ikusi ez dut",              "ondo": "ez dut ikusi" },                         "larritasuna": "major",       "sintaxia_arauak": ["SIN-EZE-01", "SIN-EZE-02"] },
+            { "id": "ZL-SIN-7", "deskribapena": "Konparatiboa gaizki eratua",                            "adibidea": { "gaizki": "nik handiagoa zu baino",    "ondo": "ni zu baino handiagoa naiz" },           "larritasuna": "major",       "sintaxia_arauak": ["SIN-KON-01"] },
+            { "id": "ZL-SIN-8", "deskribapena": "Partitiboa (-rik) falta ezezkoan/galderan",             "adibidea": { "gaizki": "ez dut liburu",             "ondo": "ez dut liburuRIK" },                     "larritasuna": "major",       "sintaxia_arauak": ["SIN-PAR-01", "SIN-PAR-02"] }
+          ]
+        },
+
+        "ZL-PUN": {
+          "izena": "Puntuazioa",
+          "gramatika_fitxategia": "07_puntuazioa.tsv",
+          "akatsak": [
+            { "id": "ZL-PUN-1", "deskribapena": "Punturik ez esaldien artean (run-on)",    "adibidea": null, "larritasuna": "major",  "puntuazio_arauak": ["PUN-07"] },
+            { "id": "ZL-PUN-2", "deskribapena": "Koma subjektu eta aditz artean",          "adibidea": null, "larritasuna": "minor",  "puntuazio_arauak": ["PUN-02"] },
+            { "id": "ZL-PUN-3", "deskribapena": "Koma falta lotura-hitz ondoren",          "adibidea": null, "larritasuna": "minor",  "puntuazio_arauak": ["PUN-01"] },
+            { "id": "ZL-PUN-4", "deskribapena": "Komatxoen falta/soberan",                 "adibidea": null, "larritasuna": "minor",  "puntuazio_arauak": ["PUN-12", "PUN-13"] },
+            { "id": "ZL-PUN-5", "deskribapena": "Mendeko perpausaren ondoren koma falta",  "adibidea": null, "larritasuna": "minor",  "puntuazio_arauak": ["PUN-03"] },
+            { "id": "ZL-PUN-6", "deskribapena": "Koma konpletiboaren aurretik (kalkoa)",   "adibidea": null, "larritasuna": "minor",  "puntuazio_arauak": ["PUN-19"] }
+          ]
+        },
+
+        "ZL-ERD": {
+          "izena": "Erderakadak / Interferentziak",
+          "gramatika_fitxategia": "06_erderakadak.tsv",
+          "akatsak": [
+            { "id": "ZL-ERD-1", "deskribapena": "Kalko sintaktikoa",               "adibidea": { "gaizki": "baina ere",                 "ondo": "hala ere / bestalde" },     "larritasuna": "major",       "erderakada_motak": ["KALKO_SINTAKTIKO"] },
+            { "id": "ZL-ERD-2", "deskribapena": "Gaztelaniazko hitza zuzenean",     "adibidea": { "gaizki": "sombra",                    "ondo": "itzala / gerizpea" },       "larritasuna": "major",       "erderakada_motak": ["HITZ_KALKOA"] },
+            { "id": "ZL-ERD-3", "deskribapena": "Hitz-ordena gaztelaniakoa",        "adibidea": { "gaizki": "SVO ordena",                "ondo": "SOV ordena" },              "larritasuna": "minor-major", "erderakada_motak": ["ORDENA_KALKOA"] },
+            { "id": "ZL-ERD-4", "deskribapena": "Esamolde-kalkoa",                  "adibidea": { "gaizki": "ilea hartu",                "ondo": "adarra jo" },               "larritasuna": "major",       "erderakada_motak": ["ESAMOLDE_KALKOA"] },
+            { "id": "ZL-ERD-5", "deskribapena": "Preposizio-kalkoa (-gatik/-rentzat nahasketa)", "adibidea": { "gaizki": "-rentzat (kausa)", "ondo": "-gatik" },              "larritasuna": "major",       "erderakada_motak": ["PREPOSIZIO_KALKOA"] }
+          ]
+        }
+      }
+    }
+  },
+
+  "lotura_hitz_mailak": {
+    "azalpena": "Lotura-hitzen sailkapena maila arabera, AK irizpidea ebaluatzeko. Xehetasunak: 10_lotura_hitzak.tsv",
+    "gramatika_fitxategia": "10_lotura_hitzak.tsv",
+    "mailak": {
+      "oinarrizkoa": ["gainera", "eta", "baina", "beraz", "gero", "azkenik", "lehenik", "adibidez", "nire ustez"],
+      "tartekoa":    ["hala ere", "nahiz eta", "horregatik", "hortaz", "horrez gain", "ondoren", "bitartean", "zeren", "esaterako", "laburbilduz", "azken finean", "nire aburuz"],
+      "aurreratua":  ["halaber", "are gehiago", "ordea", "aldiz", "aitzitik", "hori dela eta", "ondorioz", "hala nola", "ondorio gisa", "nire iritziz", "horri dagokionez"]
+    }
+  },
+
+  "testu_motak": {
+    "iritzi_artikulua":  { "AB_espero": "Tesia + argudioak + ondorioa",               "AK_egitura": "Tesia → argudioak → kontrargumentua → ondorioa", "BLH_erregistroa": "Formala/akademikoa",    "oharra": "Argudio-lokailuak" },
+    "gutun_formala":     { "AB_espero": "Helburua + arrazoiak + eskaera",              "AK_egitura": "Agurra → sarrera → gorputza → eskaera → agur formala", "BLH_erregistroa": "Formala (zuka)",   "oharra": "Agur-formulak" },
+    "gutun_informala":   { "AB_espero": "Mezua argi komunikatu",                       "AK_egitura": "Agurra → berria → amaiera",                     "BLH_erregistroa": "Informala",              "oharra": "Ez penalizatu hika" },
+    "deskribapena":      { "AB_espero": "Xehetasun sentsorialak",                      "AK_egitura": "Orokorretik zehatzera",                         "BLH_erregistroa": "Neutrala",               "oharra": "Adjektiboen aniztasuna" },
+    "hausnarketa":       { "AB_espero": "Gogoeta pertsonala + arrazoiketa",             "AK_egitura": "Galdera → garapena → ondorioa",                 "BLH_erregistroa": "Pertsonala",             "oharra": "Lehen pertsona" },
+    "gidoia":            { "AB_espero": "Pertsonaiak + elkarrizketa + ekintza",         "AK_egitura": "Eszenak → akotazioak → elkarrizketak",          "BLH_erregistroa": "Pertsonaien arabera",    "oharra": "Elkarrizketa naturala" },
+    "narrazioa":         { "AB_espero": "Istorioa kontatu",                             "AK_egitura": "Hasiera → korapiloa → amaiera",                 "BLH_erregistroa": "Narraziozkoa",           "oharra": "Aditz-denborak" },
+    "laburpena":         { "AB_espero": "Jatorrizko testuaren gako-ideiak",             "AK_egitura": "Jatorrizkoaren egitura jarraitu",               "BLH_erregistroa": "Neutrala",               "oharra": "Testu-iturriarekiko fideltasuna" }
+  }
+}

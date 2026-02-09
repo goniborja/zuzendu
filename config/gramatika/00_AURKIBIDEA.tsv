@@ -1,0 +1,12 @@
+FITXATEGIA	EDUKIA	SARRERA_KOPURUA	ERABILERA_NAGUSIA
+01_aditz_NOR.tsv	NOR sistema — aditz iragangaitzak (izan)	7 pertsona × 4 aldi	ZL-ADI erroreak egiaztatzeko
+02_aditz_NOR-NORK.tsv	NOR-NORK sistema — aditz iragankorrak (ukan)	24 konbinazio × 3 aldi	ZL-ADI-1/2/3 erroreak egiaztatzeko — KRITIKOA
+03_aditz_NOR-NORI.tsv	NOR-NORI sistema — datiboa (gustatu, gertatu)	16 konbinazio × 2 aldi	NOR-NORI nahasketa detektatzeko
+04_aditz_NOR-NORI-NORK.tsv	NOR-NORI-NORK sistema — ditrantsitiboak (eman, esan)	27 konbinazio × 2 aldi	ZL-ADI-7 erroreak egiaztatzeko — OSO KRITIKOA
+05_deklinabidea.tsv	14 kasu guztiak: atzizkiak, adibideak, akats ohikoak	15 kasu	ZL-KAS-1..8 erroreak egiaztatzeko
+06_erderakadak.tsv	Gaztelaniatiko interferentziak: kalkoak, hitzak, esamoldeak	45+ sarrera	ZL-ERD-1..5 eta BLH-n erabiltzeko
+07_puntuazioa.tsv	Euskarako puntuazio-arau espezifikoak	20 arau	ZL-PUN-1..4 erroreak egiaztatzeko
+08_batua_vs_dialektoa.tsv	Batua vs bizkaiera: zer zuzendu, zer onartu, zer kontuz	40+ sarrera	Urdaibai-Arratzu ikasleen testuinguruarentzat
+09_aspektu_denborak.tsv	Aspektu-sistema: burutua/burutugabea/geroa/subjuntiboa	15 arau	ZL-ADI-4/5 erroreak eta aspektu-nahasketa
+10_lotura_hitzak.tsv	Diskurtso-markatzaileak: funtzioa, maila, puntuazioa, akatsak	40+ sarrera	AK irizpidea ebaluatzeko + puntuazio-egiaztatzeko
+11_sintaxia.tsv	Sintaxi-arauak: ordena, erlatiboa, konpletiboa, baldintza	30+ arau	ZL-SIN-1..5 eta egitura konplexuen egiaztapena

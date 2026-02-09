@@ -1,0 +1,45 @@
+MOTA	GAIZKI	ONDO	AZALPENA	LARRITASUNA	OHIKOTASUNA_DBH
+KALKO_SINTAKTIKO	baina ere	hala ere / bestalde / gainera	Gaztelaniako "pero también" kalkoa	Major	Oso ohikoa
+KALKO_SINTAKTIKO	ez bakarrik... baizik eta ere	ez bakarrik... baizik eta... ere	"no solo... sino también" — ere gehitu behar	Minor	Ohikoa
+KALKO_SINTAKTIKO	denbora berean	aldi berean / une berean	"al mismo tiempo" kalkoa	Minor	Ohikoa
+KALKO_SINTAKTIKO	parte hartu	parte hartu (ondo) / BAI da batua	Hau zuzentzat jo behar da batuan	—	Kontuz: EZ da erderakada
+KALKO_SINTAKTIKO	kontuan hartu	kontuan hartu (ondo batuan)	Hau zuzentzat jo behar da batuan	—	Kontuz: EZ da erderakada
+KALKO_SINTAKTIKO	gustatu egiten zait	gustatu egiten zait → gustatzen zait	"me gusta" — aspektua kontuz	Major	Oso ohikoa
+KALKO_SINTAKTIKO	pentsatzen dut que	pentsatzen dut -la/-enik	"que" konpletiboa kalkoa — euskaraz -la atzizkia	Critical	Ohikoa
+KALKO_SINTAKTIKO	horregatik da zergatik	horregatik da / hori delako	"por eso es por lo que" kalkoa	Major	Tartekoa
+KALKO_SINTAKTIKO	zer da hori eskatu nuena	hori eskatu nuen da / hori da eskatu nuena	"lo que pedí" — erlatibozko kalkoa	Major	Ohikoa
+HITZ_KALKOA	sombra	itzal / gerizpe	Gaztelaniazko hitza zuzenean	Major	Ohikoa
+HITZ_KALKOA	vacaciones	oporrak	Gaztelaniazko hitza zuzenean	Major	Ohikoa
+HITZ_KALKOA	colegio	eskola / ikastetxe	Gaztelaniazko hitza zuzenean	Major	Ohikoa
+HITZ_KALKOA	equipo	talde	Gaztelaniazko hitza zuzenean	Major	Ohikoa
+HITZ_KALKOA	comida	janari / otordu	Gaztelaniazko hitza zuzenean	Major	Ohikoa
+HITZ_KALKOA	problema	arazo	Gaztelaniazko hitza zuzenean	Major	Oso ohikoa
+HITZ_KALKOA	ejemplo	adibide	Gaztelaniazko hitza zuzenean	Major	Ohikoa
+HITZ_KALKOA	también	ere / baita...ere / halaber	Gaztelaniazko hitza zuzenean	Major	Oso ohikoa
+HITZ_KALKOA	pero	baina	Gaztelaniazko hitza zuzenean	Major	Oso ohikoa
+HITZ_KALKOA	entonces	orduan / beraz	Gaztelaniazko hitza zuzenean	Major	Ohikoa
+HITZ_KALKOA	porque	-(e)lako / zeren	Gaztelaniazko hitza zuzenean	Critical	Ohikoa
+ESAMOLDE_KALKOA	ilea hartu	adarra jo	"tomar el pelo" → adarra jo	Major	Tartekoa
+ESAMOLDE_KALKOA	kotxea aparkatu egin	kotxea aparkatu	Gaztelaniako "egin" gehigarria	Minor	Ohikoa
+ESAMOLDE_KALKOA	denbora pasa	astia igaro / denbora igaro	"pasar el tiempo" kalkoa	Minor	Ohikoa
+ESAMOLDE_KALKOA	ondo pasatu	ondo igaro / ondo pasa	Biak onartzen dira baina "igaro" hobetsia	Minor	Ohikoa
+ESAMOLDE_KALKOA	kasua da	kontua da	"el caso es" kalkoa	Minor	Tartekoa
+ESAMOLDE_KALKOA	oportunitatea izan	aukera izan	"tener la oportunidad" kalkoa	Minor	Ohikoa
+ESAMOLDE_KALKOA	arrazoia izan	arrazoi izan (mugagabean)	"tener razón" — mugagabean	Minor	Ohikoa
+ESAMOLDE_KALKOA	beldurra izan	beldur izan (mugagabean)	"tener miedo" — mugagabean	Minor	Oso ohikoa
+ESAMOLDE_KALKOA	gosea izan	gose izan (mugagabean)	"tener hambre" — mugagabean	Minor	Oso ohikoa
+ESAMOLDE_KALKOA	logura izan	lo izan / logura izan	Biak erabil daitezke	—	
+PREPOSIZIO_KALKOA	-rentzat (kausa adieraziz)	-gatik	"por" (causa) vs "para" nahasketa	Major	Oso ohikoa
+PREPOSIZIO_KALKOA	-gatik (helburu adieraziz)	-rentzat / -tzeko	"para" (finalidad) vs "por" nahasketa	Major	Oso ohikoa
+PREPOSIZIO_KALKOA	-kin + infinitibo	-tuz / -tzean / -tzerakoan	"con + infinitivo" kalkoa	Major	Tartekoa
+PREPOSIZIO_KALKOA	-ra + pertsona	-rengana	"a + persona" kalkoa (ir a una persona)	Major	Tartekoa
+PREPOSIZIO_KALKOA	-ren gainean (gai bati buruz)	-ri buruz / -ren inguruan	"sobre" (tema) kalkoa	Minor	Ohikoa
+ORDENA_KALKOA	SVO ordena	SOV ordena	Euskarako ordena: S-O-Aditza	Major	Oso ohikoa
+ORDENA_KALKOA	adjektiboa izenaren aurretik	adjektiboa izenaren atzetik	Euskaraz: etxe handia (ez *handia etxea)	Major	Ohikoa
+ORDENA_KALKOA	adberbioa esaldi bukaeran	adberbioa aditzaren aurretik	Fokua aditzaren aurrean	Minor	Ohikoa
+ORDENA_KALKOA	erlatiboa izenaren atzetik	erlatiboa izenaren aurretik	Euskaraz: ikusi dudan gizona (ez *gizona ikusi dudana)	Major	Ohikoa
+DETERMINATZAILE	*ene ama / ene aita	nire ama / nire aita	Gazt. "mi madre" — euskaraz "nire"	Minor	Gutxi
+JUNTAGAILU_KALKO	eta gainera	gainera / are gehiago	"y además" — gehiegizko juntagailua	Minor	Ohikoa
+JUNTAGAILU_KALKO	baina ordea	ordea / aldiz	"pero en cambio" — erredundantzia	Minor	Tartekoa
+JUNTAGAILU_KALKO	horregatik beraz	horregatik / beraz	"por eso por tanto" — erredundantzia	Minor	Tartekoa
+JUNTAGAILU_KALKO	eta gero	eta gero / ondoren	Kasu honetan biak zuzen dira	—	

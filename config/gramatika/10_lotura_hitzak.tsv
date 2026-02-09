@@ -1,0 +1,39 @@
+FUNTZIOA	LOTURA_HITZA	ERABILERA	MAILA	ADIBIDEA	AKATS_OHIKOA	PUNTUAZIOA
+GEHIKUNTZA	gainera	informazio gehigarria emateko	Oinarrizkoa	Gainera, eguraldia ona izango da	*Gainera eguraldia (koma falta)	Koma ondoren
+GEHIKUNTZA	halaber	"gainera" formalago	Aurreratua	Halaber, ikerketa berriek ere hori baieztatzen dute	Gutxi erabiltzen dute DBH-n	Koma ondoren
+GEHIKUNTZA	are gehiago	"gainera" indartua	Aurreratua	Are gehiago, bigarren txostena ere idatzi zuen	*Are gehiago bigarren (koma falta)	Koma ondoren
+GEHIKUNTZA	horrez gain	"gainera" sinonimoa	Tartekoa	Horrez gain, beste arazo bat dago	*Horrezgain (hitz banaketa)	Koma ondoren
+GEHIKUNTZA	eta	gehikuntza sinplea	Oinarrizkoa	Liburua eta arkatza	Ez da erderakada	Ez koma aurretik
+KONTRASTEA	baina	kontrastea, aurkaritasuna	Oinarrizkoa	Nahi nuen, baina ezin izan nuen	*Baina... (hasieran, perpausrik gabe aurretik)	Koma aurretik
+KONTRASTEA	hala ere	kontzesioa, "a pesar de eso"	Tartekoa	Hala ere, pozik nago	*Baina ere (erderakada!)	Koma ondoren
+KONTRASTEA	ordea	kontrastea formala	Aurreratua	Nik, ordea, ez dut hala uste	Parentetikoa: koma artean	Koma artean
+KONTRASTEA	aldiz	alternantzia kontrastiboa	Aurreratua	Jonek matematika du; Mirek, aldiz, fisika	*Jonek matematika du aldiz Mirek (puntuazio falta)	Koma artean
+KONTRASTEA	aitzitik	"por el contrario"	Aurreratua	Aitzitik, egoera guztiz aldatu zen	Gutxi erabiltzen dute DBH-n	Koma ondoren
+KONTRASTEA	nahiz eta	kontzesioa + subjuntiboa	Tartekoa	Nahiz eta euria egin, joan ginen	*Nahiz eta euria egin baina joan ginen (erredundantzia)	Koma mendeko perpausaren ondoren
+KAUSA	-(e)lako	kausa (mendeko perpausean)	Oinarrizkoa	Joan nintzen nire laguna ikusi nuelako	*Joan nintzen porque (erderakada!)	Ez koma
+KAUSA	zeren	kausa (lotura-hitza)	Tartekoa	Zeren gure helburua hori baitzen	*Zeren, gure helburua (koma sobera)	Ez koma ondoren normalean
+KAUSA	-bait	kausa (atzizkia)	Aurreratua	Berandu baitzen, ez zen etorri	Ia ez dute erabiltzen DBH-n	
+KAUSA	horregatik	ondorioa adierazten	Tartekoa	Horregatik, etxean gelditu nintzen	*Horregatik etxean (koma falta)	Koma ondoren
+ONDORIOA	beraz	ondorioa atera	Oinarrizkoa	Beraz, hobeto da etxean gelditzea	*Beraz hobeto (koma falta)	Koma ondoren
+ONDORIOA	hortaz	"beraz" sinonimoa	Tartekoa	Hortaz, argi dago	Gutxiago erabiltzen da	Koma ondoren
+ONDORIOA	hori dela eta	"por eso" formala	Aurreratua	Hori dela eta, neurri berriak hartu dira	*Hori dela eta neurri (koma falta)	Koma ondoren
+ONDORIOA	ondorioz	"en consecuencia"	Aurreratua	Ondorioz, proiektua bertan behera geratu zen	Gutxi erabiltzen dute DBH-n	Koma ondoren
+DENBORAZKOA	lehenik (eta behin)	ordenan lehena	Oinarrizkoa	Lehenik, eskola joan behar dugu	*Primero (erderakada!)	Koma ondoren
+DENBORAZKOA	gero	ondoren	Oinarrizkoa	Gero, etxera itzuli ginen	*Luego (erderakada!)	Koma ondoren
+DENBORAZKOA	ondoren	"después"	Tartekoa	Ondoren, filmea ikusi genuen	*Gero eta gero (errepikapena)	Koma ondoren
+DENBORAZKOA	azkenik	ordenan azkena	Oinarrizkoa	Azkenik, bukatu egin genuen	*En último lugar (erderakada!)	Koma ondoren
+DENBORAZKOA	bitartean	aldi berean	Tartekoa	Bitartean, besteak lanean zeuden	*Mientras tanto (erderakada!)	Koma ondoren
+DENBORAZKOA	-(e)nean	mendeko denborazkoa	Oinarrizkoa	Iritsi nintzenean, denak zeuden	*Cuando iritsi (erderakada!)	Koma mendekoa aurretik badago
+HELBURUA	-t(z)eko	"para + infinitivo"	Oinarrizkoa	Ikasteko etorri naiz	*Para ikasi (erderakada!)	Ez koma
+HELBURUA	-t(z)earren	"con el fin de"	Aurreratua	Hobetzearren egin dut	Gutxi erabiltzen dute DBH-n	Ez koma
+ADIBIDEA	adibidez	"por ejemplo"	Oinarrizkoa	Adibidez, futbola gustuko dut	*Adibidez futbola (koma falta)	Koma ondoren
+ADIBIDEA	esaterako	"por ejemplo" sinonimoa	Tartekoa	Esaterako, liburuak irakurtzea	*Esate rako (hitz banaketa)	Koma ondoren
+ADIBIDEA	hala nola	"como por ejemplo"	Aurreratua	Kirolak, hala nola, futbola eta igeriketa	*Hala nola futbola (koma falta)	Koma ondoren
+LABURPENA	laburbilduz	"en resumen"	Tartekoa	Laburbilduz, ados gaude	*En resumen (erderakada!)	Koma ondoren
+LABURPENA	azken finean	"al fin y al cabo"	Tartekoa	Azken finean, denok nahi dugu gauza bera	*Al final (erderakada!)	Koma ondoren
+LABURPENA	ondorio gisa	"a modo de conclusión"	Aurreratua	Ondorio gisa, esan dezakegu...	Gutxi erabiltzen dute DBH-n	Koma ondoren
+IRITZIA	nire ustez	"en mi opinión"	Oinarrizkoa	Nire ustez, hau hobeto dago	*Niretzat hau hobeto (erderakada -rentzat/-ren ustez)	Koma ondoren
+IRITZIA	nire aburuz	"en mi opinión" sinonimoa	Tartekoa	Nire aburuz, aldaketak beharrezkoak dira	*En mi opinión (erderakada!)	Koma ondoren
+IRITZIA	nire iritziz	"en mi opinión" formala	Aurreratua	Nire iritziz, egoera larria da	*Nire iritzian (kasu okerra)	Koma ondoren
+ERREFERENTZIA	horri dagokionez	"en cuanto a eso"	Aurreratua	Horri dagokionez, beste neurri bat proposatzen dut	Maila altuko egitura	Koma ondoren
+ERREFERENTZIA	-ri buruz	"acerca de, sobre"	Oinarrizkoa	Horri buruz, ezer gutxi dakigu	*Honen gainean (erderakada batzuetan)	Koma ondoren (lotura gisa)

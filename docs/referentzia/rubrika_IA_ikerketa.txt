@@ -1,0 +1,324 @@
+Vale: empiezo ya y te dejo algo usable para una IA (no solo "bonito para el aula"). Voy a hacer dos cosas:
+
+Qué modelos de rúbricas "IA‑friendly" funcionan mejor en Secundaria (por países / sistemas) y qué patrón común puedes copiar.
+
+Una rúbrica completa para Euskara eta Literatura (3º–4º ESO) + un catálogo de fallos "al milímetro" (operacionalizado) para que una IA pueda puntuar y justificar.
+
+1) Qué tienen en común las rúbricas que mejor se traducen a reglas para IA
+
+Cuando miras los sistemas más usados (exámenes estandarizados, marcos internacionales, rúbricas oficiales de escritura), hay dos enfoques que se repiten:
+
+A. Rúbrica analítica "4 criterios" (la más fácil para IA)
+
+Es el patrón de IELTS:
+
+Task Achievement/Response (cumplimiento)
+
+Coherence & Cohesion (organización/cohesión)
+
+Lexical Resource (léxico)
+
+Grammatical Range & Accuracy (gramática + precisión)
+
+Y en IELTS cada criterio "pesa" igual (25% cada uno).
+
+Ese mismo "ADN" aparece en Cambridge: Content / Communicative Achievement / Organisation / Language.
+
+Por qué esto es ideal para IA: separa dimensiones, reduce ambigüedad, permite medir cada parte con indicadores distintos (unos "semánticos", otros "mecánicos").
+
+B. Rúbricas "micro‑criterios" (10 ítems) que luego se agrupan
+
+Ejemplo claro: NAPLAN (Australia) evalúa con 10 criterios (audience, text structure, ideas, vocabulary, cohesion, paragraphing, sentence structure, punctuation, spelling, etc.).
+Esto es muy potente para IA porque cada ítem se puede convertir en checks y contadores.
+
+C. Rúbricas por "objetivos de evaluación" (dos grandes bloques)
+
+Ejemplo típico: GCSE Reino Unido separa escritura en:
+
+AO5: contenido + organización (propósito, audiencia, estructura, cohesión)
+
+AO6: precisión técnica (vocabulario y estructuras, ortografía y puntuación) y exige que AO6 sea una parte relevante del total.
+
+D. Rúbricas "de rasgos" (6+1 Traits, muy USA/Canadá)
+
+Modelo extendido: Ideas, Organization, Voice, Word Choice, Sentence Fluency, Conventions (+Presentation).
+Muy útil para docencia, pero para IA conviene reagrupar (porque "voice" es más subjetivo).
+
+E. Lo que hacen los sistemas de corrección automática "serios" (AES)
+
+ETS e‑rater (motor de corrección automática) lista explícitamente sus familias de señales:
+
+análisis de contenido (vocabulario), complejidad léxica/dicción
+
+proporción de errores de gramática/uso/mecánica
+
+estilo
+
+organización/desarrollo
+
+e incluso "recompensa" fraseología idiomática
+
+Y la literatura del propio e‑rater/Criterion describe categorías de error (gramática, usage, mechanics, style) y conteo de errores como features.
+
+Conclusión práctica:
+Para tu objetivo (IA corrigiendo redacciones en euskera), lo más robusto es:
+
+Mantener 4 macro‑criterios (25% cada uno) tipo IELTS/Cambridge.
+
+Dentro, desglosar micro‑indicadores estilo NAPLAN/e‑rater para que la IA pueda puntuar con reglas.
+
+2) Tabla comparativa rápida "por países / sistemas" (lo que copiaría para tu caso)
+País / Sistema	Enfoque	Criterios que usa	Qué te aporta para IA
+Internacional (IELTS)	Analítico 4×25%	Task / Coherence / Lexical / Grammar+Accuracy	Plantilla perfecta para tu 25% + 25% + 25% + 25%
+Cambridge English	4 subescalas	Content + Communicative Achievement + Organisation + Language	Muy "competencial" (lector objetivo, propósito)
+Reino Unido (GCSE)	2 AOs (AO5/AO6)	Contenido+organización vs precisión técnica	Te obliga a no "esconder" la corrección formal
+EE. UU. (Smarter Balanced/CAASPP)	3 categorías	Organization/Purpose + Evidence/Elaboration + Conventions	Buena separación "ideas/soporte" + "convenciones"
+Australia (NAPLAN)	10 micro‑criterios	Audience, text structure, cohesion, punctuation, spelling…	Lista de checks medibles, ideal para IA
+EE. UU./Canadá (6+1 Traits)	Rasgos	Ideas, organization, word choice, sentence fluency, conventions…	Te da un "inventario" didáctico para subcriterios
+Canadá (Ontario, ejemplo)	"Achievement chart" competencial	Comunicación incluye expresión/organización; marco para rúbricas	Lenguaje de evaluación competencial consistente
+IB MYP (internacional)	Criterios A‑D	Organizing / Producing text / Using language, etc.	Muy útil para descriptor por niveles (0–8)
+3) Propuesta de rúbrica para IA en Euskara eta Literatura (3º–4º ESO)
+
+Tu rúbrica ya está alineada con el patrón internacional. Lo único que falta para que sea 100% cerrada y operacionalizable es añadir el 4º criterio típico (como IELTS/Cambridge/GCSE): zuzentasuna / konbentzioak.
+
+3.1 Macro‑criterios y ponderación (modelo 4×25%)
+Criterioa (EU)	(ES)	Pisua
+1. ATAZAREN BETETZEA	Cumplimiento de la tarea (contenido + propósito + lector)	25%
+2. ANTOLAKETA ETA KOHERENTZIA	Organización, coherencia y cohesión	25%
+3. BALIABIDE LINGUISTIKOEN HEDADURA	Alcance lingüístico (léxico + complejidad)	25%
+4. ZUZENTASUN LINGUISTIKOA	Corrección: ortografía, morfosintaxis, puntuación	25%
+
+Esto clava el patrón más estándar en evaluación de escritura (IELTS) y encaja con Cambridge (Language) y con AO6 (GCSE).
+
+4) Convertir cada criterio en "reglas" para una IA
+
+Aquí está el truco: una IA no puntúa bien si solo le das descriptores. Necesita indicadores observables. Te propongo un "esqueleto IA" por criterio.
+
+4.1 Criterio 1 — ATAZAREN BETETZEA (25%)
+
+Sub‑indicadores medibles (IA):
+
+Relevancia al enunciado (off‑topic vs on‑topic)
+
+Cobertura de requisitos (si pides X puntos/ideas, cuántos aparecen)
+
+Desarrollo (argumentos, ejemplos, explicación; no solo enunciados)
+
+Adecuación al género y lector (carta/artículo/opinión/narración; registro)
+
+Reglas "cap" (muy útiles):
+
+Si está fuera de tema → máximo 2/10 en este criterio.
+
+Si falta ≥50% de requisitos (p. ej., pedías 3 argumentos y hay 1) → máximo 4/10.
+
+Si el texto está muy por debajo del mínimo (p. ej., <70% de palabras) → máximo 4/10 (porque no hay evidencia suficiente).
+
+4.2 Criterio 2 — ANTOLAKETA ETA KOHERENTZIA (25%)
+
+Sub‑indicadores (IA):
+
+Macro‑estructura (sarrera/garapena/ondorioa)
+
+Párrafos (separación + unidad temática)
+
+Cohesión (conectores variados y correctos)
+
+Coherencia referencial (pronombres, elipsis, repeticiones, saltos)
+
+Este bloque se parece muchísimo a lo que evalúan GCSE AO5 y Smarter Balanced Organization/Purpose.
+
+4.3 Criterio 3 — BALIABIDE LINGUISTIKOEN HEDADURA (25%)
+
+Sub‑indicadores (IA):
+
+Lexical diversity (variedad; evitar muletillas/repeticiones)
+
+Precisión léxica (palabras específicas vs genéricas)
+
+Complejidad sintáctica (subordinadas, relativas, variedad de estructuras)
+
+Erregistroa (registro adecuado y estable)
+
+Esto es paralelo a "Lexical Resource" + "Range" del modelo IELTS.
+
+4.4 Criterio 4 — ZUZENTASUN LINGUISTIKOA (25%)
+
+Aquí sí conviene ir por densidad de errores (e‑rater lo hace así: proporción de errores de gramática/uso/mecánica).
+
+Además, en euskera tienes ventaja: puedes apoyarte en correctores existentes como Xuxen y Hobelex para "contar" muchos fallos mecánicos/lexicales antes de que el LLM haga la evaluación.
+
+5) Rúbrica completa (descriptores por niveles) lista para "copiar y pegar" a una IA
+
+Mantengo tu escala 9–10 / 7–8 / 5–6 / 3–4 / 0–2, pero con pequeños ajustes para que sea más verificable.
+
+5.1 1) ATAZAREN BETETZEA — 25%
+
+9–10 (Bikaintasuna): Eskaerako puntu guztiak lantzen ditu, sakon garatuta. Argudio/adibide zehatzak eta egokiak. Testu‑motaren baldintzak guztiz beteta (luzera, helburua, hartzailea, erregistroa).
+
+7–8 (Aurreratua): Puntu guztiak lantzen ditu eta nahiko garatuta. Xehetasun/adibide gehienetan. Testu‑motaren baldintzak ia guztiz beteta.
+
+5–6 (Tartekoa): Puntu gehienak badaude baina batzuk azalekoak. Adibide gutxi edo irregularrak. Baldintza nagusiak betetzen ditu.
+
+3–4 (Hasiberria): Puntu gutxi; garapen eskasa. Adibiderik ia ez. Genero/helburu/irakurlearekiko egokitzapen eskasa.
+
+0–2 (Lortu gabea): Ez du ataza betetzen (off‑topic edo oso laburra ebaluatzeko).
+
+5.2 2) ANTOLAKETA ETA KOHERENTZIA — 25%
+
+9–10: Egitura argia (sarrera‑garapena‑ondorioa) eta eraginkorra. Paragrafoak ondo banatuta; ideia bakoitza koherenteki garatua. Lotura‑hitz ugari eta egokiak; erreferentziak argiak.
+
+7–8: Egitura argia; paragrafoak ongi antolatuta. Lotura‑hitz nahikoak eta egokiak. Akats txikiak baina ez dira oztopo.
+
+5–6: Oinarrizko egitura badu, baina linealtasun/saltoren bat. Paragrafoak badaude baina ez beti egoki. Lotura‑hitz oinarrizkoak nagusi.
+
+3–4: Egitura ahula; ideiak nahasita. Paragraforik ez edo oso eskasa. Lotura‑hitz gutxi edo desegokiak.
+
+0–2: Egitura antzematekorik ez; ideiak deskonektatuta; kohesiorik ia ez.
+
+5.3 3) BALIABIDE LINGUISTIKOEN HEDADURA — 25%
+
+9–10: Hitz‑altxor aberatsa eta zehatza; sinonimo/esamoldeak, errepikapena saihestuz. Perpaus‑egitura ugari (mendekoak, erlatiboak…). Erregistroa guztiz egokia eta koherentea.
+
+7–8: Hitz‑altxor nahikoa eta egokia; birformulazio batzuk. Egitura desberdinak; erregistroa gehienetan egokia.
+
+5–6: Oinarrizko hitz‑altxorra; errepikapen batzuk. Perpaus sinpleak nagusi baina noizean behin konplexuagoak. Erregistroan gorabeherak.
+
+3–4: Hitz‑altxor mugatua; errepikapen ugari eta kalko/egitura pobreagoak. Perpaus oso sinpleak. Erregistro desegokia edo aldakorra.
+
+0–2: Hitz‑altxorra oso urria; formulazioak komunikazioa zailtzen du; egitura minimoa.
+
+5.4 4) ZUZENTASUN LINGUISTIKOA — 25% (gomendatua)
+
+9–10: Akats ortografiko/puntuazio oso gutxi; morfologia eta aditz‑morfologia ondo kontrolatuta; akatsak ez dira ia antzematen.
+
+7–8: Akats batzuk (ortografia, kasuak, aditzak…) baina ez dute ulermena oztopatzen; zuzenketa orokorrean ona.
+
+5–6: Akats errepikatuak (batez ere kasu‑markak, aditz‑adostasuna, puntuazioa) baina testua ulergarria da.
+
+3–4: Akats ugari eta sistematikoak; ulermena tarteka zailtzen da.
+
+0–2: Akats larriak eta oso ugari; ulermena nabarmen kaltetuta.
+
+6) "Al milímetro": catálogo de fallos corregibles en euskera (para IA)
+
+Te lo doy como taxonomía + cómo medirlo + penalización recomendada. Así puedes convertirlo en reglas o en instrucciones para un LLM.
+
+Nota práctica: para el criterio 4 (corrección), si combinas un corrector tipo Xuxen/Hobelex con el LLM, consigues conteos bastante fiables para ortografía/lexicografía y parte de gramática.
+
+6.1 Criterio 1 — ATAZAREN BETETZEA: fallos típicos y medibles
+ID	Fallo	Cómo lo detecta una IA	Severidad	Regla de puntuación sugerida
+TB‑1	Off‑topic (gaitik urrun)	Similaridad semántica baja con el enunciado + ausencia de palabras clave/ideas esperadas	Crítica	Cap: max 2/10
+TB‑2	Falta de requisitos (p. ej., "3 argumentos", "2 ejemplos")	Checklist: contar elementos exigidos	Mayor	Si falta ≥50% → cap 4/10
+TB‑3	Desarrollo insuficiente	Ratio "afirmaciones sin soporte" (muchas frases declarativas sin ejemplos/consecuencias)	Media	−0.5 por requisito sin desarrollar (con tope)
+TB‑4	Género no respetado (carta/artículo…)	Señales del formato: saludo/despedida, primera persona, título, etc.	Mayor	Si género incorrecto → cap 6/10
+TB‑5	Registro inadecuado para lector	Clasificación de formalidad + presencia de marcas (tú/usted; informalismos)	Media	−0.5 a −1 según impacto
+TB‑6	Longitud insuficiente	Conteo de palabras vs rango esperado	Mayor	<70% mínimo → cap 4/10
+6.2 Criterio 2 — ANTOLAKETA ETA KOHERENTZIA: fallos y medición
+ID	Fallo	Detección IA	Severidad	Regla
+OK‑1	Sin estructura (no intro/desarrollo/conclusión)	Heurística: ausencia de marcadores de inicio/cierre; sin párrafos	Mayor	Si faltan 2 de 3 → cap 4/10
+OK‑2	Párrafos mal segmentados	Párrafos demasiado largos/1 solo; cambios de tema dentro del párrafo	Media	−0.5 si 1 solo párrafo; −0.2 por ruptura temática
+OK‑3	Conectores pobres o repetitivos	Conteo y variedad de lokailuak (eta, baina, beraz…)	Media	Penaliza si variedad < umbral; bonifica variedad adecuada
+OK‑4	Conectores mal usados (relación lógica incorrecta)	Contradicción: "horregatik" sin causa; "hala ere" sin contraste	Mayor	−0.5 por mal uso "claro" (tope)
+OK‑5	Referencias ambiguas	Pronombres sin antecedente claro; elipsis confusa	Mayor	−0.3 a −0.7 según frecuencia
+OK‑6	Saltos lógicos	Cambios de tema sin transición; incoherencia global	Mayor	Cap 6/10 si incoherencia sostenida
+6.3 Criterio 3 — BALIABIDE LINGUISTIKOEN HEDADURA: fallos y medición
+ID	Fallo	Detección IA	Severidad	Regla
+LH‑1	Repetición léxica alta	Diversidad léxica (mejor por lemmas); ratio de repetición	Media	−0.5 si repetición excesiva sostenida
+LH‑2	Léxico genérico (gauza, ona, egin…)	Proporción de "high‑frequency general words" vs específicos	Media	−0.2 a −0.6
+LH‑3	Poca variedad sintáctica	Longitud media de oración + subordinadas/relativas por 100 palabras	Media	Cap 6/10 si casi todo son oraciones simples
+LH‑4	Calcos de otra lengua (estructuras no naturales)	Patrones típicos de interferencia (heurístico; mejor con lista)	Media‑Mayor	−0.2 por patrón repetido
+LH‑5	Registro inestable	Detección de mezcla (coloquial + formal)	Media	−0.5 si afecta la lectura
+LH‑6	Sin fraseología/expresiones	Ausencia de colocaciones / expresiones típicas (opcional)	Menor	Más que penalizar, úsalo como "bonificación"
+6.4 Criterio 4 — ZUZENTASUN LINGUISTIKOA: inventario de errores "contables" (muy IA)
+
+Aquí te conviene clasificar por mecánica / morfología / sintaxis / puntuación, como hace e‑rater al agrupar errores (grammar/usage/mechanics/style).
+
+Errores típicos contables en euskera (categorías útiles):
+
+Ortografía: grafías incorrectas, separación/unión de palabras, mayúsculas, préstamos mal escritos.
+
+Morfología nominal: casos (‑k, ‑ri, ‑ren, ‑ra, ‑tik, ‑rekin…), determinación (‑a/‑ak), número.
+
+Aditz‑morfologia: elección de auxiliar, concordancia (nor‑nori‑nork), tiempo/modo, negación.
+
+Sintaxis: orden de constituyentes que genera ambigüedad, subordinación mal formada, relativos, complementación.
+
+Puntuación: comas que rompen la estructura, ausencia de puntos, etc.
+
+Regla cuantitativa recomendada (normalizada):
+
+Calcula errores por 100 palabras (EP100).
+
+Distingue minor / major / critical (p. ej., "typo" vs "caso equivocado" vs "verbo que rompe el sentido").
+
+Convierte EP100 a banda:
+
+Banda	Condición (orientativa)
+9–10	EP100 ≤ 1 minor y 0 major/critical
+7–8	EP100 ≤ 3 minor y ≤1 major ocasional
+5–6	EP100 4–6 (mezcla) y algunos major
+3–4	EP100 > 6 o major frecuentes
+0–2	errores muy numerosos + comprensión afectada
+
+Y para contar errores, apóyate en herramientas existentes (Xuxen/Hobelex) cuando puedas.
+
+7) Plantilla de prompt para que una IA puntúe "como rúbrica" (y no a ojo)
+
+Puedes usar algo así (lo dejo en texto, para copiar/pegar):
+
+Entrada a la IA:
+
+Enunciado de la tarea (en euskera o bilingüe)
+
+Tipo de texto esperado (argumentazioa / iritzia / narrazioa / gutuna…)
+
+Longitud esperada (min–max)
+
+Texto del alumno
+
+Rúbrica (la de arriba)
+
+Instrucciones de salida:
+
+Devuelve puntuación por criterio (0–10) + nota final (ponderación 25% cada uno).
+
+Para cada criterio:
+
+2 fortalezas ("zer egin du ondo")
+
+2 mejoras concretas ("zer hobetu")
+
+evidencia: cita fragmentos cortos (1–2 frases) para justificar
+
+Devuelve un listado de errores con:
+
+categoría (ortografia / kasuak / aditza / puntuazioa / kohesioa…)
+
+forma detectada → propuesta correcta
+
+gravedad (minor/major)
+
+Regla anti‑alucinación: "Si no estás seguro de una corrección morfológica, marca como 'dudoso' en vez de inventar."
+
+8) Recomendación práctica para que esto funcione de verdad en 3º–4º ESO
+
+Si quieres que "mida al milímetro", necesitas calibración:
+
+Coge 10–20 redacciones reales (anónimas).
+
+Puntúalas tú con esta rúbrica.
+
+Haz que la IA puntúe con la misma.
+
+Ajusta: umbrales, caps, penalizaciones por EP100, y qué consideras "major/minor".
+
+Esto es exactamente el espíritu de los sistemas de scoring automático: no es solo el criterio, es el ajuste de pesos y señales al tipo de tarea/prompt.
+
+Si quieres, en el siguiente paso te lo dejo todavía más "de ingeniería"
+
+Puedo transformarte todo lo anterior en:
+
+una rúbrica en JSON (criterios → subcriterios → reglas → umbrales), o
+
+una tabla final (tipo Excel) con IDs de error (TB‑1, OK‑3, LH‑2…) + severidad + penalización, lista para alimentar a una IA o a un sistema híbrido (LLM + Xuxen).

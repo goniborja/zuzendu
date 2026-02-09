@@ -1,0 +1,21 @@
+ARAUA_ID	KATEGORIA	ARAUA	ADIBIDE_GAIZKI	ADIBIDE_ONDO	LARRITASUNA	OHARRA
+PUN-01	KOMA	Lotura-hitz ondoren koma jarri	*Hala ere gaur ez dut	Hala ere, gaur ez dut	Minor	Lotura-hitz hauek koma behar dute ondoren: hala ere, gainera, bestalde, beraz, horregatik, hortaz, aitzitik, alabaina, nolanahi ere
+PUN-02	KOMA	Subjektu eta aditz artean EZ da koma jartzen	*Nire lagunak, etorri dira	Nire lagunak etorri dira	Minor	Gaztelaniako ohitura kalkatzea: ez koma subjektu-aditz artean
+PUN-03	KOMA	Mendeko perpausa nagusiaren aurretik badago, koma	*Etxera iritsi nintzenean afaldu nuen	Etxera iritsi nintzenean, afaldu nuen	Minor	Mendekoa aurretik → koma. Mendekoa atzetik → koma aukerakoa
+PUN-04	KOMA	Esandako perpausen aurretik koma	*Aitorrek esan zuen "bihar joango naiz"	Aitorrek esan zuen, "bihar joango naiz"	Minor	Ahotsaren aurkezpena markatzeko
+PUN-05	KOMA	Bokatiboa koma artean	*Ander etor zaitez	Ander, etor zaitez	Minor	Deitzailea beti koma artean
+PUN-06	KOMA	Enumerazioan: koma elementuen artean, "eta" azkenaren aurretik	*Liburua arkatza eta koadernoa	Liburua, arkatza eta koadernoa	Minor	Oxford koma EZ da erabiltzen euskaraz normalean
+PUN-07	PUNTUA	Esaldi bukaera beti puntuz	*Gaur eguzkia atera da eta oso pozik gaude bihar mendira joango gara	Gaur eguzkia atera da eta oso pozik gaude. Bihar mendira joango gara.	Major	Run-on esaldiak oso ohikoak DBH-n
+PUN-08	PUNTUA	Laburduren ondoren puntua	*adib	adib.	Minor	Laburdurak: adib., adb., etab., hau da (h.d.)
+PUN-09	PUNTU_KOMA	Esaldi independente lotuen artean, lotura-hitzik gabe	*Euria egiten du gure planak aldatu behar ditugu	Euria egiten du; gure planak aldatu behar ditugu.	Minor	Batzuetan puntua ere erabil daiteke
+PUN-10	BI_PUNTU	Zerrendaren aurretik	*Hiru gauza behar ditut liburua arkatza eta goma	Hiru gauza behar ditut: liburua, arkatza eta goma	Minor	Bi puntu zerrenda aurkezten dutenean
+PUN-11	BI_PUNTU	Azalpenaren aurretik	*Argi zegoen berak egin zuela	Argi zegoen: berak egin zuela	Minor	Aukerakoa batzuetan
+PUN-12	KOMATXOAK	Aipamen zuzenetan	*Jonek esan zuen bihar joango naiz	Jonek esan zuen: "bihar joango naiz"	Minor	Komatxo bikoitzak (" ") edo laukoak (« ») erabiltzea
+PUN-13	KOMATXOAK	Ironia edo zentzu berezian	ondo bizi da bere "lanean"	"Lanean" komatxo artean zentzua aldatzeko	Minor	
+PUN-14	MARRATXOA	Hitz-elkarketa	*etxe barruko	etxe-barruko	Minor	Bi hitz elkartzen direnean marratxoarekin
+PUN-15	MARRATXOA	Elkarrizketan hizlari aldaketa	—Bihar joango naiz. —Ondo da.	—Bihar joango naiz.\n—Ondo da.	Minor	Marra luzea (—) elkarrizketetan
+PUN-16	PARENTESIAK	Argibide osagarriak	Bilbon (Bizkaia) jaio zen	Bilbon (Bizkaia) jaio zen	Minor	Parentesi artean argibide gehigarria
+PUN-17	HARRIDURAK_GALDERAK	Euskaraz bakarrik bukaeran	*¿Nora zoaz?	Nora zoaz?	Minor	Ez da irekiera ikurra erabiltzen euskaraz
+PUN-18	KOMA	Baina, zeren perpausak aurretik koma	*Joango nintzateke baina ezin dut	Joango nintzateke, baina ezin dut	Minor	"Baina", "zeren", "nahiz eta" aurretik koma
+PUN-19	EZ_KOMA	Completiboa (-la/-enik) aurretik EZ koma	*Esan zuen, etorriko zela	Esan zuen etorriko zela	Minor	Gaztelaniako "dijo, que vendría" kalkoa
+PUN-20	EZ_KOMA	Erlatiboa aurretik EZ koma	*Gizona, ikusi nuena	Ikusi nuen gizona	Minor	Eta gainera ordena aldatu behar da

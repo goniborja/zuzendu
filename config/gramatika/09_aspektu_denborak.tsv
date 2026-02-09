@@ -1,0 +1,15 @@
+ASPEKTUA	ATZIZKIA	ERABILERA	ADIBIDEA	AKATS_OHIKOA	AZALPENA
+BURUTUA	-tu/-du/-i	Ekintza amaitua, iragana	Liburua irakurri dut	*Liburua irakurritzen dut	Lehenaldirako: partizipioa + laguntzailea lehenaldian
+BURUTUGABEA	-tzen/-ten	Ekintza ohikoa, jarraian, orainaldia	Liburua irakurtzen dut	*Liburua irakurri dut (ohikotasuna adierazteko)	Ohitura, ekintza errepikatua, orainaldia
+GEROA	-ko/-go	Geroko ekintza, asmoa	Liburua irakurriko dut	*Liburua irakurtzen dut bihar	Bihar/gero + aspektu burutugabea → OKERRA
+GEROALDIA_aditz_izan	izango + laguntzailea	Etorkizuna (izan)	Pozik izango naiz	*Pozik naiz bihar	Geroaldirako: izango + laguntzailea
+GEROALDIA_aditz_ukan	izango/-(k)o + laguntzailea	Etorkizuna (ukan)	Egingo dut / Izango dut	*Egiten dut bihar	
+ASPEKTU_JARRAIAN	-tzen + ari	Ekintza momentu honetan gertatzen	Lanean ari naiz	*Lanean egiten dut (orain momentu honetan)	Oraingo unean ari denari
+ASPEKTU_PUNTUALA	-tu/-i berri	Duela gutxi amaitua	Iritsi berri naiz	*Orain iritsi naiz	"Berri" + partizipioa = just now
+ASPEKTU_OHIKOA_IRAG	-tzen + lehenaldiko laguntzailea	Iraganian ohikoa zena	Egunero joaten nintzen	*Egunero joan nintzen	"Soler" → -tzen + lehenaldia
+ASPEKTU_PUNTUALA_IRAG	partizipioa + lehenaldiko laguntzailea	Iraganian behin gertatu zena	Atzo joan nintzen	*Atzo joaten nintzen (behin bakarrik)	Behin gertatutakoa → partizipioa + lehenaldia
+SUBJUNTIBOA	-te/-tza/-la	Mendeko perpausetan	Esan dit etor nadila	*Esan dit etor naizela	Agindu/eskatu/nahi + subjuntiboa
+BALDINTZA	ba- + lehenaldia	Baldintza	Jakingo banu, esango nizuke	*Jakingo badut, esango dizut	Ba- + lehenaldia = baldintza irreala
+BALDINTZA_ERREALA	ba- + orainaldia	Baldintza erreala	Badakizu, esan	*Jakingo baduzu	Ba- + orainaldia = baldintza erreala
+AHALERA	-tu/-i + ahal + izan/ukan	Ahalmena, posibilitatea	Ikusi ahal dut	*Ikusi posible dut	"Poder" = ahal izan / ahal ukan
+AGINTE_ALDIA	aditz-erroa zuzenean	Agintera	Etor zaitez! / Egin ezazu!	*Etorri zaitez!	Agintera: aditz-erroa, ez partizipioa (batzuetan bai)

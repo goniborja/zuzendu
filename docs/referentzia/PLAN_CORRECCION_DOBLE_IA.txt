@@ -1,0 +1,301 @@
+================================================================================
+SISTEMA DE CORRECCION AUTOMATICA - EUSKERA ETA LITERATURA
+PLAN DE IMPLEMENTACION - DOBLE VERIFICACION IA
+================================================================================
+Fecha: 08/02/2026
+Preparado para: Sesion de trabajo 09/02/2026
+
+================================================================================
+1. PROBLEMA IDENTIFICADO
+================================================================================
+
+- Los resultados de deteccion de IA varian entre ejecuciones
+- Una sola API puede dar falsos positivos o negativos
+- Las notas pueden ser inconsistentes sin criterios objetivos
+- Falta una rubrica cuantificable y transparente
+
+================================================================================
+2. SOLUCION PROPUESTA: DOBLE VERIFICACION
+================================================================================
+
+ARQUITECTURA:
+
+    [Trabajo del alumno]
+            |
+            v
+    +------------------+
+    |   FASE 1: IA     |
+    |   Deteccion      |
+    +------------------+
+            |
+     +------+------+
+     |             |
+     v             v
+  [Claude]     [OpenAI]
+     |             |
+     +------+------+
+            |
+            v
+    +------------------+
+    |  Comparador IA   |
+    |  (media/consenso)|
+    +------------------+
+            |
+    Si IA > 40% -----> STOP (nota 0 + justificacion)
+            |
+    Si IA <= 40%
+            |
+            v
+    +------------------+
+    |   FASE 2:        |
+    |   Correccion     |
+    +------------------+
+            |
+     +------+------+
+     |             |
+     v             v
+  [Claude]     [OpenAI]
+     |             |
+     +------+------+
+            |
+            v
+    +------------------+
+    |  Comparador      |
+    |  Notas/Errores   |
+    +------------------+
+            |
+            v
+    [Nota final + Feedback]
+
+
+================================================================================
+3. RUBRICAS PENDIENTES DE DISENAR (TAREA DEL PROFESOR)
+================================================================================
+
+El profesor debe crear rubricas para cada criterio con:
+- Puntuacion maxima del criterio
+- Penalizacion por error
+- PENALIZACION MAXIMA (tope) por categoria
+
+PLANTILLA SUGERIDA:
+
+----------------------------------------------------------------------
+CRITERIO 1: ZUZENTASUN LINGUISTIKOA (40% = 4 puntos max)
+----------------------------------------------------------------------
+
+  A) Aditz jokaera (conjugacion verbal)
+     - Peso: 1.5 puntos
+     - Penalizacion por error: -0.3 puntos
+     - Penalizacion MAXIMA: -1.5 puntos (aunque haya mas errores)
+
+  B) Kasu markak (casos: ergatiboa, datiboa, etc.)
+     - Peso: 1.0 puntos
+     - Penalizacion por error: -0.25 puntos
+     - Penalizacion MAXIMA: -1.0 puntos
+
+  C) Komunztadura (concordancia)
+     - Peso: 0.75 puntos
+     - Penalizacion por error: -0.25 puntos
+     - Penalizacion MAXIMA: -0.75 puntos
+
+  D) Ortografia eta azentuazioa
+     - Peso: 0.75 puntos
+     - Penalizacion por error: -0.1 puntos
+     - Penalizacion MAXIMA: -0.75 puntos
+
+----------------------------------------------------------------------
+CRITERIO 2: EDUKIA ETA KOHERENTZIA (30% = 3 puntos max)
+----------------------------------------------------------------------
+
+  A) Ideia nagusien garapena
+     - Peso: 1.5 puntos
+     - 1.5 = Oso ona | 1.0 = Ona | 0.5 = Nahikoa | 0 = Eskasa
+
+  B) Paragrafo arteko lotura
+     - Peso: 0.75 puntos
+     - Evaluacion: Si/Ez/Partzialki
+
+  C) Testuaren egitura
+     - Peso: 0.75 puntos
+     - Evaluacion: Egokia/Nahasia/Gabezia
+
+----------------------------------------------------------------------
+CRITERIO 3: HIZTEGIA ETA ADIERAZPENA (20% = 2 puntos max)
+----------------------------------------------------------------------
+
+  A) Hitz aberastasuna (riqueza vocabulario)
+     - Peso: 1.0 punto
+     - Maila: Aberatsa (1.0) | Egokia (0.7) | Mugatua (0.4) | Pobrea (0)
+
+  B) Esamolde egokiak
+     - Peso: 0.5 puntos
+
+  C) Erregistro egokia
+     - Peso: 0.5 puntos
+
+----------------------------------------------------------------------
+CRITERIO 4: ORIGINALTASUNA ETA AHALEGINA (10% = 1 punto max)
+----------------------------------------------------------------------
+
+  A) Ikuspuntu pertsonala
+     - Peso: 0.5 puntos
+
+  B) Sormena
+     - Peso: 0.5 puntos
+
+
+================================================================================
+4. PROMPT PARA DETECCION DE IA (BORRADOR)
+================================================================================
+
+"""
+Zu euskara eta literaturako irakasle aditua zara, C2/HABE4 mailakoa.
+Aztertu behar duzu DBH 3-4 mailako ikasle batek (14-16 urte, B1 maila MCERL)
+idatzitako testua Adimen Artifizialak sortua den ala ez.
+
+IA ADIERAZLEAK (susmagarriak):
+1. Koherentzia perfektua - B1 mailako ikasleek akats naturalak egiten dituzte
+2. Hiztegi aurreratuegia (C1-C2 mailakoa) - ikasle honek ez luke jakin behar
+3. Akats gramatikal tipikoen GABEZIA osoa - ez da errealistikoa
+4. Egitura sintaktiko oso erregularrak eta formalak
+5. Kasu marken erabilera perfektua (ergatiboa, datiboa...) - oso susmagarria
+6. Aditz laguntzaileen (izan, ukan, egon) jokera perfektua
+
+GARRANTZITSUA:
+- Soilik markatu IA = true probabilitatea %70 baino handiagoa bada
+- Ikasle on batek ondo idatzi dezake, ez penalizatu lan ona
+- Bilatu PATROI ARTIFIZIALAK, ez kalitatea soilik
+
+JSON formatuan erantzun:
+{
+    "ia_probabilitatea": 0-100,
+    "ia_detektatua": true/false,
+    "adierazle_susmagarriak": [
+        {"mota": "tipo", "adibidea": "fragmento del texto", "zergatia": "explicacion"}
+    ],
+    "justifikazioa": "explicacion detallada en euskera de por que si o no es IA"
+}
+"""
+
+
+================================================================================
+5. PROMPT PARA CORRECCION (BORRADOR)
+================================================================================
+
+"""
+Zu euskara eta literaturako irakasle aditua zara, C2/HABE4 mailakoa.
+Zuzendu behar duzu DBH {nivel} mailako ikasle baten lana.
+
+EBALUAZIO IRIZPIDEAK ETA PONDERAZIOA:
+
+1. ZUZENTASUN LINGUISTIKOA (4 puntu, %40):
+   - Aditz jokaera: max -1.5 puntu
+   - Kasu markak: max -1.0 puntu
+   - Komunztadura: max -0.75 puntu
+   - Ortografia: max -0.75 puntu
+
+2. EDUKIA ETA KOHERENTZIA (3 puntu, %30):
+   - Ideia nagusiak: 0-1.5 puntu
+   - Paragrafoen lotura: 0-0.75 puntu
+   - Egitura: 0-0.75 puntu
+
+3. HIZTEGIA (2 puntu, %20):
+   - Aberastasuna: 0-1 puntu
+   - Esamoldeak: 0-0.5 puntu
+   - Erregistroa: 0-0.5 puntu
+
+4. ORIGINALTASUNA (1 puntu, %10):
+   - Ikuspuntu pertsonala: 0-0.5 puntu
+   - Sormena: 0-0.5 puntu
+
+KONTATU akats bakoitza eta aplikatu penalizazioa, baina EZ gainditu
+kategoria bakoitzaren penalizazio maximoa.
+
+JSON formatuan erantzun:
+{
+    "nota_finala": 0-10,
+    "puntuazio_xehatua": {
+        "zuzentasun_linguistikoa": {"puntu": X, "akats_kop": Y},
+        "edukia_koherentzia": {"puntu": X},
+        "hiztegia": {"puntu": X},
+        "originaltasuna": {"puntu": X}
+    },
+    "akats_zerrenda": [
+        {"mota": "Aditz jokaera", "adibidea": "texto erroneo", "zuzenketa": "correccion"}
+    ],
+    "ohar_orokorra": "comentario pedagogico en euskera, nivel C2, minimo 50 palabras"
+}
+"""
+
+
+================================================================================
+6. LOGICA DE COMPARACION DOBLE IA
+================================================================================
+
+DETECCION IA:
+- Si Claude >= 70% Y OpenAI >= 70% --> IA CONFIRMADA (nota 0)
+- Si Claude >= 70% Y OpenAI < 40% --> REVISION MANUAL NECESARIA
+- Si ambos < 40% --> Continuar a correccion
+- Si discrepancia > 30% --> Usar tercera opinion o revision manual
+
+CORRECCION:
+- Calcular media de notas de ambas APIs
+- Si diferencia > 2 puntos --> Revisar manualmente
+- Combinar errores detectados por ambas (sin duplicar)
+- Usar el comentario mas completo o combinar
+
+
+================================================================================
+7. REQUISITOS TECNICOS
+================================================================================
+
+APIs necesarias:
+- Claude API: sk-ant-api03-... (ya configurada)
+- OpenAI API: sk-... (PENDIENTE - el usuario debe proporcionar)
+
+Librerias Python:
+- anthropic (ya instalada)
+- openai (pip install openai)
+- python-docx (ya instalada)
+- openpyxl (ya instalada)
+
+Archivos a crear:
+- D:\correccion_doble_ia.py (script principal)
+- D:\rubricas.json (rubricas del profesor en formato JSON)
+- D:\prompts.json (prompts para las APIs)
+
+
+================================================================================
+8. TAREAS PARA MANANA
+================================================================================
+
+PROFESOR:
+[ ] Disenar rubricas detalladas con ponderaciones
+[ ] Definir penalizacion maxima por categoria
+[ ] Proporcionar API key de OpenAI
+[ ] Revisar y ajustar prompts de deteccion IA y correccion
+
+CLAUDE CODE:
+[ ] Implementar script con doble llamada (Claude + OpenAI)
+[ ] Crear sistema de comparacion de resultados
+[ ] Implementar logica de consenso/media
+[ ] Generar Excel con resultados de ambas APIs + resultado final
+[ ] Anadir columna de "confianza" o "discrepancia" entre APIs
+
+
+================================================================================
+9. EJEMPLO DE OUTPUT EXCEL MEJORADO
+================================================================================
+
+Columnas propuestas:
+
+| Ikaslea | Taldea | Aktibitatea |
+| Claude IA% | OpenAI IA% | IA Finala |
+| Claude Nota | OpenAI Nota | Nota Finala |
+| Diskrepantzia | Konfiantza |
+| Akatsak | Oharrak |
+
+
+================================================================================
+FIN DEL DOCUMENTO
+================================================================================
