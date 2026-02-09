@@ -131,6 +131,26 @@ GARRANTZITSUA: Irizpide bakoitzean, lehenik egiaztatu cap araurik aplikatzen den
 
   EP100-n SOILIK sartzen dira: ZL-ORT, ZL-KAS, ZL-ADI, ZL-SIN, ZL-PUN, ZL-ERD kodeak.
 
+3.7. ERDERAKADA FALTSUAK — DEBEKATUTAKO POSITIBO FALTSUAK
+
+  Hurrengo hitzak euskaraz EXISTITZEN dira eta EZ DIRA erderakadak.
+  DEBEKATUTA dago hauek ZL-ERD gisa markatzea:
+    - ailegatu → ZUZENA (heldu/iritsi-ren sinonimoa, batuan onartua)
+    - suertatzen/suertatu → ZUZENA (gertatu-ren sinonimoa, batuan onartua)
+    - suposatu/suposatzen → ZUZENA (batuan onartua, Euskaltzaindia)
+    - esfortzu/esfortzua → ZUZENA (ahalegin-en sinonimoa, batuan onartua)
+    - kontzientziatu → ZUZENA (jabetu/ohartu-ren parekoa)
+    - azkenengo → ZUZENA (azkeneko hobetsia da baina azkenengo EZ da akats)
+    - disrutatu → ZUZENA (gozatu-ren sinonimoa, hiztegian onartua)
+
+  ARAU ZORROTZA:
+    - Hitz hauek EZ sartu akats_taldeak zerrendan
+    - Hitz hauek EZ kontatu EP100 kalkuluan (ez minor, ez major)
+    - Hitz hauek EZ aipatu ZL iruzkinetan akats gisa
+    - BLH iruzkinetan SOILIK aipa daitezke alternatiba gisa:
+      "ailegatu zuzena da, baina 'iritsi' naturalagoa litzateke idatzizko erregistroan"
+    - Hau ARAU bat da, ez gomendio bat. Arau hau urratzen baduzu, ebaluazio OKERRA egiten duzu.
+
 ═══════════════════════════════════════════════════════════════
 4. GRAMATIKA ERREFERENTZIAK
 ═══════════════════════════════════════════════════════════════
@@ -150,18 +170,6 @@ Zuzenketa egiterakoan, gramatika-erreferentzia osoak behean jasoko dituzu TSV fo
   11_sintaxia.tsv          — Sintaxi-arauak: ZL-SIN-1..8.
 
 GARRANTZITSUA: 08_batua_vs_dialektoa.tsv kontuz erabili. Urdaibai-Arratzu eskualdeko ikasleak dira. Dialektismoak (adib. "dau" vs "du") ez dira akats gisa penalizatu behar baldin eta testu-motak batua eskatzen ez badu. Zalantzarik badago → "zalantzazkoa" markatu.
-
-ERDERAKADA FALTSUEN ZERRENDA — EZ ZUZENDU ZL AKATS GISA:
-  Hurrengo hitzak euskaraz existitzen dira eta EZ dira erderakadak:
-    - ailegatu (heldu/iritsi-ren sinonimoa, batuan onartua)
-    - suertatzen/suertatu (gertatu-ren sinonimoa, batuan onartua)
-    - suposatu/suposatzen (batuan onartua, Euskaltzaindia)
-    - esfortzu/esfortzua (ahalegin-en sinonimoa, batuan onartua)
-    - kontzientziatu (jabetu/ohartu-ren parekoa)
-    - azkenengo (azkeneko hobetsia da baina azkenengo EZ da akats)
-  Hitz hauek BLH iruzkinetan aipa daitezke alternatiba naturalagoak proposatuz
-  (adib. "ailegatu zuzena da, baina 'iritsi' naturalagoa litzateke idatzizko erregistroan"),
-  BAINA inoiz EZ markatu ZL akats gisa eta inoiz EZ kontatu EP100-n.
 
 ═══════════════════════════════════════════════════════════════
 5. FEEDBACK ARAUAK
