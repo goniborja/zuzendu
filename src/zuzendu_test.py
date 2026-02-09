@@ -178,22 +178,22 @@ def validate_json(data: dict) -> list[str]:
 
 # ── Emaitzak gorde ────────────────────────────────────────────────────────
 
-def save_json(data: dict, kodea: str) -> Path:
-    """JSON emaitza gorde data/emaitzak/ karpetan."""
+def save_json(data: dict, izena: str) -> Path:
+    """JSON emaitza gorde data/emaitzak/ karpetan. izena = sarrerako fitxategiaren stem."""
     output_dir = ROOT / "data" / "emaitzak"
     output_dir.mkdir(parents=True, exist_ok=True)
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    path = output_dir / f"{kodea}_{ts}.json"
+    path = output_dir / f"{izena}_{ts}.json"
     path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     return path
 
 
-def save_raw(text: str, kodea: str) -> Path:
+def save_raw(text: str, izena: str) -> Path:
     """Raw erantzuna gorde debug-erako."""
     output_dir = ROOT / "data" / "emaitzak"
     output_dir.mkdir(parents=True, exist_ok=True)
     ts = datetime.now().strftime("%Y%m%d_%H%M%S")
-    path = output_dir / f"{kodea}_{ts}_raw.txt"
+    path = output_dir / f"{izena}_{ts}_raw.txt"
     path.write_text(text, encoding="utf-8")
     return path
 
@@ -314,6 +314,12 @@ def main():
     hitz_kopurua = len(testua.split())
     console.print(f"[dim]Testua kargatuta: {hitz_kopurua} hitz[/]")
 
+    # Output izena: sarrerako fitxategiaren stem-etik (--kodea JSON barruan bakarrik)
+    if args.testua:
+        output_izena = Path(args.testua).stem
+    else:
+        output_izena = args.kodea
+
     # 2. Konfigurazioa kargatu
     sistema_prompt, errubrika, gramatika = load_config()
     console.print(f"[dim]Konfigurazioa: errubrika + {len(gramatika)} gramatika TSV[/]")
@@ -350,7 +356,7 @@ def main():
     try:
         result = extract_json(response_text)
     except (json.JSONDecodeError, ValueError) as e:
-        raw_path = save_raw(response_text, args.kodea)
+        raw_path = save_raw(response_text, output_izena)
         console.print(f"[red]ERROREA:[/] JSON parseatzean huts egin du: {e}")
         console.print(f"[dim]Raw erantzuna gordeta: {raw_path}[/]")
         sys.exit(1)
@@ -376,7 +382,7 @@ def main():
         )
 
     # 7. Emaitza gorde
-    output_path = save_json(result, args.kodea)
+    output_path = save_json(result, output_izena)
     console.print(f"[green]Emaitza gordeta:[/] {output_path}")
 
     # 8. Laburpena pantailaratu

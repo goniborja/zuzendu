@@ -5,7 +5,7 @@ Modeloak akatsak identifikatzen ditu; Python-ek EP100 birkalkulatzen du
 eta ZL nota EP100 bandarekin koherentea den egiaztatzen du.
 """
 
-import math
+from decimal import Decimal, ROUND_HALF_DOWN, ROUND_HALF_UP
 
 # Larritasun-pisuak
 PISUAK = {"minor": 1, "major": 2, "critical": 3}
@@ -127,14 +127,29 @@ def lortu_ep100_banda(ep100_pisuduna: float) -> dict:
         return {"banda": "hasiberria", "zl_hasiera": 1, "zl_tartea": (1, 2)}
 
 
-def doitu_zl_nota(modelo_zl: int, ep100_pisuduna: float) -> dict:
+def lortu_ep100_fidagarria(ep100_gordina: float, ep100_pisuduna: float) -> float:
+    """
+    EP100 fidagarriena aukeratu: ratio gordina/pisuduna > 3 bada,
+    errepikapen arauak gehiegi murriztu du eta gordina hobea da.
+    """
+    if ep100_pisuduna == 0:
+        return ep100_gordina
+    ratio = ep100_gordina / ep100_pisuduna
+    if ratio > 3:
+        return ep100_gordina
+    return ep100_pisuduna
+
+
+def doitu_zl_nota(modelo_zl: int, ep100_gordina: float, ep100_pisuduna: float) -> dict:
     """
     Modeloaren ZL nota EP100 bandarekin koherentea den egiaztatu.
+    EP100 fidagarriena aukeratzen du (gordina vs pisuduna).
     ZL nota banda barrutian egon BEHAR da. Kanpo badago, GEHIENEZ ±1 doitu:
       - Baxuegi → max +1 igo
       - Altuegi → max -1 jaitsi
     """
-    banda = lortu_ep100_banda(ep100_pisuduna)
+    ep100 = lortu_ep100_fidagarria(ep100_gordina, ep100_pisuduna)
+    banda = lortu_ep100_banda(ep100)
     zl_min, zl_max = banda["zl_tartea"]
 
     if modelo_zl < zl_min:
@@ -142,9 +157,10 @@ def doitu_zl_nota(modelo_zl: int, ep100_pisuduna: float) -> dict:
         return {
             "zl_nota": zl_berria,
             "doitua": True,
+            "ep100_erabilia": ep100,
             "arrazoia": (
                 f"DOITUA: Modeloaren ZL={modelo_zl} baxuegi da "
-                f"EP100={ep100_pisuduna} ({banda['banda']}, tartea {zl_min}-{zl_max}). "
+                f"EP100={ep100} ({banda['banda']}, tartea {zl_min}-{zl_max}). "
                 f"ZL={zl_berria} ezarri da (+1 max)."
             ),
         }
@@ -153,9 +169,10 @@ def doitu_zl_nota(modelo_zl: int, ep100_pisuduna: float) -> dict:
         return {
             "zl_nota": zl_berria,
             "doitua": True,
+            "ep100_erabilia": ep100,
             "arrazoia": (
                 f"DOITUA: Modeloaren ZL={modelo_zl} altuegi da "
-                f"EP100={ep100_pisuduna} ({banda['banda']}, tartea {zl_min}-{zl_max}). "
+                f"EP100={ep100} ({banda['banda']}, tartea {zl_min}-{zl_max}). "
                 f"ZL={zl_berria} ezarri da (-1 max)."
             ),
         }
@@ -163,16 +180,21 @@ def doitu_zl_nota(modelo_zl: int, ep100_pisuduna: float) -> dict:
         return {
             "zl_nota": modelo_zl,
             "doitua": False,
+            "ep100_erabilia": ep100,
             "arrazoia": (
-                f"Modeloaren ZL={modelo_zl} koherentea EP100={ep100_pisuduna} "
+                f"Modeloaren ZL={modelo_zl} koherentea EP100={ep100} "
                 f"({banda['banda']}, tartea {zl_min}-{zl_max})"
             ),
         }
 
 
-def biribildu_nota(batez_bestekoa: float) -> float:
-    """0.5era behera biribildu: 6.25->6.0, 6.50->6.5, 6.75->7.0."""
-    return math.floor(batez_bestekoa * 2) / 2
+def biribildu(x: float) -> int:
+    """5 azpitik: .5 beherantz. 5 eta gorantz: .5 gorantz."""
+    d = Decimal(str(x))
+    if x < 5:
+        return int(d.quantize(Decimal('1'), rounding=ROUND_HALF_DOWN))
+    else:
+        return int(d.quantize(Decimal('1'), rounding=ROUND_HALF_UP))
 
 
 def post_prozesatu(emaitza: dict) -> dict:
@@ -216,7 +238,7 @@ def post_prozesatu(emaitza: dict) -> dict:
 
     # 4. ZL nota doitu behar bada
     modelo_zl = emaitza["ebaluazioa"]["zuzentasun_linguistikoa"]["nota"]
-    zl_emaitza = doitu_zl_nota(modelo_zl, ep100_pisuduna)
+    zl_emaitza = doitu_zl_nota(modelo_zl, ep100_gordina, ep100_pisuduna)
 
     emaitza["ebaluazioa"]["zuzentasun_linguistikoa"]["zl_modelo"] = modelo_zl
     if zl_emaitza["doitua"]:
@@ -230,7 +252,7 @@ def post_prozesatu(emaitza: dict) -> dict:
     zl = emaitza["ebaluazioa"]["zuzentasun_linguistikoa"]["nota"]
 
     batez_bestekoa = (ab + ak + blh + zl) / 4
-    biribiltzea = biribildu_nota(batez_bestekoa)
+    biribiltzea = biribildu(batez_bestekoa)
 
     lab = emaitza.get("laburpena", {})
     lab["batez_bestekoa_modelo"] = lab.get("batez_bestekoa")
