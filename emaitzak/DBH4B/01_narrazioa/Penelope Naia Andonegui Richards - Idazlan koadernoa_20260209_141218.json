@@ -1,0 +1,226 @@
+{
+  "kodea": "PENELOPE",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura perfektua duzu: hasiera argia (aurkezpena), korapiloa (lehiaketa eta adiskidetasunaren galera), amaiera emozionala (barkamena eta aitorpena). Egitura hau oso ondo kontrolatuta daukazu!",
+          "Pertsonaien garapena bikaina da: Solek irabazten du baina badaki Jon barik dena ez dela berdina. Dialogo naturalak, sentimendu errealistak, tentsioa uneoro presente. Hau da narraziorik onena!"
+        ],
+        "hobetzekoak": [
+          "Denbora-jauzi batzuk pixka bat nahasgarriak dira irakurlearentzat. Adibidez, 'bost urte eta gero' → 'Bost urteren buruan' edo 'Bost urte igaro dira'. Denborazkoak hobeto markatzeak istorioa argiago egingo luke.",
+          "Deskribapen sentsorial gehiago eman zenezake une klabetan: nola entzuten den pianoa, zer koloretako argia duen gela, nola sentitzen diren pertsonaiak... Horrek istorioa biziago egingo luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu deskribapen sentsorial bat gehitzen une emozional bakoitzean: hotsa, usaina, kolorea, sentipena... Hori eginda, irakurlea BENETAN istorioan sartuko da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da: atal bakoitzak une bat edo ideia bat garatzen du. Hasieran aurkezpena, gero flashback-a, ondoren gaur egunera itzulera... Narrazioaren egitura kronologikoa ondo kontrolatzen duzu!",
+          "Lotura-hitz desberdinak erabiltzen dituzu: 'baina', 'hala ere', 'orain', 'gero', 'bat batean'... Horrek diskurtsoa fluidoago egiten du eta oso ongi dago!"
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso luze dira (adibidez, bigarrena 10 lerro baino gehiago). Zatitu paragrafo luzeak bi zatitan ideia aldatzean: Joneri buruz kontatzen duzu, eta gero lehiaketa. Bi atal bereizi, mesedez!",
+          "Noizean behin salto bat dago erreferentzian: 'Eta bihar nire aurkaria ikusiko dut bost urte eta gero, Jon.' → Bi esaldi hauek lotuta daude, baina irakurleak txikitxo pausatu behar du ulertzeko. 'Bihar nire aurkaria ikusiko dut: Jon. Bost urte igaro dira elkar ikusi genuenetik.' Horrela argiago!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bat 6-8 lerro baino luzeagoa denean zatitzen. Ideia berri bat heltzen denean, lerro berri bat. Hori eginda, irakurleak errazago jarraituko dizu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso aberatsa da narrazio baterako: 'ikaratu nintzen', 'haserre', 'probalitatea', 'profesionala', 'antolatzaileak'... DBH4 mailako testuan oso ondo dago hau!",
+          "Dialogo naturalak idazten dituzu: 'Begira, ez gara izan behar lagunek baina gutxienez profesionalak izaten saiatu ahal gara?' Hau BENETAN naturalki entzuten da. Zorionak!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen batzuk daude: 'jokatuko genuela / jotzen genuen / jotzea / jo dezagun...' Aditz bera askotan errepikatzen da. Erabili sinonimoak batzuetan: 'interpretatzen', 'musika egiten', 'kontzertu eman'...",
+          "Egitura sintaktikoak gehienbat sinpleak dira. Animatu zaitez egitura konplexuagoak sartzen: erlatibozkoak ('ikusi nuen pianista'), baldintzazkoak ('irabazi banu'), kontzesiboak ('nahiz eta haserre egon')... Badituzu batzuk, baina gehiago sar zenezake!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi hitz errepikatu bat 5 aldiz baino gehiagotan agertzen den. Aurkitu eta 2-3 aldiz sinonimoarekin ordezkatu. Hori eginda, hiztegia askoz aberatsagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistemaren kontrola ona da: 'hasi ginen', 'genuen', 'irabazi nuen', 'aukeratu ninduten'... NOR-NORK eta NOR-NORI-NORK ondo erabiltzen dituzu gehienetan. Hau da zuzentasunaren oinarria!",
+          "Ortografia oso ona da orokorrean. Hitz-banaketa, letra larriak... oso gutxi akats. Hau garrantzitsua da eta oso ondo zaintzen duzu!"
+        ],
+        "hobetzekoak": [
+          "ERGATIBOA (-k): 12 aldiz ahaztu zaizu. Hau da akatsik larriena eta ohikoena. Aditz iragankorra denean (NOR-NORK), subjektuak -K behar du. Adibidea: 'Jonek partiturak hartu' → 'JoneK partiturak hartu DITU'. Kontuz honekin!",
+          "Aditz-komunztadura pluralean: 'beste norbait aukeratuko dugu' (ondo), baina 'kontzertuek jo dutez' → 'kontzertuak jo ditut' (plurala errespetatu behar da). Subjektua plurala bada, aditza ere plurala."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? (nork + zer egin?). Baietz bada, subjektuari -K jarri. Errepaso sinple horrekin ergatiboaren akatsa desagertuko da. Badaukazu maila hori harrapatzeko!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "Modeloaren ZL=5 koherentea EP100=9.35 (tartekoa, tartea 5-6)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.75,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Narrazione polita idatzi duzu, emozioz betea eta egitura ondo landuarekin! Istorioak koherentzia du eta irakurlea kapturatzen du hasieratik. Hobetzeko alderdiak ZL-n daude batez ere: ergatiboaren erabilera landu behar da eta aditz-komunztadura zaindu. Baina maila bikaina duzu eta potentzial handia. Jarraitu honela!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna eta bakarra konpontzen baduzu, ZL 7ra igoko zaizu zuzenean!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 12,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "baina arau bat zen",
+        "zuzenketa": "baina arau bat ZEN (ondo — izan aditza)",
+        "azalpena": "Aditza NOR-NORK denean (nork + zer egin?), subjektuak -K marka behar du. Adibideak: 'Jon partiturak hartu' → 'JoneK partiturak hartu DITU'; 'lehia handitu zen' → 'lehiaK handitu zen'; 'irakaslea esan zuen' → 'irakasleak esan zuen' (ondo!)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "kontzertuek jo dutez",
+        "zuzenketa": "kontzertuak jo ditut",
+        "azalpena": "Subjektua plurala denean (kontzertuAK), aditzak ere plurala izan behar du. 'Jo dutez' ez da zuzena; 'jo ditut' (nik) edo 'jo ditu' (hark) erabili behar da. Gainera objektua da (kontzertuAK), ez subjektua."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina hazi ginen lehia handitu zen",
+        "zuzenketa": "Baina hazi ginen, lehia handitu zen",
+        "azalpena": "Lotura-hitzen ondoren ('baina', 'hala ere', 'orain', 'gero'...) BETI koma jarri behar da. Hau erraza da konpontzeko: lotura-hitza → koma."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Bat batean nire telefonoak jotzen du eta nire lagun baten mezu bat da.",
+        "zuzenketa": "Bat-batean nire telefonoak jotzen du eta nire lagun baten mezu bat da. (ondo)",
+        "azalpena": "Subjektu eta aditz artean EZ da koma jartzen. Hau gaztelaniako kalkoa da gehienetan. 'Nire telefonoak jotzen du' → EZ koma tartean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa — bat-batean",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Bat batean",
+        "zuzenketa": "Bat-batean",
+        "azalpena": "Hitz elkartua da eta marratxoarekin idatzi behar da: bat-batean. Hau erraza da konpontzeko!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — gerundio okerra",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ari nintzen ibiltzen",
+        "zuzenketa": "ibiltzean nengoen / ibiltzen ari nintzen",
+        "azalpena": "Gerundioaren erabilera gaztelaniakoa da batzuetan. 'Ibiltzen ari nintzen' formala da, baina 'ibiltzean' ere erabil dezakezu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOA)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ikusten egongo ziren",
+        "zuzenketa": "ikusten egongo ziren (ondo — kontestuan)",
+        "azalpena": "Euskaraz ordena SOA da: subjektua + objektua + aditza. Objektua aditzaren aurretik joan behar da. 'Pertsona guztiak ikusten egongo ziren' (ondo). Batzuetan anbiguoa da; kontuz ordena gaztelaniakoarekin!"
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Partitiboa (-rik) falta ezezkoan",
+      "akats_id": "ZL-SIN-8",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ez dut egin lo",
+        "zuzenketa": "ez dut egin loRIK",
+        "azalpena": "Ezezko perpausetan objektuak partitiboa (-rik) behar du. 'Ez dut ikusi' → 'ez dut ikusi RIEN' edo 'ez dut ezer ikusi'. 'Ez dut egin lorik' da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kasu-marka okerra (-an vs -ra)",
+      "akats_id": "ZL-KAS-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "eskolarik handienetara joatea",
+        "zuzenketa": "eskolarik handienetaRA joatea (ondo)",
+        "azalpena": "Norabidea adierazteko -ra erabiltzen da, kokapena adierazteko -an. 'Joatea' → -ra behar du. Hau ondo egin duzu gehienetan!"
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 738,
+    "minor": 21,
+    "major": 24,
+    "critical": 0,
+    "EP100_gordina": 9.35,
+    "EP100_pisuduna": 2.64,
+    "EP100_gordina_modelo": 8.7,
+    "EP100_pisuduna_modelo": 6.9,
+    "minor_modelo": 27,
+    "major_modelo": 18,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua argi eta garbi DBH4ko ikasle batek idatzia da. Akats naturalak ugariak dira testu osoan: 'barik' ('gabe' beharrean), 'jenda' txarto idatzita hainbat tokitan, 'jesartzen' (esertzeko forma okerra), 'jasten' ('janzten'/'jaten' nahasmena), 'eman bez' eta 'egin bez' ('ere' edo 'baizik' behar luketenak), deklinabide akatsak ('unibertsitateren', 'daukat hegaldi'), puntuazio arazoak, eta perpaus egitura nahasteak. Egitura narratiboa nahiko koherentea da baina ez da artifizialki perfektua. Hizkuntza arrunta da DBH ikaslearentzat, testuinguru emozionala naturala da, eta idazkera pertsonaltasuna du. Akats-patroiak ezaugarri naturalak dira euskara ikasle batean. Luzera egokia da (700 hitz inguru). Kontakizun literario bat da, maitasun istorio klasiko batekin, baina idazkera estiloa gaztetxoa eta akatsez beteta dago, beraz, argi dago IA batek ez duela sortu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

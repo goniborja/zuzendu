@@ -1,0 +1,244 @@
+{
+  "kodea": "OIER",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: Perfekzio susmagarria = 0 (akats ugari, ez perfektua)",
+      "S2: Hiztegi-maila ez-naturala = 1 (zenbait hitz konplexu: 'kontziente', 'deseroso', 'estratosfera', baina ez sistematikoa)",
+      "S3: Egitura perfektua = 0 (narrazioa da, baina koherentzia-arazoak ditu)",
+      "S4: Tonu robotikoa = 0 (oso pertsonala, esperientzia narratiboa)",
+      "S5: Luzera susmagarria = 1 (luzea da DBH4rako, baina narrazioa da)",
+      "S6: Akats-patroi naturalen falta = 1 (akatsak errepikakorrak dira: ergatiboa, komak...)",
+      "S7: Koherentzia uniformea = 1 (hasiera eta amaiera kalitate desberdinekoak)"
+    ],
+    "oharrak": "IA probabilitatea BAXUA (4/21). Testua ikasle baten estiloa du: akats errepikakorrak, koherentzia-arazoak, baina kreatiboa eta pertsonala."
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso originala eta sortzailea da! Trump superheroi bihurtzen den istorioa askatasunez eta irudimena erakutsiz kontatu duzu. Horrek balio handia du!",
+          "Egitura narratiboa antzeman daiteke: hasiera (jaiotza eta gaztaroa), korapiloa (tiroa, ospitalea) eta amaiera (superboterearen deskubritzea). Kontaketa lineala jarraitu duzu orokorrean."
+        ],
+        "hobetzekoak": [
+          "Narrazioak koherentzia-arazoak ditu: salto handiegiak daude pasarte batzuen artean. Adibidez, akademiatik lanaldiara salto azkarregia da, eta gertakariak (buruzagiaren heriotza, S.W.A.T.-ra joatea) ez dira argi lotzen.",
+          "Pertsonaien garapena falta da: zergatik bihurtzen da superheroi? Zer sentitzen du? Irakurleak konexioa egin dezan, emozioak eta pentsamenduak gehiago landu beharko zenituzke.",
+          "Zenbait xehetasun ez da oso koherentea: 'superboterea' bat-batean agertzen da esplikazio sakonik gabe. Fantasy generoan ere, irakurlearentzako ulergarria izan behar du."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu narrazioko gertakari bakoitza ZERGATIK gertatzen den azaltzen. 'Bat-batean' erabili ordez, trantsizio logikoak sortu: kausak, arrazoiak, pertsonaien erabakiak... Hori eginez, istorioa koherenteagoa eta erakargarriagoa izango da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoak bereizita daude eta narrazioaren zatiak identifika daitezke: jaiotza, gaztaroa, lan-esperientzia, errealitateko saioa, presidentetza, superboterea.",
+          "Denbora-sekuentzia lineala da orokorrean, eta irakurleak jarraitu dezake istorioa (nahiz eta salto batzuk egon)."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak oso eskasak dira. Gehienetan 'eta' eta 'bat-batean' errepikatzen dituzu, eta horrek monotonia sortzen du. Erabili 'ondoren', 'hortik aurrera', 'hala ere', 'une horretan', 'bertan'...",
+          "Salto logiko nabarmenak daude gertakari batzuen artean. Adibidez, buruzagiaren heriotzatik errealitateko saio batera igarotzea (40 urte saltatuz) deskribapen bakarra da, baina konexio eskasa. Irakurleak galdu egiten da.",
+          "Paragrafoen luzera oso desberdina da: batzuk oso laburrak (2-3 lerro) eta beste batzuk oso luzeak. Banaketa orekatuagoa egin beharko zenuke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi narrazioa eta gero irakurri eta galdetu: pasarte hau eta hurrengoa NOLA lotzen dira? Lotura-hitz bat (ondoren, horregatik, denbora bat pasa eta...) jarri trantsizioetan. Testua askoz irteera hobea izango du!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da zenbait ataletan: 'kontziente', 'deseroso', 'desmaioak', 'estratosfera', 'destinoa', 'satelite'... Horiek maila oneko hitzak dira DBH4rako!",
+          "Saiatu zara deskribapen batzuk ematen (adib. 'zarata oso fuerte bat', 'iskumuturrei begiratu') eta horrek sormen narratiboa erakusten du."
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko ugari: 'bat-batean' 6 aldiz; 'oso' askotan; 'izeneko' errepikatuta. Sinonimoak erabili: 'une batean', 'momentu horretan', 'une horretan berehan'...",
+          "Hitz generikoak: 'gauza', 'egin', 'oso'... Proba ezazu hauek zehaztasun handiagoarekin ordezkatzea: 'egin' → 'burutu', 'amaitu', 'sortu'; 'oso' → 'oso-oso', 'izugarri', 'benetan'...",
+          "Egitura konplexuak falta dira: gehienetan perpaus sinpleak edo 'eta'-z lotutakoak. Saiatu mendekoagoak txertatzen: 'Ospitalera bidali zutenean, konturatu ziren...', 'Belarria bendatuta zeukanez...'"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi testua eta markatu hitz errepikatuak (bat-batean, oso...). Gero, aldatu sinonimoz: askotarikotasuna gehituko duzu eta maila bat igoko duzu BLH-n!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 5,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oinarrizkoa ondo kontrolatzen duzu: 'jaio zen', 'ikasi zuen', 'hasi zen'... NOR sistema zuzena da gehienetan.",
+          "Ortografia ona da orokorrean: ez dago sibilanteen akatsen edo letra-banaketa larrien."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-K) asko aldiz ahaztu duzu, eta hau da akatsik larriena eta errepikatuena zure testuan. 'Aitarengaitik' → 'aitaRENGATIK'; 'aitak' (zuzena!); 'Donald-ek' (zuzena!); baina 'umeak' → 'umeAK' (ergatiboa). Aditz iragankorretan (ukan: du, zuen...) subjektuak -K behar du BETI.",
+          "Puntuazio-akatsak ugari: koma falta perpaus hasieran ('Hortik aurrera' → 'Hortik aurrera,'), koma subjektu eta aditz artean ('mutiko handiak' → 'mutiko handiak,'), eta esaldi luzeak punturik gabe (run-on). Puntuazioa oso garrantzitsua da ulermenerako!",
+          "Erderakada eta mailegu ugari: 'gaitik' → 'gatik'; 'fuerte' (gaztelaniazko hitza!) → 'gogorra'; 'festa montatu' → 'festa antolatu'; 'tipo' → 'tipo' (hau gaztelaniakoa da: 'mota' edo 'gizona'); 'reality show', 'S.W.A.T.'... Euskarazko alternatibak erabili!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero errepasatu esaldi bakoitza honela: aditza NOR-NORK da? (du, zuen, ditu...) Baietz bada, subjektuari -K jarri. Sistema sinple honekin ergatiboaren akatsak desagertuko dira! Eta puntuazioa: esaldi luzeak banatu puntuz, irakurleak arnasa hartu dezan!"
+      },
+      "zl_modelo": 4,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=4 baxuegi da EP100=6.98 (tartekoa, tartea 5-6). ZL=5 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 5.5,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Narrazioa oso originala eta sortzailea da, benetan! Trump superheroi bihurtzen duen istorioa irudimen handiz kontatu duzu. Hala ere, koherentzia eta zuzentasun linguistikoan hobetzeko lekua dago. Ergatiboaren (-K) kontrola eta puntuazioa dira lehentasun nagusiak. Lotura-hitzak gehiago erabili eta errepikapenak saihestuz, maila bat igoko duzu ziur! Badaukazu potentziala, aurrera!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan (du, zuen, ditu...) subjektuari -K jarri. Hau da lehen lehentasuna, akatsik errepikaturiena delako!",
+    "batez_bestekoa_modelo": 5.25,
+    "biribiltzea_modelo": 5.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "umeak Donald John Trump zuen izena",
+        "zuzenketa": "umeAK Donald John Trump zuen izena",
+        "azalpena": "Aditza NOR-NORK denean (zuen → 'zeukan'), subjektuak -K marka behar du. 'Umeak' (plurala) → 'umeAK' (ergatiboa)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz/esapide ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hortik aurrera bere aitarekin hasi zen",
+        "zuzenketa": "Hortik aurrera, bere aitarekin hasi zen",
+        "azalpena": "Lotura-hitzen eta hasierako esaeren ondoren koma jarri behar da: 'Hortik aurrera,', 'Bat-batean,', 'Segituan,'..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — mailegu okerra edo gaztelaniazko hitza zuzenean",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 7,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "zarata oso fuerte bat",
+        "zuzenketa": "zarata oso gogorra / zarata izugarria",
+        "azalpena": "'Fuerte' gaztelaniazko hitza da zuzenean. Euskaraz 'gogorra', 'indartsua', 'handia' edo 'izugarria' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kasuen nahasketa (-gatik/-gaitik/-rengatik)",
+      "akats_id": "ZL-KAS-7",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "millonarioa zen bere aitarengaitik",
+        "zuzenketa": "millonarioa zen bere aitaRENGATIK",
+        "azalpena": "Kausa adierazteko: -GATIK (arrazoia); -RENGATIK (pertsona bat kausa denean). 'Aitarengaitik' forma okerra da; 'aitarengatik' (batua) edo 'aitagatik' (laburragoa) zuzen dira."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Punturik ez esaldien artean (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ospitalean konturatu ziren Trump ez zegoela hilda, kontziente zegoela. Segituan operatu egin zioten, eta hortik hille batera S.W.A.T. izeneko poliziarengana...",
+        "zuzenketa": "Ospitalean konturatu ziren Trump ez zegoela hilda, kontziente zegoela. Segituan operatu egin zioten. Hortik hille batera, S.W.A.T. izeneko poliziarengana...",
+        "azalpena": "Esaldi independente luzeak puntuz banatu behar dira. Esaldi bakoitzak ideia nagusi bat izan behar du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'bat-batean' 6 aldiz erabiltzen da testuan",
+        "zuzenketa": "Sinonimoak erabili: 'bat-batean', 'une batean', 'momentu horretan', 'bertan', 'une horretan berehan', 'bat-baterako'...",
+        "azalpena": "Hitz bera askotan errepikatzeak monotonia sortzen du. Aldatu sinonimoz edo modu desberdinetan adierazi."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'egin' aditza errepikatzen da esangura desberdinetan: 'kirol asko egin', 'lan egin', 'hies egin', 'festa montatu'...",
+        "zuzenketa": "Aditz espezifikoagoak erabili: 'kirol asko praktikatu', 'lanean aritu', 'ihes egin' (zuzena), 'festa antolatu'...",
+        "azalpena": "'Egin' aditz generikoa da. Aditz zehatzagoak erabiliz, aberastasuna lortuko duzu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV haustea)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "txaplasteko bat heman zion semeari buruzagiak kontatu zionarekin",
+        "zuzenketa": "buruzagiak kontatu zionarekin semeari txaplasteko bat eman zion",
+        "azalpena": "Euskaraz ordena SOV da (Subjektua-Objektua-Aditza). Objektua aditzaren aurretik joan behar da, ez atzean gaztelaniaz bezala."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — maileguen zuzenketa",
+      "akats_id": "ZL-ORT-4",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "S.W.A.T., NEW'S, The Apprentice",
+        "zuzenketa": "Izen propioak dira baina euskarazko testuetan azaldu behar dira (komatxoen artean edo kursiban). Alternatiboa: euskarazko baliokidea proposatu.",
+        "azalpena": "Maileguen erabilera gehiegizkoa da. Euskarazko alternatibak bilatu: 'reality show' → 'errealitateko saioa'; 'tipus' → 'mota' edo 'gizona'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 917,
+    "minor": 20,
+    "major": 22,
+    "critical": 0,
+    "EP100_gordina": 6.98,
+    "EP100_pisuduna": 1.8,
+    "EP100_gordina_modelo": 6.1,
+    "EP100_pisuduna_modelo": 4.9,
+    "minor_modelo": 22,
+    "major_modelo": 17,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    },
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0.3,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 1,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Argi eta garbi DBH4ko ikasle batek idatzitako testua da. Akats ugari ditu: 'mobiliarioa' (inmobiliarioa), 'berandu' (beranduegi), 'enteratu zenean' (enteratu zenean), 'hille' (hilabete), puntuazio akatsak, eta estilo nahasia. Narrazioa kaotikoa da, koherentziarik gabe (Trump komuneko istripua, reality show-a, presidentea, tiroteoa, superheroea dena). Tonua absurdoa eta umoretsuzkoa da intentzionalki ('SUPER-DONAL TRUMP', sarrerako damutze komikoa). Egitura desantolatua dago, denbora-jauzi logikagabeak egiten ditu. Luzera bakarra da susmagarria (800+ hitz), baina kontuan hartuz narratzaileak kreatiboa eta ergelakera interesgarria idatzi nahi zuela. IAk ez luke akats natural hauek egingo, ez lukeen narratzaile hain kaotiko eta absurdorik sortuko, eta ez lukeen umore hain jubenila erabiliko. Idazlana jatorrizkoa da, hutsune guztiekin."
+    }
+  }
+}

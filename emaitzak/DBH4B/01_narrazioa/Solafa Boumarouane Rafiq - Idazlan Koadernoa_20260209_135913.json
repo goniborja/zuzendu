@@ -1,0 +1,189 @@
+{
+  "kodea": "SOLAFA",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: Perfekzio susmagarria (0/3) — Testua ez da perfektua, akats batzuk baditu",
+      "S2: Hiztegi-maila ez-naturala (0/3) — Hiztegia DBH4 mailakoa da, ez daude C1/C2 terminoak",
+      "S3: Egitura perfektua (1/3) — Egitura argia baina ez perfektua; batzuetan saltoduna",
+      "S4: Tonu robotikoa (0/3) — Tonua narratiboa eta naturala da, ez robotikoa",
+      "S5: Luzera susmagarria (1/3) — 850 hitz inguru; luzea baina ez susmagarria idazle on batentzat",
+      "S6: Akats-patroi naturalen falta (1/3) — Bai daude akats-patroi errepikakorrak (puntuazioa, erderakadak)",
+      "S7: Koherentzia uniformea (1/3) — Koherentzia uniformea baina naturala, ez artifizialki perfektua"
+    ],
+    "oharrak": ""
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura klasikoa bikain garatuta daukazu: sarrera intrigantearekin (mapa misterioa), korapiloa oso ongi eraikita (Krish hiriko misterioa), eta amaiera koherentea. Benetan ederki egin duzu!",
+          "Istorio-kontaketa oso eraginkorra duzu: suspensetik hasita, pertsonaien topaketa, froga progresiboak, gailurra mutanteen buruzagiarekin... Irakurleari denbora osoan engantxatuta edukitzen duzu. Hau ez da erraza eta bikain lortu duzu!"
+        ],
+        "hobetzekoak": [
+          "Batzuetan trantsizio batzuk motzegiak dira. Adibidez, Lina nola eta zergatik dago bertan ez da erabat argitzen — berarekin bat-batean topo egiten duzu baina ez dakigu bera ere mapa bat jarraitu ote zuen. Xehetasun txiki batzuk gehiago emango lukete istorioa are aberatsago egingo.",
+          "Amaiera apurka bat azkar ebazten da — mutanteen buruzagiarekin borrokatu, sinboloak aktibatu eta kanpora... Momentu dramatiko hori gehiago luzatzeak tentsio handiagoa emango luke. Gailurra apur bat gehiago garatzea falta zaizu bikaintasunera iristeko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istoriako une dramatiko handienak pausatzen, xehetasun sentsorial gehiago emanez. Gailurra (борροka, ebazpena) apur bat gehiago landu. Horrekin nota igo egingo zaizu seguru!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa argia da eta bakoitzak bere funtzioa du istorioan: mapa aurkitzea, Krishera bidaia, Lina ezagutzea, frogak, gailurra, ihesa. Oso ondo antolatuta daukazu!",
+          "Lotura-hitz ugari erabiltzen dituzu eta egokiak dira gehienetan: 'baina', 'orduan', 'bat-batean', 'hurrengo egunean', 'une horretan'... Horrek istorioa ondo lotzen du."
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso laburrak dira (adib. 'Ez nengoen bakarrik', 'Bestela, ni ere han geratuko nintzen, betiko') eta aurrekoarekin batu zitezkeen testuaren fluxua hobetzeko. Banatze horrek batzuetan zatiketa ematen du.",
+          "Noizean behin salto txiki batzuk daude: janariaren bila joaten zara eta bat-batean oihuan ari den Lina aurkitzen duzu, baina ez da esaten non, nola, zenbat denbora igaro den... Trantsizio txiki batzuk falta dira."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo oso laburrak aurrekoarekin batzen edo lotura esplizituago batekin lotzen. Horrek koherentzia orokorra hobetuko du. Horrekin AK-n 8 edo gehiago lor zenezake!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa eta egokia da narraziorako: 'imajinatuko', 'ezkutatuta', 'zimurtuta', 'dirdiratsua', 'desitxuratuak', 'elkarri fidatu'. Hitz hauek istorioa bizi egiten dute!",
+          "Perpaus-konplexutasun ona: mendeko perpausak, erlatibozkoak, baldintzazkoak... Adibidez: 'aurkitutako mapa zaharrak nire bizitza guztiz aldatuko zuenik', 'nahiz eta ez jakin zer aurkituko nuen'. Maila altuko egiturak erabiltzen dituzu ondo!"
+        ],
+        "hobetzekoak": [
+          "Zenbait errepikapen lexiko daude: 'zegoen' 8 aldiz, 'zen/ziren' askotan errepikatzen da, 'bat-batean' 3 aldiz... Sinonimoak erabiltzeak (adib. 'zegoen' → 'aurkitzen zen', 'ikusten zen'; 'bat-batean' → 'ustekabean', 'tarte labur batean') aberastasun handiagoa emango luke.",
+          "Batzuetan gaztelaniaren eragina nabari da: 'rompecabezas' (euskaraz 'puzzleak' edo 'enigmak'), 'mutanteak' (euskaraz 'mutanteak' onartzen da baina 'izaki aldatuak' naturala litzateke), 'kartzela' (euskaraz 'espetxe'). Euskarazko alternatibak erabiltzeak testua naturala emango luke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero errepasatu errepikatzen duzun hitzak eta aldatu sinonimoak erabiliz. Eta gaztelaniazko hitz bat sartu aurretik pentsatu euskarazko baliokiderik baden. Horrekin BLH-n 8 lor zenezake!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatzen duzu orokorrean: NOR-NORK laguntzaileak zuzenak dira gehienetan ('aurkitu genuen', 'grabatuta zeuden'), eta aspektu-denbora egokiak erabiltzen dituzu narraziorako.",
+          "Deklinabidea gehienetan zuzena duzu: kasuak ondo aplikatuta ('lekura', 'plazara', 'barrutik'), eta horrek argi erakusten du euskararen egitura kontrolatzen duzula."
+        ],
+        "hobetzekoak": [
+          "Puntuazioan akats errepikatuak daude: komak falta lotura-hitzen ondoren ('Baina gauzarik bitxiena' → 'Baina, gauzarik bitxiena'), eta esaldien arteko puntuazioa nahasita batzuetan. Hau 8 aldiz errepikatzen da. Puntuazio-arauak berrikustea gomendatzen dizut.",
+          "Erderakada batzuk: 'rompecabezas' zuzenean gaztelaniatik, 'mutanteak' (onartua baina 'izaki aldatuak' naturala), esaldi batean koma falta subjektu luze baten ondoren. Erderakadak saihesteak testua profesionalagoa egingo luke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero errepasatu lotura-hitz guztiak eta jarri koma haien ondoren BETI. Eta esaldi luzeak idatzi ondoren irakurri altuan ea puntua edo koma behar duen. Horrekin ZL-n 7-8 lor zenezake!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=0.76 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain egin duzu lan hau! Narrazioaren egitura oso ondo kontrolatuta daukazu, suspensetik gailurreraino argi eta eraginkorrean kontatzen duzu istorioa. Hiztegia aberatsa duzu eta perpaus konplexuak modu naturalean erabiltzen dituzu. Hobetzeko tartea gehienbat puntuazioan dago — lotura-hitzen ondorengo komak eta erderakadak zuzendu, eta bikaintasunera helduko haiz!",
+    "lehentasuna": "Lotura-hitzen ondoren koma jarri BETI. Idatzi ondoren errepasatu eta markatu 'baina', 'orduan', 'bat-batean' bezalako hitzak eta egiaztatu komarekin direla. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina gauzarik bitxiena hau zen",
+        "zuzenketa": "Baina, gauzarik bitxiena hau zen",
+        "azalpena": "Lotura-hitz hauen ondoren BETI koma jarri behar da: baina, orduan, bat-batean, bestela, azkenik, hurrengo egunean... Arau hau nahiko erraza da eta zuzentzeak testua profesionalagoa egiten du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta perpaus laburren artean",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "beste batzuk oraindik zutik, baina abandonatuta",
+        "zuzenketa": "beste batzuk oraindik zutik, baina abandonatuta.",
+        "azalpena": "Perpaus independente laburrak 'baina' bezalako juntagailuarekin lotzen direnean, aurretik eta ondoren koma edo puntua behar da testua argiagoa izateko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta elkarrizketan",
+      "akats_id": "ZL-PUN-4",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "- Pozten naiz zu ezagutzeaz–esan nuen",
+        "zuzenketa": "- Pozten naiz zu ezagutzeaz —esan nuen.",
+        "azalpena": "Elkarrizketan, ahotsaren aurkezpenaren aurretik koma jarri behar da normalean, eta marra luzea (—) erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Gaztelaniazko hitza zuzenean",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "rompecabezas konpontzea",
+        "zuzenketa": "puzzleak / enigmak konpontzea",
+        "azalpena": "Gaztelaniazko hitza zuzenean sartu duzu. Euskaraz 'puzzleak', 'enigmak' edo 'buru-hausteak' erabil ditzakezu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'zegoen' 8 aldiz errepikatzen da",
+        "zuzenketa": "Aldatu sinonimoak erabiliz: 'aurkitzen zen', 'ikusten zen', 'agertzen zen', 'han zegoen' → 'han'",
+        "azalpena": "Aditz edo hitz bat maiz gehiegi errepikatzen denean, testua monotonoa bihurtzen da. Sinonimoak edo forma laburragoak erabiltzeak aberastasun handiagoa ematen du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Paragrafo oso laburrak",
+      "akats_id": "OK-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Paragrafo hauek oso laburrak dira: 'Ez nengoen bakarrik.' (esaldi 1), 'Bestela, ni ere han geratuko nintzen, betiko.' (esaldi 1)",
+        "zuzenketa": "Paragrafo laburrak aurrekoarekin batu edo lotura esplizituago batekin lotu",
+        "azalpena": "Paragrafo bat esaldi bakarrekoa denean, zatiketa ematen du. Normalean aurrekoarekin edo hurrengoaren hasierarekin batu behar da fluxua hobetzeko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 851,
+    "minor": 13,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 1.76,
+    "EP100_pisuduna": 0.76,
+    "EP100_gordina_modelo": 2.1,
+    "EP100_pisuduna_modelo": 1.9,
+    "minor_modelo": 13,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "kodea": "ANDER",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Istorioa oso ondo garatuta dago hasiera-korapiloa-amaiera egituraz, pertsonaia bakoitza aurkeztuta eta bilakaera argiarekin. Narrazioa jarraitzeko erraza da eta irakurlea istorioan sartzen da!",
+          "Xehetasun deskriptiboak oso egokiak dira: herriko giroa, taldearen saio-lekua, kontzertuaren eguraldia... Honek istorioa biziago egiten du eta irudikapena errazten du. Bikain!"
+        ],
+        "hobetzekoak": [
+          "Amaiera apur bat azkar ebatzi duzu. Ferminekin gertakaria gehiago garatu zenezakeen (nola bizi zuten, zer sentitu...) transizio hori naturalagoa egiteko. Orain salto txiki bat ematen du.",
+          "Amaituko esaldia ('Hala bazan ala ez bazan...') istorio tradizionaleko formula da eta ondo dago, baina zure istorio honetarako ez da guztiz koherentea. Kontzertu arrakastatsua, Fermin Muguruza, eta gero formula zaharra... Amaiera propioa hobea izango litzateke!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istorioko korapiloa gehiago luzatzen, arazoak/aurkariak gehituz. Adibidez: kontzertu aurretik arazo tekniko bat, talde barneko tentsioa... Honek dramatismoa emango luke eta istorioa oraindik interesgarriagoa!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoak ondo antolatuta daude: pertsonaia-aurkezpenak, garajea, bilakaera, kontzertuaren eguna, ondorioa. Egitura narratibo argia da eta oso erraz jarraitzen da!",
+          "Lotura-hitz egokiak erabiltzen dituzu testuinguru bakoitzean: 'Horregatik', 'Gainera', 'Nahiz eta', 'Denborarekin', 'Hala ere'... Honek koherentzia ematen dio testuari. Oso ondo!"
+        ],
+        "hobetzekoak": [
+          "Transizio batzuk hobetu beharko lirateke: 'Ere, urteko bueltatzen dira...' esaldia lotura-hitzarekin hasita, baina aurreko paragrafoarekin lotura logiko argiarik gabe. Hau apurtzea da eta irakurlea galduta geratzen da momentu batean.",
+          "Paragrafo batzuk oso laburrak dira (lehena, bigarrena). Paragrafo hauek luzatzea edo batzea beste batzuekin koherentzia handiagoa emango luke testuari."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafoen artean transizioak zainduago idazten. Adibidez: paragrafo batek beste baten ideia bat berreraikitzen badu, erabili 'Honi jarraituz...', 'Horretaz gain...', 'Esandakoari lotuta...'. Honek testua hobeto lotuko du!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da eta narrazioarentzat oso egokia: 'taupada azkarrekin', 'txalo zaparrada', 'giro zoragarria', 'gogorapen ahaztezina'... Adierazpen hauek istorioa biziago egiten dute. Txapela!",
+          "Perpaus-egitura desberdinak erabiltzen dituzu: erlatibozkoak ('izenekoa', 'dudan'), denborazkoak ('bitartean', 'ondoren'), kontzesiboak ('nahiz eta'). Honek konplexutasun sintaktikoa ematen dio testuari. Primeran!"
+        ],
+        "hobetzekoak": [
+          "Zenbait aditz eta adjektibo errepikatzen dira gehiegi: 'gustatzen', 'gustoko', 'gustokoena' 3 aldiz; 'zuen/zuten' laguntzailea oso presente; 'hotz/hotza' 5 aldiz. Sinonimoak erabiltzea aberastasun handiagoa emango luke: 'atsegin zion', 'maite zuen', 'gozatzen zuen'...",
+          "Formulazio batzuk bizkaiera hutsekoak dira testu formal batean: 'ikutzea' → 'jotzea' da batua. Narrazioan erregistroa egonkorragoa izan beharko litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, bilatu errepikapenak eta ordeztu sinonimoekin. Erabili sinonimoen tesauroa edo hiztegia. 'Gustatzen' errepikatu ordez: 'atsegin zion', 'gozatzen zuen', 'erakartzen zion'. Horrekin BLH-n puntu bat baino gehiago irabaziko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema orokorrean ondo kontrolatzen duzu: 'zuten', 'zituzten', 'ematen zien'. Hau ez da erraza eta oso ondo dago!",
+          "Deklinabidea gehienetan zuzena da: ergatiboa, datiboa, adlatiboa... Oinarrizko kasuak ondo erabiltzen dituzu. Zorionak!"
+        ],
+        "hobetzekoak": [
+          "Koma-akats batzuk daude: lotura-hitz ondoren koma falta 4 aldiz ('Gainera,', 'Hala ere,', 'Horrez gain,'). Hau arau sinplea da baina aplikatu behar da beti!",
+          "Erderakada batzuk: 'ikutzea' bizkaierako forma da, batuan 'jotzea' erabiltzen da. 'Ere' perpaus hasieran ez da zuzena. 'Gustazen' → 'gustatzen' (ortografia)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu lotura-hitz guztiak eta egiaztatu koma bat jarri duzun ondoren. Hau egiterakoan, lotura-hitz hauek markatu kolore batekin: beraz, hala ere, gainera, horrez gain... Horrela ez duzu inoiz ahaztuko!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.13 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Oso lan ona egin duzu! Istorioa interesgarria da, ondo egituratuta eta narrazioa naturalki jarraitzen da. Pertsonaiak ondo aurkeztuta daude eta bilakaera argia da. Hobetzeko alderdi nagusia zuzentasun linguistikoan dago: koma-arauak hobeto aplikatu eta erderakadak saihestuz. Baina badaukazu gaitasun handia eta lanari jarraitu!",
+    "lehentasuna": "Lotura-hitz ondorengo komak: errepasatu testua eta lotura-hitz bakoitzaren ondoren (beraz, gainera, hala ere...) koma jarri. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gainera abestiaren letra idaztea",
+        "zuzenketa": "Gainera, abestiaren letra idaztea",
+        "azalpena": "Lotura-hitz ondoren (gainera, hala ere, horrez gain, horregatik...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada lexikoa — 'ikutzea' batuan",
+      "akats_id": "LH-7",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Herriko jaietan ikutzea aukera",
+        "zuzenketa": "Herriko jaietan jotzea aukera",
+        "azalpena": "'Ikutze' bizkaierazko forma da. Batuan 'jo' aditza erabiltzen da instrumentuak 'jotzeko'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz okerra perpaus hasieran",
+      "akats_id": "OK-4",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ere, urtero bueltatzen dira",
+        "zuzenketa": "Gainera, urtero bueltatzen dira / Halaber, urtero bueltatzen dira",
+        "azalpena": "'Ere' ez da lotura-hitza perpaus hasieran. Erabili 'Gainera', 'Halaber' edo 'Horrez gain'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — grafia okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "gustazen",
+        "zuzenketa": "gustatzen",
+        "azalpena": "Partizipioa '-tzen' da, ez '-zen'. 'Gustatu' → 'gustatzen'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gustatzen/gustoko/gustokoena 3 aldiz; hotz/hotza 5 aldiz",
+        "zuzenketa": "Erabili sinonimoak: atsegin zion, maite zuen, gozatzen zuen; izoztua, hozkailua, izozkina",
+        "azalpena": "Hitz berak oso maiz errepikatzen dira. Sinonimoak erabiltzea aberastasun handiagoa ematen du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Albiste hau, oso urduri jarri zizkieten",
+        "zuzenketa": "Albiste honek oso urduri jarri zituen (gainera, ergatiboa ere behar da!)",
+        "azalpena": "Subjektu eta aditz nagusia artean EZ da koma jartzen euskaraz. Gainera, subjektuak -K behar du NOR-NORK aditzetan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-komunztadura okerra",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Albiste hau oso urduri jarri zizkieten",
+        "zuzenketa": "Albiste honek oso urduri jarri zituen",
+        "azalpena": "Subjektua singularra denean (albistea), aditzak ere singularra izan behar du: 'zizkieten' (haiek-haiei) ez da zuzena. 'Zituen' (hark-haiek) da forma zuzena."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 487,
+    "minor": 6,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 1.64,
+    "EP100_pisuduna": 1.13,
+    "EP100_gordina_modelo": 2.7,
+    "EP100_pisuduna_modelo": 2.5,
+    "minor_modelo": 7,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

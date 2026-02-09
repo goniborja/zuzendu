@@ -1,0 +1,156 @@
+{
+  "kodea": "KAL-003",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Bikain! Gaiaren puntu guztiak landu dituzu modu oso egituratuan: sarrera erretorikoa, alde onak eta txarrak, gizartearen erantzukizuna, eta ondorio bat proposamenekin. Hori da iritzi-artikulu sendoa!",
+          "Argudio bakoitza adibide zehatz eta errealak emanez garatzen duzu: 'kalitate handiko produktuak', 'harreman estua saltokiaren jabearekin', 'itzaropen zerrenda', 'azkenengo teknologia falta'... Horrek ematen dio testua indarra eta sinesgarritasuna."
+        ],
+        "hobetzekoak": [
+          "Zenbait argudio gehiago sakondu zenezake oraindik: adibidez, zergatik da garrantzitsua denda txikiak mantentzea? Enplegu lokala, hirigintza, tradizioaren transmisioa... Horrelako ardatz bat gehiago garatu, eta 9 hartuko zenuke!",
+          "Ondorioan proposamenak oso onak dira, baina zertarako zehazki diru laguntza hori? Zer egingo lukete jabeek dirua horrekin? Xehetasun hori ematen baduzu, artikulua are indargarriagoa izango da."
+        ],
+        "feed_forward": "Hurrengo aldian, argudio bakoitza 'hiru mailatan' garatzea saiatu: ideia orokorra → zergatia (arrazoia) → adibide oso zehatza (datua, ikerketa, esperientzia pertsonala zehatz-mehatz). Hori egiten baduk, ezin hobeto!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura argia eta koherentea: sarrera erretoriko erakargarria ('aho bete hortz'), garapenean argumentuen sailkapena 'alde batetik/beste alde batetik', eta ondorio garbia. Txapela zu!",
+          "Lotura-hitz aniztasun handia eta egokia: 'horrexegatik', 'izan ere', 'hala nola', 'esaterako', 'dena den', 'beraz', 'hau da', 'ordea', 'arrazoi horiexengatik', 'hori guztia esan dugula'... Maila oso altua!"
+        ],
+        "hobetzekoak": [
+          "Hirugarren paragrafoko zatiketa kontu pixka batekin: 'Alde batetik... pertsonak daude' eta 'Beste alde batetik... pertsonak daude' egitura paralelo sinplea da, eta luzatu egiten da gehiegi. Bi azpiparagrafo laburtu edo bateratzea pentsa zenezake.",
+          "Laugarren paragrafoan 'Zu izango bazina...' esaldi errepikatua da pixka bat. Jada ondorio orokorrean sartu duzu 'Egoera horretan gu egongo bagina...'. Bat kentzea hobea litzateke erredundantzia saihesteko."
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo luzeak (hirugarrena adibidez) azpiparagrafotan banatzea pentsatu, edo ideia nagusi bat bakoitzean. Horrela irakurlea ez da galtzen eta testua are argiago gelditzen da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz-altxor aberatsa eta zehatza: 'abantaila', 'desabantaila', 'jatorria', 'itzaropen zerrenda', 'enpatikoak', 'solidarioak', 'maiztasunarekin', 'gomedatu', 'ailegatu', 'diru laguntza', 'marketin kanpainak'... Sinonimoak tartekatzen dituzu ('saltoki', 'denda txiki', 'leku') eta ez duzu hitzik errepikatzen alferrik. Bikain!",
+          "Perpaus-egitura konplexu ugari eta zuzen: baldintzak ('Zu izango bazina...'), kontzesiboak ('desabantaila izan arren'), erlatibozkoak ('aztertzen zuen ikerketa bat'), kausazkoak ('gustatuko litzaigukeelako')... Hau da maila aurreratua, txapela!"
+        ],
+        "hobetzekoak": [
+          "Zenbait leku 'daukate' formarekin: 'ez daukate azkenengo teknologia', 'familia daukate'. Batuan 'dute' erabiltzea hobesten da, nahiz eta 'daukate' ere onartua den. Formalagoa egiteko 'dute' proposatuko nizuke.",
+          "'Azkenengo' hitza errepikatzen duzu bi aldiz: 'azkenengo urteotan', 'azkenengo teknologia'. Forma hobetsia 'azken' da batuan: 'azken urteotan', 'azken teknologia'. Aldaketa txikia baina erregistro formalagoa ematen du."
+        ],
+        "feed_forward": "Hurrengo aldian, dialektismoak (daukate) batuaren aldaera formalez ordezkatzea saiatu testu akademikoetan (dute). Eta 'azkenengo' → 'azken' aldaketa txiki horrek ere puntu ematen du!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORI-NORK sistema oso ondo kontrolatuta: 'bururatu zitzaizkigun', 'ekar diezazkigukeela', 'lagundu egiten dituzte'. Hau ez da erraza eta primeran egin duzu, benetan!",
+          "Baldintza-perpausak perfektuan erabiltzen dituzu: 'Egoera horretan gu egongo bagina, laguntza jasotzea gustatuko litzaigukeelako' / 'Zu izango bazina, laguntza jasotzea gustatuko litzaizuke'. Hau maila oso altua da!"
+        ],
+        "hobetzekoak": [
+          "Puntu eta koma nahasketa bat: 'Izan ere; badaude...' → 'Izan ere, badaude...' (koma, ez puntu eta koma). Lotura-hitz orokor bat denean, koma da, ez puntu eta koma.",
+          "Erderakada/kalko bat: 'iguruan' → 'inguruan'. Typo bat izan daiteke edo 'inguruan' formarekin nahastea. Gainera, beste une batean 'inguruan' ondo idazten duzu ('horren inguruan'), beraz kontrol pixka batekin konponduko zenuke.",
+          "Zenbait puntu eta koma lotura-hitzen artean: kasu gehienetan komaz nahikoa da. 'Izan ere;' → 'Izan ere,' / 'Baina,' → zuzen. Puntu eta koma soilik beharrezkoa da esaldi independenteak lotzeko juntagailurik gabe."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu lotura-hitz ondorengo puntuazioa: 'izan ere', 'esate baterako', 'hala nola' → koma. Puntu eta koma soilik esaldi independenteetan juntagailurik gabe. Hori kontuz, eta listo!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=0.51 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.0,
+    "biribiltzea": 8.0,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu! Iritzi-artikulu oso sendoa da hau, egitura argia eta koherentea duena, argudio garatu eta adibidez hornituta. Hitz-altxorra aberatsa da eta perpaus konplexuak modu naturalean erabiltzen dituzu. Zuzentasun linguistikoan ere maila oso ona duzu. Hobetzeko tartea txikiak dira: dialektismoak (daukate → dute, azkenengo → azken) batuz formalizatu, eta puntuazio-xehetasun batzuk (puntu eta koma ez lotura-hitzen ostean). Jarraitu horrela, badaukazu gaitasun handia!",
+    "lehentasuna": "Puntuazio arauak lotura-hitzetan: 'izan ere,' / 'esate baterako,' → koma, ez puntu eta koma. Hau da txikiena baina azkarrena konpontzeko!",
+    "batez_bestekoa_modelo": 7.75,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Puntu eta koma lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Izan ere; badaude alde onak",
+        "zuzenketa": "Izan ere, badaude alde onak",
+        "azalpena": "Lotura-hitz orokor ondoren koma jarri behar da, ez puntu eta koma. Puntu eta koma soilik esaldi independente bi lotzen ditugunean juntagailurik gabe."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo / grafia okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "gai horren iguruan",
+        "zuzenketa": "gai horren inguruan",
+        "azalpena": "Typo bat edo grafia okerra. Beste tokian 'inguruan' ondo idazten duzu, beraz kontrol txikiarekin konponduko da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Dialektismoa — 'daukate' vs 'dute'",
+      "akats_id": "LH-7",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ez daukate azkenengo teknologia",
+        "zuzenketa": "ez dute azken teknologia",
+        "azalpena": "'Daukate' bizkaierazko forma da eta zuzen da, baina batuan 'dute' erabiltzea gomendatzen da testu akademikoetan. 'Azkenengo' → 'azken' ere aldaketa txiki bat da: batuan 'azken' hobetsia da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexikoa — esaldi amaiera errepikatua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Egoera horretan gu egongo bagina, laguntza jasotzea gustatuko litzaigukeelako. / Zu izango bazina, laguntza jasotzea gustatuko litzaizuke.",
+        "zuzenketa": "Bat kendu, erredundantzia da.",
+        "azalpena": "Bi aldiz erabiltzen duzu 'laguntza jasotzea gustatuko litzai-' egitura. Ondorio orokorrean lehena nahikoa da; amaierako esaldia birformulatu dezakezu erredundantzia saihesteko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 389,
+    "minor": 2,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.51,
+    "EP100_pisuduna": 0.51,
+    "EP100_gordina_modelo": 1.3,
+    "EP100_pisuduna_modelo": 1.3,
+    "minor_modelo": 5,
+    "major_modelo": 0,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

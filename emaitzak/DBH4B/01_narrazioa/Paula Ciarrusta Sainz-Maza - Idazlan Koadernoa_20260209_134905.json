@@ -1,0 +1,191 @@
+{
+  "kodea": "PAULA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioa oso ondo garatuta dago, hasiera-korapiloa-amaiera egituraz. Pertsonaia nagusia (Unax) ondo sortu duzu, nortasun propioa emanez: 'ez zen bere adineko beste haurrak bezalakoa'.",
+          "Istorioak koherentzia osoa du eta giro magikoa ondo sortzen duzu xehetasunekin: 'mapak hormetan, iparrorratz zahar bat, linterna...'. Horrek irakurlea istorioan murgildu egiten du, txori!"
+        ],
+        "hobetzekoak": [
+          "Deskripzioak oso onak dira, baina noizean behin pertsonaien sentimenduak gehiago sar zenitzake: Unaxek zer sentitu zuen altxorra ikustean? Zein pentsamendu zituen tunelean?",
+          "Amaiera oso poetikoa da ('dena magikoagoa zen'), baina istorioak buelta txiki bat eman lezake: zer egin zuen altxorrarekin? Itzuli zen etxera? Ideia horrek istorioa biribilagoa egingo luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu pertsonaien barruko mundua (pentsamenduak, sentimenduak) gehiago erakusten dialogoaz gain. Horrekin pertsonaia sakontzen da eta irakurleak konexio handiagoa izaten du."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa oso ona da: bakoitzak eszena edo une bat garatzen du. Trantsizio naturalak daude gertaeren artean: 'Egun batean...', 'Bat-batean...', 'Elkarrekin...'.",
+          "Lotura-hitzak egoki erabiltzen dituzu: 'Hala ere', 'Bat-batean', 'Azkenean'... Horrek narrazioa dinamikoa eta erritmo onekoa egiten du. Primeran!"
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso luzeak dira (adibidez, kobazuloko deskripzioa). Paragrafo luzeak bi zatitan banatzea errazten du irakurketa eta arreta mantentzen du.",
+          "Noizean behin sekuentzia bat (adib. tunelean sartzea) apur bat azkarregia da. Pausoa lasaitu eta unea gehiago landu lezake."
+        ],
+        "feed_forward": "Hurrengo aldian, begiratu paragrafo bakoitzak 5-6 lerrotik gora dituen eta galdetu: zatitu behar dut? Eszena bakoitza arnastu egiten du. Horrekin irakurlea errazago jarraitzen dizu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso aberatsa da narrazio baterako: 'ausartentzat', 'misteriotsuago', 'distiratsu', 'erraldoi'... Adierazpen literarioak naturalki txertatzen dituzu. Hori maila altuko idazkera da, benetan!",
+          "Perpaus-egitura konplexuak erabiltzen dituzu ondo: 'Lagunek telebista ikusten edo bideojokoetan jolasten zuten bitartean, berak nahiago zuen...'. Mendeko perpausak kontrolatzen dituzu. Bikain!"
+        ],
+        "hobetzekoak": [
+          "Noizean behin hitz generikoak errepikatzen dituzu: 'gauza' (2 aldiz), 'bat-batean' (3 aldiz). Alternatibak probatu: 'bat-batean' → 'ustekabe', 'berehala', 'une batean'.",
+          "Baldintzazko perpausak erabili zenitzake gehiago giro misteriotsuagoa sortzeko: 'baldin ba..., orduan...'. Hori literatur heldutasunaren seinale da."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez baldintza-egitura BAT sartzen ('Harria ukitzen ez balu, ez zen inoiz aurkituko...'). Egitura horiek narrazio literarioa naibarmen aberasten dute!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatzen duzu orokorrean: NOR-NORK ('aurkitu zuen'), NOR-NORI ('jarraitu zion'), denborak... Hori oso garrantzitsua da eta ondo egin duzu!",
+          "Puntuazio-baliabide ugari erabiltzen dituzu: dialogoak, galdera-ikurrak, marrak... Horrek testua dinamikoagoa egiten du."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-K) hainbat aldiz ahaztu zaizu: 'Lagunek... berak nahiago zuen' → 'beraK'; 'haizeak hots bitxiak egiten zituen' → 'haizeAK'; 'bihotzak taupada egiten zion' → 'bihotzAK'. Hau da akats nagusia eta kritikoa. NOR-NORK aditzetan subjektuak BETI -K behar du.",
+          "Aditz-adostasun akatsak pluralean: 'imajinatzen nituen' → 'imajinatzen ZITUEN' (haiek OZ = zituen); 'zeuden marraztuta' → 'zegoeN marraztuta' (singularra baita). Plurala eta singularra ondo bereizi behar ditugu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Eta plurala ala singularra den egiaztatu (haiek = zituen/ziren; hura = zuen/zen). Bi kontu horiek kontrolatzen badituzu, ZL 8-9ra igoko zara zuzenean!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.11 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.0,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Oso lan ona egin duzu, benetan! Narrazioa polita da, istorioa ondo garatuta dago eta irakurtzeko gozoa da. Hizkera aberatsa duzu eta pertsonaia ondo sortzen dituzu. Hobetzeko arlo nagusia ZL da: ergatiboa (-K) eta aditz-adostasuna kontrolatzen badituzu, maila guztiz aldatzen da. Baina kontuz: erroreek ez dute istorioa kaltetzen, eta horrek esan nahi du oinarria SENDOA duzula. Gora zu!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Adibideak: 'berak nahiago zuen' → 'beraK'; 'haizeak egiten zituen' → 'haizeAK'. Hau da lehentasun bakarra hurrengo testuan!",
+    "batez_bestekoa_modelo": 7.75,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 7,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "berak nahiago zuen abentura-liburuak irakurri",
+        "zuzenketa": "beraK nahiago zuen abentura-liburuak irakurri",
+        "azalpena": "Aditza NOR-NORK denean ('nahi izan' → nork nahi?), subjektuak -K marka behar du. 'Berak' hemen subjektua da eta 'nahiago izan' aditza iragankorra da, beraz 'beraK' izan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-adostasun akatsa — plurala vs singularra",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "altxorrak aurkitzen imajinatzen nituen",
+        "zuzenketa": "altxorrak aurkitzen imajinatzen ZITUEN",
+        "azalpena": "Objektu anitza denean (altxorrak = haiek), laguntzailea pluralean jarri behar da: 'zituen' (haiek OZ), ez 'nituen' (ni NORK). Hemen NOR-NORK sistema da: hark (Unaxek) haiek (altxorrak) imajinatzen ZITUEN."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala ere Unax ez zen beldur",
+        "zuzenketa": "Hala ere, Unax ez zen beldur",
+        "azalpena": "Lotura-hitzen ostean ('hala ere', 'bat-batean', 'azkenean'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta dialogoaren aurretik",
+      "akats_id": "ZL-PUN-4",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esan zuen — Hau da nire aukera!",
+        "zuzenketa": "esan zuen, — Hau da nire aukera!",
+        "azalpena": "Esandako perpausaren aurretik koma jarri behar da normalean: 'esan zuen, —'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexikoa",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'bat-batean' 3 aldiz errepikatuta",
+        "zuzenketa": "Alternatibak: 'ustekabe', 'berehala', 'bat-batean', 'une batean'",
+        "azalpena": "Hitz bera hainbat aldiz errepikatzeak testuari monotonia ematen dio. Sinonimoak edo egitura desberdinak erabiltzea aberastu egiten du testua."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'gauza' (2 aldiz: 'antzinako gauzak', 'gauza bera')",
+        "zuzenketa": "Alternatibak: 'objektuak', 'elementuak', 'kontzeptu bera'",
+        "azalpena": "'Gauza' hitz generikoa da eta normalean hitz zehatzagoak hobeak dira narrazio literario batean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOA)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Unaxek uste zuen baino ilunago zegoen",
+        "zuzenketa": "Unaxek uste zuena baino ilunago zegoen",
+        "azalpena": "Erlatibozkoan '-na' falta da: 'uste zuena' (hori uste zuen hura). Hau ez da larria baina formalki '-na' erlatibozko atzizkia gehitu behar da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 897,
+    "minor": 6,
+    "major": 10,
+    "critical": 0,
+    "EP100_gordina": 2.9,
+    "EP100_pisuduna": 1.11,
+    "EP100_gordina_modelo": 3.0,
+    "EP100_pisuduna_modelo": 2.7,
+    "minor_modelo": 6,
+    "major_modelo": 11,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

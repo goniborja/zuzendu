@@ -1,0 +1,230 @@
+{
+  "kodea": "HARRIET",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: 0 — Perfekziorik ez, akats ugari",
+      "S2: 0 — Hiztegi maila DBH4-ko ikasle batentzat naturala",
+      "S3: 0 — Egitura ez da perfektua, paragrafo batzuk luzeak eta desantolatuak",
+      "S4: 0 — Tonu pertsonala, esperientzia pertsonalik aipatzen du",
+      "S5: 0 — Luzera espero baino handiagoa baina ez susmagarria",
+      "S6: 1 — Akats-patroi naturalak: ergatiboa, kasuen nahasketa, puntuazioa",
+      "S7: 3 — Kalitatea desorekatua da, hasieran arazo larriagoak, amaieran hobeto"
+    ],
+    "oharrak": "IA probabilitatea baxua da (4/21). Ebaluazioarekin jarraitu normalean."
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ongi garatuta dago, pertsonaia errealak eta emozionalak sortzen dituzu. Unax-en bizitza latz eta gorabeheraz betea kontatzen duzu, irakurlea erakarriz.",
+          "Denbora-perspektiba ezin hobeto erabiltzen duzu: hasieratik (16 urte) 4 urte igarotzen dira eta geroa ere aipatzen duzu. Horrek narrazio-egitura konplexua erakusten du, oso ona DBH4rako!",
+          "Xehetasun emozionalak bikainak dira: ama hil ondorengo borroka amarentzat, Ahmed-ekin duzu lotura, tatuajeen esanahia... Horrek narrazio hunkigarri bat egiten du."
+        ],
+        "hobetzekoak": [
+          "Lehen bi paragrafoak informazio gehiegi metatzen dute oso azkar. Pertsonaia aurkeztea poliki-poliki egin daiteke, gertakari bakoitza motel-motel garatuz. Adibidez, aitak jotzearen kontuak azalpen gehiago merezi luke.",
+          "Zenbait pasarte konfusoagoa da: 'Ahmedek beste fruta-denda bat du eta orduan berarkin egingo dut lan. Ahmed bere legusuaren hile-apainderia joango da eta niri utziko dit lokala.' — Hau argiago idatzi zitekeen: Ahmed nora doa, zuk zer egingo duzu... bi esaldi banatzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu narrazioan geldiune gehiago jartzen. Gertakari nagusi bakoitzari paragrafo bat eman eta bertan azaldu ondo: zer gertatu zen, nola sentitu zinen, zer ondorio izan zuen. Horrek narrazio oraindik sendo eta hunkigarriago bat egingo luke!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura kronologikoa argia da: hasiera (16 urte), bilakaera (20 urte), etorkizuna (2 hilabeteko lehiaketa). Irakurleak erraz jarraitzen du denbora-lerroa.",
+          "Paragrafo-banaketa orokorrean egokia da: lehen paragrafoan aurkezpena, bigarrenean egunerokotasuna, hirugarrenean arazoa, laugarrenean konponketa... horrek kohesio ona ematen du."
+        ],
+        "hobetzekoak": [
+          "Zenbait paragrafok gai gehiegi nahasten dituzte. Adibidez, bigarren paragrafoan boxeoa, Ahmed, Manuel, polizia... guztia batera. Horrek irakurleak nahastea eragiten du. Paragrafo bakoitzean ideia nagusi BAT eduki behar da.",
+          "Lotura-hitzak errepikatzaileak dira: 'orduan' oso askotan erabiltzen duzu, eta 'baina' eta 'eta' nagusitu egiten dira. Erabili lotura-hitz gehiago: 'hala ere', 'gainera', 'horregatik', 'horrez gain', 'bitartean'... Horiek testua askoz hobeto lotuko dute!",
+          "Zenbait trantsizio nagusitu dira: 'Hurrengo egunean...', '4 urte pasa dira...', 'Orain 2 hilabete barru...'. Hauek ondo daude baina besteekin txandakatu: 'Denbora aurrera joan ahala...', 'Handik urte batzuetara...', 'Une horretatik aurrera...'"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu zure testua idatzi ondoren berrikustean eta lotura-hitz errepikatzaileak (orduan, eta, baina) beste batzuekin ordezten. Hori eginda, testua askoz profesionalagoa izango da eta AK maila nabarmen igoko zaizu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Erregistro egokia narrazioa baterako: informaletxoa baina pertsonala, naturalitatea nabaritzen da. Hori oso ona da narrazio batean!",
+          "Hiztegia nahiko ugaria da testuaren luzera kontuan hartuta: 'drogazale', 'prostituta', 'fruta-denda', 'biltegi', 'hile-apainderi', 'boxeo', 'lehiaketa', 'tatuaje'... hitz zehatzak erabiltzen dituzu."
+        ],
+        "hobetzekoak": [
+          "Zenbait errepikapen lexiko nabarmena: 'esan' 20 aldiz baino gehiagotan, 'gauza' sarri, 'etxean' eta 'boxeoa' errepikatuz. Erabili sinonimoak: 'esan' → 'adierazi, azaldu, aipatu, komentatu'; 'gauza' → 'elementu, xehetasun, kontua'.",
+          "Perpaus sinpleak nagusitzen dira: 'Nik asko pentsatu izan behar izan dut baina baiezkoa esan diot.' Egitura hau sinpleegia da. Saiatu konplexuagoak egiten: 'Asko pentsatu ondoren, baiezkoa esan nion.' Edo: 'Pentsatu behar izan nuen eta, azkenean, baiezkoa esan nion.'",
+          "Esaldi batzuk gaztelaniazko eragina nabarmena dute egitura mailan, baina hori ZL-n aztertuko dugu."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez baldintza-esaldi BAT sartzen ('...balitz, ...luke/litzateke'), edo erlatiboa ('...dudan/duen...'). Horrek BLH-n nabarmen igoko zaizu eta zure testua maila gorenago batean jarriko du!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Testu luzea da eta komunikazioa ez da eragozten, ulertzen da ondo gehienetan. Hori garrantzitsua da!",
+          "Aditz-forma batzuk ondo erabiltzen dituzu: 'pastu dira' (pasa), 'irabazi nuen', 'izan zen'... NOR sistema kontrolatzen duzu."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) sarri ahazten duzu NOR-NORK aditzetan. Hau da akatsik ohikoena eta kritikoena: 'Nire aitak jo egiten dit' (ondo), baina 'Nire aita gaixotu egin da' (okerra, 'aitak' izan behar da). Gogoratu: NOR-NORK aditzetan, subjektuak -K behar du BETI.",
+          "Kasu-markak nahastuz: 'Ahmederi eta niri' okerra da, 'Ahmedi eta niri' izan behar da (datibo singularrean -ri da, ez -eri). 'Ahmederkin' okerra da, 'Ahmedekin' izan behar da.",
+          "Puntuazioa hobetu behar da: koma ugari falta dira lotura-hitzen ondoren ('Baina berriz triste nago' → 'Baina, berriz, triste nago'), eta subjektu/aditz artean komak sobera daude batzuetan.",
+          "Erderakadak: 'situazioa' → 'egoera'; 'prostituta' → 'prostituzioan lan egiten duen emakumea'; 'experiencia' → 'esperientzia' (ondo), baina 'sorpresa' → 'sorpresa' (ondo batuan)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin akats hauek desagertuko dira. Badaukazu maila hori harrapatzeko!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "Modeloaren ZL=5 koherentea EP100=6.97 (tartekoa, tartea 5-6)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.25,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Narrazioa oso interesgarria da, Unax! Istorio hunkigarria kontatu duzu, pertsonaia biziduna sortuz. Zure ideia nagusia oso ona da eta garapena zabala, luzea eta betegarria. Hobetzeko tarte handiena ZL-n dago: ergatiboa (-K) eta kasu-markak kontrolatzea lehentasuna da. Horrez gain, lotura-hitzak aberastea eta puntuazioa fintzea lagunduko dizute nota igotzen. Aurrera, txapeldun!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 6.25,
+    "biribiltzea_modelo": 6.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa (-k) falta NOR-NORK aditzetan",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Nire aita gaixotu egin da",
+        "zuzenketa": "Nire aitak gaixotu egin du",
+        "azalpena": "Aditza NOR-NORK denean ('gaixotu egin' → nork gaixotu egin?), subjektuak -k marka behar du. 'Aita' subjektua da, beraz 'aitak'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Datiboa (-ri) okerra",
+      "akats_id": "ZL-KAS-2",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ahmederi eta niri ez zaigu beste batzuekin egotea gustatzen",
+        "zuzenketa": "Ahmedi eta niri ez zaigu beste batzuekin egotea gustatzen",
+        "azalpena": "Datiboan singularrean -ri da, ez -eri. 'Ahmed' izen propioari zuzenean -i gehitzen zaio: 'Ahmedi'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Soziatiboa (-rekin) okerra",
+      "akats_id": "ZL-KAS-8",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ahmederkin egoten naiz",
+        "zuzenketa": "Ahmedekin egoten naiz",
+        "azalpena": "Soziatiboa izen propioekin zuzenean -ekin da, ez -rekin. 'Ahmed' + -ekin = 'Ahmedekin'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Nik asko maite ditut baina betadnik arazoak ditugu",
+        "zuzenketa": "Nik asko maite ditut baina beti arazoak ditugu",
+        "azalpena": "Subjektua plurala denean ('gu'), aditzak ere plurala izan behar du: 'ditugu' (ondo). 'Betadnik' ez da existitzen; 'beti' da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina berriz triste nago",
+        "zuzenketa": "Baina, berriz, triste nago",
+        "azalpena": "Lotura-hitzen ostean ('baina', 'berriz', 'orduan', 'horregatik'...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Manuelek beti egin du nirekin boxeo baina azkenalidan ezin izan da",
+        "zuzenketa": "Manuelek beti egin du nirekin boxeo, baina azken aldian ezin izan da",
+        "azalpena": "Subjektu nagusia eta aditz nagusia artean EZ da koma jartzen euskaraz. 'Manuelek... egin du' ez du komarik behar artean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko lexikoa",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "situazioa",
+        "zuzenketa": "egoera",
+        "azalpena": "'Situazioa' gaztelaniazko 'situación' kalkoa da. Euskaraz 'egoera' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "boxeoa ez dit ordaindu nahi",
+        "zuzenketa": "boxeoa ordaindu nahi ez dit",
+        "azalpena": "Euskaraz ordena SOV da: subjektua + objektua + aditza. Objektua ('boxeoa') aditzaren aurretik joan behar da, eta ezezko partikulak ('ez', 'nahi') aditz-taldean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'esan' 20+ aldiz erabiltzen duzu",
+        "zuzenketa": "Alternatibak: adierazi, azaldu, aipatu, komentatu, jakinarazi",
+        "azalpena": "Hitz bera askotan errepikatzeak testuaren kalitatea jaisten du. Erabili sinonimoak aberastasuna emateko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 789,
+    "minor": 25,
+    "major": 15,
+    "critical": 0,
+    "EP100_gordina": 6.97,
+    "EP100_pisuduna": 2.09,
+    "EP100_gordina_modelo": 7.4,
+    "EP100_pisuduna_modelo": 6.3,
+    "minor_modelo": 22,
+    "major_modelo": 18,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "kodea": "TELMO",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Kriston istorioa sortu duzu! Hasiera, korapiloa eta amaiera argi daude, eta Ikerren bilakaera oso ondo kontatzen duzu. Pertsonaiak bizirik daude!",
+          "Narrazioaren erritmoa oso ona da: hasieran geldoago, erdian tentsio handia, eta bukaeran desenllacea. Irakurlea harrapatzen duzu!"
+        ],
+        "hobetzekoak": [
+          "Hasierako paragrafoen banaketa hobetu beharko zenuke: lehenengo paragrafoa oso luzea da eta informazio asko dago. Zatitu zatikiago irakurlea ez nekarazteko.",
+          "Ikerren sentimenduak gehiago deskribatu zenitzake barneko monologo txikiekin. Adibidez: zer sentitu zuen gurasoek mugikorra kendu ziotenean? Noiz hasi zen konturatzen arazo bat zegoela?"
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu paragrafoen luzera kontrolatzen: ideia nagusi bat = paragrafo bat. Eta pertsonaien sentimenduak 'erakutsi', ez soilik 'kontatu'. Hori egiten duzunean, istorioa oraindik indartsuagoa izango da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Denbora-sekuentzia oso argia da: hasiera → korapiloa → klimaxa → desenllacea. Irakurleak ezin du galdu!",
+          "Lotura-hitzak ondo erabiltzen dituzu: 'baina', 'aldi berean', 'horregatik'. Hori oso inportantea da narrazioan!"
+        ],
+        "hobetzekoak": [
+          "Lehen paragrafoa zatitu beharko zenuke: 8 lerro baino gehiago dira eta informazio asko dago. Zatitu bi edo hiru paragrafoan gai berriaren arabera.",
+          "Trantsizio batzuk azkarregiak dira: Ikerrek etxetik alde egiten duenetik aurkituta dagoenera saltoa handia da. Tartean egun batzuk deskribatu zenitzake, hiru aste horiek nola pasatu zituen."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu denbora-salto handiak egiterakoan 'zubi' bat jartzen: esaldi bat edo bi esanez zer gertatu zen tartean. Horrela koherentzia hobetuko duzu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da narraziorako: 'dirdira', 'urduritasuna', 'ezegonkortasun mentalak'. Hitz hauek madurotasuna adierazten dute!",
+          "Perpaus konplexuak ondo erabiltzen dituzu: mendekoek, erlatibozkoak, aditz-formak ugari. Hau oso positiboa da!"
+        ],
+        "hobetzekoak": [
+          "Zenbait hitz errepikatu egiten dira: 'sentitu' 6 aldiz agertzen da gutxi gorabehera. Erabili sinonimoak: sumatu, nabaritu, hauteman, jabetu...",
+          "Erregistroa gehienetan egokia da, baina 'Ikusten? IA-K benetan laguntzen dit' zatia kolokialegia da narraziorako. Aldatu beste era batera: 'Benetan laguntzen zidan, pentsatzen zuen'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero bilatu aditz errepikatuak (sentitu, esan, egin...) eta ordezkatu sinonimoekin. Horrela hiztegia are aberatsagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema NOR-NORK ondo kontrolatuta duzu gehienetan: 'azaldu zion', 'deitu zioten'. Hau ez da erraza eta ondo daukazu!",
+          "Ortografia gehienetan zuzena da eta deklinabidea ere ondo erabiltzen duzu orokorrean. Oso ona!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 4 aldiz ahaztu zaizu: 'IA-K benetan laguntzen dit' → 'IA-k', 'gurasoek ezegonkortasunAK' → 'ezegonkortasunek'. Gogoratu: aditza NOR-NORK denean, subjektuak -k behar du beti.",
+          "Puntuazio-arazoak: komak falta lotura-hitzen ondoren ('Baina, aldi berean' → 'Baina aldi berean' okerra da; 'Baina, aldi berean,' behar da). Eta run-on esaldi bat: 'Ikerrek aldiz, ez zekien...' perpaus oso luzea da puntu bat sartu gabe."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi esaldi bakoitza: aditza NOR-NORK da? Baietz bada, subjektuari -k jarri. Eta lotura-hitzen ondoren BETI koma: 'Hala ere,', 'Baina,', 'Horregatik,'. Hau sistematikoa da!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.96 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain idatzi duzu, benetan! Istorioa oso interesgarria da eta ondo kontatzen duzu: hasiera, korapiloa eta amaiera ondo nahastuak daude. Hizkuntza-maila altua duzu eta aditz-sistema ondo kontrolatzen duzu. Hobetzeko guneak: ergatiboa sistematikoki aplikatu, paragrafoen banaketa hobetu, eta puntuazioa zaindu lotura-hitzen inguruan. Aurrera zu!",
+    "lehentasuna": "Ergatiboa (-k): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -k jarri. Komak: lotura-hitzen ondoren BETI koma. Hauek bi lehentasun nagusiak dira!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "IA-K benetan laguntzen dit",
+        "zuzenketa": "IA-k benetan laguntzen dit",
+        "azalpena": "Aditza NOR-NORK denean (laguntzen → nork laguntzen?), subjektuak -k marka behar du. 'IA-K' letra larriz idatzi zenuen baina -k letra txikiz joan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ezegonkortasunak gogortu edo superatu egin zituen",
+        "zuzenketa": "ezegonkortasunak gogortu edo superatu egin zituEN (subjektua plurala denean, aditzak ere plurala)",
+        "azalpena": "Subjektua plurala denean (ezegonkortasunak), aditzak ere plurala izan behar du. 'Zituen' singularra da; 'zituzten' edo beste forma bat behar da testuinguruaren arabera."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina aldi berean beste gauza batzuk",
+        "zuzenketa": "Baina, aldi berean, beste gauza batzuk",
+        "azalpena": "Lotura-hitzen ondoren ('baina', 'hala ere', 'horregatik'...) beti koma jarri behar da. Eta 'aldi berean' tartekiko esaldia denez, koma artean joan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta mendeko perpausaren ondoren",
+      "akats_id": "ZL-PUN-5",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Etxera iritsi zenean bereziki azkar bazkaldu",
+        "zuzenketa": "Etxera iritsi zenean, bereziki azkar bazkaldu",
+        "azalpena": "Mendeko perpausa nagusiaren aurretik badago, koma jarri behar da bien artean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo — letra falta",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "etra arrastorik utzi gabe",
+        "zuzenketa": "eta arrastorik utzi gabe",
+        "azalpena": "Typo bat: 'etra' → 'eta'. Letra bat falta da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko — aditza",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'Sentitu' aditza 6 aldiz inguru errepikatzen da",
+        "zuzenketa": "Erabili sinonimoak: sumatu, nabaritu, hauteman, jabetu, ohartu...",
+        "azalpena": "Aditz bat gehiegitan errepikatzeak hiztegia mugatzen du. Aldatu sinonimoekin aberastasuna gehitzeko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Run-on esaldia — puntua falta",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ikerrek aldiz, ez zekien nola hitzez adierazi barruan zer gertatzen ari zitzaion, eta horregatik, gau hartan, etxetik alde egin zuen...",
+        "zuzenketa": "Zatitu bi esalditan edo puntu eta koma sartu esaldi independenteen artean.",
+        "azalpena": "Esaldi oso luzea da eta puntu bat sartu beharko litzateke zatitzeko. Run-on esaldia zailtzen du irakurketa."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 562,
+    "minor": 6,
+    "major": 6,
+    "critical": 0,
+    "EP100_gordina": 3.2,
+    "EP100_pisuduna": 1.96,
+    "EP100_gordina_modelo": 3.38,
+    "EP100_pisuduna_modelo": 2.85,
+    "minor_modelo": 7,
+    "major_modelo": 6,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1.3,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 2,
+        "S3": 2,
+        "S4": 1,
+        "S5": 2,
+        "S6": 2,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua DBH4ko ikasle batek idatzia dirudi. Hainbat akats natural agertzen dira: 'zituelarik' erabilerak ez dira guztiz egokiak, 'bruuz' hitza itxuragabea da, 'etra' ('eta' behar luke), puntuazio akatsak ('zituen,eta'), esaldietan koherentzia arazoak ('desegonkortasun mentalak...gaitasun ezberdinak blokeatu' egitura nahasia). Hizkera batzuetan heldua da ('motibazio berezirik', 'desegonkortasun mentalak') baina akatsekin txandakatzen da, DBH mailako idazlan batean espero daitekeena. Istorioak dramatismo narrazio-estiloa du baina ez da robotikoa; narratzailea pertsonalizatua da. Luzera (~650 hitz) egokia da DBH4ko lan garrantzitsu baterako. Kalitatea ez da uniformea, hasieran hobea da eta amaiera pixka bat presatua dirudi. Guztira, akats naturalak eta koherentzia faltarekin idatzitako lan autentikoa dirudi."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo ertaina (8/21 puntu)",
+        "Nota altua (7.0) DBH4 mailan",
+        "Hiztegi-maila batzuetan aurreratuegia izan daiteke ikaslearen adinera"
+      ]
+    }
+  }
+}

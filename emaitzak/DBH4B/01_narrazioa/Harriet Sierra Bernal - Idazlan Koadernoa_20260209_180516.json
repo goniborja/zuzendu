@@ -1,0 +1,256 @@
+{
+  "kodea": "HARRIET",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 3,
+      "maila": "hasiberria",
+      "cap_aplikatua": "CAP-4",
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio pertsonala kontatzeko gaitasuna duzu eta esperientzia emozionalak transmititzen dituzu. Hori oso balio handia dauka!",
+          "Narrazioaren kronologia argi dago eta denbora-markatzaileak erabiltzen dituzu ('4 urte pasa dira', 'orain dela 5 hile'). Hori oso ondo dago."
+        ],
+        "hobetzekoak": [
+          "Ataza-fitxak iritzi-artikulua eskatzen zuen, baina narrazioa idatzi duzu. Iritzi-artikuluak argudioak, iritzia eta ondorioa behar ditu, ez istorioa. Genero egokia aukeratu behar da.",
+          "Hitz-kopurua oso altua da (900+ hitz) iritzi-artikulu baterako, eta ez dago garapen argumentatiborik. Testua 'zer gertatu zitzaidan' kontatzen du, ez 'zer pentsatzen dut' gai bati buruz."
+        ],
+        "feed_forward": "Hurrengo aldian, irakurri ondo ataza-fitxa eta galdetu zure buruari: iritzi-artikulua da ala narrazioa? Iritzi-artikuluetan, tesia eta argudioak behar dira, ez istorioa. Egitura aldatu behar duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa egiten duzu eta kronologia jarraitzen duzu. Hori oso garrantzitsua da!",
+          "Denborazko lotura-hitzak erabiltzen dituzu ('hurrengo egunean', 'orain dela', 'azken aldian'). Hori koherentzia ematen du."
+        ],
+        "hobetzekoak": [
+          "Paragrafoak oso luzeak dira eta ideia asko daude bakoitzean. Paragrafo bakoitzak ideia nagusi BAT izan behar du. Orain 10-15 lerro dituzte batzuek!",
+          "Lotura-hitz gutxi erabiltzen dituzu ideien artean paragrafo barruan. Erabili 'gainera', 'hala ere', 'horregatik' eta antzekoak."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitza 5-7 lerrorekin egiten. Ideia nagusi bat, garatu, eta hurrengo paragrafora pasatu. Eta esaldi bakoitzaren artean lotura-hitz bat gehitu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz batzuk ondo erabiltzen dituzu: 'situazioa', 'entrenamenduak', 'esperientziarik'. Hiztegia garatzen ari zara!",
+          "Aditz-denborak aldatzen saiatu zara ('idatzi nuenetik', 'irabazi nuen', 'joango naiz'). Hori oso ona da konplexutasuna handitzeko."
+        ],
+        "hobetzekoak": [
+          "Hitz-errepikapena oso altua da: 'eta' 70+ aldiz, 'orduan' 15+ aldiz, 'oso' 10+ aldiz. Erabili sinonimoak eta aldatu esaldien hasiera!",
+          "Hitz generikoak asko: 'gauza', 'egin', 'ona'... Erabili hitz zehatzagoak: 'ekintza', 'burutu', 'aproposa'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi testua eta gero bilatu hitz errepikatuak. Aldatu batzuk sinonimoengatik. Esaldi bakoitza 'eta' gabe hastea saiatu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 2,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-8",
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-denbora batzuk ondo erabiltzen dituzu: 'joan nintzen', 'esan zidan', 'irabazi nuen'. Hori oso ona da!",
+          "Deklinabidearen kasu batzuk kontrolatzen dituzu: 'Bilbon', 'etxean', 'lanean'."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) sistematikoki faltatzen da: 'nire aitak jo egiten dit' ondo dago, baina 'nire aita drogazalea da' → 'nire aitak'. Hau da akatsik garrantzitsuena eta gehien errepikatzen dena.",
+          "Ortografia-akats asko daude: 'betadnik', 'berarre', 'berdina', 'horain'... Hauek hiztegian egiaztatu behar dira."
+        ],
+        "feed_forward": "Hurrengo aldian, lehenik ergatiboa (-k) ikasi: NOR-NORK aditzetan, subjektuak BETI -k behar du. Hau da lehentasun nagusia! Eta bigarrenik, idatzi eta gero hiztegian egiaztatu hitz zalantzazkoak."
+      },
+      "zl_modelo": 2,
+      "python_doikuntza": "Modeloaren ZL=2 koherentea EP100=20.4 (hasiberria, tartea 1-2)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 3.25,
+    "biribiltzea": 3,
+    "heziberri_maila": "hasiberria",
+    "orokorra": "Istorioa kontatzeko gaitasuna duzu eta esperientziak modu emozionalean transmititzen dituzu. Baina ataza-fitxak iritzi-artikulua eskatzen zuen eta narrazioa idatzi duzu. Hau da arazo nagusia. Bestalde, akats linguistiko asko daude, batez ere ergatiboa (-k) sistematikoki faltatzen da eta ortografia-akatsak ugari dira. Hobetzeko tarte handia duzu, baina daukazu aurrera egiteko gaitasuna!",
+    "lehentasuna": "Ergatiboa (-k): NOR-NORK aditz guztietan subjektuari -k jarri. Hau da lehentasun nagusia eta errepikapen gehien duena!",
+    "batez_bestekoa_modelo": 3.25,
+    "biribiltzea_modelo": 3.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 35,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Nire aita drogazalea da",
+        "zuzenketa": "Nire aitak drogazalea da",
+        "azalpena": "Aditza NOR-NORK denean (izan → nor da? nork da?), subjektuak -K marka behar du. 'Aita' subjektua da → aitak."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "nik asko maite ditut",
+        "zuzenketa": "nik asko maite ditut (ONDO) edo haiek maite ditut",
+        "azalpena": "Objektua plurala denean, aditzak ere plurala izan behar du: dut (sing.) vs ditut (plur.)."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Ortografia-akatsak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 18,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "betadnik, horain, berrarre, berdina, ekipoak (plurala), boxeon, arrazoi askorengaitik",
+        "zuzenketa": "betiko, orain, berarekin, berbera, ekipoak (plural ONDO baina ergatiboa falta), boxeon (boxeoan?), arrazoi askoengatik",
+        "azalpena": "Hitz hauek hiztegian egiaztatu behar dira. Ortografia akatsak komunikazioa zailtzen dute."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-elkarketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hile-apainderia, Zazpti-kaleetarantz, komentatu nahi izan nuen, horregaitik, niretzat, berarre",
+        "zuzenketa": "ile-apainderia, Zazpi Kaleetara, komentatu nahi izan nuen (ONDO), horregatik, niretzat (ONDO), berarekin",
+        "azalpena": "Hitz-elkarketak arauak dituzte. Zazpi Kaleak izen propioa da eta ez da elkartu behar."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kasu-marka okerra — datiboa",
+      "akats_id": "ZL-KAS-2",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "nire amari txarto tratatzen dio",
+        "zuzenketa": "nire amari txarto tratatzen dio (ONDO)",
+        "azalpena": "Datiboa (-ri) ondo erabili duzu kasu honetan."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Adlatiboa (-ra) falta",
+      "akats_id": "ZL-KAS-3",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "nire legusu batekin geratzen gara",
+        "zuzenketa": "nire lehengusuarekin geratzen gara",
+        "azalpena": "Adlatiboa (-ra) norabidea adierazten du. Kasu honetan -rekin (soziatiboa) erabili duzu, zuzena da."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Erderakada — mailegu okerra",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "situazioa, boxeo, familia, hospital",
+        "zuzenketa": "egoera, boxeoa (mailegu onartua), familia (mailegu onartua), ospitale",
+        "azalpena": "'Situazioa' → 'egoera' euskaraz. 'Boxeo' eta 'familia' mailegu onartuak dira baina 'hospital' → 'ospitale'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 15,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "orduan nik eta Ahmedek laguntzen diogunak gara",
+        "zuzenketa": "Orduan, nik eta Ahmedek laguntzen diogunak gara",
+        "azalpena": "Lotura-hitzen ostean ('orduan', 'beraz', 'hala ere'...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Subjektu eta aditz arteko koma (okerra)",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Nire bizitza txarrtxen hasi da",
+        "zuzenketa": "Nire bizitza txarrera hasi da (ez koma behar, baina 'txarrtxen' okerra da)",
+        "azalpena": "Subjektu eta aditz artean EZ da koma jartzen euskaraz (gaztelaniazko kalkoa)."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 10,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esan dit urte amaieran Ahmed-ekin egingo dudala lan",
+        "zuzenketa": "esan dit urte amaieran Ahmedekin lan egingo dudala",
+        "azalpena": "Euskaraz ordena SOV da: subjektua + objektua + aditza. Objektua ('lan') aditzaren aurretik joan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "NOR-NORI-NORK nahasketa",
+      "akats_id": "ZL-ADI-7",
+      "kopurua": 4,
+      "larritasuna": "critical",
+      "adibidea": {
+        "detektatutakoa": "Ahmederkin eta niri ez zaigu beste batzuekin egotea gustatzen",
+        "zuzenketa": "Ahmedi eta niri ez zaigu beste batzuekin egotea gustatzen",
+        "azalpena": "NOR-NORI aditza da 'gustatu' → NOR (egotea) + NORI (guri). Ez da NORK behar. 'Ahmedi eta niri' datiboa da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 902,
+    "minor": 66,
+    "major": 53,
+    "critical": 4,
+    "EP100_gordina": 20.4,
+    "EP100_pisuduna": 2.83,
+    "EP100_gordina_modelo": 19.5,
+    "EP100_pisuduna_modelo": 14.2,
+    "minor_modelo": 48,
+    "major_modelo": 53,
+    "critical_modelo": 4,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.3,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 1,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats ortografiko eta gramatikalak ugari: 'betadnik' (beti), 'bezte baztuetak' (beste batzuetan), 'txarrtxen' (txarrera), 'amitu' (sartu), 'lasaialdia' (lasaitasuna), 'Zazpti-kaleetarantz', 'azkenalidan', 'hitzegiten', 'pastu' (pasa), 'horain' (orain), 'odolzkoa' (odolazkoa), 'txpelketara', 'esanai' (esanahi), 'gorpo' (gorputz), 'urtetzen' (ateratzen), 'eltzea' (iristea). Egitura narratiboa ez da koherentea, perpaus asko lotura gabeak dira, eta puntuazio-akatsuak daude. Hizkuntza naturala da, ez da hitz sofistikatuak erabiltzen. Tonua oso pertsonala da, gazteen estiloarekin. Kalitatea ez da uniformea, narrazio zatiak desorekatuak dira. Luzera 800+ hitz baditu ere (S5=1), beste seinale guztiak negatiboak dira IArentzat. Argi dago ikasle gazte batek idatzi duela."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Nota oso baxua (3.0)",
+        "Testu-mota ez da errespetatzen (narrazioa iritzi-artikuluaren ordez)",
+        "EP100 oso altua (14.2)",
+        "Akats sistematiko asko (ergatiboa, ortografia)"
+      ]
+    }
+  }
+}

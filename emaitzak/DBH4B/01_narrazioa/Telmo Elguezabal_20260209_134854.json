@@ -1,0 +1,179 @@
+{
+  "kodea": "TELMO",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioa oso ondo egituratuta dago: hasiera-korapiloa-amaiera argi daude. Pertsonaia garatua da eta bilakaera emozionala ondo lantzen duzu. Hau da lana!",
+          "Istorioak ikuspuntu sozial kritikoa du (teknologiaren erabilera txarra) eta finala koherentea da hasierarekin. Oso ondo!"
+        ],
+        "hobetzekoak": [
+          "Erdialdeko zenbait zatitan narratiba azkarregia da: Ikerren desegonkortasun mentala gehiago garatu zenezakeen, prozesua erakutsiz, ez soilik aipatuz. Adibidez: zein simptoma zehatz, zer pentsamendu...",
+          "Amaiera oso azkarregia da. 'Hiru aste kalean' zatia laburregia da — esperientzia hori gehiago deskribatu zenezakeen: non lo egin, zer jan, nola sentitu... Horrek amaiera indartsuagoa egingo luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu une emozional garrantzitsuetan gelditu eta SENTIPENAK deskribatzen: ez soilik 'negarrez zegoen', baizik eta 'nola zegoen negarrez, zergatik, zer sentitzen zuen barnean'. Horrek nota 9-10 ingurura eramango zaitu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa argia da eta paragrafoen banaketa logikoa: bakoitzak ekintza bat edo une bat hartzen du. Oso ondo egituratuta!",
+          "Lotura-hitzak ondo erabiltzen dituzu gehienetan: 'baina', 'hala ere', 'aldi berean', 'horregatik'... Horrek testua koherentea egiten du."
+        ],
+        "hobetzekoak": [
+          "Zenbait trantsizio apur bat azkarra da. Adibidez: 'Egunak aste bihurtu ziren' eta gero zuzenean talde-lanera saltatzen duzu. Tarteko lotura bat gehitu zenezakeen: 'Denbora pasatu ahala...' edo 'Bitartean, ikastetxean...'",
+          "Noizean behin salto temporalak ez dira oso argiak. Adibidez: 'Hurrengo egunetan' vs 'Egunak aste bihurtu ziren' — zenbat denbora pasatu da? Hau argitu zenezakeen."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu trantsizio temporal bakoitzean denbora-markatzaile bat gehitzen: 'Astebete geroago', 'Hilabete baten buruan'... Horrek irakurleari denbora-linea argiagoa emango dio!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da narrazio baterako: 'dirdira', 'dardarka', 'urduritasuna', 'murgilduta', 'blokeatu'... Hitz hauek testu narratiboan oso egokiak dira!",
+          "Egitura konplexuak erabiltzen dituzu: erlatibozkoak ('sentitu ez zuena'), kausazkoak ('-lako'), denborazkoak ('iritsi zenean')... Hau oso ondo dago DBH4rako!"
+        ],
+        "hobetzekoak": [
+          "Zenbait zatitan errepikapen lexikoa dago: 'sentitu' 6 aldiz agertzen da. Erabili sinonimoak: nabaritu, jabetu, sumatu, esperimentatu... Horrekin aberastasuna handitzen da!",
+          "Noizean behin egitura errepikatzaileak: 'X egin zuen' errepikapenak. Aldatu egitura batzuk: 'bazkaldu ondoren', 'ordenagailua piztean'... Hau are naturalagoa egingo luke testua."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, bilatu aditz edo izen bat behin baino gehiagotan agertzen den eta aldatu sinonimoz. Sistema horrekin BLH 8-9 igotzeko bidean zara!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema gehienetan ondo kontrolatuta dago: 'irakasleek azaldu zion', 'programak ematen zion'... Hau ez da erraza eta ondo egin duzu!",
+          "Deklinabidea gehienetan zuzena da: adlatiboa (-ra), ablatiboa (-tik), lokatiboak... Kontrol ona duzu!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 4 aldiz ahaztu duzu, eta hau da akatsik garrantzitsuena. Gogoratu: NOR-NORK aditzetan subjektuak -K behar du beti. 'IA laguntzen dit' → 'IA-K laguntzen dit'. Hau konpondu eta ZL nota 7-8ra igoko da!",
+          "Puntuazio-akatsak: koma falta lotura-hitzen ondoren eta noizean behin sobera ere. Hau konpontzea erraza da: lotura-hitz ondoren BETI koma. Errepasatu eta kito!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Hori eginda, akats hauek desagertuko dira. Sistema sinple bat, emaitza handiak!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.37 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Primeran egin duzu lana, Telmo! Narrazioa oso ondo egituratuta dago, istorioa interesgarria da eta pertsonaia konplexua da. Hizkuntza aberatsa erabiltzen duzu eta egitura konplexuak kudeatzen dituzu. Hobetzeko bi puntu nagusi: ergatiboa (-k) ez ahaztu NOR-NORK aditzetan, eta narratibako une emozionalak gehiago garatu. Horiek konpondu eta 8-9 nota eremuan izango zara. Jarrai lanean, oso ondo zoaz!",
+    "lehentasuna": "Ergatiboa (-k) ez ahaztu: NOR-NORK aditzetan subjektuak beti -K behar du. Esaldi bakoitza berrikusi eta egiaztatu. Hau da lehentasun bakarra!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu NOR-NORK aditzetan",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "IA benetan laguntzen dit",
+        "zuzenketa": "IA-K benetan laguntzen dit",
+        "azalpena": "Aditza NOR-NORK denean (laguntzen → nork laguntzen?), subjektuak -K marka behar du beti. Hemen: IA + -K → IA-K."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina aldi berean beste gauza batzuk",
+        "zuzenketa": "Baina, aldi berean, beste gauza batzuk",
+        "azalpena": "Lotura-hitz ondoren ('baina', 'aldi berean', 'hala ere'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma sobera (subjektu eta aditz artean)",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ikerrek, ez zuen motibazio berezirik",
+        "zuzenketa": "Ikerrek ez zuen motibazio berezirik",
+        "azalpena": "Subjektu eta aditz nagusi artean EZ da koma jartzen euskaraz (gaztelaniako kalkoa da)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo / Letra falta",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "etra arrastorik utzi gabe",
+        "zuzenketa": "eta arrastorik utzi gabe",
+        "azalpena": "Typo: 'etra' → 'eta'. Letra falta 't' lekuan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-elkarketa anbiguoa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "adimen artifizialaren ren",
+        "zuzenketa": "adimen artifizialaren",
+        "azalpena": "Errepikapen okerra: 'adimen artifizialaren ren' → 'adimen artifizialaren'. 'Ren' errepikatzea ez da behar."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexikoa (aditza)",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'sentitu' aditza 6 aldiz erabiltzen da",
+        "zuzenketa": "Sinonimoak: nabaritu, jabetu, sumatu, esperimentatu",
+        "azalpena": "Aditz bera gehiegitan errepikatzea hiztegiaren aberastasuna murrizten du. Erabili sinonimoak."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 584,
+    "minor": 7,
+    "major": 4,
+    "critical": 0,
+    "EP100_gordina": 2.57,
+    "EP100_pisuduna": 1.37,
+    "EP100_gordina_modelo": 2.9,
+    "EP100_pisuduna_modelo": 2.7,
+    "minor_modelo": 7,
+    "major_modelo": 4,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

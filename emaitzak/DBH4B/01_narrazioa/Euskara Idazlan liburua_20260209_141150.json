@@ -1,0 +1,190 @@
+{
+  "kodea": "EUSKARA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso ondo egituratua: sarrera argia (kokapena, pertsonaiak), korapiloa benetan interesgarria (hormaren aurkikuntza, mapak, altxorra) eta amaiera koherentea. Narrazioak elementu guztiak ditu!",
+          "Pertsonaiak ondo garatuak eta errealistak dira. Leire eta Unai anaia-arrebak naturalki elkarrizketatzen dute, eta euren izaerak bereizten dira: Leire hasieran zuhurragoa eta Unai abenturazaleagoa. Bikain!"
+        ],
+        "hobetzekoak": [
+          "Amaiera apur bat azkaregikoa da. Aitonaren erreakzioa laburregia: esaldi bat eta kito. Jarraibide luzeagoa ematea falta da: zer egin zuten altxorrarekin? Herriko museora eraman? Albisteak zabaldu? Hori garatuta, istorioak biribilduko luke gehiago.",
+          "Deskribapen gehiago sartuz intentsitatea igoko zenuke. Adibidez, tuneleko tentsio-momentua gehiago landu zenezake: zer entzuten zuten? Nola sentitzen zen Leire? Horrek irakurlea gehiago erakartzen du."
+        ],
+        "feed_forward": "Hurrengo aldian, istorioa bukatzen duzunean, galdetu zeure buruari: 'Eta gero, zer gertatu zen?'. Azken paragrafoan jarraibidea ematen baduzu, istorioa osatzen da eta irakurleak gogobete-gehiago sentituko du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa argia eta logikoa: hasiera-korapiloa-amaiera. Gertaeren sekuentzia koherentea da eta erraz jarraitzen da.",
+          "Paragrafoen banaketa ondo egina dago: bakoitzak ekintza-bloke bat du. Elkarrizketak ere ondo txertatuta daude narrazioan."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak eskasak dira. Gehienetan perpausak 'eta' edo 'baina' bidez lotzen dituzu. Erabili 'orduan', 'hala ere', 'horretaz gain', 'une hartan', 'bitartean'... Horiek sartuta, narrazioa fluidoagoa izango da.",
+          "Denboraren pasabidea ez da beti argi: 'Hurrengo egunean' (ondo), baina gero ordu erdi ibili direla bakarrik aipatzen da. Denbora-markatzaile gehiago: 'ordu batzuk geroago', 'iluntzean', 'arratsaldean itzultzean'..."
+        ],
+        "feed_forward": "Hurrengo aldian, idazten ari zarenean, saiatu paragrafo bakoitzean lotura-hitz BAT gutxienez sartzen narrazioa lotzeko. Lista bat egin eta eskuetan izan idazterakoan: gainera, orduan, bitartean, azkenean, horretaz gain. Horrela narrazioa gora eta gora!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da narraziozko testu baterako: 'misteriotsua', 'inguratuta', 'disdiratsuekin', 'balio historikoa', 'kondaira'... Hitz egokiak eta naturalak!",
+          "Perpaus konplexuak erabiltzen dituzu ondo: erlatiboak ('aitonaren herrira joan ziren'), denborazkoak ('iritsi zirenean'), kausazkoak... Saiakera argia konplexutasunera eta akatsik gutxi!"
+        ],
+        "hobetzekoak": [
+          "Zenbait errepikapen: 'kutxa' (4 aldiz inguruan), 'aurkitu' (3 aldiz), 'pixka bat' (5 aldiz). Erabili sinonimoak: kutxa → kaxa / ontzi / arki; aurkitu → topatu / agertu / azaldu; pixka bat → apur bat / zertxobait.",
+          "Deskribapen sentsorialak falta dira gehiago: koloreak, usainak, zaratak... 'Enborren usaina' (bikain!), baina gehiago: zuhaitzen hosteen hotsa, lurrun hezea, harrien tenperatura hotza..."
+        ],
+        "feed_forward": "Hurrengo aldian, narrazioa idatzi ondoren, errepasatu eta markatu hitz bat 3 aldiz edo gehiago errepikatzen denean. Orduan, sinonimoak bilatu eta aldatu. Hori egiten duzunean, hiztegia automatikoki aberasten da eta testua profesionalagoa!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema ondo kontrolatzen duzu gehienetan: 'prestatu zuten', 'aurkitu zituzten', 'sartu zituzten'. Hau ez da erraza eta ondo egin duzu!",
+          "Deklinabidearen erabilera zuzena gehienetan: adlatiboa (-ra), ablatiboa (-tik), soziatiboa (-rekin). Kasuen erabilera ona da orokorrean."
+        ],
+        "hobetzekoak": [
+          "Datiboaren erabilera akats nagusia da: 'iruditu izan zitzaion' → 'iruditu izan zaio' (orainaldia); 'Gustatuko litzaidake' → 'Gustatuko litzaidake' (forma zuzen hau da, BAINA arraroa; hobeto: 'Ikusiko nuke gogoz'); 'kontatu behar diogu' → zuzen!",
+          "Puntuazio-akatsak: koma falta elkarrizketa-amaieren ondoren batzuetan, eta espacioak ere falta dira (adib. 'zuen.Hurrengo' → 'zuen. Hurrengo'). Hau erraz konpontzen da errepasatuz!"
+        ],
+        "feed_forward": "Hurrengo aldian, NOR-NORI aditzak erabiltzean (gustatu, iruditu, gertatu...), egiaztatu ea NORI laguntzailean ondo dagoen: niri → zait, hari → zaio, guri → zaigu. Sistema hau buruan sartzea da gakoa. Badaukazu gaitasuna!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.54 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Narrazioa oso ondo egin duzu! Istorioak egitura argia du, pertsonaiak interesgarriak dira eta irakurlea erakartzen duzu hasieratik. Hiztegia aberatsa da eta perpaus konplexuak erabiltzen dituzu. Hobetzeko eremurik handiena zuzentasun linguistikoan dago, batez ere NOR-NORI sistema eta puntuazioa. Horiek landuta, maila bikaintasunera iritsiko zara!",
+    "lehentasuna": "NOR-NORI aditzak: 'gustatu', 'iruditu', 'gertatu' motakoak erabiltzean, berrikusi ea laguntzailea zuzena den (zaio/zait/zaigu). Hau da lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "NOR-NORI sistema — datiboa",
+      "akats_id": "ZL-ADI-1",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "iruditu izan zitzaion",
+        "zuzenketa": "iruditu izan zaio",
+        "azalpena": "NOR-NORI aditzetan (iruditu, gustatu, gertatu...) laguntzailea orainaldia denean 'zaio' da (hura-hari), ez 'zitzaion' (lehenaldia)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz/elkarrizketa ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Leire, ordea hiri handian",
+        "zuzenketa": "Leire, ordea, hiri handian",
+        "azalpena": "Lotura-hitzak esaldiaren erdian daudenean koma artean jarri behar dira: ', ordea,' / ', hala ere,' / ', gainera,'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Espazio falta puntuen ondoren",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zuen.Hurrengo",
+        "zuzenketa": "zuen. Hurrengo",
+        "azalpena": "Puntuaren ondoren beti espazio bat utzi behar da hurrengo esaldia hasi aurretik."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra (typo)",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esn zuen",
+        "zuzenketa": "esan zuen",
+        "azalpena": "Typo grafikoa: 'esn' → 'esan'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'kutxa' 4 aldiz, 'aurkitu' 3 aldiz, 'pixka bat' 5 aldiz",
+        "zuzenketa": "Sinonimoak: kutxa → kaxa/arki; aurkitu → topatu/azaldu; pixka bat → apur bat/zertxobait",
+        "azalpena": "Hitz berberak maiz errepikatzen dira. Hiztegia aberasteko, sinonimoak erabili."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma desegokia",
+      "akats_id": "ZL-ADI-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gustatuko litzaidake",
+        "zuzenketa": "Ikusiko nuke gogoz / Gustatuko litzateke / Nahiko nuke",
+        "azalpena": "Forma 'litzaidake' gramatikalki zuzena da baina oso arraroa; ohikoagoak: 'ikusiko nuke', 'nahiko nuke'."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 518,
+    "minor": 7,
+    "major": 2,
+    "critical": 0,
+    "EP100_gordina": 2.12,
+    "EP100_pisuduna": 1.54,
+    "EP100_gordina_modelo": 2.5,
+    "EP100_pisuduna_modelo": 2.1,
+    "minor_modelo": 7,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia dirudi. Hainbat akats natural agertzen dira: 'esn zuen' (esan ordez), 'Iditzen' (irekitzen ordez), puntuazio akatsak dialogo-marran, espazio falta ('motxila txiki bana prestatu' / 'onartu zuen.Hurrengo'), egitura sinpleak eta errepikakorrak ('eta' gehiegizko erabilera). Hizkuntza naturala eta adin horretarako espero daitekeen maila da. Egitura nahiko klasikoa den arren (sarrera-garapena-amaiera ebakita), garapena ez da perfektua eta narrazioak erritmo naturala du. Testua 500 hitz ingurukoa da, luzera aproposarekin. Ez dago IA-ren ezaugarri nabarmenak: hiztegia arrunta da, akatsak naturalak dira, eta idazkera-estiloak DBH mailako ezaugarriak ditu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "kodea": "ISET",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo garatuta dago: istorio osoa, protagonistak, korapiloa eta amaiera —guztia badago eta koherentea da. Bikain egin duzu!",
+          "17 zenbakiaren erabilera sinbolikoa oso ideia ongi lortua da eta narrazio osoari batasuna ematen dio. Ideia hori ez da erraza garatzea eta primeran egin duzu!"
+        ],
+        "hobetzekoak": [
+          "Bukaeran narrazioak luzatu egiten da pixkat gehiegi, eta azken paragrafoen garapena errepikakor samarra da. Narrazioak bere gailurra duen unean bukatu, gero apurka desagertu beharrean. Pentsatu non den klimax-a eta handik aurrera gutxitu.",
+          "Deskribapen sentsorialak gehitu beharko zenituzke: zer entzuten da, zer usaintzen da, nola sentitzen da... Hori falta da pixkat, bereziki narrazioaren lehen erdian."
+        ],
+        "feed_forward": "Hurrengo aldian, narrazioa bukatzen duzunean, azken zatia murriztea saiatu: gailurra iritsi eta gero azkar amaitu, ohikoa baino gehiago luzatu gabe. Irakurleak klimaxaren osteko indarra sentitu behar du, ez desagertzea."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen egitura argia da eta narrazioaren jarraipen logikoa errespetatzen duzu: hasiera (aurkezpena) → korapiloa (etxe utzira sartzea) → klimaxa (herria apurtzea) → amaiera. Bikain!",
+          "Denbora-lotura naturalak erabiltzen dituzu ('arratsaldean', 'bapatean', '17 ordu pasatu ondoren'...) eta horrek narrazioa erraz jarraituko egiten du."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak nahiko sinpleak dira orokorrean ('bapatean', 'eta', 'baina'). Gehiago bariazioa jarri: 'hala ere', 'bestalde', 'are gehiago', 'horrez gain'... Horiekin testua askoz profesionalagoa izango litzateke!",
+          "Noizean behin, paragrafoen barne-kohesioan saltoak daude, batez ere deskribapenetatik ekintzara pasatzean. Adibidea: 'Etxea ez zen oso handia' eta gero zuzenean 'Zartzeko ordua'. Trantsizio hobea behar da hortxe."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz konplexuagoak erabiltzen: 'hala ere' kontrasterako, 'horrez gain' gehikuntzarako, 'horrenbestez' ondoriorako. Hitz hauek barneratzen dituzunean, testua maila batera igoko da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioko erregistroa egokia da eta aditz-denborak ondo kontrolatzen dituzu. 'Pasatu ziren', 'heldu zen', 'geratu ziren'... Oso ondo!",
+          "Egitura konplexuak erabiltzen dituzu ('nahiz eta patuak... jarri, sendoagoak zirela sentitu zuten'). Hori ez da erraza eta zu gai zara. Bizi zu!"
+        ],
+        "hobetzekoak": [
+          "Hiztegia errepikakor samarra da. Adibidez: 'jarri' aditza 15 aldiz baino gehiagotan agertzen da ('pozik jarri zen', 'triste jarri zen', 'ados jarri ziren'...). Alternativak: 'bihurtu', 'sentitu', 'adostu', 'erabaki'... Horiekin aberastu!",
+          "Adjektibo generikoak asko erabiltzen dituzu: 'handia', 'zaharra', 'normala'... Zehaztasun gehiago: 'ikaragarri handia', 'antzinatekoa', 'ohikoa'... Hitz bakoitzak kolore bat ematen du!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi hitz errepikatuak. 'Jarri' 3 aldiz agertzen bada, aldatu batzuk: bihurtu, sentitu, adostu... Sinonimoak erabiltzen ikasteko ariketa ona da eta testua nabarmen hobetuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia ondo kontrolatuta dago orokorrean: NOR-NORK sistema ('ikusi zuten', 'esan zion'), NOR sistema ('geratu ziren', 'joan zen')... Primeran!",
+          "Kasuen erabilera zuzena da gehienetan: ergatiboa, datiboa, adlatiboa ('etxera', 'mendira')... Oso ondo, benetan!"
+        ],
+        "hobetzekoak": [
+          "Koma-arauak hobetu behar dituzu: lotura-hitz ondoren koma falta dago batzuetan eta beste batzuetan gainera jartzen da. Begiratu arau horiek ondo eta jarraitu!",
+          "Erderakada eta kalko batzuk daude: 'inporta' (garrantzia), 'zarata oso handi bat' (zarata ikaragarria), 'estali egin zen' (estaldu zen)... Hitz hauek gaztelaniako eragina dute."
+        ],
+        "feed_forward": "Hurrengo aldian, lotura-hitzen ondoren BETI koma jarri: 'Bapatean,' 'Orduan,' 'Hala ere,'... Arau hau barneratuta, ZL maila nabarmen igoko da!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=0.77 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Primeran egin duzu lan hau, benetan! Narrazioa koherentea da, istorioa oso interesgarria eta sinbologia (17 zenbakia) oso ondo landuta. DBH4 mailako narraziorako oso maila onean zaude. Hobetzeko eremuak garbi daude: hiztegia aberastu (errepikapenak saihestuz), lotura-hitzak bariatzea eta puntuazio-arauak sendotzea. Horrekin guztia, hurrengo idazlanean 8tik gora lortzeko gai izango zara!",
+    "lehentasuna": "Lotura-hitz ondoren koma: 'Bapatean,' 'Orduan,' 'Hala ere,'... Arau hau praktikatzen baduzu hurrengo idazlanean, ZL irizpidea 8ra igoko zaizu ziur!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Bapatean Aneri beldur guztia kendu zitzaion",
+        "zuzenketa": "Bapatean, Aneri beldur guztia kendu zitzaion",
+        "azalpena": "Lotura-hitzen ondoren ('bapatean', 'orduan', 'hala ere'...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua — 'jarri' aditza",
+      "akats_id": "LH-1",
+      "kopurua": 16,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Markel oso pozik jarri zen / Markel triste jarri zen / ados jarri ziren",
+        "zuzenketa": "Markel oso pozik bihurtu zen / Markel triste sentitu zen / ados adostu ziren",
+        "azalpena": "'Jarri' aditza 16 aldiz agertzen da testuan. Alternativak erabili: bihurtu, sentitu, adostu, erabaki..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kalko sintaktikoa — 'inporta'",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ez da inporta zer pasatzen den",
+        "zuzenketa": "ez du garrantzirik zer gertatzen den",
+        "azalpena": "Gaztelaniazko 'importar' kalkoa. Euskaraz: 'garrantzia izan', 'axola izan'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kalko lexikoa — 'zarata oso handi bat'",
+      "akats_id": "LH-4",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zarata oso handi bat entzun zen",
+        "zuzenketa": "zarata ikaragarria entzun zen",
+        "azalpena": "'Oso handi' kalko lexikoa da gaztelaniazko 'muy grande' horretatik. Euskaraz naturalagoa: 'ikaragarri', 'izugarri'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Egitura konplexua — 'estali egin zen'",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "estali egin zen",
+        "zuzenketa": "estaldu zen",
+        "azalpena": "Gaztelaniazko 'se cubrió' kalkoa. Euskaraz: 'estaldu zen' (partizipio sinplea)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma gehigarria subjektu-aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Etxe utzia, liburuen etxea, estali egin zen",
+        "zuzenketa": "Etxe utzia (liburuen etxea) estaldu zen",
+        "azalpena": "Aposizio artean komak zuzen daude baina subjektu eta aditz artean ez da koma jartzen normalean. Parentesiak hobeak dira kasu honetan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Aneko nebak arrituta geratu ziren",
+        "zuzenketa": "Aneren nebak arrituta geratu ziren (edo: Aneko neba arrituta geratu zen)",
+        "azalpena": "Plurala 'nebak' bada, singularra 'neba' da. 'Aneko nebak' = 'osabak'?"
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "dena normal zegoela",
+        "zuzenketa": "dena ohikoa / arrunta / normalean bezala zegoela",
+        "azalpena": "'Normala' hitz generikoa da. Zehaztasun gehiago eman: 'ohikoa', 'arrunta', 'normalean bezala'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1038,
+    "minor": 11,
+    "major": 2,
+    "critical": 0,
+    "EP100_gordina": 1.45,
+    "EP100_pisuduna": 0.77,
+    "EP100_gordina_modelo": 1.93,
+    "EP100_pisuduna_modelo": 1.73,
+    "minor_modelo": 12,
+    "major_modelo": 4,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2.0,
+      "seinaleak": {
+        "S1": 2,
+        "S2": 2,
+        "S3": 3,
+        "S4": 2,
+        "S5": 3,
+        "S6": 1,
+        "S7": 3
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu honek IA bidez sortua izatearen ezaugarri ugari ditu. Egitura narratiboa perfektua da (S3:3), sarrera, garapena eta ondorioa oso ondo landuta. Luzera (1200+ hitz) DBH4 ikasle batentzat susmagarria da (S5:3). Kalitatea uniformea da hasieratik amaieraraino (S7:3), akatsik ia gabe. '17' zenbakiaren errepikapenak patroi artifizial bat sortzen du. Hiztegia egokia da oro har baina zenbait esaldi ('denbora gehiago pasatu beharko zuela edo ama lagundu', 'gutien harridurarako') ez dira oso naturalak (S2:2). Tonu bat-bateko aldaketak daude baina orokorrean robotikoa da (S4:2). Badaude akats txiki batzuk ('gutien' = 'guztien') eta egitura batzuk ez dira guztiz naturalak, baina kopurua txikia da DBH mailako testu luze batean (S6:1). Perfekzioa susmagarria da (S1:2). IA probabilitate altua."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

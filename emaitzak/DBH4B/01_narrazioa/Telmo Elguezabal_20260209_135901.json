@@ -1,0 +1,190 @@
+{
+  "kodea": "TELMO",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioaren egitura osoa ondo garatuta daukazu: hasiera-korapiloa-amaiera. Istorioak koherentzia narratiboa du hasieratik bukaerara eta protagonistaren bilakaera argi agertzen da.",
+          "Gaia benetan interesgarria da eta garaiko gaitzera egokitua: adimen artifizialaren erabilera eta gizarte-harremanetako eragina. Oso ondo aukeratu duzu eta sakonki landu duzu argudioa, esperientzia pertsonalarekin lotuz."
+        ],
+        "hobetzekoak": [
+          "Narrazioak erritmoa behar du: zenbait pasarte luzeegiak dira (batez ere erdiko paragrafoak) eta ekintza-deskribapen-pentsamendu arteko oreka hobetu zenezake. Zatitu paragrafoak gehiago eta dinamizatu."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu ekintza-dialogoa-deskribapena txandakatzen paragrafo bakoitzean, erritmoa bizkortzeko. Narrazioak arnasa behar du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da eta istorioak ildo narratibo argia du: aurkezpena → gatazkaren sorrera → garapena → korapiloa → ebazpena. Oso ondo!",
+          "Denbora-lotura ugari erabiltzen dituzu behar bezala: 'hurrengo egunetan', 'aldi berean', 'hiru aste igaro ondoren'... Horrek koherentzia ematen dio testuari."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz batzuk errepikatzen dituzu gehiegi: 'bitartean' 3 aldiz agertzen da testu laburrean. Txandakatu 'bitartean', 'une horretan', 'aldi berean', 'denbora berean'...",
+          "Zenbait paragrafo oso luzeak dira (6. paragrafoa batez ere) eta ideia anitz nahastu egiten dira bertan. Zatitu bi edo hiru paragraforen artean, koherentzia hobetzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bat ideia nagusi BAT garatzen. Ideia berria = paragrafo berria. Horrela irakurtzeko askoz errazagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da narraziorako: 'dardarka', 'urduritasuna', 'hutsunea', 'murgilduta', 'arrastoa', 'desegonkortasun mentala'... DBH4 mailako ikasle batean ezohikoa da hiztegia hain zuzena eta zehatza izatea. Bikain!",
+          "Perpaus-egitura konplexuak erabiltzen dituzu ondo: erlatibozkoak ('zuela', 'zituelarik'), denborazkoak ('iritsi zenean', 'igaro ondoren'), baldintzazkoak ('balitz bezala'). Maila oso altua!"
+        ],
+        "hobetzekoak": [
+          "Zenbait egitura errepikatu egiten dituzu: 'zuen' forma luzeegia errepikatzen da, 'zen' ere bai. Txandakatu aditz-aldiak eta egitura sintaktikoak, monotonia saihesteko.",
+          "Erregistroa formalegi da zenbait pasartetan narraziorako ('desegonkortasun mentala', 'piskologiko'). Naturalago idatzi, gehiago kontatzeko estilo batean."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu esaldi laburragoak tartekatzean esaldi luze eta konplexuen artean. Erritmoa emango dio narrazioari!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-komunztadura oso ondo kontrolatuta daukazu orokorrean: NOR-NORK sistema zuzen erabiltzen duzu eta aldia ere ondo kudeatzen duzu narrazio osoan.",
+          "Deklinabidearen erabilera gehienbat zuzena da: kasuak ondo aplikatzen dituzu eta laguntzaileen hautaketa ere egokia da."
+        ],
+        "hobetzekoak": [
+          "Puntuazio-arazoak dira akatsik ohikoenak: koma falta lotura-hitzen ondoren, koma subjektu-aditz artean, eta puntuazio-ikur batzuk falta. Hau oso erraza da konpontzea!",
+          "Hitz-banaketa batzuk okerra: 'behar izan zute' testu batean eta beste zenbait aditz-lokuzio nahastuta daude. Kontu pixka bat harrekin, ondo?"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu SOILIK puntuazioa: lotura-hitz bakoitzaren ondoren koma jarri (\", beraz,\" / \", baina,\" / \", hala ere,\"). Sistema sinple horrekin, EP100 jaitsiko da nabarmen!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.89 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Oso lan ona egin duzu, benetan! Narrazioak koherentzia narratibo argia du eta istorioa interesgarria da hasieratik bukaerara. Hiztegia aberatsa da eta egitura konplexuak erabiltzen dituzu ondo. Hobetzeko tarte nagusia puntuazioan dago, eta hori oso erraza da konpontzea. Aurrera zu!",
+    "lehentasuna": "Puntuazioa: lotura-hitz ondoren BETI koma jarri (hala ere, baina, beraz, aldi berean...). Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Egia esateko ez zen berezia",
+        "zuzenketa": "Egia esateko, ez zen berezia",
+        "azalpena": "Lotura-hitz ondoren ('egia esateko', 'hala ere', 'aldi berean', 'horregatik') BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Programarekin hizketan minutu batzuk igarota, inoiz sentitu ez zuena sentitu zuen",
+        "zuzenketa": "Programarekin hizketan minutu batzuk igarota inoiz sentitu ez zuena sentitu zuen",
+        "azalpena": "Subjektu eta aditz nagusiaren artean ez da koma jartzen euskaraz. Hau gaztelaniako kalko bat da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "behar izan zute (testu batean)",
+        "zuzenketa": "behartu / behartzea / behartuta",
+        "azalpena": "Aditz-lokuzio batzuk elkartuta idazten dira, eta beste batzuk bereizita. Hemen 'behartu' izan behar zen ziurrenik, ez 'behar izan'."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Typo isolatuak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "etra arrastorik",
+        "zuzenketa": "eta arrastorik",
+        "azalpena": "Typo: 'eta' idatzi behar zen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — Gaztelaniazko hitza",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "laguntza piskologikoa",
+        "zuzenketa": "laguntza psikologikoa",
+        "azalpena": "Gaztelaniazko 'psicológico' euskarara egokituta 'psikologiko' da, ez 'piskologiko'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa — SOV",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "dena aldatu zen arte bere bizitzan",
+        "zuzenketa": "bere bizitzan dena aldatu zen arte",
+        "azalpena": "Euskaraz ordena SOA da: objektua ('bere bizitzan') aditzaren aurretik, ez gaztelaniaz bezala atzetik."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ergatiboa falta",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ikusten? IA-K benetan laguntzen dit",
+        "zuzenketa": "Ikusten? IAk benetan laguntzen dit (IA-k guionarekin edo IAk gabe ere)",
+        "azalpena": "Aditza NOR-NORK denean (laguntzen dit → nork laguntzen?), subjektuak -K marka behar du. Hemen 'IA-K' edo 'IAk' izan behar zen. Kontuz akronimoekin!"
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 582,
+    "minor": 16,
+    "major": 2,
+    "critical": 0,
+    "EP100_gordina": 3.44,
+    "EP100_pisuduna": 1.89,
+    "EP100_gordina_modelo": 3.4,
+    "EP100_pisuduna_modelo": 3.4,
+    "minor_modelo": 16,
+    "major_modelo": 2,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

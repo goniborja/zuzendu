@@ -1,0 +1,202 @@
+{
+  "kodea": "MARIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso polita eta osoa kontatu duzu! Protagonistaren bilakaera argi ikusten da hasieratik (bakarrik, triste) amaierara (lagun batekin, zoriontsu). Kriston lana!",
+          "Karaktere-garapena bikaina da: Amaia, Maider, gurasoak... bakoitza bere nortasunarekin. Dialogoak naturalak dira eta istorioa bizirik jartzen dute. Ttak!"
+        ],
+        "hobetzekoak": [
+          "Narrazioaren erritmoa oso ona da orokorrean, baina erdiko zatian apur bat azkartu egiten da denborak pasatzean — aste batzuk, hilabete batzuk... Sakonago deskribatu zenezake trantsizio horiek, irakurleari denbora-fluxua hobeto sentiarazteko.",
+          "Amaieren amaiera perfektua da emozionalki, baina agian ideia nagusiari buelta txiki bat gehitu zenezake ondorio gisa: zer ikasi du Amaiak bere esperientzia honetatik? Horrek testuari sakontasun gehiago emango lioke."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu denborazko trantsizioak pixka bat gehiago lantzea: 'aste batzuk pasa ondoren' baino, deskribatu zer gertatu zen aste horietan (eszena txiki bat, xehetasun sentsorial bat). Horrek istorioa oraindik aberatsagoa egingo du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplicatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura klasikoa oso ondo errespetatzen duzu: hasiera (egoera tristea) → korapiloa (aldaketa Gasteizera) → amaiera (egoera berria, zoriontsua). Paragrafo bakoitzak ideia nagusi bat du eta ondo lotuta daude elkarrekin.",
+          "Lotura-hitz ugari eta egokiak erabiltzen dituzu: 'beraz', 'baina', 'hurrengo egunean', 'ondoren', 'azkenean'... Testuak koherentzia handia du eta irakurlea ez da inoiz galtzen."
+        ],
+        "hobetzekoak": [
+          "Zenbait lotura-hitz errepikatzen dira asko ('baina', 'beraz'). Saiatu aniztasun gehiago sartzen: 'hala ere', 'alabaina', 'ordea', 'horrez gain'... Horrek testuari sofistikazio gehiago emango lioke.",
+          "Paragrafo batzuk oso laburrak dira (adibidez, \"Gasteizko etxe berria...\" paragrafoa). Horiek pixka bat luzatu zenitzake, xehetasun gehiago emanez edo bi paragrafo lotuz bat eginez."
+        ],
+        "feed_forward": "Hurrengo aldian, errepikatzen dituzun lotura-hitzak identifikatu eta aldatu: 'baina' → 'hala ere' / 'ordea'; 'beraz' → 'hortaz' / 'hori dela eta'. Horrela, estiloa askoz aberatsagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplicatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia nahiko aberatsa da DBH4 mailan: 'lotsatu', 'kontzentraldi', 'autoestima', 'jarrera'... Hitz hauek maila ona erakusten dute. Gainera, deskribatzaile sentsorialak erabiltzen dituzu: 'ile beltz laburrarekin', 'irribarre handi batekin'.",
+          "Perpaus-egitura konplexuak erabiltzen dituzu: mendekoak ('nahiz eta ez izan lagunik'), erlatibozkoak ('neska bat ikusi zuen ile beltz laburrarekin'), denborazkoak ('aste batzuk pasa ondoren'). Hau oso ona da!"
+        ],
+        "hobetzekoak": [
+          "Zenbait hitz oso errepikatzen dira: 'triste', 'pozik', 'lagun', 'bakarrik'... Erabili sinonimoak: 'atsekabetuta', 'alai', 'adiskide', 'bakardadean'. Horrek hiztegia oraindik aberatsagoa egingo luke.",
+          "Dialogo-adarrak naturalak dira, baina batzuetan pixka bat formalegia iruditzen zait ('nolakoa zen deskribatu zion'). Elkarrizketetan, hizkera naturalagoa izan daiteke: 'esan zion nolakoa zen Maider'."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu hitz errepikatu bakoitza aldatzen behin baino gehiagotan agertzen denean. Hitz-zerrenda bat egin ('triste' → 'atsekabetuta', 'nahigabetuta', 'goibel') eta txandakatu. Horrela, testu osoan hiztegia aberatsagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplicatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatuta daukazu orokorrean: NOR-NORK sistema ('ikusi zuen', 'egin zituen'), NOR-NORI-NORK ('esan zion', 'aurkeztu zizkion'). Hau ez da erraza eta benetan ondo egin duzu!",
+          "Deklinabidea gehienetan zuzena da: 'gelara', 'etxetik', 'lagunekin', 'Gasteizen'... Kasu-markak ondo aplikatzen dituzu. Zorionak!"
+        ],
+        "hobetzekoak": [
+          "Ortografia-akats batzuk daude (gehienak typo txikiak): 'libruruak' → 'liburuak', 'apaingarririk' → 'apaingarririk' (ondo dago), 'jessarri' → 'jesarri'. Errepasatu testua idatzi ondoren, typo hauek erraz konpontzen dira!",
+          "Puntuazio-akats batzuk ere badaude: koma falta lotura-hitzen ondoren ('Baina Amaia bakarrik...' → 'Baina, Amaia bakarrik...'), eta subjektu-aditz artean koma bat ('Amaiaren urduri jarri zen' → 'Amaia urduri jarri zen'). Puntuazio-arauak berrikusi eta aplikatu!"
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, errepasatu aldi bat ortografiara begira eta beste bat puntuaziora begira. Bi irakurketa bereizi hauek akats gehienak harrapatuko dituzte. Badaukazu maila hori harrapatzeko!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=0.79 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.75,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Benetan oso lan ona egin duzu, Maria! Narrazioa polita, emozionala eta ondo egituratua da. Karaktereak bizirik daude eta istorioak funtzionatzen du hasieratik amaierara. Zure idazketa-maila altua da DBH4rako: hiztegia aberatsa, perpaus konplexuak, aditz-sistema kontrolatua... Ttak! Hobetzeko gunea txikia da: ortografia-typo batzuk, puntuazio-xehetasunak, eta lotura-hitzen aniztasuna. Horiek landuta, zuzenean bikaintasunera joango zara!",
+    "lehentasuna": "Ortografia eta puntuazioa: Idatzi ondoren, bi irakurketa egin — bat typo-ak harrapatzeko, bestea koma eta puntuak egiaztatzeko. Hori eginda, ZL nota 8-9ra igoko zaizu eta gainerakoan ere hobetuko duzu!",
+    "batez_bestekoa_modelo": 7.5,
+    "biribiltzea_modelo": 7.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ortografia — Typo-ak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "libruruak apaletan jarri zituen",
+        "zuzenketa": "liburuak apaletan jarri zituen",
+        "azalpena": "Typo bat: 'r' gehiegi. Errepasatuz gero erraz konpontzen da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — Kontsonante bikoitza",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "jessarri zen",
+        "zuzenketa": "jesarri zen",
+        "azalpena": "Euskaraz 's' bakarra da aditz honetan: jesarri."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazioa — Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina Amaia bakarrik geratzen zen beti",
+        "zuzenketa": "Baina, Amaia bakarrik geratzen zen beti",
+        "azalpena": "Lotura-hitz ondoren beti koma jarri behar da: 'baina', 'beraz', 'gainera', 'hala ere'..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazioa — Koma subjektu-aditz artean (okerra)",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Amaiaren urduri jarri zen",
+        "zuzenketa": "Amaia urduri jarri zen",
+        "azalpena": "Subjektu eta aditz artean EZ da koma jartzen. Gainera, kasu hau genitibozko akats bat ere bada: 'Amaiaren' (genitivoa) ez da subjektua. 'Amaia' (absolutiboa) behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Morfologia — Genitiboa subjektu gisa (okerra)",
+      "akats_id": "ZL-KAS-7",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Amaiaren urduri jarri zen",
+        "zuzenketa": "Amaia urduri jarri zen",
+        "azalpena": "Subjektua absolutiboan joan behar da (Amaia), ez genitiboan (Amaiaren). Genitivoa jabetza adierazteko da ('Amaiaren liburua'), ez subjekturako."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lexikoa — Errepikapen altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'triste' hitza 6 aldiz agertzen da testuan",
+        "zuzenketa": "Erabili sinonimoak: atsekabetuta, nahigabetuta, goibel, deprimitu...",
+        "azalpena": "Hitz bat oso errepikatzen denean, hiztegia pobreagoa dirudi. Aniztasuna erakutsi sinonimoak erabiliz."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lexikoa — Hitz generikoak",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'ona' / 'hobea' hitz generikoak errepikatzen dira",
+        "zuzenketa": "Erabili adjektibo zehatzen bat testuinguruaren arabera: 'atsegin', 'gustokoa', 'lasaigarri', 'pozgarri'...",
+        "azalpena": "Hitz generikoak ('ona', 'gauzak', 'egin') asko erabiltzeak hiztegia sinpletzat ematen du. Hobe da adjektibo edo aditz zehatzagoak aukeratu."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 891,
+    "minor": 7,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 1.01,
+    "EP100_pisuduna": 0.79,
+    "EP100_gordina_modelo": 1.23,
+    "EP100_pisuduna_modelo": 1.12,
+    "minor_modelo": 7,
+    "major_modelo": 2,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1.4,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 2,
+        "S3": 3,
+        "S4": 1,
+        "S5": 2,
+        "S6": 1,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua DBH4ko ikasle batek idatzi duela dirudi. Nahiz eta egitura ongi antolatua izan (S3=3), hainbat akats natural agertzen dira testuan: 'Amaiak urduri jarri zen' (urduri falta da 'oso' edo beste bat), 'libruruak' (liburu-uak), 'jessarri' (jesarri), 'lotsati' (lotsatuta), 'igual' (agian/beharbada), 'nabarmentzen zen nola denak gustura zeuden' (nahasketa pixka bat). Hiztegia oro har DBH4 mailakoa da, baina atalak ('nabarmentzen zen', 'autoestimak') sofistikatuegiak dira kontuan hartuta akatsak (S2=2). Luzera 1100 hitz inguru da, DBH4rako luzea baina ez ezinezkoa testuinguru narratibo batean (S5=2). Akats-patroia naturala da eta kalitatea ez da uniformea hasieratik amaieraraino (hasierako akats gehiago). Oro har, DBH4ko ikasle on batek idatzitako ipuin luzea dirudi, IAk sortutakoa baino gehiago."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

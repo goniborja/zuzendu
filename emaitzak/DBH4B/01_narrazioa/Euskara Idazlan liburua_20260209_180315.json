@@ -1,0 +1,205 @@
+{
+  "kodea": "EUSKARA",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: 0 puntu - Akats batzuk daude, ez da perfektua",
+      "S2: 0 puntu - Hiztegi egokia DBH4 mailarentzat",
+      "S3: 1 puntu - Egitura narratiboa argia baina ez perfektua",
+      "S4: 0 puntu - Esperientzia pertsonala eta pertsonalitatea badaude",
+      "S5: 1 puntu - 580 hitz inguru, arrunta DBH4 narraziorako",
+      "S6: 1 puntu - Akats-patroi naturalak daude (puntuazioa, kasu-markak)",
+      "S7: 1 puntu - Kalitatea uniformea baina ez robotikoa"
+    ],
+    "oharrak": ""
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso ondo eraikia! Sarrera-korapiloa-amaiera egitura primeran daukazu, eta hasieratik bukaeraera koherentzia gordetzen duzu. Narratzeko gaitasuna nabarmena da!",
+          "Pertsonaiak ondo garatuak daude: Unai ausartago eta Leire zuhurragoa. Elkarrizketak oso naturalak dira eta istorioa bizirik jartzen dute. Primeran!"
+        ],
+        "hobetzekoak": [
+          "Amaiera pixka bat azkaregikoa da: aitonaren erantzuna bukatu gabe geratzen da. Ondorio bat gehitu zenezake: zer egin zuten altxorrarekin, nola sentitu ziren... Horrek istorioa biribilagoa egingo luke.",
+          "Deskribapen gehiago sar zenitzake: basoa nolakoa zen? Zer sentitu zuten kutxa irekitzean? Deskribapen sentsorialek (usainak, zaratak, koloreak) istorioa askoz aberatsagoa egiten dute."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu bukaeran ondorio bat idazten, ez soilik istorioa moztzen. Paragrafo bat gehitu azken esaldiaren ondoren, pertsonaiek zer egin zuten eta zer ikasi zuten azalduz. Horrela irakurleak gogobetetasun-sentsazioa izango du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplicatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da: eszenaren bat edo elkarrizketa bat aldatzean paragrafo berria hasten duzu. Hau oso ona da narrazio batean!",
+          "Denbora-sekuentzia argia da: 'Hurrengo egunean', 'Bat-batean', 'azkenean'... Lotura-hitz horiekin istorioa jarraitzen da zailtasunik gabe. Bikain!"
+        ],
+        "hobetzekoak": [
+          "Elkarrizketen ondoren batzuetan ez dago argi nork dioen hurrengo esaldia. Adibidez, elkarrizketa baten ondoren 'esan zuen Unaiek' jarri behar da, baina ez beti agertzen da. Argi utzi beti nork hitz egiten duen!",
+          "Lotura-hitz gehiago erabil zenitzake paragrafo artean, batez ere deskripzio-zatian. 'Halaber', 'horregatik', 'ondoren' bezalakoak jarriz testua hobeto lotzen da."
+        ],
+        "feed_forward": "Hurrengo aldian, elkarrizketa bakoitzaren ondoren jarri BETI nork esan duen (adibidez: '—Hau zer da? —galdetu zuen Leirek.'). Hori eginez gero, irakurleak ez du inoiz nahasiko nork hitz egiten duen!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso ona da: 'misteriotsua', 'inguratuta', 'disdiratsuekin', 'altxorra ezkutatu'... DBH4 mailarako hiztegi aberatsa erabiltzen duzu. Primeran!",
+          "Perpaus-egitura desberdinak erabiltzen dituzu: sinpleak eta konplexuak nahasten dituzu, eta horrek testua interesgarriagoa egiten du. Mendekoak ere badituzu ('norbaitek hau aurkitzen badu')."
+        ],
+        "hobetzekoak": [
+          "Errepikapen batzuk daude: 'kutxa' 7 aldiz agertzen da, 'altxor' 4 aldiz... Sinonimoak erabil ditzakezu: kaxoia, kapsula, ontzia... / urrezko kutxa, bilkuratutako ona...",
+          "Deskribapen-adjektiboak gehitu zenitzake: 'horma zaharra' bakarrik jartzen duzu, baina gehitu diezaiokezu kolorea (grisaxka), tamaina (erraldoia), egoera (hausturak zituen)... Horrela irakurleak askoz hobeto ikusten du eszenan."
+        ],
+        "feed_forward": "Hurrengo aldian, hitz bat 3 aldiz baino gehiagotan erabili aurretik, gelditu eta pentsatu: beste hitz batek balio al du? Sinonimoen zerrenda bat egin zenezake narrazioa idatzi aurretik: kutxa → kaxoia, ontzia; altxorra → bilkuratua, gordekina. Horrek BLH-n gora egingo dizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatzen duzu: 'joan ziren', 'ikusi zuten', 'aurkitu zituzten'... NOR-NORK sistema zuzen erabiltzen duzu gehienetan. Hau ez da erraza eta ondo egin duzu!",
+          "Ortografia orokorrean ona da: hitz-banaketa, maiuskulak... gehienak zuzen daude. Ikusten da arretaz idatzi duzula!"
+        ],
+        "hobetzekoak": [
+          "Puntuazio-arazoak dauzkazu: elkarrizketen ondoren gehienetan ez dago koma edo puntu bat jartzen. 'Gustatuko litzaidake' eta 'Iditzen dugu?' elkarrizketa-lerro baten ondoren daude baina ez dago puntuaziorik lotzeko. Hau garrantzitsua da!",
+          "Kasu-marka batzuk falta dira: 'aitonari kontatu behar diogu' → 'aitonARI' ondo dago, baina 'aitona- Nik entzunda' → 'aitonak' izan beharko luke ergatiboa (-k) subjektua delako. Kontuz honekin!"
+        ],
+        "feed_forward": "Hurrengo aldian, elkarrizketa bat idatzi ondoren, jarri BETI koma edo puntu bat gainerako esaldiarekin lotu aurretik. Adibidez: '—Hau zer da? —galdetu zuen Leirek KOMA xuxurlaka.' Hori eginez gero, puntuazio-arazoak desagertuko dira eta nota gehiago lortuko duzu!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.81 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Oso lan ona egin duzu! Istorio dotorea sortu duzu, ondo egituratu eta pertsonaia interesgarriekin. Narratzeko gaitasuna agerikoa da. Hobetzeko alderdirik garrantzitsuena puntuazioa da, batez ere elkarrizketen inguruan. Hori konpontzen baduzu, zure testuak askoz profesionalagoak izango dira. Jarraitu horrela, badaukazu talentua!",
+    "lehentasuna": "Elkarrizketak: koma/puntua jarri beti elkarrizketa-lerroen ondoren, narrazio-zatia jarraitu aurretik. Adibidez: '—Sartzeko asmoa duzu? —galdetu zuen Leirek KOMA xuxurlaka.' Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Puntuazioa — Elkarrizketen ondorengo komak",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "—Hau zer da? Leire- Iditzen dugu?",
+        "zuzenketa": "—Hau zer da? —galdetu zuen Unaik. —Iditzen dugu? —galdetu zuen Leirek.",
+        "azalpena": "Elkarrizketa-lerroen ondoren koma edo puntua jarri behar da narratzailearen testua jarraitu aurretik. Formatu egokia: —Esaldia —esan zuen pertsonaiak."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazioa — Puntu falta esaldi artean",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Leireri hasieran ez zitzaion gustatu ideia, baina azkenean onartu zuen.Hurrengo egunean motxila",
+        "zuzenketa": "...onartu zuen. Hurrengo egunean motxila...",
+        "azalpena": "Esaldi baten bukaera eta bestearen hasiera artean puntua eta zuriune bat jarri behar da beti."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ergatiboa (-k) falta",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "aitona- Nik entzunda neukan",
+        "zuzenketa": "aitonak: «Nik entzunda neukan»",
+        "azalpena": "Elkarrizketa-lerroak identifikatzeko 'Aitona—' edo 'Aitona:' erabiltzean, 'aitona' subjektua bada eta aditza iragankorra, -k behar du: 'aitonak'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra (typo)",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esn zuen",
+        "zuzenketa": "esan zuen",
+        "azalpena": "Typo bat: 'esn' → 'esan'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Datiboa (-ri) nahasketa",
+      "akats_id": "ZL-KAS-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Gustatuko litzaidake",
+        "zuzenketa": "Gustatuko litzaidake (ondo) edo 'gustatuko litzateke' (gustatzen zait motan)",
+        "azalpena": "Forma 'litzaidake' bizkaierazko forma da (litzaidake = litzateke + datiboa). Batuan 'litzateke' erabiliko genuke normalean edo 'gustatuko litzaidake' ondo dago ere datiboa adieraziz."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'kutxa' hitza 7 aldiz, 'altxor' hitza 4 aldiz",
+        "zuzenketa": "Sinonimoak: kaxoia, ontzia, kapsula / bilkuratua, gordekina, urrezko kutxa",
+        "azalpena": "Hitz bera oso askotan errepikatzeak testua pobreagoa egiten du. Sinonimoak edo deskribapen-esapideak erabiliz gero, hiztegia aberatsagoa da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 580,
+    "minor": 9,
+    "major": 6,
+    "critical": 0,
+    "EP100_gordina": 3.62,
+    "EP100_pisuduna": 1.81,
+    "EP100_gordina_modelo": 4.8,
+    "EP100_pisuduna_modelo": 3.4,
+    "minor_modelo": 12,
+    "major_modelo": 6,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    },
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau DBH4ko ikasle batek idatzia dirudi. Akats natural ugari daude: 'inguratuta' (inguratu), 'onartu zuen.Hurrengo' (zuriunea falta), 'zihur' (ziur), 'esn zuen' (esan), 'xuxurlaka' (xuxurlaka), 'Iditzen' (irekitzen?), 'altzorra' (altxorra). Elkarrizketak naturalak dira, estiloa gordintsua eta zuzenean kontatua. Hiztegi maila egokia da DBH4rako, ez da artifizialki sofistikatua. Egitura oinarrizkoa baina ez perfektua (amaiera moztua). Narrazioaren erritmoa eta tonua gazteena da. Akats tipografikoak eta gramatikalak ohikoak dira maila honetan. Testuak 600 hitz inguru ditu, luzera egokia. Kalitatea uniformea da baina ez IA mailakoa. Konfiantza handiarekin, giza idazlana da."
+    }
+  }
+}

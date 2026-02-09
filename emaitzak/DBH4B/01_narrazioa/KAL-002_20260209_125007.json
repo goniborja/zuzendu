@@ -1,0 +1,180 @@
+{
+  "kodea": "KAL-002",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Bikain! Gaia modu oso egituratu batean landu duzu: sarrera pertsonala eta erakargarria (amama eta telebista), bi galdera argi, eta paragrafo bakoitzean gaiaren alderdi bat aztertu duzu. Hau da lana!",
+          "Argudioak ongi garatuak daude: haurren alaitasuna vs osasuna, eta gero gizartearen bi ikuspegiak. Argumentu bakoitza adibideekin sendotu duzu (gozokiak kendu, kirola egin, dieta osasungarria...). Oso ondo!"
+        ],
+        "hobetzekoak": [
+          "Lehenengo paragrafoan 'gizarte mailan suertatzen den arasoa' hitza erabili duzu, eta gero ez duzu gehiago garatu puntu hori. Aipatu duzu baina sakondu gabe. Hau garatuko bazenu, AB 9 izango litzateke nota.",
+          "Bigarren paragrafoan 'jende askok pentsatzen du...' diozu baina ez duzu datu edo ikerketa zehatzik eman. 'Batzuk diotenez...' edo 'ikerketa batek adierazten du...' bezalako formulak erabil zenitzake sendoagoa egiteko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu argumentu BAKOITZEAN 3 zatiak izaten: ideia + zergatia + adibide zehatza (datua, ikerketaren bat, edo zure esperientzia zehatz bat). Hori eginda, AB irizpidean 9-10 harrapatuko duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura kristalina duzu: sarrera (esperientzia pertsonala + galderak), garapena (paragrafo bat ume-ikuspegitik, beste bat gizarte-ikuspegitik), eta ondorioa. Primeran!",
+          "Lotura-hitzak ugari eta egokiak: 'horregatik', 'alde batetik / beste alde batetik', 'beraz', 'bigarrenik', 'hala nola', 'hori guztia esan dugula'... Maila aurreratuko baliabideak erabiltzen dituzu, eta horrek testua oso koherentea egiten du."
+        ],
+        "hobetzekoak": [
+          "Hirugarren paragrafoan bi ondorio ematen dituzu: bat paragrafo bakoitzerako eta beste bat orokorra. Hau ondo dago, baina azken esaldia apur bat anbiguoa da: 'muturretatik hiez egin behar dela' eta 'arlo guztietan esfortzu minimoa'. Esfortzu minimoa kontzeptu korapilatsu xamarra da. Argiago formulatu zenezake.",
+          "Laugarren paragrafoan (ondorioak) 'Hala eta guztiz ere' erabiltzen duzu, baina hau kontzesiozko lotura-hitza da eta ez dago aurretik kontrajartzen den ezer. Zuzenagoa 'Laburbilduz' edo 'Beraz' erabiltzea litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, ondorioan lotura-hitzak egiaztatu: 'laburbilduz', 'azken finean', 'ondorio gisa'... Eta egiaztatu lotura-hitz bakoitzak bere funtzioa betetzen duela. Horren kontrola duzu gehienetan, baina horrelako xehetasunak finkatuz AK 9-10era iritsiko zara!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa eta zehatza da: 'alaitasuna', 'sustatzen dute', 'lehentasuna ematen dioten', 'oreka errespetatuz'... Lehen mailako hitz eta esamoldeak erabiltzen dituzu!",
+          "Perpaus-egitura konplexuak menderatzen dituzu: erlatibozkoak ('islatzen zuen ikerketa bat'), kausazkoak ('horrek alaitasunarekin bukatzea suposatuko lukeelako'), baldintzazkoak... DBH4 mailan oso ondo dago hau!"
+        ],
+        "hobetzekoak": [
+          "Batzuetan gaztelaniaren eragina nabaria da: 'saio dieta' (saiatu dieta bat jartzea), 'suposatuko' (uste dut onargarria da batuan baina 'suposatu' nahiko da), 'ailegatu gintezke' (ZUZENA da — Euskaltzaindiaren arabera 'iritsi' sinonimoa da).",
+          "Zenbait hitz errepikatu dituzu: 'gizentasuna' (5 aldiz), 'alaitasuna' (4 aldiz), 'osasuna' (6 aldiz). Hau normala da gai-hitza denean, baina noizean behin parafrasi bat erabiltzea hobetu egingo luke: 'osasun-egoera', 'haur lodiak', 'nutrizioa'..."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu sinonimoak edo parafrasi txikiak sartzen gai-hitzarekin: 'gizentasuna' → 'pisua gehiegi', 'gantz-metatze gehiegizkoa', 'obesitatea'... Hau eginda, BLH 8-9 harrapatuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema ondo kontrolatuta duzu gehienetan: 'ikusi genuenean', 'aztertu ditugu', 'eraman dugu'. Hau ez da erraza eta oso ondo dago!",
+          "Aditz-denborak eta aspektuak ongi erabiltzen dituzu: 'ikusten geundela' (jarraitu), 'suertatzen den' (ohikoa), 'mantenduz' (jarraitu)."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 3 aldiz ahaztu duzu: 'haurrak haurrak baino ez direla' → 'haurrak haurrak baino ez DIRELA', 'horrek... suposatuko lukeelako' (hau ONDO dago!), 'zenbait iritzi... agertzea' → 'zenbait iritzi DESBERDIN agertzea' (hau ere ondo). Benetan, ergatiboaren kasuan akats gutxi dituzu!",
+          "Hitz-banaketa eta ortografia: 'lerrootan' → 'lerroetan' (o bikoitza hutsa), 'haurrengan' → 'haurrengan' (ONDO), 'aho bete hortz' (ONDO), 'hiez' → 'ihes'. Hitz-banaketa bat: 'azkenengo' → 'azkeneko' (hobetsia batuan, baina 'azkenengo' ere onartzen da).",
+          "Koma batzuk falta dira: 'Baina, beste alde batetik' (koma 'baina' ostean), 'Hala eta guztiz ere' (zalantzazkoa — 'Hala eta guztiz ere' egitura ondo dago baina koma bat jarri beharko litzateke: 'Hala eta guztiz ere,'). Puntuazio-akatsak minor dira baina kontuan hartu behar dira."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta begiratu ea ergatiboa (-k) behar duen subjektuak. Sistema sinple hau erabiliz, ergatiboaren akatsa desagertuko da. Eta ortografia: fijatu o bikoitzetan ('lerrOOtan' → 'lerrOetan') eta 'ihes' hitza (i + h + e + s). Hau konpontzen duzunean, ZL 8 harrapatuko duzu!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.44 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.5,
+    "biribiltzea": 7.5,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu! Testua oso ondo egituratuta dago, argudioak garatuak daude, eta lotura-hitz ugari eta egokiak erabiltzen dituzu. DBH4 mailako maila aurreratua duzu. Hobetzeko arlo nagusiena zuzentasuna da: ortografia-xehetasunak eta puntuazio-akatsak. Baina, batez ere, jarraitu horrela idazten — badaukazu gaitasuna eta zure lanak egitura argia eta koherentea du!",
+    "lehentasuna": "Ortografia: fijatu o bikoitzetan ('lerrOOtan' → 'lerrOetan') eta 'ihes' hitzean (i+h+e+s). Hau da lehenengo pausoa ZL hobetzeko!",
+    "batez_bestekoa_modelo": 7.25,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ortografia — o bikoitza",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "lerrootan",
+        "zuzenketa": "lerroetan",
+        "azalpena": "Euskaraz 'o' bikoitza oso arraroa da. 'Lerrootan' txarto idatzita dago; zuzena 'lerroetan' da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — hitz-banaketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hiez",
+        "zuzenketa": "ihes",
+        "azalpena": "'Ihes' hitza (i + h + e + s) da zuzena. 'Hiez' ez da existitzen euskaraz."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina beste alde batetik",
+        "zuzenketa": "Baina, beste alde batetik,",
+        "azalpena": "Lotura-hitz ondoren (baina, beraz, hala ere...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz okerra",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "arasoa",
+        "zuzenketa": "arazoa",
+        "azalpena": "'Problema' gaztelaniazko hitza da. Euskaraz 'arazo' edo 'arazoa' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz zalantzazkoak — dialektismoa / batua",
+      "akats_id": "LH-7",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "suposatuko, ailegatu, disrutatu",
+        "zuzenketa": "uste dut / iritsi / gozatu (batuan hobetsiak)",
+        "azalpena": "Hitz hauek batuan ONARTZEN DIRA (Euskaltzaindiaren arabera), baina idatzizko euskara formalean hobeto 'uste dut', 'iritsi', 'gozatu' erabiltzea. Ez dira akatsak, baina alternatiba naturalagoak daude."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Lotura-hitz okerra",
+      "akats_id": "PEN-4",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala eta guztiz ere",
+        "zuzenketa": "Laburbilduz / Azken finean",
+        "azalpena": "'Hala eta guztiz ere' kontzesiozko lotura-hitza da (nahiz eta...). Hemen ondorioa emateko erabiltzen duzu eta ez da guztiz egokia. Hobeto 'Laburbilduz' edo 'Azken finean' erabiltzea."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 348,
+    "minor": 6,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 1.72,
+    "EP100_pisuduna": 1.44,
+    "EP100_gordina_modelo": 3.2,
+    "EP100_pisuduna_modelo": 2.9,
+    "minor_modelo": 7,
+    "major_modelo": 2,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

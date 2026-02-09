@@ -1,0 +1,144 @@
+{
+  "kodea": "AMETS",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo garatuta dago: hasiera-korapiloa-amaiera egitura argia eta koherentea. Istorioak sentimenduzko garapena du (beldurra → konfiantza → jakintza), eta hori oso ondo kontatzen duzu!",
+          "Xehetasunak ikusgarriak dira: 'ura ispilu baten moduan', 'eguzkia sartzen hasi zenean, zerua laranja kolorez bete zen'... Hori da idazle onengan ikusten dena!",
+          "Pertsonaiak (Iker, aita, Ane) ondo garatuta daude elkarrizketetan eta ekintza-deskribapen txikietan. Narrazioak bihotza du, ez da soilik ekintzen zerrenda."
+        ],
+        "hobetzekoak": [
+          "Testua apur bat luzea da (1400+ hitz), eta azken zatian errepikapena nabaritzen da pixka bat (ibaia-txalupa-arrauna errepikatzen dira). Sintetizatu apur bat azken zatian, irakurlea ez nekatzeko.",
+          "Korapiloa apur bat ahulagoa da — ura mugitzea besterik ez da arazo larriegirik. Beste arazo bat sar zenezake (adib. txalupa urrunegi joan, arraunaren bat galdu...) intentsitate gehiago izateko."
+        ],
+        "feed_forward": "Hurrengo aldian, kontatu nahi duzun istorioa sinetsi dezazun, saiatu ez-espero den zerbait txertatzen (buelta bat, ezusteko bat). Horrekin irakurlea orrazten duzu! Badaukazu maila horretarako."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa ikaragarria da: bakoitzak ideia bakarra du (lehenengo eguna, ikastea, jaialdian parte hartzea...). Egitura oso argia da!",
+          "Lotura-hitzak aniztasun handiz erabiltzen dituzu: 'orduan', 'bat-batean', 'pixkanaka', 'egun batean', 'gaua iritsi zenean'... Horrek testua zuzen eta jarraitu bat bihurtzen du."
+        ],
+        "hobetzekoak": [
+          "Zenbait paragrafok ideia berdinak errepikatzen dituzte forma ezberdinean (adib. 'Iker pozik zegoen' 5-6 aldiz agertzen da forma desberdinetan). Hau irakurketa apur bat astundu dezake.",
+          "Elkarrekin lotu daitezke paragrafoen artean lotura batzuk gehiago jarriz: 'hala ere', 'horrez gain', 'hortaz' bezalakoak. Orain 'eta' eta 'baina' nagusitzen dira."
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo bat bukatzen duzunean, galdetu: ea ideia bera lehen ere esan dudan beste era batean. Hala bada, kendu edo batu. Hori eginda, testua askoz trinkoagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz-altxorra aberatsa da narraziorako: 'zipriztindu', 'dardarka', 'distiratsu', 'zirraratxo'... Hitzak hautatuak dira eta esanahia indartzen dute. Bikain!",
+          "Perpaus konplexuak erabiltzen dituzu naturalki: 'Eguzkia sartzen hasi zenean, zerua laranja kolorez bete zen' — erlatibozkoak, denborazkoak... Hori maila altuaren seinale da!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen batzuk badaude: 'pixka bat' 20 aldiz baino gehiagotan agertzen da. Aniztasun gehiago erabiliz ('apur bat', 'zertxobait', 'samur bat') askotarikotasuna emango zenuke.",
+          "Aditz sinpleak nagusitzen dira: 'joan zen', 'egin zuen', 'ikusi zuen'... Egitura gehiago sar zenitzake: 'joaten zen', 'egiten zuen ohitura'... Aspektu-baliabideekin jokatzea aberastuko luke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero testu osoa berrikusi, eta errepikapenak detektatu (ctrl+F erabiliz 'pixka bat' edo 'esan zuen' bezalakoak). Aldatu itzazu sinonimoekin. Hori eginda, testua askoz naturalagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Akats oso gutxi daude (EP100 1.7 bakarrik)! Aditz-sistema oso ondo kontrolatuta dago: NOR-NORK, NOR-NORI-NORK sistema zuzen. Hori ez da erraza eta primeran egin duzu!",
+          "Deklinabidea (kasuak) ia perfektua da: ergatiboa, datiboa, adlatiboa... dena zuzen. Gramatika-kontrola altua da, benetan."
+        ],
+        "hobetzekoak": [
+          "Puntuazio-akats txiki batzuk daude: koma falta lotura-hitzen ondoren (minor). Adib.: 'Orduan irribarre egin zuen' → 'Orduan, irribarre egin zuen'.",
+          "Erderakada minor bat: 'parte hartu' ondo dago batuan, baina izan liteke 'partaide izan' edo 'parte hartu' (biak zuzen). Ez da akats, baina alternatibak ezagutzea onuragarria da."
+        ],
+        "feed_forward": "Hurrengo aldian, lotura-hitz bat idazten duzunean ('orduan', 'gero', 'bat-batean'...), koma jarri ondoren automatikoki. Hori eginez gero, zure puntuazioa ia perfektua izango da!"
+      },
+      "zl_modelo": 9,
+      "python_doikuntza": "Modeloaren ZL=9 koherentea EP100=0.17 (bikaintasuna, tartea 9-10)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.5,
+    "biribiltzea": 9,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu! Narrazioa oso ondo garatuta dago: istorioak bihotza du, pertsonaiak biziak dira, eta deskribapenak ikusgarriak. Zure idazketa-maila altua da DBH4rako. Testua apur bat luzeegia da eta errepikapenen bat dago, baina orokorrean lan oso ona da. Jarraitu horrela!",
+    "lehentasuna": "Testua berrikusi eta errepikapenak identifikatu ('pixka bat', 'esan zuen', 'pozik zegoen'...). Aldatu itzazu sinonimoekin edo kendu beharrezkoak ez direnak. Hori eginda, testua trinkoagoa eta irakurgarriagoa izango da!",
+    "batez_bestekoa_modelo": 8.5,
+    "biribiltzea_modelo": 8.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 6,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Orduan irribarre egin zuen",
+        "zuzenketa": "Orduan, irribarre egin zuen",
+        "azalpena": "Lotura-hitz bat esaldiaren hasieran badago ('orduan', 'gero', 'bat-batean', 'pixkanaka'...), koma jarri behar da ondoren."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua — 'pixka bat'",
+      "akats_id": "LH-1",
+      "kopurua": 24,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'pixka bat' errepikatzen da 24 aldiz",
+        "zuzenketa": "Aniztasun gehiago erabiliz: 'apur bat', 'zertxobait', 'samur bat', 'nahiko', edo kendu gehiegizkoak",
+        "azalpena": "Esapide bat hainbeste aldiz errepikatzeak testua monotonoa bihurtzen du. Sinonimoak erabiliz, naturalagoa izango da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean (gaztelaniazko ordena kalkoa)",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ikerrek, sentitzen zuen... (hau ez dago testuan, baina antzeko kasuetan)",
+        "zuzenketa": "Ikerrek sentitzen zuen... (EZ koma subjektu eta aditz artean)",
+        "azalpena": "Euskaraz ez da koma jartzen subjektu eta aditz artean, salbu eta tarteko elementuren bat dagoenean."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1451,
+    "minor": 7,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.48,
+    "EP100_pisuduna": 0.17,
+    "EP100_gordina_modelo": 1.79,
+    "EP100_pisuduna_modelo": 1.72,
+    "minor_modelo": 24,
+    "major_modelo": 1,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

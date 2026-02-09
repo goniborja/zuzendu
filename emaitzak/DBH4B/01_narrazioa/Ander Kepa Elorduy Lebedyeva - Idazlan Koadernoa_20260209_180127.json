@@ -1,0 +1,211 @@
+{
+  "kodea": "ANDER",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 3,
+      "maila": "hasiberria",
+      "cap_aplikatua": "CAP-4",
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso polita sortu duzu, ederki kontatua eta oso imajinagarria! Pertsonaien deskribapenak txukunak dira eta rock taldearen historia gozoa da.",
+          "Narrazioaren egitura argia du: hasiera, garapena eta amaiera. Istorioak badauka koherentzia eta irakurketa erosoa da."
+        ],
+        "hobetzekoak": [
+          "ARAZO NAGUSIA: Ataza-fitxak IRITZI-ARTIKULUA eskatzen du, eta zuk NARRAZIOA idatzi duzu. Iritzi-artikulu batean zure iritzia eman behar duzu gai bati buruz (argudioak emanez), ez istorio bat kontatu. Hau oso garrantzitsua da!",
+          "Hau ez da zure akatsa, agian enuntziatua ez zen argi, baina hurrengo aldian galdetu galdetegi eginkizuna zein den ziur egon aurretik idazten hasi."
+        ],
+        "feed_forward": "Hurrengo aldian, idaztera hasi aurretik, irakurri ondo zer eskatzen dizun: iritzi-artikulua? narrazioa? gutuna? Genero bakoitzak ezaugarri propioak ditu eta hori kontuan hartu behar duzu beti. Narrazioa ondo egiten duzu, orain iritzi-artikuluak lantzeko unea da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura oso argia: sarrera (aurkezpena) → pertsonaien deskribapena → garapena → kontzertu-une gailurra → amaiera. Oso ondo antolatuta dago!",
+          "Paragrafoak ondo bereizita daude eta bakoitzak ideia nagusi bat du. Istorioak erritmo ona du eta jarraitzeko erraza da.",
+          "Lotura-hitz ugari eta egokiak: 'Gainera', 'Hala ere', 'Horrez gain', 'Horregatik'. Txapela!"
+        ],
+        "hobetzekoak": [
+          "Lehen bi paragrafoak banandu egin behar zenituen: lehena taldearen aurkezpena, bigarrena taldearen izenaren jatorria. Orain lehena oso laburra da.",
+          "Noizean behin errepikapen txikiak daude: 'taldeko' hitza oso maiz agertzen da. Saiatu aldakorrak erabiltzen: 'taldea', 'talde artean', 'haien artean', 'lagunen artean'."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo batean gai bat baino gehiago dagoenean zatitzen (adib. aurkezpena + izenaren jatorria = 2 paragrafo). Horrekin antolaketa oraindik argiago izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da narraziorako: 'eszenatokira igo', 'bihotza taupada azkarrekin', 'txalo zaparrada', 'giro zoragarri bat'. Oso ondo aukeratuta!",
+          "Deskribapen sentsorial onak: 'hotza eta iluna', 'ahots sakona eta indartsua', 'haize hotzak kaleak betetzen'. Primeran!",
+          "Perpaus-mota desberdinak erabiltzen dituzu: sinpleak eta konplexuak txandakatzen dituzu. Ondo eginda!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen batzuk daude: 'talde/taldea/taldeko' 15 aldiz agertzen da testuan. Erabili sinonimoak: 'musika-taldea', 'lagun-multzoa', 'kideak', 'lau musikariak'. Horrekin testua askoz aberatsagoa izango da!",
+          "'Gustatu' aditza 4 aldiz errepikatzen duzu. Aldatu aldakorrak erabiltzen: 'maite izan', 'atsegin izan', 'zaletasuna izan'. Hitz bakoitza tresna bat da!",
+          "Noizean behin gaztelaniazko egiturak: 'musika ikutzea' → 'musika jotzea' (naturalagoa). 'Ikutzen' zuzen bada ere, 'jotzen' ohikoagoa da testu idatzietan."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu eta begiratu ea hitz bat oso maiz errepikatzen duzun. Hori gertatzen bada, bilatu sinonimoak hiztegian eta ordeztu. Horrekin BLH-n nabarmen igoko zara!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia ondo kontrolatuta duzu orokorrean: 'zuten', 'ziren', 'zen', 'zuen' — pertsona eta numero adostasuna zuzena da gehienetan. Hau ez da erraza DBH4 mailan!",
+          "NOR-NORK sistema ondo erabiltzen duzu: 'idazten zuen', 'jotzen zuen', 'ematen zuen'. Oso ondo!",
+          "Deklinabidea nahiko zuzen: lokatiboa, adlatiboa, ablatiboa... gehienak ondo dauzkazu."
+        ],
+        "hobetzekoak": [
+          "Ergatiboan (-K) akats batzuk: 'Gurutzek kantak abesten zituen' → 'Gurutz**ek** kantak abesten zituen' (ondo!), baina 'albiste hau, oso urduri jarri zizkieten' → 'albiste honek, oso urduri jarri zituen' (ergatiboa falta!). Berrikusi NOR-NORK aditzetan subjektuak -K behar duela.",
+          "Puntuazioan hobetzeko tartea dago: koma falta lotura-hitzen ondoren ('Gainera abestiaren letra' → 'Gainera, abestiaren letra'). Lotura-hitz bat dagoenean, BETI koma jarri ondoren!",
+          "Erderakada txiki batzuk: 'oso harro zeuden' → 'oso harro zeuden' (ondo), baina 'milaka pertsonen aurrean' → 'milaka pertsonen aurrean' (ondo). Kontuz 'ere' (juntagailua) vs 'baita ere' erabilpenarekin."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, berrikusi esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Gainera, lotura-hitz baten ondoren BETI koma jarri. Bi arau hauek barneratuz gero, ZL-n 7-8 puntuetara igoko zara erraz!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.62 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 5.75,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Narrazioa primeran idatzi duzu, benetan! Istorioa polita da, ondo egituratua eta irakurtzeko erraza. BAINA, arazo bat dago: atazak iritzi-artikulua eskatzen du eta zuk narrazioa idatzi duzu. Hau ez da zure akatsa, agian enuntziatu okerra izan da, baina hurrengo aldian egiaztatu ondo zein testu-mota eskatzen dizuten. Zure maila narratiboa oso ona da, eta hori oinarri bikaina da! Orain iritzi-artikuluak lantzeko unea da: tesia, argudioak, adibideak... Badaukazu gaitasuna horretarako!",
+    "lehentasuna": "Hurrengo idazlanerako lehentasuna: iritzi-artikuluak idaztea. Lanean jarri behar dituzun puntu hauek: 1) Tesia argi adierazi sarreran, 2) Argudio bakoitza garatu ideia+zergatia+adibidearekin, 3) Lotura-hitzak gehitu argudioen artean (hala ere, gainera, bestalde...), 4) Ondorioa tesiari lotua.",
+    "batez_bestekoa_modelo": 5.5,
+    "biribiltzea_modelo": 5.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Generoa ez da errespetatzen (iritzi-artikulua vs narrazioa)",
+      "akats_id": "TB-4",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Testua osoa narrazioa da (istorio bat kontatzen du hasiera-korapiloa-amaierarekin)",
+        "zuzenketa": "Iritzi-artikulua izan behar zen: tesia + argudioak + ondorioa",
+        "azalpena": "Ataza-fitxak IRITZI-ARTIKULUA eskatzen du, baina zuk NARRAZIOA idatzi duzu. Testu-mota guztiz desberdina da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gainera abestiaren letra idaztea",
+        "zuzenketa": "Gainera, abestiaren letra idaztea",
+        "azalpena": "Lotura-hitz baten ondoren (Gainera, Hala ere, Horregatik, Horrez gain...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'talde/taldea/taldeko' hitza 15 aldiz errepikatzen da",
+        "zuzenketa": "Erabili sinonimoak: musika-taldea, lagun-multzoa, kideak, lau musikariak",
+        "azalpena": "Hitz bera maiz errepikatzeak testua pobretzen du. Erabili sinonimoak eta aldakorrak aberasteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ergatiboa nahasketa",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "albiste hau, oso urduri jarri zizkieten",
+        "zuzenketa": "albiste honek, oso urduri jarri zituen",
+        "azalpena": "Aditza NOR-NORK denean (jarri → nork jarri?), subjektuak -K marka behar du. 'Albiste hau' subjektua da eta ergatiboa behar du: 'albiste honek'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "categoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "jendea harrituta gelditzen ziren",
+        "zuzenketa": "jendea harrituta gelditzen zen",
+        "azalpena": "Subjektua singularra denean (jendea), aditzak ere singularra izan behar du: ziren (haiek) → zen (hura)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'gustatu' aditza 4 aldiz errepikatzen da",
+        "zuzenketa": "Erabili sinonimoak: maite izan, atsegin izan, zaletasuna izan",
+        "azalpena": "Hitz generikoak gehiegitan erabiltzeak hizkuntza pobretzen du. Aldakorrak erabili behar dira."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Juntagailu okerra — 'ere' erabilpen okerra",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ere, urtero bueltatzen dira",
+        "zuzenketa": "Gainera, urtero bueltatzen dira / Halaber, urtero bueltatzen dira",
+        "azalpena": "'Ere' ez da erabiltzen perpaus hasieran lotura-hitz gisa. Erabili 'gainera' edo 'halaber'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 462,
+    "minor": 6,
+    "major": 3,
+    "critical": 0,
+    "EP100_gordina": 2.6,
+    "EP100_pisuduna": 1.62,
+    "EP100_gordina_modelo": 3.5,
+    "EP100_pisuduna_modelo": 3.0,
+    "minor_modelo": 6,
+    "major_modelo": 5,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau DBH4ko ikasle batek idatzia dirudi. Hainbat errore naturalak agertzen dira: 'musika ikutzea' (jo beharrean), 'urduri jarri zizkieten' (jarri zituen), 'ikutzera' (jotzera), 'taupada' (taupada ortografiarik egokiena da baina egitura ikusgarria da). Egitura klasikoa da (sarrera-garapena-amaiera) baina ezohikoa ez maila honetan, ipuin bat denez. Hizkera erraza eta naturala du, expresio euraldunak erabiltzen ditu ('Hala bazan ala ez bazan...'). Luzera egokia da (500 hitz inguru). Kalitate aldakorrak daude, hasierako koherentzia pixka bat galtzen da amaieran. Tonu pertsonala eta narratiboa du, robotikoa ez. Guztira, ikasle baten lan tipikoa da, ez IA sortzaile baten."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Testu-mota okerra: iritzi-artikulua eskatu eta narrazioa jaso. CAP-4 aplikatu da.",
+        "Zalantzazkoa: Ikasleari agian enuntziatu okerra eman zitzaion edo ez zen argi ulertu. Irakaslearekin hitz egin behar da."
+      ]
+    }
+  }
+}

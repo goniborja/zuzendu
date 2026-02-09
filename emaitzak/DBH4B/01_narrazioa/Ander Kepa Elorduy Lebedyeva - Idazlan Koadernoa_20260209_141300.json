@@ -1,0 +1,190 @@
+{
+  "kodea": "ANDER",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio argia eta egitura bikaina duzu! Personaia bakoitza ezaugarri propioekin aurkeztu duzu: Gurutz abeslaria, Asier gitarra-jotzailea, Jokin baxua, Xabat bateria-jotzailea — bakoitzaren nortasuna argi ikusten da.",
+          "Xehetasun ugari eta zehatzak: Xabaten aitonaren garajea, Fermin Muguruza, 'Haize hotzaren azpian' abestia... Horrek testua bizia egiten du!"
+        ],
+        "hobetzekoak": [
+          "Amaiera pixka bat desberdina izan daiteke: 'Hala bazan ala ez bazan' formula tradizionala da, baina narrazioaren amaiera naturalagoa izan liteke personaien etorkizunari buruzko esaldi bat gehituz.",
+          "Batzuk paragrafoak oso laburrak dira (bat edo bi esaldikoak). Garapenaren zatian apur bat gehiago landu zenezake."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu amaiera bat pentsatzen personaien etorkizunarekin lotuta, formula klasikoaren ordez. Adibidez: 'Eta gaur egunera arte, lau lagunak oraindik ere musika egiten jarraitzen dute, haien herriko plaza hartan non dena hasi zen.'"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7.5,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura oso argia: sarrera (aurkezpena) → garapena (pertsonaia bakoitza, saioak, lehen abestia) → gailurra (kontzertua) → amaiera. Hori ondo egituratuta dago!",
+          "Lotura-hitzak ongi erabiltzen dituzu: 'Horregatik', 'Gainera', 'Nahiz eta', 'Hala ere', 'Horrez gain'... Horrek testua fluidoa egiten du."
+        ],
+        "hobetzekoak": [
+          "Amaierako bi paragrafoak (Fermin Muguruza eta urtero itzultzea) pixka bat deskonektatuta daude gainerako istorioarekin. Beste paragrafo batekin lotu zitezkeen edo integratuagoak izan.",
+          "Paragrafo batzuk oso laburrak dira (1-2 esaldikoak). Narrazioan, paragrafoak uniformeagoak izan behar lukete luzera aldetik."
+        ],
+        "feed_forward": "Hurrengo aldian, begiratu ea amaierako ideia guztiak (Fermin Muguruza, itzultzea herrira) paragrafo bakar batean lotu ditzakezun koherentzia handiagoarekin."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7.5,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa eta zehatza: 'taupada azkarrekin', 'sintonizatu', 'bozgorailu', 'txalo zaparrada'. Hitz hauek istorioa bizia egiten dute!",
+          "Perpaus-egitura: mendekoak ongi erabiltzen dituzu ('Nahiz eta eszenatokian isila izatea', 'Gurutzek kantak abesten zituen bitartean'). Hori oso ona da!"
+        ],
+        "hobetzekoak": [
+          "'Ikutzea' hitza 3 aldiz errepikatzen duzu (bi aldiz 'jotzera' eta bat 'ikutzea'). Euskaraz 'instrumentua jotzea' da zuzena. Erabili beti 'jotzea' errepikapena saihesteko.",
+          "'Isila izatea' → 'isil egotea' hobeto litzateke ('izan' ordez 'egon' erabili adjektibo batekin)."
+        ],
+        "feed_forward": "Hurrengo aldian, erabili 'jotzea' musikarako beti (gitarra jotzea, bateria jotzea...) eta begiratu ea adjektibo batekin 'egon' erabil dezakezun 'izan' ordez: 'isil egon', 'pozik egon'..."
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Zuzentasun oso ona! Akats oso gutxi: EP100 2.3 (bikaintasuna maila). Hori adierazgarria da zure euskara-kontrolagatik.",
+          "Aditz-sistema ia perfektua: NOR-NORK, NOR-NORI, kasuak... gehienak ondo erabiltzen dituzu. Zorionak!"
+        ],
+        "hobetzekoak": [
+          "Akats isolatu bat aditz-adostasunean: 'Albiste hau, oso urduri jarri ZIZKIETEN' → 'jarri ZITUEN' (albisteak → subjektua singularra, ez plurala; 'zizkieten' datibo plurala da, 'zituen' ergatiboa behar da).",
+          "Determinatzailea: 'amets bera' → 'amets BERBERA' (adjektibo posesiboa + -a); 'abestia bat' → 'abesti BAT' (mugagabea + zenbatzailea)."
+        ],
+        "feed_forward": "Hurrengo aldian, begiratu aditz-adostasuna subjektu singularretan: 'albisteak urduritu ZITUEN' (NORK singularra), ez 'zizkieten' (NORI plurala). Eta kontuz determinatzaileekin: adjektiboa + -a ('berbera'), edo mugagabea + zenbatzailea ('abesti bat')."
+      },
+      "zl_modelo": 9,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=9 altuegi da EP100=2.3 (aurreratua, tartea 7-8). ZL=8 ezarri da (-1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.75,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu, Ander! Istorioa oso ondo egituratuta dago, personaiak ongi garatuta daude eta zuzentasun linguistikoa oso altua da (EP100 2.3). Narrazioaren xehetasunek eta hiztegia aberatsak testua bizia egiten dute. Hobetzeko tartea txikia da: 'jotzea' erabili 'ikutzea' ordez, eta aditz-adostasunean akats isolatu bat konpondu. Jarraitu horrela!",
+    "lehentasuna": "Erabili 'jotzea' beti instrumentuekin (gitarra jotzea, musika jotzea), ez 'ikutzea'. Hau da lehentasun bakarra hurrengorako!",
+    "batez_bestekoa_modelo": 8.0,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Aditz komunztadura okerra (jarri zizkieten → zituen)",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 1,
+      "larritasuna": "critical",
+      "adibidea": {
+        "detektatutakoa": "Albiste hau, oso urduri jarri zizkieten",
+        "zuzenketa": "Albiste hau oso urduri jarri zituen",
+        "azalpena": "Subjektua singularra denean ('albisteak' edo 'albiste hau'), aditzak singularra izan behar du: 'zituen' (NORK singularra), ez 'zizkieten' (NORI plurala). 'Zizkieten' adiera: 'haiei zerbait eman' → hemen ez dago NORI-rik, baizik eta 'albisteak haiek urduritu zituen'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Determinatzailea / Adostasuna (amets bera → berbera)",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "amets bera zuten",
+        "zuzenketa": "amets BERBERA zuten",
+        "azalpena": "Adjektibo posesiboa izenaren atzetik denean, -a determinatzailea gehitu behar zaio: 'berber' + '-a' = 'berbera'. Gogoratu: 'bera' izenordaina da ('hura'), 'berbera' adjektiboa determinatzailearekin."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa / Lexikoa (ikutzea → jotzea)",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "musika ikutzea indarra ematen zien",
+        "zuzenketa": "musika JOTZEA indarra ematen zien",
+        "azalpena": "Instrumentua 'jotzea' da forma egokia euskaraz. 'Ikutzea' ukitzea da (fisikoki), baina instrumentu musikala 'jotzen' da: gitarra jotzea, bateria jotzea, musika jotzea. Errepikatu duzu 3 aldiz."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Determinatzailea mugagabean (abestia bat → abesti bat)",
+      "akats_id": "ZL-KAS-5",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "abestia bat izatea",
+        "zuzenketa": "abesti BAT izatea",
+        "azalpena": "Zenbatzailea ('bat', 'bi', 'hiru'...) mugagabearekin joan behar da, ez determinatzailearekin: 'abesti bat' (mugagabea), ez 'abestia bat'. Erregela: zenbatzailea + mugagabea."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz okerra (ere → gainera)",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Ere, urtero bueltatzen dira",
+        "zuzenketa": "Gainera, urtero bueltatzen dira",
+        "azalpena": "'Ere' ez da lotura-hitza esaldi hasieran. Gaztelaniako 'también' kalkoa da kasu honetan. Erabili 'Gainera' edo 'Halaber' lotura-hitz gisa esaldia hasteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Egitura sintaktikoa (isila izatea → isil egotea)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Nahiz eta eszenatokian isila izatea",
+        "zuzenketa": "Nahiz eta eszenatokian isil EGOTEA",
+        "azalpena": "Adjektibo batekin egoera iraunkorra adierazteko, 'egon' erabili behar da 'izan' ordez euskaraz: 'isil egon' (estar callado), ez 'isila izan'. 'Izan' identitatea da, 'egon' egoera iragankorra."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 456,
+    "minor": 5,
+    "major": 2,
+    "critical": 1,
+    "EP100_gordina": 2.63,
+    "EP100_pisuduna": 2.3,
+    "EP100_gordina_modelo": 2.3,
+    "EP100_pisuduna_modelo": 2.3,
+    "minor_modelo": 6,
+    "major_modelo": 3,
+    "critical_modelo": 1,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau DBH4ko ikasle batek idatzia dirudi. Hainbat arrazoi: (1) Akats naturalak agertzen dira ('gustokoena', 'ikutzea' 'jo' aditzaren ordez, 'taupada azkarrekin'), (2) Esaldi-eraikuntza batzuk ez dira guztiz naturalak ('musika ikutzea indarra ematen zien'), (3) Amaierako esaldia ('Hala bazan ala ez bazan...') ipuin tradizionalena da, DBH mailatik espero daitekeena, (4) 'Ere' hasierako konjuntzioa ez da egokia paragrafo hasieran, akats tipikoa da, (5) Testuaren luzera (500 hitz inguru) egokia da DBH4rako, (6) Kalitatea uniformea ez da - hasiera hobea da bukaerak baino, azken paragrafoak presaka idatzitako itxura du, (7) Hiztegi sinplea eta naturalagoa da DBH mailako ikasleari dagokiona. Egitura argia du baina ez perfektua, eta pertsonalitate naturalagoa du IA batek sortuko lukeena baino."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

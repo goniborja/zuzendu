@@ -1,0 +1,180 @@
+{
+  "kodea": "TEST-001",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Bikain! Gaiarekin oso ondo lotu zara eta iritzi argia eman duzu eskuko telefonoen erabilerari buruz. Esperientzia pertsonalarekin hasi eta hori da kriston ideia ona.",
+          "Alde onak eta txarrak bereizi dituzu modu argian, eta hori da iritzi-artikulu batean espero dena. Egitura hori ondo barneratuta daukazu!"
+        ],
+        "hobetzekoak": [
+          "Argumentuak gehiago garatu beharko lirateke. Adibide zehatzagoak jarri: zenbat ordu, zein ondorio konkretu osasunerako, ikerketa baten daturen bat... Horrekin testua askoz sendoagoa izango litzateke.",
+          "Ondorioan hasierarekin lotu zenezake biribilagoa izateko: kafetegiko esperientziari buruz zerbait aipatu, adibidez."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu argumentu bakoitza hiru zatirekin egiten: ideia nagusia + zergatia + adibide zehatza. Hori egiten duzunean, nota gora egingo duzu seguru!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura orokorra argia da: sarrera-garapena-ondorioa. Hiru atal argi bereizten dira eta hori oso ona da!",
+          "Paragrafoen banaketa logikoa da eta irakurleak erraz jarraitzen du testuaren hari gidaria. Hau garrantzitsua da eta ondo egin duzu."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak errepikatu egin dituzu pixka bat: 'alde batetik / beste alde batetik' ondo dago, baina barnean gehiago behar dituzu. Erabili 'gainera', 'hala ere', 'hori dela eta', 'ondorioz'... Horiekin testua askoz hobeto lotuko da!",
+          "Hirugarren paragrafoa oso laburra da garapenean. Luzatu apur bat ideia nagusia gehiago azalduz, edo bigarrenarekin batu zenezake."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitzean gutxienez lotura-hitz BAT gehiago sartzen. Hori eginda, koherentzia maila nabarmen igoko zaizu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Erregistroa egokia da iritzi-artikulu baterako: formala baina naturala. Ondo moldatu zara horretan!",
+          "Zenbait adierazpen ondo erabili dituzu: 'etengabe', 'aurre egiteko', 'modu osasungarrian'. Horrelakoek maila ematen dute!"
+        ],
+        "hobetzekoak": [
+          "Esaldi-egitura gehienak oso sinpleak dira. Animatu zaitez egitura konplexuagoak erabiltzen! Baldintzazkoak ('hori gertatuko balitz...'), kausazkoak ('hori dela eta...'), erlatibozkoak... Arriskatu egin behar da horretarako!",
+          "Hiztegia mugatua da: 'ona/txarra' binomioa askotan errepikatzen da. Erabili sinonimoak: onuragarria/kaltegarria, positiboa/negatiboa, abantaila/desabantaila, mesedea/kaltea. Hitz bakoitza tresna bat da!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez baldintza-esaldi BAT sartzen ('...balitz, ...luke/litzateke'). Hori egiten duzunean, BLH-n nabarmen igoko zaizu eta aztertzaileak ikusi egingo du zure ahalegina!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORI-NORK aditz-sistema ondo erabili duzu orokorrean: 'konturatu ginen', 'erabiltzen zutela', 'erabili ahalko dute'. Hau ez da batere erraza eta primeran egin duzu!",
+          "Mugagabea (-tzen) ondo kontrolatzen duzu: 'informazioa bilatzeko', 'lagunekin kontaktuan egoteko'. Kriston lana, benetan!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-K) bi aldiz ahaztu zaizu, eta hau da akatsik garrantzitsuena. Gogoratu: aditza NOR-NORK denean, subjektuak -K behar du. 'Hori harritu gintuen' → 'HorreK harritu gintuen', 'telefonoak dakartza' → 'telefonoEK dakartzaTE'. Kontu honekin, ondo?",
+          "Komak lokailuen ostean: 'nire ustez', 'horrela', 'laburbilduz' bezalako adierazpenen ostean BETI koma jarri behar da. Hau erraz konpontzen da, fijatu eta kito!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu zeure buruari: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin akats hauek desagertuko dira. Badaukazu maila hori harrapatzeko!"
+      }
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.5,
+    "biribiltzea": 6.5,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Ondo egin duzu lana, oso ondo! Egitura argia du zure idazlanak eta iritzia modu garbian adierazi duzu. Hobetzeko tarte handiena bi alorretan dago: alde batetik, hiztegi eta egitura aberatsagoak erabiltzen saiatu (BLH), badaukazu gaitasuna horretarako; bestetik, ergatiboaren kontua konpondu (ZL). Bi horiek landuz, noton gora egingo duzu ziur!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna!"
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Hori harritu gintuen",
+        "zuzenketa": "Horrek harritu gintuen",
+        "azalpena": "Aditza NOR-NORK denean (harritu → nork harritu?), subjektuak -K marka behar du. 'Hori' → 'Horrek'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "eskuko telefonoak onura asko dakartza",
+        "zuzenketa": "eskuko telefonoek onura asko dakartzate",
+        "azalpena": "Subjektua plurala denean (telefonoEK), aditzak ere plurala izan behar du: 'dakartza' (hark) → 'dakartzate' (haiek). Gainera, ergatiboa (-k) falta da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lokailuen ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Nire ustez guraso eta irakasleek",
+        "zuzenketa": "Nire ustez, guraso eta irakasleek",
+        "azalpena": "Lokailuen ostean ('nire ustez', 'horrela', 'laburbilduz', 'esate baterako', 'esaterako'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta juntagailuaren ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina beste alde batetik edozein arlotan bezala gauza txarrak",
+        "zuzenketa": "Baina, beste alde batetik, edozein arlotan bezala, gauza txarrak",
+        "azalpena": "'Baina' bezalako juntagailuen ostean koma jarri behar da, eta gainera lokailuak ere koma artean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — mailegu okerra",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "problema honi aurre egiteko",
+        "zuzenketa": "arazo honi aurre egiteko",
+        "azalpena": "'Problema' gaztelaniazko hitza da zuzenean. Euskaraz 'arazo' erabili behar da batuan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Gerundio erderakada",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "mugak jarriz eta alternatibak proposatuz",
+        "zuzenketa": "mugak jarrita eta alternatibak proposatuta / mugak jarri eta alternatibak proposatu",
+        "azalpena": "Gaztelaniazko gerundioa (-ando/-iendo) euskarara -z/-tuz eraman ohi da baina askotan ez da zuzena. Kasu honetan, bi esaldi egin edo partizipioa erabili: 'jarrita', 'proposatuta'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "erabili ahalko dute teknologia",
+        "zuzenketa": "teknologia modu osasungarrian erabili ahalko dute",
+        "azalpena": "Euskaraz ordena SOV da: subjektua + objektua + aditza. Objektua ('teknologia') aditzaren aurretik joan behar da, ez atzean gaztelaniaz bezala."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 138,
+    "minor": 8,
+    "major": 3,
+    "critical": 0,
+    "EP100_gordina": 10.1,
+    "EP100_pisuduna": 6.5
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

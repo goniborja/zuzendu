@@ -1,0 +1,219 @@
+{
+  "kodea": "TELMO",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": "CAP-4",
+      "iruzkina": {
+        "indarguneak": [
+          "Gai garrantzitsu bat hautatu duzu: gazteak eta teknologia. Hori oso ona da!",
+          "Istorio bat kontatzeko gaitasuna daukazu, pertsonaia garatu eta bilakaera bat deskribatzeko. Idazteko gaitasuna badaukazu, benetan!"
+        ],
+        "hobetzekoak": [
+          "PROBLEMA LARRIA: Iritzi-artikulua eskatu da, baina zu NARRAZIOA idatzi duzu. Testua istorio bat da (Ikerren istorioa), ez iritzi-artikulu bat. Iritzi-artikuluak tesia behar du + argudioak + ondorioa, eta zuk ez duzu INONGO IRITZIrik adierazi zure testuaren hasieran edo amaieran. Falta da 'nire ustez', 'defenda dezaket', 'argi dago'... bezalako formula bat + argudioak + kontrargumentuak.",
+          "Testuak ez du iritzi-artikuluaren egitura errespetatzen: falta da tesia, argudioak adibideekin, kontrargumentua eta ondorio argia zure iritziari buruz. Istorio polita da, baina ez da eskatu dena. Hurrengo aldian, eskatu dizutena arretaz irakurri eta gero hasi idazten!"
+        ],
+        "feed_forward": "Hurrengo aldian, iritzi-artikulua idatzi behar duzunean, egin hau: 1) Zure tesia hasieran azaldu ('Nire ustez, IA-ren erabilera txarra arriskutsua da nerabeentzat'), 2) Eman hiru argudio zergatia azalduz, 3) Aipatu kontrargumentua ('batzuek esaten dute lagungarria dela, baina...'), 4) Bukatu zure tesia berresanez ondorio gisa. Horrela, egitura zuzena izango duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazio gisa, testua ondo egituratu duzu: hasiera, korapiloa, gailurra eta amaiera. Istorio baten egitura barneratuta daukazu!",
+          "Paragrafoen banaketa logikoa da narrazioaren bilakaera jarraitzeko: Ikerren aurkezpena → IA aurkitzea → obsesioa → ondorioak → irtenbidea. Hori benetan ona da!"
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak nahiko onak dira baina errepikatzen dituzu: 'baina' lau aldiz, 'eta' hamar aldiz baino gehiagotan. Erabili alternatibak: 'hala ere', 'ordea', 'gainera', 'bestalde'. Horrekin testua askoz jorratsuagoa izango da!",
+          "Zenbait paragrafoan esaldi-kateak oso luzeak dira punturik gabe. Adibidez: 'Eskolako talde-lanean dena perfektua izan zen IAri esker, baina aurkezpena egiteko orduan, ahotsa eten zitzaion eta begirada lurrera erori zitzaion.' Esaldi hori bi zatitu zenezake puntu batez. Puntu gehiago = irakurketa errazagoa!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz desberdinak erabiltzen esaldi batetik bestera. 'Baina' idatzi baino lehen, galdetu: 'ordea', 'hala ere' edo 'aitzitik' erabil dezaket? Horrela hiztegia aberasten doa eta irakurlea ez da aspertzen!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa erabili duzu zenbait tokitan: 'dirdira', 'emozioa piztu', 'desagerpenari bruuz jakin', 'negarrez josita'. Hitz hauek testua aberasten dute!",
+          "Perpaus konplexuak erabiltzen saiatu zara noiz edo noiz: 'Programarekin hizketan minutu batzuk igarota, inoiz sentitu ez zuena sentitu zuen'. Saiakera hori oso positiboa da!"
+        ],
+        "hobetzekoak": [
+          "Perpaus sinpleak nagusi dira testuan. Animatu zaitez egitura konplexuagoak erabiltzen baldintzekin edo kausazkoekin: 'IA erabiltzen hasi bazen, laguntza psikologikoa eskaini beharko litzaioke' edo 'kalean bizi izan zuenez, egoera konturatu zen'. Arriskatu egin behar da!",
+          "Errepikapen lexikoak: 'sentitu' 6 aldiz erabili duzu. Erabili alternatibak: 'nabaritu', 'sumatu', 'pairatu', 'bizitu'. Hitz bakoitza tresna bat da, gozatu!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez bi baldintza-esaldi sartzen ('-ko balu...', 'izango balitz...'). Honek BLH-n nabarmen igoko zaitu eta testua konplexuagoa egingo da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema nahiko ondo kontrolatzen duzu: 'iritsi zenean', 'piztu zuen', 'aurkitu zuen'. NOR eta NOR-NORK sistemak ongi darabiltza gehienetan!",
+          "Ortografia nahiko zuzena da oro har. Ez dituzu akats larriak egin letra larrietan edo sibilanteetan. Primeran!"
+        ],
+        "hobetzekoak": [
+          "AKATS NAGUSIA: Ergatiboa (-k) 6 aldiz ahaztu zaizu. 'IA-K laguntzen dit' → 'IA-k laguntzen dit' (ondo!), baina 'emozioa piztu zuen', 'tonua aspergarria izan arren', 'programak ematen zion', 'IA-ren erabilera txarrak blokeatu zituen' → hauetan guztiak SUBJEKTUAK -K BEHAR DU. Gogoratu: aditza NOR-NORK denean (nork egin du?), subjektuak -K marka behar du.",
+          "Puntuazioan arazo batzuk: Koma falta lotura-hitzen ondoren ('Baina, aldi berean' → koma behar da), eta run-on esaldiak (esaldi oso luzeak punturik gabe). Idatzi eta gero berrikusi puntuazioa!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? (nork...?). Baietz bada, subjektuari -K jarri. Sistema sinple horrekin akats hauek desagertuko dira. Badaukazu maila hori harrapatzeko!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=5 baxuegi da EP100=1.99 (bikaintasuna, tartea 9-10). ZL=6 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 5.5,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Ondo idazten duzu, benetan! Istorio polita eta koherentea sortu duzu. BAINA kontuz: iritzi-artikulua eskatu da eta zu narrazioa idatzi duzu. Hori da arazo nagusia. Testua ona da baina ez da eskatu dena. Beste alde batetik, ergatiboa (-k) kontrolatu behar duzu hobeto eta lotura-hitzak aberastu. Horrekin, salto handia egingo duzu!",
+    "lehentasuna": "Testu-mota errespetatu: iritzi-artikulua = tesia + argudioak + ondorioa (EZ istorioa). Hau da lehen lehentasuna. Bigarrena: ergatiboa (-k) esaldi bakoitzean berrikusi NOR-NORK aditzetan.",
+    "batez_bestekoa_modelo": 5.25,
+    "biribiltzea_modelo": 5.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu — NOR-NORK aditzetan",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "emozioa eta interesa piztu zuen Ikerrengan",
+        "zuzenketa": "emozioaK eta interesaK piztu zuten Ikerrengan",
+        "azalpena": "Aditza NOR-NORK denean (nork piztu zuen?), subjektuak -K marka behar du. Kasu honetan, bi subjektu daude: 'emozioak' eta 'interesak', biak pluralean eta ergatiboa behar dute."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura okerra — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "emozioaK eta interesaK piztu zuen",
+        "zuzenketa": "emozioaK eta interesaK piztu zuten",
+        "azalpena": "Subjektua plurala denean (bi gauzak: emozioa eta interesa), aditzak ere plurala izan behar du: zuen (berak) → zuten (haiek)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina aldi berean",
+        "zuzenketa": "Baina, aldi berean,",
+        "azalpena": "'Baina' eta 'aldi berean' lotura-hitzak dira eta koma behar dute ondoren beti."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Punturik ez esaldi luzean (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Eskolako talde-lanean dena perfektua izan zen IAri esker, baina aurkezpena egiteko orduan, ahotsa eten zitzaion eta begirada lurrera erori zitzaion.",
+        "zuzenketa": "Eskolako talde-lanean dena perfektua izan zen IAri esker. Baina aurkezpena egiteko orduan, ahotsa eten zitzaion eta begirada lurrera erori zitzaion.",
+        "azalpena": "Esaldi oso luzea da eta bi ideia independente ditu. Puntu bat jarri behar da 'IAri esker' ostean eta 'Baina' letra larriz hasi."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'sentitu' hitza 6 aldiz erabili duzu testuan",
+        "zuzenketa": "Erabili sinonimoak: nabaritu, sumatu, pairatu, bizitu, esperimentatu",
+        "azalpena": "Hitz bera gehiegitan errepikatzeak testua monotonoa egiten du. Sinonimoak erabiltzeak aberastasuna ematen dio."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitzen errepikapen altua",
+      "akats_id": "OK-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'baina' 4 aldiz, 'eta' 10+ aldiz",
+        "zuzenketa": "Erabili alternatibak: 'hala ere', 'ordea', 'gainera', 'halaber', 'bestalde'",
+        "azalpena": "Lotura-hitz berdinak gehiegitan errepikatzeak testua pobretzen du. Erabili aniztasun handiagoa diskurtso-markatzaileetan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo — letra larri falta",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "etra arrastorik utzi gabe",
+        "zuzenketa": "ez eta arrastorik utzi gabe",
+        "azalpena": "Typo: 'etra' idatzi duzu 'ez eta' idatzi beharrean. Berrikusi testua idatzi ondoren."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zituelarik",
+        "zuzenketa": "zituela -rik",
+        "azalpena": "'-rik' (partitiboa) atzizkia da, ez atzizki bat. Banandurik idatzi behar da: 'zituela -rik' edo 'zituelarik' forma sintetikoan. Kasu honetan anbiguoa da, kontestua kontuan hartuz 'begietan dirdira zituela' esan nahi duzula dirudi, beraz '-rik' ez da beharrezkoa. Zalantzazkoa."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 602,
+    "minor": 6,
+    "major": 9,
+    "critical": 0,
+    "EP100_gordina": 3.99,
+    "EP100_pisuduna": 1.99,
+    "EP100_gordina_modelo": 4.0,
+    "EP100_pisuduna_modelo": 6.1,
+    "minor_modelo": 6,
+    "major_modelo": 9,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 8,
+      "ia_puntuazioa_modelo": 1.14,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 2,
+        "S3": 1,
+        "S4": 1,
+        "S5": 0,
+        "S6": 2,
+        "S7": 1
+      },
+      "maila": "ERTAINA",
+      "iruzkina": "Testua DBH4ko ikasle batek idatzia dirudi. Hainbat akats natural agertzen dira: 'IKERREN' izenburuak azentua falta du, 'testuak sortu' (testuak sortzeko), 'zituelarik' erabilera ez-aproposa, 'bereziki azkar bazkaldu' (azkar bazkaldu), puntuazio akatsak ('zituen,eta'), 'bruuz' hitza ('bat-batean' edo 'berehala' izan beharko luke), 'batekin' zatitua ('bat-batean'). Egitura narratiboa nahiko ona da baina ez perfektua - denbora-jauzia deskuidatua da (3 aste eta gero konponketa azkarra). Hiztegian hitz zailak badaude ('desegonkortasun mentalak') baina testuinguru naturalean. Luzera 620 hitz inguru da, egokia DBH4rako. Kalitatea uniformea ez da - hasiera hobea da bukaera baino, zeinetan azaltzen-kontatzen nahasten diren. Pertsonalitate naturala du, ez da robotikoa. Guztira, ikasle gazte batek idatzitako istorio bat da, akats tipikoekin."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "CAP-4 aplikatu da: iritzi-artikulua eskatu baina narrazioa idatzi du",
+        "Testu-mota errespetatu ez denez, ebaluazioa baliozkoa den berrikusi behar da irakaslearekin",
+        "IA susmo ertaina (puntuazioa: 8/21)"
+      ]
+    }
+  }
+}

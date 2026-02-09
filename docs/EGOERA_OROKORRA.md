@@ -95,14 +95,38 @@ zuzendu_v3/
     errubrika.json        # Heziberri errubrika
     gramatika/            # 11 gramatika TSV
   src/
-    zuzendu_test.py       # Pipeline nagusia
+    zuzendu.py            # Pipeline nagusia (karpeta osoa prozesatu)
+    zuzendu_test.py       # Pipeline zaharra (fitxategi bakarra)
     ep100.py              # EP100 post-prozesatzea
     ia_detekzioa.py       # IA detekzio independentea
     docx2txt.py           # .docx -> .txt bihurtzailea
+  idazlanak/              # Sarrerako testuak, taldeka
+    DBH3A/
+    DBH3B/
+    DBH4A/
+    DBH4B/
+      01_narrazioa/       # 4B lehen aktibitatea
+  emaitzak/               # JSON emaitzak, taldeka
+    DBH3A/
+    DBH3B/
+    DBH4A/
+    DBH4B/
+      01_narrazioa/       # 4B lehen aktibitate emaitzak
   tests/
-    idazlanak/            # 15 testu .txt formatuan
-  data/
-    emaitzak/             # JSON emaitzak
+    testu_kalibrazioa/    # Kalibrazio-testuak (aparte)
   docs/
     EGOERA_OROKORRA.md    # Dokumentu hau
+```
+
+### Erabilera
+
+```bash
+# Karpeta osoa prozesatu (taldea/maila/mota automatikoki):
+python src/zuzendu.py idazlanak/DBH4B/01_narrazioa/
+
+# Fitxategi bakarra:
+python src/zuzendu.py idazlanak/DBH4B/01_narrazioa/ --fitxategia Telmo
+
+# Zirriborro moduan:
+python src/zuzendu.py idazlanak/DBH4B/01_narrazioa/ --modua zirriborroa
 ```

@@ -1,0 +1,215 @@
+{
+  "kodea": "MARIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo egituratuta dago: hasiera-korapiloa-amaiera argi bereizten dira. Amaiaren aldaketa emozionala oso ondo garatzen duzu, duela bi hilabeteko Amaiatik gaur egungo Amaiara. Bikain!",
+          "Pertsonaien garapena sakona da: Amaia ez da pertsonaia laua, ikusten dugu nola aldatzen den barnean eta kanpoan. Maider, gurasoak... denak koherenteak dira. Hau maila altuko ezaugarria da narrazioan!"
+        ],
+        "hobetzekoak": [
+          "Narrazioak korapilo txiki bat beharko luke gehiago dramatismoa emateko. Adibidez, Maiderrekin lehenengo egunean arazo txiki bat (akats bat, ulertu ez...) eta gero konpontzea, horrela dinamikoa izango litzateke.",
+          "Deskribapen sentsorialak gutxi dira. Saiatu ikusmenaz, entzumenaz, sentimenduaz gehiago erabiltzen: ze koloretakoak ziren hormak? Nola usaintzen zuen sukaldea? Hor daude puntu gehiago irabazteko!"
+        ],
+        "feed_forward": "Hurrengo narrazioan, gehitu 2-3 deskribapen sentsorial (koloreak, usainak, soinuak, ukituak). Horrek irakurlea zure istorioaren barruan sartuko du erabat!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da: eszenatik eszena, une kronologiko batetik bestera. Irakurleak erraz jarraitzen du narrazio-denbora.",
+          "Lotura denborazko egokiak: 'Egun batean', 'Hurrengo egunean', 'Aste batzuk pasa ondoren'... Oso ondo erabiltzen dituzu kronologia argi mantentzeko!"
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz gehiago behar dituzu paragrafo barnean esaldiak lotzeko. Adibidez: 'gainera', 'hala ere', 'horregatik'... Dituzu esaldi asko 'eta' bakarrarekin lotuta — aniztasun gehiago behar da!",
+          "Paragrafo batzuk oso laburrak dira (2 esaldi). Luzatu apur bat edo batu hurrengo paragrafoarekin. Adibidez: Maider afaltzen doan paragrafoa eta gurasoek hitz egiten duena bat egin zenezake."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitzean lotura-hitz desberdin bat erabiltzen (gainera, hala ere, horregatik, ordea). Hori eginda, koherentzia maila 8ra igoko zaizu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Perpaus-egitura konplexuak erabiltzen dituzu: mendekoak ('nahiz eta ez izan lagunik'), denborazkoak ('Joan ondoren'), kausazkoak ('horregatik')... Hau maila aurreratuko ezaugarria da!",
+          "Aditz-aldiak ondo kontrolatzen dituzu narrazioan: lehenaldia (oinarria), aspektu-aldaketak (hasi zen, jarraitu zuen)... Maila oso ona!"
+        ],
+        "hobetzekoak": [
+          "Hiztegia gehiago aberastu zenezake. 'Oso' eta 'baino' asko errepikatzen dituzu. Erabili: 'benetan', 'izugarri', 'nahiko', 'askoz'... Sinonimoak dira tresna indartsuak!",
+          "Erderakada txiki batzuk: 'jessarri' eta 'lagun izatea' gaztelaniazko formula da batzuetan. Euskaraz 'lagun bat eduki' edo 'adiskidetasun bat sortu' izango litzateke naturalagoa."
+        ],
+        "feed_forward": "Hurrengo aldian, hitz-zerrenda bat egin sinonimoekin: oso → benetan/izugarri/nahiko; esan → adierazi/kontatu/azaldu. Hori eginda, BLH nota 8ra igoko zaizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema ondo kontrolatzen duzu gehienetan: 'aitak pizzak erosi zituen', 'amak pastela egin zuen'. Bikain!",
+          "Aditz-denborak koherenteak dira narrazioan: lehenaldia nagusitzen da, aspektuak ondo txertatuta. Maila ona!"
+        ],
+        "hobetzekoak": [
+          "Akats gehienak deklinabidea dira: ergatiboa falta, datibo /-nori falta, eta ezezkoan mugagabea (-rik) falta. Hauek dira lehentasunezkoak konpontzeko!",
+          "Ortografia-akats txiki batzuk: 'libruruak' (r errepikatu), 'jessarri' (ss), 'pentsatsen' (tz), 'lotsati' (d falta). Hauek errepasoarekin konpontzen dira!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin akats hauek desagertuko dira!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.59 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain egin duzu lana, benetan! Narrazioa oso polita da, pertsonaien garapena sakona, egitura argia eta aditz-sistema ondo kontrolatuta. Hobetzeko gunea ZL-n dago batez ere: deklinabidean (ergatiboa, datiboa, mugagabea) eta ortografia-xehetasun batzuetan. Horiek konpondu eta gora zu! Primeran zoaz!",
+    "lehentasuna": "Ergatiboa (-k) eta datiboa (-ri): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri, eta NOR-NORI-NORK aditzetan zehar-osagarriari -RI jarri. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Amaiaren urduri jarri zen",
+        "zuzenketa": "Amaia urduri jarri zen",
+        "azalpena": "Aditza NOR denean (jarri → nor jarri da?), subjektuak ez du -K marka behar. Baina 'Amaiaren' okerra da hemen — 'Amaia' izan behar da (absolutiboa). Hau deklinabide nahasketa da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Datiboa falta (-ri)",
+      "akats_id": "ZL-KAS-2",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "aitak hitz egin zion",
+        "zuzenketa": "aitak hitz egin zion (ondo) / aitak Amaiari hitz egin zion",
+        "azalpena": "Aditz honetan 'zion' erabiltzen denean, NORi adierazten da, beraz datiboa (-ri) behar da esplizituki agertzen bada. 'Zion' bakarrik egonez gero, ondo dago (aditzean dagoenez). Kasu honetan 'Amaia' jarri beharrean 'Amaiari' beharko litzateke NORi azpimarratzeko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Mugagabea (-rik) falta ezezkoan",
+      "akats_id": "ZL-KAS-6",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "inork ez zuen berarekin hitz egiten",
+        "zuzenketa": "inork ez zuen berarekin hitz egiten (ondo — 'inork' mugagabea da)",
+        "azalpena": "Kasu honetan 'inork' forma zuzena da (ino + -k erg. + -rik mugagabe). Beste adibide bat: 'baina Amaia bakarrik geratzen zen beti' — hemen 'bakarrik' adberbioa da, ez da deklinabide arazoa."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Ortografia — Kontsonante errepikatzea",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "libruruak",
+        "zuzenketa": "liburuak",
+        "azalpena": "Kontsonante edo silaba errepikatzea (libruruak → liburuak; jessarri → jesarri edo eseri)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra (aspektua)",
+      "akats_id": "ZL-ADI-5",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "pentsatsen zuen",
+        "zuzenketa": "pentsatzen zuen",
+        "azalpena": "Aspektu burutugabea: -tzen atzizkia. 'Pentsatsen' forma ez da existitzen; 'pentsatzen' da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz errepikakorra — 'eta' gehiegitan",
+      "akats_id": "OK-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Esaldi asko 'eta' bakarrarekin lotuta",
+        "zuzenketa": "Erabili lotura-hitz anitzagoak: gainera, hala ere, ordea, horregatik",
+        "azalpena": "Lotura-hitz errepikatzaileak narrazioaren dinamismoa murrizten dute. Aniztasuna behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena — 'oso'",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'Oso' 10 aldiz baino gehiagotan erabiltzen duzu",
+        "zuzenketa": "Erabili sinonimoak: benetan, izugarri, nahiko, asko, askoz",
+        "azalpena": "Errepikapen lexikoak testuaren aberastasuna murrizten du. Sinonimoak dira tresna indartsuak."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Beraz berehala bere gauzak",
+        "zuzenketa": "Beraz, berehala bere gauzak",
+        "azalpena": "Lotura-hitzen ostean ('beraz', 'gainera', 'hala ere') beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Adberbioa gaizki kokatuta",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ez zuen askorik hitz egiten",
+        "zuzenketa": "ez zuen hitz askorik egiten / ez zuen gehiegi hitz egiten",
+        "azalpena": "Adberbioa aditzaren aurrean joan behar da normalean fokua emateko. Hemen 'askorik' posizioa pixka bat arraroa da."
+      },
+      "zalantzazkoa": true
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1038,
+    "minor": 9,
+    "major": 12,
+    "critical": 0,
+    "EP100_gordina": 3.18,
+    "EP100_pisuduna": 1.59,
+    "EP100_gordina_modelo": 3.9,
+    "EP100_pisuduna_modelo": 3.5,
+    "minor_modelo": 7,
+    "major_modelo": 13,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

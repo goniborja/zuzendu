@@ -1,0 +1,208 @@
+{
+  "kodea": "AHETZ",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Primeran! Istorio bat kontatu duzu hasiera-erdiko-amaiera guztiekin. Nabarmena da zerbait interesgarria gertatu zitzaizuela eta hori kontatzeko gogoa duzula. Hori da benetako idazketa!",
+          "Detaileak sartzen dituzu — lekuak, prezioak, orduak... Horrek bizitasuna ematen dio narrazioari eta irakurleak sentitzen du 'bertan' dagoela. Bikain!"
+        ],
+        "hobetzekoak": [
+          "Istorioa luzeegi egin zaizu eta zatika desantolatua dago. Proba egin esaldi laburragoak idazten eta puntu gehiago jartzen. Esaldi bat = ideia bat. Horrela irakurleak errazago jarraitzen du.",
+          "Amaiera oso laburra da hasierarekin konparatuta. Narrazioan garrantzitsua da 'closing' ona ematea: zer ikasi zenuten? Zer aldatu zen gero? Horri buruz gehiago idatzi zenezake."
+        ],
+        "feed_forward": "Hurrengo aldian, istorioa idatzi ondoren, zatitu 4-5 paragrafotik: 1) Aurkezpena, 2) Bidaia hasiera, 3) Istripu eta bila, 4) Ospitalea, 5) Amaiera eta hausnarketak. Paragrafo bakoitzak ideia nagusi BAT. Hori eginda, AB-n 7-8 lortuko duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioak sekuentzia kronologikoa du orokorrean — hasi zara hasieratik eta amaitu amaieran. Hori ona da!",
+          "Lotura-hitz batzuk erabili dituzu ('gero', 'azkenean', 'hurrengo egunean') denbora-sekuentzia adierazteko. Bidean zoaz!"
+        ],
+        "hobetzekoak": [
+          "Paragrafo BAKARRA dago testu osoan. Hau oso zaila da irakurtzeko. Paragrafoak banatzea funtsezko gauza da: ideia berria = paragrafo berria.",
+          "Esaldiak oso luzeak dira eta punturik gabe elkarrekin lotuta. Hau 'run-on sentence' deitzen da ingelesez. Puntu gehiago jarri behar dituzu esaldien artean, bestela irakurlea galtzen da."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, irakurri testua ozen eta arnasa hartzen duzun bakoitzean PUNTU bat jarri. Puntu ondoren letra larriz hasi. Horrek AK-n puntu bat edo bi igoko dizkizu automatikoki!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz-altxorra nahikoa da istorioa ulertzeko eta kontatzen duzu nola sentitzen zinen ('arduratuta', 'pozik', 'sorpresa'). Emozio-hitzak erabiltzea oso ona da narrazioetan!",
+          "Esaldi batzuetan egitura konplexuagoak saiatu zara erabiltzen. Hori da bidea, arriskatu eta gehiago praktikatuz hobetuko zara!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexikoak daude: 'esan' 20 aldiz baino gehiagotan, 'joan' oso sarri, 'horduan' errepikatzen da asko. Erabili sinonimoak: 'esan' → 'adierazi, komentatu, jakinarazi'; 'joan' → 'abiatu, itzuli, hurbildu'; 'horduan' → 'orduan, une hartan, momentu horretan'.",
+          "Gaztelaniazko hitzak eta egiturak nahasten dira: 'apuntatu' → 'eman izena/izena eman', 'organizatzen egon' → 'antolatzen', 'pelikula ikuzi' → 'filma ikusi'."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu testu osoa irakurtzen eta hitz errepikatuak azpimarratzen. Hitz horiei sinonimoak aurkitu eta aldatu. Horrek BLH-n puntu bat edo bi igoko dizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 3,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-forma batzuk ondo dituzu: 'joan ginen', 'etorri ziren', 'ikusi genuen'. NOR sistema kontrolatzen duzu oinarrizko mailako testuinguru askotan.",
+          "Egitura batzuk zuzenak dira nahiz eta testua luzea izan: 'denak egon ginen arduratuta', 'egunero joaten ginen'. Ondo!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-K) 15 aldiz baino gehiagotan ahaztu zaizu. Hau da akats larriena eta narrazioan oso ohikoa da. Gogoratu: aditza NOR-NORK denean (ikusi, esan, egin...), subjektuak -K behar du. Adib.: 'maisuA esan zion' → 'maisuAK esan zion'.",
+          "Ortografia-akatsak ugari dira: 'pasadan' → 'pasatako/pasadan', 'esagutzeko' → 'ezagutzeko', 'izartu' → 'esnatu', 'hoeixen' → 'haien', 'ikuzi' → 'ikusi'. Kontuz idaztean, mesedez!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? (zer egin du? nor ikusi du?). Baietz bada, subjektuari -K jarri. Hau praktikatuz, ZL-n 5-6 lortuko duzu hurrengo aldian!"
+      },
+      "zl_modelo": 3,
+      "python_doikuntza": "Modeloaren ZL=3 koherentea EP100=17.02 (oinarrizkoa, tartea 3-4)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 4.5,
+    "biribiltzea": 4,
+    "heziberri_maila": "hasiberria",
+    "orokorra": "Istorio interesgarria kontatu duzu eta idazteko gogoa duzula nabaritzen da! Oinarrizko egitura bat dago baina testua antolatu gabea dago: paragrafo bakarra, esaldi oso luzeak punturik gabe, eta akats-kopuru altua, batez ere ergatiboa (-K) eta ortografia. Hobetzeko tarte handia dago eta badaukazu gaitasuna horretarako. Landu ergatiboa lehenik eta paragrafo-banaketa bigarrenik. Bidean zoaz!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Puntu gehiago jarri esaldien artean. Hauek dira lehentasun nagusiak!",
+    "batez_bestekoa_modelo": 4.5,
+    "biribiltzea_modelo": 4.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 18,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "maizuak esan zuen",
+        "zuzenketa": "maizuAK esan zuen",
+        "azalpena": "Aditza NOR-NORK denean ('esan' → nork esan?), subjektuak -K marka behar du. Hau da akats nagusia testu honetan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia-akatsak — hitz-idazketa okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 25,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esagutzeko, ikuzi, izartu, hoeixen, haber",
+        "zuzenketa": "ezagutzeko, ikusi, esnatu, haien, zer",
+        "azalpena": "Hitz-grafia okerrak. Kontuz idaztean eta ortografia lantzean hobetuko da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazioa — esaldien artean punturik ez (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 20,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "joan ginen eta esan genuen hurrengo hilabetean joango ginela horduan azkenengo hilabate...",
+        "zuzenketa": "joan ginen eta esan genuen hurrengo hilabetean joango ginela. Orduan azkenengo hilabete...",
+        "azalpena": "Esaldi independenteen artean puntua jarri behar da. Testu osoan 2-3 puntu bakarrik daude eta honek irakurketa oso zailtzen du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz-kalkoak",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "apuntatu, organizatzen egon, haber (por ver), ikuzi (por ikusi), eskero (por si)",
+        "zuzenketa": "izena eman/eman izena, antolatzen, zer, ikusi, baldin",
+        "azalpena": "Gaztelaniazko hitzak edo kalko lexikoak zuzenean euskarara. Kontuz!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "deneri abizatu genien",
+        "zuzenketa": "denei abisatu genien",
+        "azalpena": "Subjektua plurala denean ('gu'), aditzak ere plurala izan behar du. Aditz-komunztadura lantzea garrantzitsua da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erregistro-nahasketa — gaztelaniako slang",
+      "akats_id": "LH-6",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gonbidatu zigun (invitar kalkoa da baina onargarria), 'haber' (gaztelaniazko hitza zuzenean)",
+        "zuzenketa": "gonbidatu (onargarria, baina 'haber' → 'zer'/'ea')",
+        "azalpena": "Batzu maileguak onartzen dira ('gonbidatu' batuan onargarria da, 'atxilotu', 'aprobetxatu' bezala), baina 'haber' ez da euskara."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'esan' aditza 20 aldiz baino gehiagotan",
+        "zuzenketa": "adierazi, komentatu, jakinarazi, galdetu, erantzun",
+        "azalpena": "Sinonimoak erabiltzeak testua aberatsten du eta irakurgarriagoa egiten du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Paragrafo-banaketa eskasa",
+      "akats_id": "OK-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Testu osoa paragrafo bakarrean",
+        "zuzenketa": "Gutxienez 4-5 paragrafo egin behar ziren: aurkezpena, bidaia hasiera, istripu eta bila, ospitalea, amaiera.",
+        "azalpena": "Narrazioan zati edo aldi bakoitzak bere paragrafoa behar du irakurgarritasuna hobetzeko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 758,
+    "minor": 25,
+    "major": 52,
+    "critical": 0,
+    "EP100_gordina": 17.02,
+    "EP100_pisuduna": 1.78,
+    "EP100_gordina_modelo": 18.5,
+    "EP100_pisuduna_modelo": 14.2,
+    "minor_modelo": 25,
+    "major_modelo": 57,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Nota 4.5 da (baxua), irakaslearen berrespena behar",
+        "EP100_pisuduna 14.2 (hasiberria banda), koherentzia egiaztatu behar",
+        "Testua oso luzea da eta paragrafo bakarra; formatu-arazo larria",
+        "Ergatiboa 18 aldiz ahaztu — patroi sistematikoa"
+      ]
+    }
+  }
+}

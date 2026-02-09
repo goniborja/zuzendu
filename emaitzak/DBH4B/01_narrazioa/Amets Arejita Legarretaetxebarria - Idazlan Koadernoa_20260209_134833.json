@@ -1,0 +1,143 @@
+{
+  "kodea": "AMETS",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso polita eta ondo garatua! Narrazioaren elementu guztiak daude: hasiera-korapiloa-amaiera, pertsonaia baten bilakaera emozionala (Iker bere beldurra gainditzen), eta mezua argia (poliki-poliki ikasiz, gauza berriak lor daitezke). Xehetasun deskriptiboak paregabeak dira: 'Ura lasai zegoen, ispilu baten moduan', 'zerua laranja kolorez bete zen'. Oso ona!",
+          "Denborazko egitura oso ondo landuta dago: lehenengo eguna, hurrengo asteak, jaialdiko eguna, eta amaieran etorkizunera begirako hausnarketarekin. Hori da narratiba modu aurreratuan eraikitzea!"
+        ],
+        "hobetzekoak": [
+          "Testu luzea da eta oso aberatsa, baina zenbait pasartetan errepikapena nabaritzen da: 'Iker urduri zegoen', 'txalupa mugitu zen', 'berriro eta berriro'. Sinonimoak gehiago erabiliz edo esaldien eraikuntza aldatuz, askotariko agertuko litzateke testua.",
+          "Zenbait une deskriptiboan gehiago sakondu zenezake sentsazioak azaltzeko: nola sentitu zuen Ikerrek arraunaren pisua besoan, edo nola zen uraren usaina goizean. Xehetasun sentsorial hauek DBH4 mailarako bikaintasun hutsa dira."
+        ],
+        "feed_forward": "Hurrengo idazlanean, saiatu errepikapenak identifikatzeko eta birformulatzeko paragrafoak berrikustean. Ideia bat bi aldiz esaten denean, galdetu: beste modu batean esan dezaket? Horrekin estilo askoz poliauoa lortuko duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen egitura argia da: bakoitzak ideia bat garatzen du (lehen eguna, arraunaren ahaleginak, jaialdiko eguna...). Narratiba jarraipena oso ona da, irakurleak erraz jarraitzen du.",
+          "Lotura-hitz ugari eta egokiak: 'pixkanaka', 'bat-batean', 'orduan', 'horrela', 'denbora pasa zen konturatu gabe'. Hauek oso egokiak dira narrazio baterako eta testua jarraitzen laguntzen dute."
+        ],
+        "hobetzekoak": [
+          "Zenbait paragraforen artean lotura espliziturik ez dago. Adibidez, 12. paragrafotik 13. paragrafora jauzia bat da: 'Itzuli behar dugu' → 'Bueltako bidean'. Lotura-hitzik ez dago eta koma bat eskasean irakurle pixka bat galduta gelditzen da. 'Hala, bueltako bidean...' edo 'Orduan, bueltako bidean...' egokiagoak izango lirateke.",
+          "Paragrafo batzuk oso laburrak dira (3-4 esaldi), beste batzuk oso luzeak (7-8 esaldi). Luzera orekatuagoa edukitzea lagunduko luke kohesio bisualean."
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo bat amaitu eta gero, begiratu ea hurrengoaren hasiera lotuta dagoen. Baldin eta ideia berria hasten bada, jarri lotura-hitza ('orduan', 'hala', 'horregatik') paragrafoa hasteko. Horrela testua oso lausotua gelditzen da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso aberatsa da narrazio baterako: 'mugitu zuen', 'dardarka hasi zen', 'distira zen', 'konturatu gabe', 'musu eman', 'zirraratxo sentitu'. Aditz eta esapide deskriptiboak naturalki txertatzen dituzu. Oso ondo!",
+          "Egitura konplexuak erabiltzen dituzu akatsik gabe: 'Iker nekatuta zegoen, baina pozik', 'Ura isilik irekitzen zen, eta txalupa aurrera joaten hasi zen', 'Orduan pentsatu zuen arrauna ez zela bakarrik kirola'. Euskara bizian baliatzeko gaitasuna agerian duzu!"
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk errepikatzen dira: 'pixka bat' (18 aldiz guztira!), 'berriro' (13 aldiz), 'lasai' (10 aldiz). Nahiz eta hitz egokiak izan, askotan erabiltzea monotonia sortzen du. Alternatibak: 'apur bat', 'zertxobait', 'berriz ere', 'lasaitu', 'baretasuna'.",
+          "Aditzak gehienetan sinpleak dira ('zegoen', 'zen', 'egin zuen'). Aspektu gehiago erabiliz ('hasi zen ikasten', 'jarraitzen zuen') edo aditz konplexuagoak ('ahalegindu zen', 'konturatu zen'), askotariko sintaktikoa handituko zenuke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, markatu errepikatzen diren hitzak eta bilatu sinonimoak. Adibidez, 'pixka bat' → 'apur bat' / 'zertxobait'. Ideia bat errepikatu beharrean, berridatzi esaldia beste modu batean. Horrela prosa polituagoa lortuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema perfektua duzu! NOR-NORK ('esan zion', 'eman zion', 'azaldu zion'), NOR-NORI ('gustatu zait', 'iruditu zitzaion'), eta NOR-NORI-NORK ('erakutsi zion') ondo kontrolatuta. Hau ez da erraza DBH4 mailan eta zuk perfekzioa oso gertu duzu!",
+          "Morfologia eta deklinabidea oso zuzenak dira: ergatiboa ('aitak', 'haizeak'), datiboa ('aitari', 'buruan'), adlatiboa ('etxera', 'sukaldera'). Akats oso gutxi daude 1500 hitz baino gehiagoko testu honetan. Bikaintasuna!"
+        ],
+        "hobetzekoak": [
+          "Akats txiki batzuk puntuazioan: koma falta zenbait lotura-hitz ondoren ('Baina Iker beti joaten zen gogoz' → 'Baina, Iker beti joaten zen gogoz'). Hauek minor akatsak dira eta ez dute komunikazioa kaltetzen.",
+          "Oso gutxi, baina zenbait esalditan ordena pixka batgaztelaniaduna da: 'Baina Iker beti joaten zen' → 'Baina Iker gogoz joaten zen beti' naturalagoa da euskaraz. Hala ere, orain duzun bertsioa ulergarria eta zuzena da."
+        ],
+        "feed_forward": "Hurrengo aldian, berrikusi lotura-hitz ondorengo komak: 'baina', 'orduan', 'horrela'... hauek normalean komarekin joan behar dute ('Baina, Iker...', 'Orduan, pentsatu zuen...'). Errepaso txiki honekin, zuzentasuna 10/10 izango duzu ziur!"
+      },
+      "zl_modelo": 9,
+      "python_doikuntza": "Modeloaren ZL=9 koherentea EP100=0.65 (bikaintasuna, tartea 9-10)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.5,
+    "biribiltzea": 9,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Narrazioa oso polita da eta ondo garatua! Ikasle baten bilakaera emozionala oso modu naturalean kontatu duzu, xehetasun deskriptiboekin eta mezu pedagogiko argiarekin. Egitura argia da, hiztegia aberatsa, eta aditz-sistema perfektua duzu. Puntuazioan akats txiki batzuk eta errepikapen batzuk daude, baina ez dira eragozpen. Oso maila ona duzu, jarrai horrela!",
+    "lehentasuna": "Hitz errepikatuak (pixka bat, berriro, lasai) identifikatu eta sinonimoekin ordezkatu. Hori eginda, prosa askoz poliauoa eta dibertsifikatuagoa izango duzu!",
+    "batez_bestekoa_modelo": 8.5,
+    "biribiltzea_modelo": 8.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina Iker beti joaten zen gogoz",
+        "zuzenketa": "Baina, Iker beti joaten zen gogoz",
+        "azalpena": "Lotura-hitz ondoren ('baina', 'orduan', 'horrela'...) koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'pixka bat' 18 aldiz, 'berriro' 13 aldiz, 'lasai' 10 aldiz errepikatzen dira testuan",
+        "zuzenketa": "Sinonimoak erabili: 'apur bat', 'zertxobait', 'berriz ere', 'lasaitu', 'baretasuna'",
+        "azalpena": "Hitz berdinak askotan errepikatzeak monotonia sortzen du. Sinonimoak edo birformulazioak erabiltzea hobeto da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa pixka bat gaztelaniaduna",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina Iker beti joaten zen gogoz",
+        "zuzenketa": "Baina Iker gogoz joaten zen beti",
+        "azalpena": "Euskaraz fokua aditzaren aurretik jartzen da. 'Beti' aditzaren aurrera eramateko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1531,
+    "minor": 10,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.65,
+    "EP100_pisuduna": 0.2,
+    "EP100_gordina_modelo": 0.91,
+    "EP100_pisuduna_modelo": 0.91,
+    "minor_modelo": 8,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

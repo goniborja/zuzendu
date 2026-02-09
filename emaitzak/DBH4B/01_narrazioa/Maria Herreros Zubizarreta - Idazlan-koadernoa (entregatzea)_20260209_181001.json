@@ -1,0 +1,241 @@
+{
+  "kodea": "MARIA",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: Perfekzio susmagarria (0) — Testuan akats ugari daude, ez da perfektua",
+      "S2: Hiztegi-maila ez-naturala (0) — Hiztegi egokia DBH4 mailarako, ez da susmagarria",
+      "S3: Egitura perfektua (1) — Egitura narratiboa koherentea da, baina ez exzelentziaraino",
+      "S4: Tonu robotikoa (0) — Tonu naturala, esperientzia emozionala transmititzen du",
+      "S5: Luzera susmagarria (1) — 950 hitz inguru, nahiko luzea baina ez ezohikoa DBH4 mailan",
+      "S6: Akats-patroi naturalen falta (1) — Akats-patroi batzuk daude (ortografia, morfologia)",
+      "S7: Koherentzia/kalitate uniformea (1) — Kalitatea nahiko uniformea da testu osoan"
+    ],
+    "oharrak": ""
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso ederra kontatu duzu! Amaiaren bilakaera emozionala primeran adierazi duzu hasieratik (bakarrik eta triste) amaierara (lagunekin eta pozik). Hori da narrazioan funtsezkoa eta zu bikain!",
+          "Pertsonaiak ondo garatuta daude: Amaiak, Maiderrek eta gurasoek nortasun propioa dute. Elkarrizketak naturalak dira eta istorioari dinamismoa ematen diote. Oso ona!"
+        ],
+        "hobetzekoak": [
+          "Istorioa oso lineala da denboran: gertaera bat, gero beste bat, gero beste bat... Saiatu flashback bat sartzen (gogorapenak) edo denboran aurrera jauzi bat egiten, istorioa interesgarriagoa izateko.",
+          "Deskribapen sentsorialak gehitu: nola zen Gasteizko eskolako usaina? Nola entzuten zen patioko zarata? Horrek irakurlea istorioan sartuko du gehiago!"
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu deskribapen sentsorial bat gehitzen: usaina, soinua, kolorea, ukimena... Horrekin zure testuak zinemako eszena bat emango du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa argia da: hasiera (arazoa) → garapena (aldaketa) → amaiera (ebazpena). Irakurleak erraz jarraitzen du istorioa. Bikain!",
+          "Paragrafoak ondo antolatuta daude: bakoitzak eszena bat edo une bat aurkezten du. Hau oso ona da narrazioan!"
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak askotan errepikatu dituzu: 'beraz' 5 aldiz, 'baina' 8 aldiz, 'eta' ia 70 aldiz! Erabili alternatibak: 'horregatik', 'hala ere', 'gainera', 'ordea'... Horrekin testua askoz fluidoagoa izango da.",
+          "Paragrafo batzuk laburrak dira (2-3 lerro soilik). Luzatu apur bat, edo aurreko/hurrengoarekin batu. Paragrafoen arteko trantsizio batzuk ere hobetu daitezke lotura-hitz egokiagoekin."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero errepasatu: zenbat aldiz erabili dut 'eta' eta 'baina'? Ordezka ditzaket beste lotura-hitzekin? Hori eginda, zure testua profesionalagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-denbora ondo erabiltzen dituzu gehienetan: lehenaldia narrazioan, orainaldia elkarrizketetan. Hori ez da erraza eta ondo egin duzu!",
+          "Perpaus batzuk konplexuak dira eta ondo eratuak: 'Amaia konturatu zen bere gurasoak ez zirela horrenbesteko zorrotzak eta gurasoekin bere jarrera aldatu beharko zuela pentsatu zuen'. Primeran!"
+        ],
+        "hobetzekoak": [
+          "Hiztegia errepikatzailea da: 'esan' 15 aldiz, 'hitz egin' 10 aldiz, 'pozik' 6 aldiz... Erabili sinonimoak: esan → adierazi/azaldu/komentatu; pozik → hunkituta/alai/irribarrez. Hitz bakoitza tresna bat da!",
+          "Adiberbio gehiago erabil ditzakezu deskribatzeko: 'astiro', 'azkar', 'isilik', 'ozenki', 'lasai'... Horiek istorioa biziagoa egiten dute. Adibidea: 'Amaiak lasai erantzun zion' ordez 'Amaiak lasai erantzun zion'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero bilatu hitz errepikatzaileak. Sinonimo bat aurkitu bakoitzerako. Hau eginda, zure hiztegi-altxorra zabaldu egingo da eta testua profesionalagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema ondo kontrolatzen duzu gehienetan: 'aitak esan zuen', 'Maiderrek aurkeztu zizkion'. Hau oso garrantzitsua da eta zu bikain!",
+          "Deklinabide-kasuak ondo erabiltzen dituzu gehienetan: adlatiboa (-ra), ablatiboa (-tik), soziatiboa (-rekin). Primeran!"
+        ],
+        "hobetzekoak": [
+          "Ortografia-akats batzuk: 'jessarri' (eserri), 'liburu' (liburu), 'esagutzen' (ezagutzen). Ez dira akats larriak baina testua idatzi eta ERREPASATU! Horrek akats hauek desagertuko ditu.",
+          "Komak: zenbait tokitan koma falta da lotura-hitzen ostean ('Beraz joan zen' → 'Beraz, joan zen'). Arau sinplea: lotura-hitz bat esaldia hasten badu, koma jarri ondoren. Betiko!"
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi eta gero OZEN irakurri. Non pausatzen duzu arnasa hartzen? Hor jarri koma! Eta ortografia: zalantzarik baduzu hitz batekin, hiztegian begiratu. Egin ohitura hori eta akatsak ia desagertuko dira!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=0.84 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Zorionak, Amaia! Istorio polita eta hunkigarria idatzi duzu. Pertsonaien garapena oso ona da eta narrazioaren egitura koherentea da. Hobetzeko tarte handiena lotura-hitzen aniztasunean eta hiztegi-errepikapenean dago. Ortografia eta puntuazioa errepasatu behar dituzu pixka bat, baina oinarrizko mailak ondo kontrolatuta dituzu. Aurrera zu!",
+    "lehentasuna": "Lotura-hitzak: 'eta' eta 'baina' soilik erabili ordez, bilatu alternatibak (hala ere, gainera, ordea, horregatik...). Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ortografia — Grafia okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "jessarri",
+        "zuzenketa": "eserri",
+        "azalpena": "'Eserri' da forma zuzena. 'J' ez da erabiltzen euskaraz, salbu mailegutan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — Hitz-banaketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "liburu",
+        "zuzenketa": "liburu",
+        "azalpena": "Ondo idatzita dago forma honetan. Baina 'libruruak' idatzi duzu testuan (bikoiztu da -ru)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — Hitz okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esagutzen",
+        "zuzenketa": "ezagutzen",
+        "azalpena": "'Ezagutu' da forma zuzena euskaraz, ez 'esagutu'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Beraz berehala bere gauzak...",
+        "zuzenketa": "Beraz, berehala bere gauzak...",
+        "azalpena": "Lotura-hitz baten ondoren (beraz, hala ere, gainera...) BETI jarri behar da koma."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — Plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "zirudien betidanik esagutzen zirela",
+        "zuzenketa": "zirudien betidanik ezagutzen zirela",
+        "azalpena": "Subjektua plurala denean (haiek), aditzak ere plurala izan behar du. 'Ezagutzen' da forma zuzena, ez 'esagutzen'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erregistro-nahasketa — Informalismoa",
+      "akats_id": "LH-5",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "E... ba…, igual egingo dut",
+        "zuzenketa": "Agian egingo dut / Beharbada egingo dut",
+        "azalpena": "'Igual' gaztelaniazko hitza da. Euskaraz 'agian' edo 'beharbada' erabili behar da. 'E... ba...' elkarrizketa informalean onartzen da, baina narrazioan 'esan zuen' baino hobea da deskribatzea: 'Amaiak zalantzati erantzun zuen'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'esan' 15 aldiz erabiltzen da",
+        "zuzenketa": "adierazi, azaldu, komentatu, galdetu, gehitu, erantzun, kontatu, oihu egin...",
+        "azalpena": "'Esan' aditz generikoa da. Sinonimoak erabiliz, zure testua aberatsagoa izango da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'pozik' 6 aldiz, 'triste' 4 aldiz",
+        "zuzenketa": "pozik → alai, hunkituta, irribarrez, atsegin; triste → nahigabetuta, atsekabetuta, goibel",
+        "azalpena": "Adjektibo errepikatzaileak saihestu eta sinonimoak erabili. Horrekin zure hiztegi-altxorra zabalduko duzu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz errepikatuak",
+      "akats_id": "OK-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'eta' 70 aldiz, 'baina' 8 aldiz, 'beraz' 5 aldiz",
+        "zuzenketa": "gainera, halaber, are gehiago, hala ere, ordea, aldiz, horregatik, hortaz, ondoren...",
+        "azalpena": "Lotura-hitz berdinak askotan errepikatzea testua monotonoa egiten du. Aniztasuna gehitu!"
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 952,
+    "minor": 17,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 2.0,
+    "EP100_pisuduna": 0.84,
+    "EP100_gordina_modelo": 2.63,
+    "EP100_pisuduna_modelo": 2.21,
+    "minor_modelo": 19,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    },
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 3,
+      "ia_puntuazioa_modelo": 1,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 1,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua DBH4 ikasle batek idatzi duela dirudi. Hainbat akats natural agertzen dira: 'libruruak' (liburuak), 'jessarri' (jesarri), 'patioko bankuan' (bankuan), 'igual egongo nintzateke' (seguru aski euskaraz pentsatu ez), 'eguneko' tokian 'eguneroko' egokiagoa litzateke. Egitura narratiboa ona da baina ez perfektua, zenbait pasarte errepikakorrak dira ('hitz egiten', 'bakarrik'). Hiztegia egokia da DBH4rako, ez da C1/C2 mailakoa. Luzera (950 hitz inguru) pixka bat luzea da baina ez da ezohikoa idazlan motibagarri batean. Tonua naturala da, pertsonalitate eta errealismoa ditu protagonistak. Kalitatea ez da uniformea: hasiera sendoagoa da amaiera baino, non errepikapenez betetzen den. Akatsak bereziki nabari dira gramatikan eta lexikoan, DBH ikasle batek egingo lituzkeenak."
+    }
+  }
+}

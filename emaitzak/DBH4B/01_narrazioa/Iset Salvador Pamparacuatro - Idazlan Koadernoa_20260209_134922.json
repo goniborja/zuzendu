@@ -1,0 +1,208 @@
+{
+  "kodea": "ISET",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Uff, Ttak! Istorio oso originala eta indartsua idatzi duzu! 17 zenbakiaren erabilera simbolikoa txapela kentzekoa da: herri txikia, 17 urte, 17 egunak, 17 hilabeteak, 17 minutuak, 17 orduak... guztiarekin koherentzia semantiko bat sortuz. Benetan apartekoa!",
+          "Narrazioaren egitura bikain lortuta daukazu: sarrera argia (pertsonaiak aurkezten), tentsioa berriro eta berriro eraikitzen (liburuak, iragarpen beltza), klimax gogorra (herriaren suntsipena), eta bukaera poetikoa eta gozoa. Istorioak hasiera, erdiko korapiloa eta amaiera dituela bete-betean betetzen duzu.",
+          "Xehetasunak oso ondo jorratuta: liburuetako etxearen deskribapena ('apalak bakarrik liburuekin', 'argi azkorekin'), suntsiduraren krudeltasuna aurkezteko modua, eta azkeneko mendiko eszena poetikoarekin... Idatzi duzu maila hau lortzeko gaitasuna primeran!"
+        ],
+        "hobetzekoak": [
+          "Batzuetan perpausen arteko lotura hobetu zenezake lotura-hitz gehiago erabiliz. Adibidez, 'Bapatean' errepikatzen da hainbat aldiz; tartekatzen ahal zenituzke 'une horretan', 'bat-batean', 'ustekabean' bezalakoak. Horrekin diskurtsoa askoz fluidoagoa litzateke.",
+          "Zenbait lekutan tempoaren aldaketak nabari dira: iragana + oraina nahasian. Adibidez, 'Ane eta Markel oso dibertigarriak dira' (oraina) baina gainerako testua iraganean kontatzen duzu. Narrazioetan koherentzia temporal ikaragarria da."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz desberdinak erabiltzea perpaus berriak sartzeko. Horrekin testu konplexuen koherentzia are gehiago indartuko duzu. Badaukazu maila horretarako!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa oso argia da eta istorioa erraz jarraitzen da hasieratik amaierara. Une garrantzitsu bakoitza (ezagutza, etxe utzira sarrera, liburuen aurkikuntza, suntsipena, ondorengoa) paragrafo berezi batekin markatzen duzu.",
+          "Denbora-marka eta lotura-hitz oinarrizkoak ondo erabiltzen dituzu: '17 egun pasatu ziren', 'Arratsaldean', 'Heldu zirenean', 'Bapatean', 'Hurrengo egunean'... Horrekin irakurtzaileak argi daki noiz gertatzen den zer."
+        ],
+        "hobetzekoak": [
+          "Zenbait lekutan paragrafoak oso laburrak dira (2-3 esaldi) eta hurrengo paragrafoarekin lotu zitezkeen. Adibidez, 'Heldu zirenean...' eta 'Zartzeko ordua...' paragrafoak bat egin zitezkeen fluidotasun handiagoa lortzeko.",
+          "Lotura-hitzen errepikapenak tarteka nabaritzen dira: 'Bapatean' 3-4 aldiz agertzen da testu osoan, baita 'Eta' hasieran perpaus asko hasteko. Tartekatzen ahal zenituzke 'une horretan', 'orduan', 'horrela' eta bestelakoak."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitza beste batekin lotzen lotura-hitz dibertsoak erabiliz. Hala nola, 'horregatik', 'horrez gain', 'ordea', 'hori dela eta'... Horrek AK irizpidean 9-10 lortzeko bidea emango dizu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura sintaktiko nahiko konplexuak erabiltzen dituzu: erlatibozkoak ('Markelek oina jarri zuenean'), mendekoak ('Markelek ideia bat zuen: ...'), baldintza eta kontzesioak ('nahiz eta patuak askotan probak jarri'). DBH4rako maila oso altua da hori!",
+          "Hiztegia nahiko aberatsa da eta narraziorako oso egokia: 'suntsitu', 'sakabanatu', 'dardarka', 'estutu', 'lasai', 'hondarrak'... Hitz hauek testu literario bat egiteko ezinbestekoak dira eta naturaltasunez erabiltzen dituzu."
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk errepikatzen dira maiz: 'beldurra', 'bapatean', 'arratsaldean', 'oso', 'eta'... Sinonimoak tartekatzen ahal zenituzke: beldurra → izua, beldurtuta → izututa, oso → ikusgarria/izugarria (testuinguruaren arabera), arratsaldean → beranduago.",
+          "Adberbioen erabilera sarritan generikoegia da: 'oso handia', 'oso zahar', 'oso pozik'. Tartekatzen ahal zenituzke adberbioak: 'nabarmen handia', 'benetan zahar', 'hunkituta', 'zirrara handia'... Hitz egokiago batekin intentsitatea hobeto adierazten duzu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu ea hitz bat 3-4 aldiz errepikatzen den. Horrelako kasuetan, bilatu sinonimo bat edo modu desberdina adierazteko. Horrekin BLH 9-10 harrapatuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Orokorrean, aditz-sistema ondo kontrolatzen duzu: NOR-NORK zuzen askotan ('konturatu ziren', 'ikusi zuten', 'pentsatu zuen'), eta baita aditz sintetikoak ere ('dago', 'dira', 'daramatzate'). Hau ez da erraza eta ondo egin duzu!",
+          "Deklinabidearen erabilera gehienetan zuzena da: '-ra/-tik', '-ko', '-rekin', '-nean' ondo kontrolatzen dituzu. Horrek erakusten du oinarrizko egitura finkatuta daukatzula."
+        ],
+        "hobetzekoak": [
+          "Aditz-komunztadura zenbait kasutan okerra da: 'Anek baietz esan zion' (ondo → 'Anek baietz esan zuen'); 'negarrez zegoen' vs 'negarrez zirela' (koherentzia pertsona/numeroan). Begiratu aditz-taulak oinarrizko formak berrikusteko.",
+          "Erderakadak nabarmenak dira: 'gustatuko litzaidake' → 'gustuko nuke', 'seguruenik' → 'ziurrenik/seguru asko', 'jarratu' → 'jarraitu', 'bariku' → 'bihar'. Batuan hitz hauek ez dira zuzenak edo forma desberdinak behar dituzte."
+        ],
+        "feed_forward": "Hurrengo aldian, lehentasun bat: idatzi ondoren, errepasatu aditz guztiak eta begiratu ea komunztadura NUMEROA (singularra/plurala) bat datorren. Adib.: 'biak batera utzi zuten' (plurala!) vs 'biak batera utzi zuen' (singularra, okerra). Hau kontrolatzen duzunean, ZL 7-8 harrapatzen duzu!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.38 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.75,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Ttak! Zoragarria egin duzu! Istorio oso originala, indartsua eta emozioz josita idatzi duzu. 17 zenbakiaren erabilera koherentea guztian, istorio-gaitasuna, eta euskarazko maila altua azpimarragarriak dira. Zure lana irakurtzea plazer hutsa izan da. Hobetzeko bi gauza daude batez ere: lotura-hitzen aniztasuna handitzea (ez beti 'bapatean' eta 'eta'), eta erderakada batzuk zuzentzea ('gustatuko litzaidake' → 'gustuko nuke', 'seguruenik' → 'ziurrenik'). Baina kontua da istorioa harrigarria dela eta idazteko gaitasuna duzu. Jarraitu horrela!",
+    "lehentasuna": "Aditz-komunztadura numeroan (singularra/plurala): errepasatu aditz guztiak eta egiaztatu subjektuarekin bat datozen. Hori kontrolatzen duzunean, ZL 8-9 harrapatuko duzu!",
+    "batez_bestekoa_modelo": 7.5,
+    "biribiltzea_modelo": 7.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Aditz-komunztadura — numeroa",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Anek baietz esan zion eta arratsaldeko 17:00etan geratu ziren",
+        "zuzenketa": "Anek baietz esan zuen eta arratsaldeko 17:00etan geratu ziren",
+        "azalpena": "Aditzak subjektuaren numeroarekin bat etorri behar du. 'Ane' (singularra) → 'esan zuen' (singularra). 'Zion' NOR-NORI-NORK da (esan nori? → hari), baina hemen 'esan zuen' behar da (NOR-NORK: Anek esan zuen X)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — mailegu okerra",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gustatuko litzaidake",
+        "zuzenketa": "gustuko nuke",
+        "azalpena": "Hau gaztelaniazko 'me gustaría' kalko zuzena da. Euskaraz 'gustuko nuke' edo 'gustatuko litzateke' (formala) erabiltzen da. 'Litzaidake' forma ez da batuan existitzen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz okerra batuan",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "seguruenik mamuak daude",
+        "zuzenketa": "ziurrenik mamuak daude / seguru asko mamuak daude",
+        "azalpena": "'Seguruenik' ez da batuko forma zuzena; gaztelaniazko 'seguramente' interferentzia da. Batuan: 'ziurrenik', 'seguru asko', 'ziur asko'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — hitz okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "bariku arratsaldean",
+        "zuzenketa": "bihar arratsaldean",
+        "azalpena": "'Bariku' ez da existitzen euskaraz. Forma zuzena: 'bihar'. Hau gaztelaniako 'mañana' kalko zuzena da edo dialektismo ahozko bat."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz okerra — aditza",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "txantxan jarratu zuen",
+        "zuzenketa": "txantxan jarraitu zuen",
+        "azalpena": "'Jarratu' ez da existitzen batuan. Forma zuzena: 'jarraitu'. Typo izan daiteke edo dialektismoa, baina batuan 'jarraitu'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Bapatean Aneri beldur guztia kendu zitzaion",
+        "zuzenketa": "Bapatean, Aneri beldur guztia kendu zitzaion",
+        "azalpena": "Lotura-hitzen ondoren ('bapatean', 'orduan', 'gero', 'hala ere'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra — aspektua",
+      "akats_id": "ZL-ADI-5",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "planak egiten ari dira",
+        "zuzenketa": "planak egiten dituzte (ohikotasuna) / planak egiten ari dira (orain une honetan)",
+        "azalpena": "Testuinguruak ohikotasuna adierazten du ('beti'). Aspektu burutugabea ohikotasunerako: 'egiten dituzte'. 'Ari dira' orainaldiko une zehatz baterako da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ez zuten ahaztu gertatutakoa",
+        "zuzenketa": "Gertatutakoa ez zuten ahaztu",
+        "azalpena": "Euskaraz ordena SOV da: objektua aditzaren aurretik. 'Gertatutakoa' (objektua) aditzaren aurretik joan behar da fokua bereziki markatu nahi ez bada."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1086,
+    "minor": 10,
+    "major": 10,
+    "critical": 0,
+    "EP100_gordina": 2.76,
+    "EP100_pisuduna": 1.38,
+    "EP100_gordina_modelo": 2.76,
+    "EP100_pisuduna_modelo": 2.3,
+    "minor_modelo": 10,
+    "major_modelo": 10,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Nota oso altua (7.5) — irakaslearen berrespena gomendagarria",
+        "Testua oso luzea da (1086 hitz) eta oso originala — plagioa ez da posible",
+        "Istorio-gaitasuna eta narratiba-lana oso altuak dira DBH4 mailarako"
+      ]
+    }
+  }
+}

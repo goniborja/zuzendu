@@ -1,0 +1,203 @@
+{
+  "kodea": "ISET",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso konplexua eta originala eraiki duzu! 17 zenbakiaren sinbolismoa ipuin osoan txertatu duzun modua benetan sortzailea da eta ezohiko ploteamendua lortu duzu.",
+          "Narrazioaren egitura argia da: hasiera (aurkezpena), korapiloa (etxe utziko aurkikuntza), gailurra (herriaren suntsipena) eta amaiera (esperantza). Ipuin on baten ezaugarri guztiak daude!"
+        ],
+        "hobetzekoak": [
+          "Zenbait unetan erritmoa bizkorregiak ipuinaren emozio sakonak azaleko gelditzearen arriskua dakar. Adibidez, herriaren suntsipena oso azkar kontatzen da, eta protagonistek sentitzen dituzten emozioak gehiago garatu ahal zinituzke.",
+          "Pertsonaien barne-mundua gehiago lantzea falta da. Zer pentsatzen dute benetan? Zer sentitzen dute intimitate horretan? Horrek irakurlearekin konexio sakonagoa sortuko luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istorioko une garrantzitsuenetako bat aukeratzen (adibidez, herriaren suntsipena) eta hor 3-4 paragrafo gehigarri idazten, detaileak emanez: zer ikusten dute, zer usaintzen dute, zer sentitzen dute, zer pentsatzen dute. Horrek istorioa beste maila batera eramango du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa ona da orokorrean: paragrafo bakoitzak ekintza-unitate bat edo denbora-jauziren bat hartzen du. Irakurketa errazten duzu horrelako egiturazioarekin.",
+          "Denbora-lerro lineala mantentzen duzu ondo. Pasadizoak ordena kronologikoan kontatzen dituzu eta irakurleari erraza egiten diozu jarraitzea."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak gehiegi errepikatzen dituzu: 'bapatean' 3 aldiz, 'pasatu ziren' antzeko formuletan. Anitza bilatzea garrantzitsua da monotonia saihesteko: 'bat-batean', 'harridura handiz', 'ustekabeko moduan'...",
+          "Paragrafo batzuk oso laburrak dira (2 esaldikoak) eta beste batzuk luzeak. Orekatuagoak balira irakurketa fluituagoa izango litzateke. Ideala: 4-6 esaldiko paragrafoak gehienetan."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, irakurri paragrafo bakoitza eta galdetu: lotura-hitz berdinak errepikatzen ari naiz? Baietz bada, bilatu sinonimoak. 10_lotura_hitzak.tsv fitxategian aukera ugari dauzkazu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz-altxor nahiko aberatsa erabiltzen duzu: 'dardarka', 'sakabanatuta', 'hondarrak', 'zauriak sendatu'... Hauek maila ematen dute!",
+          "Perpaus konplexuak ere badituzu: mendekoak, kausazkoak ('zerbaitengatik geratu zirela'), erlatiboak ('Markelek eskua estu hartu zion Aneri'). Horrek BLH altua dakar!"
+        ],
+        "hobetzekoak": [
+          "Aditz batzuk askotan errepikatzen dituzu modu sinplean: 'joan zen', 'geratu ziren', 'hasi ziren'. Saiatu aldaera gehiago erabiltzen: 'itzuli zen', 'kokatu ziren', 'ekin zioten'.",
+          "Deskribapen sentsorialak gehiago landu zenezake: koloreak, soinuak, usainak... Horrek istorioa biziagoa egiten du eta irudimena areagotzen du."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu sinonimoak bilatzeko ahalegin kontzientea egiten. Hitz bat 3 aldiz baino gehiagotan erabili aurretik, pentsatu: badago beste aukera bat? Horrek zure BLH maila 8-9ra eramango dizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema gehienetan ondo kontrolatzen duzu: 'ikusi zuten', 'egin zuen', 'hartu zuen'. Hori ez da erraza eta ondo egin duzu!",
+          "Mendeko perpausak ondo eratzen dituzu gehienetan: 'Liburuak adierazten zuen...', 'konturatu ziren liburu bakoitza... zela'. Horrek adierazten du gramatika konplexua ulertzen duzula."
+        ],
+        "hobetzekoak": [
+          "Ergatiboaren (-k) erabilera okerra da akats nagusia. 11 aldiz ahaztu duzu subjektuari ergatiboa jartzea NOR-NORK aditzetan. Hau da lehentasun handiena hobetzeko!",
+          "Puntuazio-akatsak: koma falta lotura-hitzen ondoren (5 aldiz) eta subjektu-aditz artean koma soberan (3 aldiz). B1 mailan puntuazioa garrantzitsua da irakurgarritasunari begira."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, irakurri esaldi bakoitza eta galdetu hau: aditza NOR-NORK da? (hau da, nork? galderari erantzuten dio?). Baietz bada, begiratu subjektuak -K duela. Sistema sinple honekin ergatiboaren akatsak %80 murriztuko dituzu! Badaukazu gaitasuna horretarako, fijatu besterik ez!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.59 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Zorionak lan bikainari! DBH4 mailako ikaslearentzat oso ipuin konplexua eta originala idatzi duzu. 17 zenbakiaren sinbolismoa eta ipuin tragiko eta aldi berean esperantzagarria garatzeko duzun gaitasuna harrigarria da. Egitura argia du, hitz-altxor aberatsa erabiltzen duzu eta perpaus konplexuak ere badituzu. Hobetzeko tarte nagusia ergatiboaren (-k) erabilera da, eta puntu hori landuz, bikaintasuna ukituko duzu!",
+    "lehentasuna": "Ergatiboaren (-k) erabilera: esaldi bakoitza idatzi ondoren berrikusi eta NOR-NORK aditzetan (nork? galderari erantzuten diotenak) subjektuari -k jarri. Hau da lehen lehentasuna eta zuk kontrolatzeko gai zara!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 11,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Markel etxean sartu nahi zela txantxan jarratu zuen",
+        "zuzenketa": "MarkelEK etxean sartu nahi zuela txantxan jarri zuen",
+        "azalpena": "Aditza NOR-NORK denean ('nork jarri?'), subjektuak -K marka behar du. Gainera, estilo zuzenean konpletiboa ez da '-ela' baizik eta '-a' (nahi zuela → nahi zela)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Anek esan zion bariku arratsaldean joango zirela",
+        "zuzenketa": "Anek esan zion ostiraleko arratsaldean joango zirela",
+        "azalpena": "'Bariku' ez da euskarazko hitza. Barikua = ostirala. 'Ostiraleko' edo 'ostiral arratsaldean' esan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Bapatean Aneri bururatu zitzaion",
+        "zuzenketa": "Bapatean, Aneri bururatu zitzaion",
+        "azalpena": "Lotura-hitz hauek koma behar dute ondoren: bapatean, orduan, poliki-poliki... Arau orokorra: lotura-hitz diskurtsibo guztiak koma ondoren."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Anek, baietz esan zion",
+        "zuzenketa": "Anek baietz esan zion",
+        "azalpena": "Subjektu (Anek) eta aditz nagusia (esan zion) artean EZ da koma jartzen euskaraz. Hau gaztelaniazko ohituraren kalkoa da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz-kalkoa",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "bariku arratsaldean",
+        "zuzenketa": "ostiraleko arratsaldean / ostiral arratsaldean",
+        "azalpena": "'Bariku' ez da euskarazko hitza batuan. 'Ostirala' edo 'barikua' (dialektala) erabili behar da, baina testu formaletan 'ostirala' hobesten da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ez zuten ahaztu gertatutakoa",
+        "zuzenketa": "Gertatutakoa ez zuten ahaztu",
+        "azalpena": "Euskaraz ordena SOV da: objektua aditzaren aurretik joan behar da. 'Gertatutakoa' objektua da eta 'ahaztu' aditzaren aurretik kokatu behar da. Hala ere, fokua denean (azpimarratzeko) aditzaren aurrean jar daiteke, eta kasu honetan interpretazio bikoitza izan daiteke."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Konpletibo okerra",
+      "akats_id": "ZL-SIN-4",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Markel etxean sartu nahi zela",
+        "zuzenketa": "Markel etxean sartu nahi zuela",
+        "azalpena": "Estilo zuzenean (norbaitek dioenean bere buruaz) '-ela' erabiltzen da, ez '-a'. 'Nahi zela' = 'quería' (berak bere buruaz hitz egiten); 'nahi zuela' = 'quería' (beste batek beraz hitz egiten)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aspektu okerra — denborazkoa",
+      "akats_id": "ZL-ADI-5",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Etxe barruan zeudenan",
+        "zuzenketa": "Etxe barruan zeudenean",
+        "azalpena": "'Zeudenan' ez da forma zuzena. 'Zeudenean' (cuando estaban) edo 'zeudela' (mientras estaban) erabili behar da kontestuaren arabera."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1038,
+    "minor": 11,
+    "major": 16,
+    "critical": 0,
+    "EP100_gordina": 4.14,
+    "EP100_pisuduna": 1.59,
+    "EP100_gordina_modelo": 4.05,
+    "EP100_pisuduna_modelo": 3.85,
+    "minor_modelo": 11,
+    "major_modelo": 16,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

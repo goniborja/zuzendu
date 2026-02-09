@@ -1,0 +1,207 @@
+{
+  "kodea": "MAIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioaren egitura osoa kontrolatuta daukazu: hasiera in medias res (ekintza erditik), flashback-ak, eta ondorio argia. Profesionala!",
+          "Istorioa oso ondo garatuta dago — intriga, suspensea, plota korapilatsua (lapurketa, salaketa, korrupzioa), pertsonaiak garbi definituta. Irakurlea haserretu egin da eta historia jarraitu nahi du hasieratik!"
+        ],
+        "hobetzekoak": [
+          "Amaieran Mikelen ondorioa labur samar gelditzen da — zer sentitu zenuen desagertu zenean? Zer pentsatu zenuen? Emozio-geruza bat gehiago sartu zenezake.",
+          "Alkatearen epaiketa eta argazki-bidalketa azkarregi kontatzen dira — bi paragrafo horiek luzatu ahal zenituzke xehetasun gehiagorekin: nola sentitu zinen argazkiak ikusten zenituen bitartean? Zer pentsatu zenuen konturatu zindenean?"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu amaierako emozio-geruza are gehiago lantzen. Hau da, ez soilik zer gertatu den kontatzea, baizik eta zuk nola bizitu zenuen. Horrek historia are indargarriago egingo du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa oso ondo eginda dago: eszenak ondo bereizita, denbora-aldaketak argiak (flashback-ak, une presentea). Irakurleak ez du inolako zailtasunik jarraitzeko!",
+          "Lotura-hitzak ondo erabiltzen dituzu maila desberdinetan: 'bat-batean', 'orduan', 'baina', 'eta gero'. Egitura narrazio klasikoa barneratuta daukazu, txapela!"
+        ],
+        "hobetzekoak": [
+          "Noizean behin lotura-hitz berberak errepikatzen dituzu (adib. 'baina' 8 aldiz). Aldatu batzuk: 'hala ere', 'ordea', 'alabaina'. Horrekin aberastasuna handiagoa izango da!",
+          "Zenbait paragraforen artean saltoren bat dago: adibidez, foso batetik irteten zarenetik teilatura igotzeraino tartea azkarregi doa. Trantsizio bat gehitu zenezake."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz aukerakoa gehiago erabiltzen: 'hala ere' (kontrastea), 'orduan' (denbora), 'gainera' (gehikuntza). Horrekin testua are koherenteagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa eta zehatza erabiltzen duzu: 'pasilloa', 'industrialde', 'kanposantua', 'linterna', 'laberinto', 'foso'... Hitz teknikoak eta deskribatzaileak ondo txertatuta!",
+          "Perpaus-egitura konplexuak menderatu dituzu: erlatibozkoak ('ezkutaleko hoberik ez nuela aurkituko'), baldintzak ('geldi geratzen banintza harrapatuko nindukeela'), eta subordinatuak. Maila oso altua, benetan!"
+        ],
+        "hobetzekoak": [
+          "Zenbait errepikapen lexiko txiki daude: 'kutxa' 15 aldiz, 'entzun' 4 aldiz. Aldatu batzuk sinonimoekin: 'kaxa' (zuzen da), 'kaxatila', 'edukiontzia'; 'aditu' (entzun-en ordez batzuetan).",
+          "Noizean behin esamolde gaztelaniatik itzulitakoak agertzen dira: 'korrika nire biziagaitik' (hobea: 'nire bizitza salbatzeko korrika'), 'oso ondo ezagutzen nuen' (hobea: 'ondo-ondo ezagutzen nuen')."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, bilatu hitz errepikatuak (Ctrl+F) eta aldatu batzuk sinonimoekin. Kaxaren kasuan, 'kaxa' eta 'edukiontzia' tartekatuz, errepikapena saihestuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema oso ondo kontrolatuta daukazu gehienetan: 'konturatu nintzen', 'entzun nuen', 'ikusi nuen'. Hau ez da erraza eta benetan ondo egin duzu!",
+          "Aditz-morfologia konplexua ondo erabiltzen duzu: 'salatu egin ninduen', 'harrapatuko nindukeela', 'ezkutatzeko moduan'. Maila oso altua!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-K) 4 aldiz ahaztu zaizu, eta hau da akatsik garrantzitsuena: 'haize freskoa' → 'haize freskoAK', 'argazkiak' → 'argazkiEK', 'metalezko kutxa' → 'metalezko kutxAK', 'alkatea' → 'alkateAK'. Kontu honekin, ondo? Gogoratu: NOR-NORK aditza bada, subjektuak -K behar du!",
+          "Kasu-markak: 'lehengusuarengaitik' okerra da → 'lehengusuARENGATIK' (ablatiboa + kausa). 'Arriskuan' → 'arrisku-egoerAN'. 'Mutil normal bat' → 'mutil normal bat' (hau ONDO dago, baina beste kasu bat: 'herriko elizAN' → ondo)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin ergatiboaren akatsa desagertuko da. Badaukazu maila hori harrapatzeko!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=1.33 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.25,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu, oso bikaina! Narrazioa profesional mailan idatzi duzu: intriga, suspensea, egitura sendoa, pertsonaiak eraikita, eta hizkera aberatsa. Irakurlea haserrotu egin da eta amaierara arte iritsi da arnasa eten gabe. Hobetzeko tarte txikia dago: ergatiboa (-K) kontuz, eta lotura-hitz gehiago tartekatzea. Baina maila oso altua duzu, txapela!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna, eta honekin 9-10 nota-tartean sartuko zara!",
+    "batez_bestekoa_modelo": 8.0,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "haize freskoa sentitu nuen",
+        "zuzenketa": "haize freskoAK sentitu ninduen (edo: haize freskoa sentitu nuen — 'freskoa' adjektiboa bada, ondo)",
+        "azalpena": "Aditza NOR-NORK denean (sentitu → nork sentitu?), subjektuak -K marka behar du. KONTUZ: 'haize freskoa' izen-sintagma da eta ergatiboa behar du bere osotasunean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kasu-marka okerra — ablatiboa/kausa nahasketa",
+      "akats_id": "ZL-KAS-4",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "lehengusuarengaitik etorri nintzen",
+        "zuzenketa": "lehengusuARENGATIK etorri nintzen",
+        "azalpena": "Kausa adierazteko: -arengatik / -gatik. 'Lehengusua' + -ren + -gatik = lehengusuARENGATIK. Hau da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lokailuen ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Bat-batean linterna batek",
+        "zuzenketa": "Bat-batean, linterna batek",
+        "azalpena": "Lokailuen ostean ('bat-batean', 'orduan', 'gero'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta enumerazioetan",
+      "akats_id": "ZL-PUN-6",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "zaratarik egin gabe gurasoak ez esnatzeko",
+        "zuzenketa": "zaratarik egin gabe, gurasoak ez esnatzeko",
+        "azalpena": "Mendeko perpausaren ondoren koma jartzea komeni da ulermena errazteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Punturik ez esaldien artean (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Lurrera heltzea mingarria izan zen,sorbaldarekin lurra jo nuen",
+        "zuzenketa": "Lurrera heltzea mingarria izan zen. Sorbaldarekin lurra jo nuen.",
+        "azalpena": "Bi esaldi independente koma bidez bakarrik lotzea okerra da. Puntua jarri behar da, edo puntu-koma."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa okerra (elkarketa)",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "teilatura",
+        "zuzenketa": "teilaturaino edo teila-tura (kontestuaren arabera; normalean 'teilaturaino' edo 'teilatura' bananduta)",
+        "azalpena": "Hitz-elkarketa kontuz egin behar da. 'Teilaturaino' ondo legoke, baina 'teilatura' bananduta egon behar luke baldin eta bi hitz badira."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'kutxa' hitza 15 aldiz",
+        "zuzenketa": "Txandakatu 'kaxa', 'kaxatila', 'edukiontzia' hitz batzuetan",
+        "azalpena": "Hitz bera gehiegitan errepikatzea testua monotonoa egiten du. Sinonimoak erabiltzea aberastasuna ematen du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kalko sintaktikoa — esamoldea",
+      "akats_id": "ZL-ERD-4",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "korrika nire biziagaitik",
+        "zuzenketa": "nire bizitza salbatzeko korrika / bizia salbatzeko korrika",
+        "azalpena": "Gaztelaniako 'correr por mi vida' kalkoa da. Euskaraz 'bizitza salbatzeko' edo 'bizirik irteteko' naturalagoa da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 938,
+    "minor": 5,
+    "major": 7,
+    "critical": 0,
+    "EP100_gordina": 2.03,
+    "EP100_pisuduna": 1.33,
+    "EP100_gordina_modelo": 2.0,
+    "EP100_pisuduna_modelo": 3.9,
+    "minor_modelo": 5,
+    "major_modelo": 7,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Nota oso altua (8.0) — irakaslearen berrespena gomendatzen da.",
+        "Testu luzea eta konplexua — kalitate-berrikusketa egitea komeni da.",
+        "Zalantzazko kasu bat: 'teilatura' hitz-banaketa — irakaslearen irizpena behar."
+      ]
+    }
+  }
+}

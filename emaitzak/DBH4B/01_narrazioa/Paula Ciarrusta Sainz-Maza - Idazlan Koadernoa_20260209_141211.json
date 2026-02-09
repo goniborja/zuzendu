@@ -1,0 +1,172 @@
+{
+  "kodea": "PAULA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo egituratuta dago: hasiera argia (pertsonaia aurkezpena), korapiloa (altxorraren bilaketa), eta amaiera koherentea. Egitura klasikoa guztiz kontrolatzen duzu!",
+          "Narrazioaren erritmoa oso egokia da: deskribatzailea hasieran, gero ekintza hazten doa eta amaieran itzulera emozionala. Irakurlea hasieratik amaierara eramaten duzu zintzilik!",
+          "Xehetasunak txukun hautatu dituzu: mapa zaharra, tuneleko marrazkiak, hiru ateak... Horiek mundua sinesgarri eta bizia egiten dute. Benetan sortu duzu mundu bat!"
+        ],
+        "hobetzekoak": [
+          "Narrazioa bikaina da, baina batzuetan pertsonaien emozio barnekoagoak gehitu ahal zenituzke: Unax zer sentitzen zuen benetako beldurrean? Zer pentsatu zuen lehen aldiz Chispi hitz egiten entzun zuenean? Honek irakurlearekin konexio sakonagoa sortuko luke.",
+          "Dialogoak naturalak dira, baina gehiago zabaldu ahal zenituzke Unax eta Chispiren arteko elkarrizketan. Adibidez, Chispik zergatik laguntzen dion azal zezake, edo Unaxek zergatik aukeratu duen airearen atea."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu pertsonaien pentsamendu barnekoak gehitzen (adib. 'Unaxek pentsatu zuen: Zer gertatuko ote da orain?'). Honek irakurlea pertsonaiaren buruan sartzen du eta narrazioa are indargarriagoa egiten du. Badaukazu maila horretarako!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa perfektua da: bakoitzak momentu bat edo aldaketa bat markatzen du (pertsonaia aurkezpena, mapa aurkitzea, basora joatea, Chispi agertzea...). Hau maila altuko lana da!",
+          "Lotura-hitzak ugari eta egokiak dira, maila desberdinetakoak: 'hala ere', 'bat-batean', 'baina', 'azkenean', 'ondoren'... Testu osoa kohesionatzen dute perfektuki.",
+          "Denbora-sekuentzia argia da eta irakurleak erraz jarraitzen du istorioa. Ez dago salto logikorik, dena jarraitu logikoa du. Bikain lan egin duzu!"
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk labur-laburrak dira (adib. dialogoen ingurukoak). Batzuetan bildu ahal zenituzke elkarrizketa bat eta haren ondorengo ekintza paragrafo berean, fluidoagoa izateko.",
+          "Trantsizio batzuk are landuagoak izan litezke: 'Bat-batean' bi aldiz erabiltzen duzu segidan (Chispi agertzean eta ahots bat entzutean). Aldatu liteke: 'Horrekin batera', 'Une horretan', 'Ustekabeko une batean'..."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu 'bat-batean' edo 'orduan' bezalako lotura-hitzak gehiegi errepikatu gabe. Erabili alternatibak: 'ustekabean', 'horrekin batera', 'une horretan'... Horrek testua are aberatsagoa egingo du. Maila duzu horretarako!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso zabala da eta narrazioari egokitua: 'zirraragarriagoa', 'esploratzaile', 'iparrorratz', 'kobazulo', 'emeki-emeki'... Hitz hauek mundu bat sortzen dute!",
+          "Egitura konplexuak erabiltzen dituzu: erlatibozkoak ('irakurtzen zituenak bezalakoa'), baldintzazkoak ('atzetik joatea nahi balu bezala'), mendekoek ugari... Hau maila oso altua da DBH4rako!",
+          "Deskribapen sentsorialak bikainak dira: 'haizeak hots bitxiak egiten zituen', 'urrezko argi batek argitzen zuen', 'haize bortitzak altxatu zuen'... Irakurlea eszenan sartzen duzu benetan!"
+        ],
+        "hobetzekoak": [
+          "Zenbait adjektibo errepikatzen dituzu: 'zahar' hiru aldiz (mapa zaharra, iparrorratz zaharra, marrazki zaharrak, kutxa zaharra). Aldatu liteke batzuetan: 'antzinako', 'iragan urruneko', 'zaharkitua'...",
+          "Erregistroa koherentea da narraziorako, baina batzuetan kolokialismoren bat tartekatzen da ('Kaixo?', 'Noski'). Narrazioetan onargarria da, baina formalagoa izan nahi baduzu, saihestu liteke."
+        ],
+        "feed_forward": "Hurrengo aldian, begiratu ea adjektibo edo aditz bat gehiegi errepikatzen duzun (adib. 'zahar' edo 'joan'). Sinonimoak bilatu: zahar → antzinako, antzinakoa, zaharkitua; joan → ibili, mugitu, aurreratu... Hau eginda, testua are koloretsuagoa izango da. Badaukazu maila horretarako!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatzen duzu: NOR-NORK ('aurkitu zuen', 'ikusi zituen'), NOR ('hasi zen', 'zegoen'), NOR-NORI ('jarraitu zion'). Hau ez da erraza eta bikain egin duzu!",
+          "Denbora eta aspektuak zuzen erabiltzen dituzu narrazioan: lehenaldia nagusi (zen, zuen, ziren) eta aspektu burutugabea behar denean (-tzen). Sistema hau menderatzen duzu!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) bi aldiz ahaztu zaizu subjektu pluraletan: 'Lagunek... zuten' ONDO (hau perfektua da!), baina 'mendiak, ibaiak eta basoak zeuden' eta 'marrazki zaharrak... zeuden' → hauek EZ dute ergatiborik behar (NOR aditza da). BAINA 'haizeak hots bitxiak egiten zituen' → 'haizeAK' (NOR-NORK da, ergatiboa behar du).",
+          "Puntuazioan akats txiki batzuk: koma falta lotura-hitzen ostean ('Hala ere Unax' → 'Hala ere, Unax'). Arau sinplea: lotura-hitzaren ostean beti koma."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza: aditza NOR-NORK da? Baietz bada, subjektuak -K behar du. Hau kontrolatzen duzunean (eta ia kontrolatzen duzu!), EP100 2 baino gutxiagora jaitsiko zara eta nota 9-10 tartean izango duzu. Ia-ia harrapatuta daukazu!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=0.54 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.5,
+    "biribiltzea": 9,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Zorionak, Paula! Narrazioa bikaina da: egitura argia, ritmo eraginkorra, mundu bat sortu duzu eta irakurlea hasieratik amaierara eramaten duzu. Zure maila oso altua da DBH4rako. Hobetzeko tartea txikia da: ergatiboa puntu batean, eta sinonimoak gehiago erabiltzea errepikapena saihesteko. Baina oinarria sendoa duzu eta idazle gogoa nabaritzen da. Jarraitu horrela!",
+    "lehentasuna": "Ergatiboa (-K): errepasatu esaldi bakoitza eta NOR-NORK aditzetan subjektuari -K jarri. Hori kontrolatuz gero, maila bikaintasunera pasatuko zara!",
+    "batez_bestekoa_modelo": 8.25,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta NOR-NORK aditzetan",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "haizeak hots bitxiak egiten zituen",
+        "zuzenketa": "haizeAK hots bitxiak egiten zituen",
+        "azalpena": "Aditza NOR-NORK denean ('egiten' → nork egiten?), subjektuak -K marka behar du. 'Haizeak' subjektua da eta 'egiten' transitiboa da, beraz 'haizeAK' izan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala ere Unax ez zen beldur",
+        "zuzenketa": "Hala ere, Unax ez zen beldur",
+        "azalpena": "Lotura-hitzen ostean ('hala ere', 'gainera', 'bestalde', 'beraz'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'zahar' adjektiboa 4 aldiz testu osoan",
+        "zuzenketa": "Aldatu batzuetan: 'antzinako', 'iragan urruneko', 'zaharkitua'",
+        "azalpena": "Adjektibo edo hitz bat gehiegi errepikatzen denean, testua monotonoa bihurtzen da. Sinonimoak edo parafrasiak erabili."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta mendeko perpausaren ondoren",
+      "akats_id": "ZL-PUN-5",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Harria ukitu zuenean astiro mugitu zen",
+        "zuzenketa": "Harria ukitu zuenean, astiro mugitu zen",
+        "azalpena": "Mendeko perpausa (-(e)nean, -(e)la...) nagusiaren aurretik badago, koma jarri behar da bien artean."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 838,
+    "minor": 3,
+    "major": 1,
+    "critical": 0,
+    "EP100_gordina": 0.6,
+    "EP100_pisuduna": 0.54,
+    "EP100_gordina_modelo": 4.3,
+    "EP100_pisuduna_modelo": 3.7,
+    "minor_modelo": 3,
+    "major_modelo": 2,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2.3,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 2,
+        "S3": 3,
+        "S4": 3,
+        "S5": 2,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua IA bidez sortua izan dela iradokitzen duten zenbait ezaugarri agertzen dira: (1) Perfekzio susmagarria - ia akatsik gabeko testua DBH4 ikasle batentzat, oso sintaxi eta morfologia zuzena. (2) Egitura perfektua - narrazioa ondo antolatuta dago sarrera-nondik-norakoa-erronka-ebazpena-amaierarekin, klasikoki idatzita. (3) Tonu robotikoa eta pertsonalitate eza - ipuin generiko bat dirudi,DBH ikasle baten estilo pertsonalaren zantzurik gabe. (4) Kalitate uniformea - hasieratik amaieraraino maila bera, normalean DBH mailako ikasleek parte batzuetan zailtasunak izaten dituzte. (5) Akats-patroi naturalen falta - ez dago tipikoki eskuz idaztean agertzen diren tentsioen aldaketa, errepikapenik edo hutsegiteen nahasketa. Hiztegiak zenbait hitz zailago ditu ('ausart', 'zirraragarri', 'amaraun') baina ez da oso nabarmenki C1/C2 maila. Luzera (700 hitz inguru) nahikoa luzea da baina ez da exzesiboa. Orokorrean, testu honek IAren ezaugarri tipikoak ditu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Nota oso altua (8.0): irakaslearen berrespena gomendatzen da bikaintasun mailan.",
+        "Testua kalitate bikainekoa da baina zenbait erabaki interpretatiboa behar izan da (adib. kolokialismo batzuk dialogoetan)."
+      ]
+    }
+  }
+}

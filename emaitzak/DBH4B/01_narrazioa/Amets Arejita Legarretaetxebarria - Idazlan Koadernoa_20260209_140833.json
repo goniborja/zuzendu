@@ -1,0 +1,144 @@
+{
+  "kodea": "AMETS",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo garatuta dago! Hasiera-korapiloa-amaiera egitura argia eta koherentea da. Istorioak sentimendua eta garapen pertsonal bat du, eta hori oso ona da.",
+          "Xehetasunak oso aberatsak dira: ingurune-deskribapenak ('eguzkia mendien atzean', 'ura ispilu baten moduan'), sentimenduak ('beldur nintzen baina pozik'), eta elkarrizketak naturaltasunez txertatuta. Horrek istorioa bizia egiten du."
+        ],
+        "hobetzekoak": [
+          "Narrazioaren erritmo bat edo bi sekuentzia moteldu egin dira erdialdera (jaialdi ondorengo zatia). Laburtu ahal zitekeen edo akzio gehiago gehitu, dinamikoa mantentzeko.",
+          "Bukaera oso luzea da eta errepikapena dauka (hainbat aldiz 'etxera bueltan', 'hurrengo egunean'...). Bukaeran fokuak korapilotik ondoriora jauzi zuzenagoa egin beharko luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu zure istorioak bi edo hiru gune garrantzitsu izaten (hasiera, korapiloa/gailurra, eta bukaera laburra). Erdiko zatia indartzea eta bukaera moztea praktikatu. Horrela testua trinkoagoa izango da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura paragrafoztatua ondo dago: paragrafo bakoitzak eszena bat edo momentu bat lantzen du, eta horrek irakurketa erraza egiten du.",
+          "Denbora-sekuentzia argia da: 'goiz batez', 'atzo', 'hurrengo asteetan', 'egun batean'... Irakurleak erraz jarraitzen du kronologia."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak errepikakorrak dira: 'eta' nagusi da gehikuntzarako. Erabili 'gainera', 'halaber', 'horrez gain' antolaketari aberastasuna emateko.",
+          "Trantsizio batzuk zuzenak dira baina lauak: 'Egun batzuk geroago...', 'Hurrengo egunean...' errepikatzen dira asko. Aldatu denbora-lokailu hauek: 'Handik egun batzuetara', 'Astebete barru', 'Denbora laburrez...'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, kontatu zenbat aldiz 'eta' erabili duzun. Ordezkatu gutxienez 5 'eta' lotura-hitz desberdinekin (gainera, horrez gain, hala ere...). Horrek koherentzia maila joko du nabarmen!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Deskribapenerako hiztegi aberatsa: 'ispilu baten moduan', 'zerua laranja kolorez bete zen', 'ura distiratsu zegoen'. Hauek poesia ukitu bat ematen diote testuari, bikain!",
+          "Perpaus-egitura konplexuak erabili dituzu ondo: 'Bat-batean, haize pixka bat hasi zen', 'Oinak lurrean jarri zituenean, irribarre handi bat egin zuen'. Mendeko perpausak zuzen erabiltzen dituzu, eta hori ez da erraza."
+        ],
+        "hobetzekoak": [
+          "Aditz errepikatuak: 'esan zuen/zion' 15 aldiz baino gehiagotan. Aldatu: 'galdetu zion', 'azaldu zion', 'adierazi zion', 'iragarri zion'... Sinonimoak aberastasuna ematen dute.",
+          "Adjektiboak sinpleak dira batzuetan: 'lasai', 'pozik', 'ona'... Erabili sinonimoak: 'sosegua', 'zoriontsu', 'bikain', 'zoragarri', 'paregabea'."
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, bilatu aditz edo adjektibo bat 3 aldiz baino gehiagotan errepikatzen dena. Ordezkatu bat edo bi sinonimoekin. Praktika horrekin, hiztegia zabaldu egingo da eta testua interesgarriagoa!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Akats oso gutxi! Aditz-sistema (NOR-NORK, NOR-NORI) oso ondo kontrolatzen duzu: 'azaldu zion', 'eman zion', 'esan zuen'... Guztiak zuzen. Hori maila altua da benetan!",
+          "Ortografia ia perfektua da: ez da akats ia bat ere. Deklinabidea (kasuak) ere ondo: ergatiboa (-k), datiboa (-ri), adlatiboa (-ra), ablatiboa (-tik)... Guztiak zuzen. Zorionak!"
+        ],
+        "hobetzekoak": [
+          "Koma bat edo bi falta dira lotura-hitzen ostean: 'Lasai esan zion aitak' → 'Lasai, esan zion aitak'. Hauek minor akatsak dira baina erraz konpontzen dira.",
+          "Puntu bat edo bi run-on bat (esaldi luzeak puntu gabe): 'Oinak lurrean jarri zituenean irribarre handi bat egin zuen' → Hau zuzen dago, baina beste kasu batzuetan esaldi bat bi zatitu beharko zenuke puntuz banatzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, irakurri lotura-hitzak ('lasai', 'beraz', 'gainera') bilatuz. Atzean koma daukaten egiaztatu. Hori eginda, puntuazio-maila 10/10ra iritsiko da!"
+      },
+      "zl_modelo": 9,
+      "python_doikuntza": "Modeloaren ZL=9 koherentea EP100=0.2 (bikaintasuna, tartea 9-10)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.75,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain idatzi duzu! Zure narrazioa oso ona da: istorioak hasiera, garapena eta amaiera koherenteak ditu, eta sentimendua barneratuta dago. Hiztegi aberatsa erabiltzen duzu eta aditz-sistema guztiz kontrolatzen duzu. Hobetzeko guneak txikiak dira: lotura-hitzen aniztasuna eta bukaeraren laburtzea. Baina maila oso altua duzu, jarraitu horrela!",
+    "lehentasuna": "Lotura-hitzak aberastu: 'eta' errepikatzeko ordez, erabili 'gainera', 'halaber', 'horrez gain'. Testua berridatzi eta aldatu gutxienez 5 'eta' lotura-hitz desberdinekin. Hori da hurrengo pausoa!",
+    "batez_bestekoa_modelo": 7.75,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Lasai esan zion aitak",
+        "zuzenketa": "Lasai, esan zion aitak",
+        "azalpena": "Lotura-hitz edo lokailuaren ostean ('lasai', 'beraz', 'hala ere') koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Perpaus luzeak — run-on",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gauean etxean koaderno txiki batean idatzi zuen Gaur beldur pixka bat izan dut baina ez dut gelditu",
+        "zuzenketa": "Gauean, etxean, koaderno txiki batean idatzi zuen: Gaur beldur pixka bat izan dut, baina ez dut gelditu.",
+        "azalpena": "Esaldi luze bat bi esaldi independenteren artean puntuz banatu behar da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1247,
+    "minor": 3,
+    "major": 0,
+    "critical": 0,
+    "EP100_gordina": 0.24,
+    "EP100_pisuduna": 0.2,
+    "EP100_gordina_modelo": 0.24,
+    "EP100_pisuduna_modelo": 0.24,
+    "minor_modelo": 3,
+    "major_modelo": 0,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 9,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 2,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ERTAINA",
+      "iruzkina": "Testu hau IA bidez sortua izan dela oso argi dago. Arrazoi nagusiak: 1) Luzera: 1500+ hitz DBH4 mailan, oso susmagarria. 2) Perfekzio tekniko osoa: ez dago ia akatsik ortografikoan, puntuazioan edo sintaxian, DBH mailako ikasle batek ezinbestean egingo lituzkeen akatsak falta dira. 3) Egitura didaktiko perfektua: sarrera, garapena, klimax, eboluzioa eta ondorio filosofikoa guztiz landuak. 4) Tonua oso literarioa eta 'ipuingilearena' da, pertsonalitate gabekoa, ez dago ahots pertsonala. 5) Errepikapenak sistematikoak dira (lasai, poliki-poliki, berriro) neurri perfektuan. 6) Kalitate uniformea hasieratik amaieraraino, inolako energia-gorabehera gabe. 7) Metaforak eta ikasgai moralak (pazientzia, beldurra gainditzea) modu didaktiko artifizialean integratuta. DBH4ko ikasle batek ez luke inoiz testu hain perfektua, luzea eta homogeneoa idatziko."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo ertaina (puntuazioa: 9/21)"
+      ]
+    }
+  }
+}

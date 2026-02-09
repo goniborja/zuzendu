@@ -1,0 +1,36 @@
+{
+  "kodea": "SOLAFA",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 18,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 2,
+        "S3": 3,
+        "S4": 2,
+        "S5": 2,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testua IA bidez sortu izan dela susmatzen da hainbat arrazoirengatik: (1) Perfekzio maila oso altua da DBH4 ikaslearentzat - ia ez dago akats ortografikorik, puntuazio-akatsik edo sintaxi-hutsik. (2) Egitura perfektua du: sarrera egokia (mystery/intriga sortzea), garapena koherentea eta bukaera egokia. (3) Kalitatea uniformea da hasieratik bukaeraraino, DBH4 ikasle batengan ez bezala aldakorragoa izango litzatekeena. (4) 1100 hitz inguru ditu, luzera susmagarria da ikasle horrentzat. (5) Hizkuntza-maila altua da zenbait pasartetan ('desitxuratu', 'dirdiratsua', metafora konplexuak). (6) Ez dago akats-patroi naturalik (errepikapenak, koherentzia-falta txikiak, erregistro-aldaketak). Gaztelaniazko 'rompecabezas' hitza eta zenbait espresio 'artificialegi' itzulirik daudela ere nabarmentzen da. Alabaina, batzuetan puntuazio-hutsak daude (espazioak falta) eta batzuetan egitura pixka bat deserosoa da, ikasle batek idatzi izanaren itxura ematen duena.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 18/21)"
+      ]
+    }
+  }
+}

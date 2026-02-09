@@ -1,0 +1,191 @@
+{
+  "kodea": "EUSKARA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioaren egitura ONDO eraikita daukazu: hasiera korapiloa eta amaiera, dena koherentea eta argia. Txapela zu!",
+          "Dialogoak oso naturalak dira eta pertsonaiak biziak: Unairen kuriostasuna eta Leireren zalantzak oso ondo bereizten dira. Hori ez da erraza eta benetan primeran egin duzu!"
+        ],
+        "hobetzekoak": [
+          "Amaiera arin bat itxi dago: aitonen erantzuna moztuta gelditzen da. Istorio polita da baina amaiera garatu gabea utziz pixka bat goseak gelditzen du irakurlea. Hurrengo aldian, amaiera biribilago bat jarri!",
+          "Azkeneko alderdian (altxorra aurkitu eta aitonarekin) ritmo azkarra da — norabide harrigarria jarri zenezake (beste pertsonaia bat agertu, zailtasun bat...) edo deskripzio gehiago gehitu."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu amaierari paragrafo bat gehiago emanez: zer gertatu zen ondoren, zer egin zuten altxorrarekin, edo aitonen erreakzioa garatu. Horrekin istorioa biribilagoa eta osotasun handiagoa izango du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa bikaina da: bakoitzak ideia nagusi bat du eta aurrerakada nabarmena dago. Istorioak badu erritmo ondo markatua!",
+          "Lotura-hitzak egokiak eta askotarikoak: 'ordea', 'baina', 'bat-batean', 'pixkanaka'... Horiek testua oso jarraitu egiten dute. Oso ondo!"
+        ],
+        "hobetzekoak": [
+          "Trantsizio batzuk oso azkarrak dira: 'Hurrengo egunean motxila txiki bana prestatu...' eta zuzenean basorako abiatzea. Bi esaldi gehiago jarri ahal zenituzke bitartean (zer egin zuten, nola pentsatu zuten...).",
+          "Azkeneko paragrafoan sekuentzia azkarregia da: 'ados jarri ziren' → 'arratsaldean aitonari azaldu' saltoa handia da. Tarteko ordu bat edo bi deskribatu ahal zenituzke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu uneren bat 'zoomatzen': adibidez, altxorra aurkitu ondoren une hori gehiago landu (zer sentitu zuten, zer pentsatu...). Ritmo gehiago gelditu eta irakurleari une garrantzitsuenak gozatzeko aukera ematen badiozu, istorioa oraindik hobea izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da narraziorako: 'misteriotsua', 'inguratuta', 'disdiratsuekin', 'balio historikoa'. Ez dira hitz arruntak eta testua aberasten dute!",
+          "Deskripzioak naturalak eta eraginkortsuak: 'aire hotza ateratzen zen', 'enborren usaina nabaritu zuten'. Usainak eta sentsazioak sartzea oso jatorra da!"
+        ],
+        "hobetzekoak": [
+          "Perpaus gehienak sinpleak edo ertain-konplexuak dira. Saiatu egitura konplexuagoak txertatzen: baldintzak ('aurkitu ez bazuten...'), erlatibozkoak ('aurkitu zuten kutxa, lehenago inork ikusi ez zuena'), kontzesiboak ('zaila izan arren...'). Arriskatu egin behar da, eta zu bai daukazu maila horretarako!",
+          "Aditz-denboren aldaketak nahiko zuzenak dira baina monotonoak: ia dena lehenaldian. Narrazioan presente historikoa (orainaldia) tartekatzen saiatu zintezke dramatismoa emateko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez bi baldintza-esaldi sartzen: 'aurkitu ez bazuten, itzuli beharko zuten'; 'aitona jakin ez balu, ezin lukete...'. Horrekin BLH mailan nabarmen igoko zara eta testua sofistikatuagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatuta daukazu orokorrean: NOR-NORK zuzen ('iruditu izan zitzaion', 'irabazi zien'), NOR-NORI zuzen ('gustatuko litzaidake'). Hau ez da erraza DBH4rako eta benetan ondo egin duzu!",
+          "Ortografia ia perfektua da. Gutxieneko hutsuneak bakarrik. Lan txukuna!"
+        ],
+        "hobetzekoak": [
+          "Puntuazioan hainbat akats: koma faltak lotura-hitzen ostean ('Leire, ordea' ondo, baina beste puntuetan falta), eta esaldi batzuk gehiegi luzatu dira punturik gabe. Errepasatu puntuazioa apur bat gehiago!",
+          "Aditz batean kasu-komunztadura: 'aitonari kontatu behar diogu' ondo, baina 'aitonen erantzuna moztuta' esaldia perpaus osagarrian dago. Adibidez: 'esn zuen' → 'esan zuen' (typo)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu esaldi bakoitza eta galdetu: 70 hitz baino gehiago daude punturik gabe? Baietz bada, zatitu. Sistema sinple horrekin puntuazio-arazoak desagertuko dira. Badaukazu maila oso ona orokorrean, puntuazioa finkatuz gero nota gora egingo duzu zuzenean!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "Modeloaren ZL=7 koherentea EP100=2.23 (aurreratua, tartea 7-8)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.5,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu! Narrazioa koherentea eta entretenidua da, pertsonaiak eraikita daude eta egitura argia du. Hizkuntza-maila ona daukazu eta hori ikusten da. Hobetzeko eremu nagusiak: amaiera gehiago landu, egitura konplexuagoak txertatu eta puntuazioa finkatu. Bide onean zaude, jarraitu horrela!",
+    "lehentasuna": "Puntuazioa: esaldi luzeak berrikusi eta puntuak jarri 60-70 hitz inguru pasatzen direnean. Hau da lehentasun zuzena hurrengo idazlanerako!",
+    "batez_bestekoa_modelo": 7.5,
+    "biribiltzea_modelo": 7.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Unai- Bai….. bueno uste dut baietz.",
+        "zuzenketa": "Unai- Bai….. bueno, uste dut baietz.",
+        "azalpena": "Lotura-hitz edo lokailuaren ostean ('bueno', 'orduan', 'beraz', 'hala ere'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Esaldi luzeak punturik gabe (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Leireri hasieran ez zitzaion gustatu ideia, baina azkenean onartu zuen.Hurrengo egunean motxila txiki bana prestatu, ura eta ogitartekoak sartu, eta basora abiatu ziren.",
+        "zuzenketa": "Leireri hasieran ez zitzaion gustatu ideia, baina azkenean onartu zuen. Hurrengo egunean motxila txiki bana prestatu, ura eta ogitartekoak sartu, eta basora abiatu ziren.",
+        "azalpena": "Esaldi independente bakoitza puntuarekin bukatu behar da. 'onartu zuen' eta 'Hurrengo egunean' artean puntua falta da (eta tartea ere bai)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo / ortografia",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "esn zuen Unaiek",
+        "zuzenketa": "esan zuen Unaiek",
+        "azalpena": "Letra bat falta: 'esan' → 'esn'. Idazketa-huts sinplea."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra (datiboa)",
+      "akats_id": "ZL-ADI-7",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Gustatuko litzaidake pixka bat ikusteko zer dagoen.",
+        "zuzenketa": "Gustatuko litzaidake ikustea zer dagoen. / Ikusi nahi nuke pixka bat zer dagoen.",
+        "azalpena": "Egitura nahasia: 'gustatuko litzaidake' + infinitiboak ez du batzen ondo. Bi aukera: 'gustatuko litzaidake ikustea' (izena) edo 'ikusi nahi nuke' (aditza)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa / elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Iditzen dugu?",
+        "zuzenketa": "Irekitzen dugu?",
+        "azalpena": "Hitza okerra da: 'iditzen' ez da existitzen euskaraz. Ziurrenik 'irekitzen dugu?' edo 'zabaltzen dugu?' esan nahi zen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erregistro-nahasketa (gaztelaniako hitza)",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Bai….. bueno, uste dut baietz.",
+        "zuzenketa": "Bai….. ba, uste dut baietz. / Bai….. esan nahi da, uste dut baietz.",
+        "azalpena": "'Bueno' gaztelaniazko hitza da zuzenean. Euskaraz 'ba' (informala) edo 'esan nahi da' (formala) erabil daiteke."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Sintaxia anbiguoa (perpaus osatu gabea)",
+      "akats_id": "ZL-SIN-5",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Nik entzunda neukan kondaira bat baso honi buruz, baina ez nuen inoiz pentsatu egia izango",
+        "zuzenketa": "Nik entzunda neukan kondaira bat baso honi buruz, baina ez nuen inoiz pentsatu egia izango zenik.",
+        "azalpena": "Esaldi honetan konpletiboa moztuta gelditzen da: 'pentsatu egia izango' → falta zaio '-nik' / '-ela' / '-zenik'. Perpaus osatu gabea da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 538,
+    "minor": 8,
+    "major": 4,
+    "critical": 0,
+    "EP100_gordina": 2.97,
+    "EP100_pisuduna": 2.23,
+    "EP100_gordina_modelo": 2.97,
+    "EP100_pisuduna_modelo": 3.16,
+    "minor_modelo": 8,
+    "major_modelo": 4,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

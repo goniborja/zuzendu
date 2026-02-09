@@ -1,0 +1,156 @@
+{
+  "kodea": "MAIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura BIKAINA da: hasiera intrigantea (in medias res, iluntasunean, harrapatzaileekin), korapiloa oso ondo eraiki duzu (Mikel ustiatzen dizu, elizako lapurketa, ihesa), eta amaiera kohererentea eta pentsatua (argazkiak argitaratu, ondorioak). Narraziorako gaitasun handia daukazu!",
+          "Xehetasun deskriptiboak EDERRAK dira: 'klank-klank' onomatopeiak, 'burdinazko barra arrastaka', 'bustita eta olioz pringatuta', 'foso baten moduko', 'laban egiten zuen teilatua'... Irakurleari irudikapena errazten diozu eta hori BIKAINA da!",
+          "Suspensea mantentzea lortu duzu hasieratik amaierara: urduria mantentzen duzu irakurlea eta gero dena argitzen duzu. Plot twist-a (lapurketa ez da ohiko lapurketa, korrupzioa da) oso ondo lotuta dago. Hau maila altuko idazketa da!"
+        ],
+        "hobetzekoak": [
+          "Zenbait esaldi konplexuago egin zenezake batzuetan — esaldi laburrak tentsio sortzeko ondo daude (eta oso ondo erabili dituzu!), baina tarteka bat-batekotzat gehiago sartu zenezake (baldintzak, kausazkoak) aberastasun handiagoa emateko.",
+          "Paragrafo batzuk nahiko luzeak dira (adibidez, laugarrena) — 10-12 lerro baino luzeagoak. Ideia nagusia aldatzen denean, paragrafo berria hastea gomendatzen dizut, errazago irakurtzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo luzeak zatitzen ideia-aldaketa baten aurrean. Horrela irakurleari arnasguneak ematen dizkiozu eta testua argiago geratzen da. Baina benetan, narraziorako gaitasuna BIKAINA duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura oso argia da: hasiera intrigantea → flashback (nola iritsi hara) → gailurra (ihesa teilatutik) → ebazpena (argazkiak argitaratu) → ondorioak. Egitura klasikoa ONDO kontrolatuta daukazu!",
+          "Lotura-hitzak egokiak dira eta anitzak: 'bat-batean', 'baina', 'orduen konturatu nintzen', 'dena duela ordu erdi', 'eta orain', 'gero'... Diskurtso-markatzaileak naturalki erabiltzen dituzu denboraren joan-etorriak adierazteko."
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk zatitu beharko zenituzke — batez ere laugarrena (foso hartan, zergatik hemen zauden, kutxaren edukia... 3 gai desberdin dira eta 3 paragrafo izan beharko lukete).",
+          "Trantsizio batzuk gehiago eman zenezake denborazko saltoak argiago egiteko — adibidez, 'Dena duela ordu erdi pasatu zen' oso ona da, baina 'orduen konturatu nintzen' atalean ere antzeko zerbait jarri zenezake ('Flashback horretan oroitzen nintzenean...')."
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo luzeak idatzi ondoren, berrikusi eta galdetu: 'paragrafo honetan zenbat ideia nagusi daude?' 2-3 badira, zatitu. Horrela AK notaren 9-10 erdietsi ahalko duzu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa eta zehatza da: 'taupada', 'arrastaka', 'ugertu', 'telatuara', 'laban egiten', 'arriskutsua', 'mingarria', 'korrupto', 'txantajea', 'maleta', 'pilobat'... DBH4 mailako ikasle batek hiztegia hau erabiltzea BIKAINA da!",
+          "Egitura konplexuak naturalki erabiltzen dituzu: erlatibozkoak ('entzun genuen herriko elizan lapurketa bat egon zela'), baldintzak ('banekien geldi geratzen banintza harrapatuko nindukeela'), kausazkoak ('-gaingaitik'), mendekoak... Oso maila altua!"
+        ],
+        "hobetzekoak": [
+          "Erregistroa gehienetan egokia da, baina 'txungo' hitza ('talde txungo batentzat') nahiko informala da idatzizko narrazio batean — 'arriskutsu', 'gaizki jokatu', 'ezezagun' edo antzeko bat erabil zenezake formalagoa izateko.",
+          "Zenbait errepikapen lexiko dago: 'oso' hitza 10 aldiz agertzen da gutxi gorabehera — aldatu zenezake ('oso ondo' → 'primeran', 'oso handia' → 'izugarria', 'oso arriskutsua' → 'arriskutsuena')."
+        ],
+        "feed_forward": "Hurrengo aldian, 'oso' hitza idatzi baino lehen, pentsatu ea sinonimoren bat erabili dezakezun. 'Oso' aldatzea soila da eta hiztegia askoz aberatsagoa egiten du. Horrekin BLH 9-10 ukituko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatzen duzu: NOR-NORK ('nuen', 'zuen'), NOR-NORI-NORK ('zizkidan'), NOR-NORI ('iruditu zitzaizkidan')... Aditz-morfologia konplexua ondo erabiltzen duzu eta hori ez da erraza!",
+          "Mendeko perpausak gehienetan zuzen daude: 'banekien ezkutaleko hoberik ez nuela aurkituko' (baldintza + konpletiboa), 'entzun genuen herriko elizan lapurketa bat egon zela' (konpletiboa)... Sintaxia konplexua ondo menderatu duzu!"
+        ],
+        "hobetzekoak": [
+          "Kausazkoak (-gatik/-gaingaitik) batzuetan okerra: 'lehengusuarengaitik' → 'lehengusurengandik' edo 'lehengusuaren eskari/mesedeagatik'; 'euriarengaitik' → 'euriagatik'; 'erabiltzeagatik' → 'erabiltzeagatik' (hau ondo dago). '-gaingaitik' EZ da erabiltzen kausarako, '-gatik' baizik. Hau arazo sistematikoa da.",
+          "Puntuazio txikiak: 'izan zen,sorbaldarekin' → 'izan zen, sorbaldarekin' (zuriunea koma ondoren); 'geldi geratu. Pasilloak' → hobeto: 'geldi geratu, pasilloak...' edo 'geldi geratu: pasilloak...' (perpaus lotua da)."
+        ],
+        "feed_forward": "Hurrengo aldian, '-gaingaitik' idatzi aurretik galdetu: 'kausa da (zergatia) ala jatorria (nondik)?'. Kausa bada → '-gatik'. Jatorria bada → '-gandik/-tik'. Hau argitu eta ZL 8-9 ukituko duzu!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=0.41 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.25,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Zorionak, Erlantz! Narrazioa BIKAINA da: suspensea, plot twist-a, pertsonaia garapena, xehetasun deskriptiboak... Maila oso altua erakutsi duzu! Hobetzeko tartea txikia da: '-gatik/-gaingaitik' bereizketa argitu, paragrafo luzeak zatitu eta errepikapen lexiko batzuk aldatu. Baina oro har, idazketa-gaitasun HANDIA daukazu eta jarraitu behar duzu horrela!",
+    "lehentasuna": "'-gatik' vs '-gaingaitik' araua argitu: kausa (zergatia) → '-gatik'; jatorria (nondik, noren aldetik) → '-gandik/-tik'. Hau da lehentasuna, gainerakoa ia perfektua duzu!",
+    "batez_bestekoa_modelo": 8.0,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Kausazkoen nahasketa: -gatik vs -gaingaitik",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "lehengusuarengaitik etorri nintzen",
+        "zuzenketa": "lehengusurengandik etorri nintzen / lehengusuaren eskari/mesedeagatik",
+        "azalpena": "'-gaingaitik' EZ da erabiltzen kausarako. Kausarako → '-gatik' (zergatia). Jatorri pertsonalerako → '-gandik' (noren aldetik). Hemen, lehengusua ez da kausa (zergatia), jatorria/eskatzailea baizik, beraz '-gandik' edo '-ren eskari/mesedeagatik' behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazio txikiak: zuriunea koma ondoren",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "izan zen,sorbaldarekin",
+        "zuzenketa": "izan zen, sorbaldarekin",
+        "azalpena": "Koma ondoren BETI zuriune bat jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena: 'oso' hitzaren gehiegizko erabilera",
+      "akats_id": "LH-1",
+      "kopurua": 10,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "oso ondo / oso handia / oso arriskutsua / oso pentsatuta...",
+        "zuzenketa": "primeran / izugarria / arriskutsuena / ondo pentsatuta...",
+        "azalpena": "'Oso' hitza 10 aldiz erabili duzu testuan. Hau ez da akats gramatikala, baina hiztegia monotonoa egiten du. Aldatu sinonimoekin aberastasuna handitzeko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erregistro-nahasketa txikia: 'txungo'",
+      "akats_id": "LH-5",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "talde txungo batentzat",
+        "zuzenketa": "talde arriskutsu/ezezagun/gaizki jokatu batentzat",
+        "azalpena": "'Txungo' hitza oso informala da (slang-a). Narrazioan erregistro formalagoa mantentzeko, 'arriskutsu', 'ezezagun', 'gaizki jokatu' edo antzeko bat erabil zenezake."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 987,
+    "minor": 1,
+    "major": 3,
+    "critical": 0,
+    "EP100_gordina": 0.71,
+    "EP100_pisuduna": 0.41,
+    "EP100_gordina_modelo": 1.8,
+    "EP100_pisuduna_modelo": 3.5,
+    "minor_modelo": 12,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

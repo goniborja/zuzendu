@@ -1,0 +1,157 @@
+{
+  "kodea": "test001",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Gaia zuzenean lantzen duzu eta iritzia argi ematen duzu: 'teknologia ona da baina kontuz erabili behar dugu'.",
+          "Egitura oinarrizkoa jarraitzen duzu: sarrera, argudioak (ona/txarra), eta ondorioa."
+        ],
+        "hobetzekoak": [
+          "Argudioak sakonago garatu. Adibidez, 'gazteak telefono asko erabiltzen dute eta ez dute estudiatzen' esaten duzu, baina azaldu ZER ondorio duen horrek: azterketetan nota txarragoak? Harreman pertsonalen kalitate eskasa?",
+          "Kontrargumentu bat gehitu. Planteatu zerbait zure iritziari kontra egiten diona ('batzuek esaten dute teknologia ezinbestekoa dela lan-merkatuan'), eta erantzun zergatik zuk beste modura ikusten duzun."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu argudio bakoitzean adibide zehatz bat gehitzen eta ondorio bat ateratzen. Horrela ideia pertsonalak eta originalagoak garatuko dituzu."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoak erabiltzen dituzu ideiak banatzeko (sarrera, argudio positiboa, negatiboa, ondorioa).",
+          "Oinarrizko lotura-hitzak erabiltzen dituzu: 'lehenengo gauza', 'baina', 'ondorioz'."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz desberdinduen erabilera handitu. Errepikapenak saihesteko: 'lehenengo gauza' → 'hasteko' / 'lehenik eta behin'; 'baina ere' → 'hala ere' / 'bestalde'.",
+          "Paragrafo batean gai-apurketa dago: 'Lehenengo gauza da teknologia oso ona da komunikatzeko. Adibidez nire lagunak eta bidaltzeko mezuak...' → Bi esaldi desberdin dira eta bigarrena ez dago ondo lotuta. Lotura hobe bat jarri: 'Lehenik eta behin, teknologia oso egokia da komunikatzeko. Adibidez, nire lagunekin mezuak bidaltzen ditut, eta hori oso erraza da orain.'"
+        ],
+        "feed_forward": "Hurrengo aldian, prestatu lotura-hitzen zerrenda bat idatzi aurretik (hasteko, horrez gain, hala ere, azkenik). Horrela testua fluidoagoa izango da."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz-altxor oinarrizkoa baina nahikoa da gaia lantzeko: 'garrantzitsua', 'komunikatzeko', 'arazo handia'.",
+          "Erregistroa gehienetan egokia da iritzi-artikuluetarako: 'nire ustez', 'nire iritzian'."
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko altua: 'teknologia' hitza 8 aldiz agertzen da. Sinonimoak edo parafrasi erabil ditzakezu: 'gailu digitalak', 'tresna teknologikoak', 'komunikazio-baliabideak'.",
+          "Perpaus-egiturak oso sinpleak dira: subjektu-aditz edo 'X da Y' formulak nagusi. Saiatu konplexuagoak erabiltzen: mendeko perpaus kausalak ('-lako'), baldintzazkoak ('baldin... ba-'), edo erlatiboak ('erabiltzen dugun teknologia')."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi aurretik, pentsa hitz errepikatu beharrean zer beste modu dauden gauza bera esateko. Eta saiatu perpaus konplexuagoak eratzen: adibidez, 'teknologia ona da komunikatzeko' → 'teknologia komunikatzeko oso egokia da, batez ere distantzia luzean dauden pertsonak kontaktuan jartzeko'."
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Oinarrizko aditz-morfologia gehienetan ondo erabiltzen duzu: 'da', 'dut', 'dugu', 'dute'.",
+          "Ortografia ondo dago, typo edo grafia-akats gutxi."
+        ],
+        "hobetzekoak": [
+          "Kalko sintaktikoak: 'baina ere' ez da euskaraz erabiltzen. Gaztelaniako 'pero también' kalkoa da. Euskaraz: 'hala ere' edo 'bestalde'.",
+          "Esaldi bat ez da ulertzen: 'Adibidez nire lagunak eta bidaltzeko mezuak' → Falta zait aditza: 'nire lagunekin mezuak bidaltzen ditut' edo 'nire lagunei mezuak bidaltzen dizkiet'.",
+          "Kasu-marka baten falta: 'nire lagunak eta bidaltzeko' → 'nire lagunekin' (soziatiboa -rekin) edo 'nire lagunei' (datiboa -ri), aditzaren arabera."
+        ],
+        "feed_forward": "Hurrengo aldian, irakurri berriro idatzi duzuna eta egiaztatu esaldi guztiek aditza dutela. Eta saiatu gaztelaniako lotura-hitzak ez kopiatzea zuzenean euskarara ('baina ere', 'entonces', 'porque')."
+      }
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 5.0,
+    "biribiltzea": 5.0,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Zure testua argia da eta gaia zuzenean lantzen duzu. Iritzia ematen duzu arrazoiekin, eta egitura oinarrizkoa jarraitzen duzu. Hala ere, argudioak sakonago garatu behar dituzu adibide zehatzagoekin, eta lotura-hitzen aniztasuna handitu. Gaztelaniako interferentzia batzuk daude ('baina ere'), eta esaldi bat osatu gabe dago. Jarraitu idazten, zu egin dezakezu hobeto!",
+    "lehentasuna": "Hurrengo idazlanerako, lehentasuna eman argudioak gehiago garatzeari: argudio bat → adibide zehatza → ondorio bat. Horrela ideiak indartsuagoak izango dira."
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Kalko sintaktikoak (gaztelaniatik)",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "baina ere",
+        "zuzenketa": "hala ere / bestalde / gainera",
+        "azalpena": "Gaztelaniako 'pero también' kalkoa da. Euskaraz 'baina ere' ez da erabiltzen. Erabili 'hala ere' (kontraste arina), 'bestalde' (aldaketa), edo 'gainera' (gehikuntza)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Esaldi osatu gabeak (aditzik ez)",
+      "akats_id": "ZL-SIN-5",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Adibidez nire lagunak eta bidaltzeko mezuak",
+        "zuzenketa": "Adibidez, nire lagunekin mezuak bidaltzen ditut / nire lagunei mezuak bidaltzen dizkiet",
+        "azalpena": "Esaldi honek ez du aditzik. Euskaraz esaldi guztiek behar dute aditza. Gainera, kasu-marka falta da: 'lagunekin' (soziatiboa -rekin) edo 'lagunei' (datiboa -ri), aditzaren arabera."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Adibidez nire lagunak (koma falta)",
+        "zuzenketa": "Adibidez, nire lagunak",
+        "azalpena": "Lotura-hitzen ondoren (adibidez, ondorioz, hala ere, beraz...) koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'teknologia' 8 aldiz",
+        "zuzenketa": "Sinonimoak erabili: 'gailu digitalak', 'tresna teknologikoak', 'komunikazio-baliabideak'",
+        "azalpena": "Hitz bat gehiegitan errepikatzeak testua monotonoa egiten du. Saiatu sinonimoak edo parafrasi erabiltzen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Perpaus sinpleak soilik",
+      "akats_id": "LH-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Perpaus sinpleak nagusi testu osoan",
+        "zuzenketa": "Saiatu mendeko perpausak erabiltzen: kausalak ('-lako'), erlatiboak ('erabiltzen dugun'), baldintzazkoak ('baldin... ba-')",
+        "azalpena": "DBH4 mailan espero da konplexutasun sintaktiko handiagoa. Mendeko perpausak erabiltzen dituzunak ideiak hobeto lotzen ditu eta testua aberatsagoa egiten du."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 102,
+    "minor": 3,
+    "major": 3,
+    "critical": 0,
+    "EP100_gordina": 8.82,
+    "EP100_pisuduna": 8.82
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

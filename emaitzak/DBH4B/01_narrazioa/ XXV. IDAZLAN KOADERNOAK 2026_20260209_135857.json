@@ -1,0 +1,215 @@
+{
+  "kodea": "OIER",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Fantastikoa! Narrazioa oso originala da eta imajinazioa primeran erabili duzu. Trump super-heroi bihurtzea ideia benetan sortzailea da.",
+          "Egitura narratiboaren zatiak badituzu: hasiera (jaiotza eta gaztaroa), korapiloa (tirotea eta misterio-elementuak), eta amaiera (superbotere-transformazioa). Istorioa ondo garatzen da."
+        ],
+        "hobetzekoak": [
+          "Narrazioak bi zati nabarmen bereizi daude: biografia erreala (hasieran) eta zati fantastikoa (bukaeran). Lotura hobetu beharko zenuke — zergatik gertatzen da transformazioa? Zer kausa dago? Hori falta da.",
+          "Batzuetan denbora-jauzi handiak daude: '40 urte pasa', 'bi urte pasa'... Trantsizio horiek zehatzago landu beharko zenituzke irakurleari jarraitzeko aukera emateko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istorioko une KRITIKOAK gehiago lantzeko: zergatik gertatzen da transformazioa? Zer sentitzen du pertsonaiak? Horrek istorioa sakonago eta koherenteago egingo du."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa saiatzen zara egiten eta saiakera hor dago. Istorioak hasiera-garapena-amaiera egitura du.",
+          "Denbora-markatzaileak erabiltzen dituzu ('1946-ko ekainaren 14-an', 'egun batean', 'bat-batean') eta horrek laguntzen du jarraitzeko."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzen erabilera oso mugatua da. 'Bat-batean' eta 'segituan' errepikatzen dituzu askotan. Erabili 'orduan', 'horregatik', 'hala ere', 'ondoren', 'gero eta berehala' anitzagoa izateko.",
+          "Batzuetan paragrafo luzeak dira gehiegi eta ideia bat baino gehiago sartzen dituzu. Adibidez, ospitaleko zatia eta S.W.A.T.-era joatea paragrafo berean daude baina bi une desberdin dira."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi: esaldi bakoitzaren artean lotura-hitz DESBERDINAK erabiltzeko saiatu. Horrela testua askoz naturalago eta landuago geratuko da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aniztasun pixka bat du: 'harmuzua', 'bularra neurriz kanpo handitu', 'estratosferara', 'satelite'. Hori oso ondo dago!",
+          "Esaldi batzuetan irudikapena saiatzen zara egiten: 'kapela luze batekin eta eskuan urrezko guraize erraldoi batzuk', 'sutan bezala sentitzen zuen'. Horrek kalitatea ematen dio."
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko nabarmena dago: 'segituan' 6 aldiz baino gehiagotan, 'bat-batean' 4 aldiz, 'hasi zen lanean' errepikatzen da. Erabili sinonimoak: 'berehala', 'ustekabean', 'une hartan', 'lanean jardun'.",
+          "Hitz generikoak gehiegi erabiltzen dituzu: 'gauza', 'egin', 'izan', 'hartu'. Saiatu aditz eta izen zehatzagoak erabiltzen: 'sortu', 'eraiki', 'konturatu', 'jarduera', 'ekintza'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero irakurri: hitz bat 3 aldiz baino gehiagotan agertzen bada, aldatu sinonimoz. Badaukazu maila hori harrapatzeko!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia konplexua erabiltzen saiatzen zara: 'konturatu zuen', 'jaurti zen', 'sartu zuen'. Hori gogorra da eta zu ausartzen zara!",
+          "Denbora narratiboak kontrolatzen dituzu orokorrean: lehenaldia (zen, zuen, zioten) ondo erabiltzen duzu gehienetan."
+        ],
+        "hobetzekoak": [
+          "Deklinabide-akats ugari daude. Ergatiboa (-k) 15 aldiz baino gehiagotan falta da: 'umeak zuen izena' → 'umeAK zuen izena', 'aitak esan zion' → 'aitAK esan zion'. Hau akats nagusia da eta lehentasuna eman behar diozu.",
+          "Erderakada asko: 'zozer', 'emaztea', 'ospialera', 'periodiko', 'tipoaren', 'denuntzia'... Hitz hauek gaztelaniazko formak dira zuzenean. Euskaraz: 'zerbait', 'emaztea (ondo)', 'ospitalera', 'egunkari', 'motaren', 'salaketa'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta GERO berrikusi esaldi bakoitza: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin ergatiboaren arazoa konponduko duzu!"
+      },
+      "zl_modelo": 4,
+      "python_doikuntza": "Modeloaren ZL=4 koherentea EP100=11.76 (oinarrizkoa, tartea 3-4)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 5.5,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Primeran egin duzu lan hau, benetan! Istorioa oso originala da eta imajinazioa ikaragarria duzu. Hala ere, hobetzeko tarte handia dago ZL-n, batez ere deklinabide-akatsetan (ergatiboa!) eta erderakadetan. Arreta handiagoa jarri euskara-arauetan eta gora zu!",
+    "lehentasuna": "Ergatiboa (-K): aditza NOR-NORK denean, subjektuak -K behar du. Idatzi eta berrikusi esaldi guztiak hori kontuan hartuz. Hau da lehen lehentasuna eta nota gehien igoko dizuna!",
+    "batez_bestekoa_modelo": 5.5,
+    "biribiltzea_modelo": 5.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 18,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "umeak Donald John Trump zuen izena",
+        "zuzenketa": "umeAK Donald John Trump zuen izena",
+        "azalpena": "Aditza NOR-NORK denean ('ukan' sistema: zuen, du, dut...), subjektuak ergatiboa (-K) behar du beti."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Adlatiboa falta (-ra)",
+      "akats_id": "ZL-KAS-3",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "militarren akademi batera joan zen",
+        "zuzenketa": "militarren akademiARA joan zen",
+        "azalpena": "Norabidea adierazteko (-ra): 'nora?' galderari erantzuteko. 'Akademi bat' → 'akademi bateRA'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Genitiboa okerra (-ren)",
+      "akats_id": "ZL-KAS-7",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "bere aitarengaitik",
+        "zuzenketa": "bere aitaRENGATIK",
+        "azalpena": "Kausa adierazteko: -gatik. 'Aitaren' + 'gatik' = 'aitaRENGATIK' (bateratuta idazten da)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — mailegu okerra",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "periodiko batean",
+        "zuzenketa": "egunkari batean",
+        "azalpena": "'Periodiko' gaztelaniako hitza da zuzenean. Euskaraz 'egunkari' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-ordena gaztelaniakoa (SVO)",
+      "akats_id": "ZL-ERD-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "autoa aparkatu eta bulegora igo zen",
+        "zuzenketa": "autoa aparkatu eta bulegora igo zen (ondo batzuetan baina hobetu daiteke beste batzuetan)",
+        "azalpena": "Euskaraz ordena naturalena SOV da: objektua aditzaren aurretik. Kasu honetan zuzena da, baina beste esaldi batzuetan ez."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Segituan konturatu zen",
+        "zuzenketa": "Segituan, konturatu zen",
+        "azalpena": "Lotura-hitz ondoren ('segituan', 'orduan', 'beraz', 'hala ere'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Punturik ez esaldien artean (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Harmuzua hartu, autoa hartu eta lanera joan zen buruzagiarekin hitz egiten.",
+        "zuzenketa": "Harmuzua hartu, autoa hartu eta lanera joan zen buruzagiarekin hitz egiteko. (Edo puntu bat jarri esaldiak banatzeko.)",
+        "azalpena": "Esaldi independente bat bukatu denean, puntua jarri behar da. Koma bakarrak esaldi oso luzeak sortzen ditu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "grabitatearen legeak hautsi zituen",
+        "zuzenketa": "grabitatearen legeak hautsi zituzTEN (plurala)",
+        "azalpena": "Objektua plurala denean ('legeak' = haiek), aditzak ere plural-marka behar du: zituzten."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa / elkarketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Trump-Ilargi",
+        "zuzenketa": "Trump-ilargi edo Trump Ilargi",
+        "azalpena": "Letra larriarekin idazten bada banandu (Trump Ilargi). Txikiz bada, marratxoarekin (Trump-ilargi)."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 748,
+    "minor": 14,
+    "major": 37,
+    "critical": 0,
+    "EP100_gordina": 11.76,
+    "EP100_pisuduna": 2.81,
+    "EP100_gordina_modelo": 11.1,
+    "EP100_pisuduna_modelo": 9.0,
+    "minor_modelo": 17,
+    "major_modelo": 33,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

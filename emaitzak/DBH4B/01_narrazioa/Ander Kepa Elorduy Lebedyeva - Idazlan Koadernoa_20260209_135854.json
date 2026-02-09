@@ -1,0 +1,179 @@
+{
+  "kodea": "ANDER",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio originala eta oso ondo garatua! Pertsonaiak nortasun propioa dute, bakoitza bere bereizgarriekin: Gurutz abeslaria, Asier gitarrista, Jokin baxua, Xabat bateria-jotzailea. Hau da oso lan ona!",
+          "Narrazioaren egitura argia duzu: hasiera (aurkezpena), korapiloa (kontzertura prestatzea), gailurra (kontzertuaren eguna) eta amaiera (arrakasta eta gogoragarri bihurtzea). Bikain!"
+        ],
+        "hobetzekoak": [
+          "Testuaren amaieran trantsizio bat falta da: kontzertuaren osteko lerro batzuk oso azkar agertzen dira (Fermin Muguruza, urtero bueltatzea). Horiek txertatzeko modu naturalagoa bilatu behar zenuke.",
+          "Zenbait xehetasun gehiago sar zenezake deskribapen sentsorialetan: nola entzuten zen musika, zer kolore zeuden eszenatokian, zer usain... Horrek istorioa oraindik biziagoa egingo luke!"
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istorioko une nagusietan deskribapen sentsorial bat gehitzen (ikusmena, entzumena, ukimena...). Horrek irakurleak 'bertan egotea' sentiaraziko du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da: taldea aurkeztu, pertsonaiak banaka deskribatu, saioak, lehen abestia, kontzertua... Dena ondo jarraitzen da!",
+          "Lotura-hitz ugari eta egokiak erabiltzen dituzu: 'horregatik', 'gainera', 'hala ere', 'azkenik', 'denborarekin', 'horrez gain'... Zoragarria!"
+        ],
+        "hobetzekoak": [
+          "Paragrafoen arteko loturak batzuetan eskasak dira. Adibidez, kontzertuaren egunetik Fermin Muguruza atalera jauzi nabarmena dago. Lotura-esaldi bat jarri behar zenuke bien artean: 'Kontzertu haren ostean, beste hainbat arrakasta etorri ziren...'.",
+          "Azken bi paragrafoak ('Horrez gain' eta 'Ere' hasierakoek) geldituta daude, ez dira ondo lotzen aurreko narrazioarekin. Saiatu amaiera natural batekin bukatzen."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, irakurri paragrafo arteko trantsizioak. Galdera hau egin: bat-batean salto bat dago? Baietz bada, lotura-esaldi bat gehitu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa eta zehatza: 'mendien artean', 'ahots sakona eta indartsua', 'erritmo lasaiarekin baina sendoa', 'konexio handi bat', 'txalo zaparrada'... Oso ondo hautatu dituzu hitzak!",
+          "Perpaus konplexuak erabiltzen dituzu: erlatibozkoak ('abesten zuenean jendea harrituta gelditzen ziren'), kausazkoak ('oso urduri jarri zizkieten'), denborazkoak ('Gurutzek mikrofoa hartu eta lehen hitzak abesten hasi zenean')... Zoragarria!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko batzuk: 'gustuko', 'gustatzen', 'gustokoena' (3 aldiz), 'taldeko' (5 aldiz). Sinonimoak erabili edo berridatzi esaldiak errepikapena saihesteko.",
+          "Noizean behin erregistro ez-formaleko hitz bat sartzen da: 'gogor ematen zion', 'sekulako giro'. Narrazioetan horrek ez du kalterik egiten, baina testu akademikoagoetan saihestea komeni da."
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, CTRL+F egin eta hitz errepikatuak bilatu. Hitz bat 3 aldiz baino gehiagotan agertzen bada, sinonimoren bat bilatu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Oinarrizko aditz-sistema ondo kontrolatuta duzu: NOR-NORK sistema gehienetan zuzena da ('zuten', 'zuen', 'zuten'), eta NOR-NORI sistema ere ondo ('gustazen zitzaion').",
+          "Ortografia oso zuzena da: ez duzu ia typorik egin, eta hitz-elkarketa ondo ('rock talde', 'bateria-jotzailea'). Zoragarria!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 4 aldiz ahaztu duzu, eta hau da akatsik garrantzitsuena. Gogoratu: aditza NOR-NORK denean, subjektuak -K behar du. 'Albiste hau urduri jarri zizkieten' → 'Albiste honEK urduri jarri zizkiEn'. Kontu honekin!",
+          "Aditz komunztadura bat okerra: 'musika ikutzea indarra ematen zien' → 'ematen ZIEN' pluralean badago, subjektua ere pluralean egon behar da, edo aditza singularrean. Hemen subjektua 'musika ikutzea' da (singularra), beraz 'ematen zieN' izan behar zen."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Eta komunztadura begiratu: subjektua singularra bada, aditza ere singularrean!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.34 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Oso istorio polita eta ondo egituratua! Pertsonaiak garatu dituzu eta narrazioaren egitura argia da. Hiztegi aberatsa eta egitura konplexuak erabiltzen dituzu. Hobetzeko tarte nagusiena ergatiboa da (-k) eta aditz komunztadura bat. Horiek konpontzen badituzu, nota altua lortuko duzu! Segi horrela, badaukazu maila oso ona!",
+    "lehentasuna": "Ergatiboa (-k): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Albiste hau, oso urduri jarri zizkieten",
+        "zuzenketa": "Albiste honEK, oso urduri jarri zizkiEN",
+        "azalpena": "Aditza NOR-NORK denean (jarri → nork jarri?), subjektuak -K marka behar du. Gainera, 'hau' → 'honek' eta komunztadura 'zizkieten' → 'zizkien' (singularra)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — numeroa",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "musika ikutzea indarra ematen zien",
+        "zuzenketa": "musika ikutzea indarra ematen zieN (singularra)",
+        "azalpena": "Subjektua 'musika ikutzea' da, eta hori singularra da. Beraz, aditza ere singularrean egon behar da: 'zien' → 'zien' (singularra)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa — fokua",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gainera, abestiaren letra idaztea asko gustazen zitzaion",
+        "zuzenketa": "Gainera, abestiaren letra idaztea asko gustatzen zitzaion ('gustazen' → 'gustatzen')",
+        "azalpena": "Euskaraz 'gustatu' aditzarekin '-tzen' aspektua erabiltzen da: 'gustatzen' ez 'gustazen'. Gainera, fokua aditzaren aurretik: 'asko' aditzaren aurretik dago ondo."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz hasieran",
+      "akats_id": "OK-3",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ere, urtero bueltatzen dira...",
+        "zuzenketa": "Gainera, urtero bueltatzen dira... / Urtero ere bueltatzen dira...",
+        "azalpena": "'Ere' ez da lotura-hitz bat esaldi hasieran jartzeko. Erabili 'gainera', 'halaber' edo 'ere' esaldiaren erdian (urtero ERE)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Paragrafoen arteko lotura eskasa",
+      "akats_id": "OK-6",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Azken bi paragrafoak ('Horrez gain' eta 'Ere' hasierakoek) ez dira ondo lotzen aurreko narrazioarekin",
+        "zuzenketa": "Lotura-esaldi bat gehitu: 'Kontzertu haren ostean, beste hainbat arrakasta etorri ziren. Horrez gain, amets handi bat zuten...'",
+        "azalpena": "Trantsizio baten falta da paragrafo artean. Istorioak jarraipena natural bat behar du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexikoa — 'taldeko'",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "'taldeko' 5 aldiz errepikatzen da",
+        "zuzenketa": "Sinonimoak erabili: 'taldeko' → 'taldekide', 'talde arteko', 'haien arteko', 'talde barruko'",
+        "azalpena": "Hitz bera askotan errepikatzen denean, testua monotonoa bilakatzen da. Sinonimoak edo birformulazioak erabili."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 486,
+    "minor": 2,
+    "major": 5,
+    "critical": 0,
+    "EP100_gordina": 2.47,
+    "EP100_pisuduna": 1.34,
+    "EP100_gordina_modelo": 6.17,
+    "EP100_pisuduna_modelo": 5.76,
+    "minor_modelo": 4,
+    "major_modelo": 5,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "kodea": "AHETZ",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 3,
+      "maila": "hasiberria",
+      "cap_aplikatua": "CAP-4",
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio interesgarri bat kontatu duzu eta esperientzia pertsonala ondo erabili duzu edukia sortzeko. Hori oso ona da!",
+          "Narrazioaren egitura orokorra badago: hasiera, korapiloa (Markel galdu da) eta amaiera. Kontatzeko gaitasuna badaukazu!"
+        ],
+        "hobetzekoak": [
+          "Atazak IRITZI-ARTIKULUA eskatzen du, baina zuk NARRAZIOA idatzi duzu. Iritzi-artikulu batean tesia aurkeztu behar da + argudioak + ondorioa, ez istorio bat kontatu. Hau oso garrantzitsua da — testu-motari erreparatu beti!",
+          "Edukia guztiz desegokia da: iritzi-artikulu bat idatzi behar zenuen (adibidez: 'Gazteak mendira joan behar al dute?', 'Boxeoaren onurak eta arriskuak', 'Segurtasuna kirolean'), baina narrazioa idatzi duzu. Hau CAP-4 araua da."
+        ],
+        "feed_forward": "Hurrengo aldian, irakurri ondo zer eskatzen duen atazak. Iritzi-artikulua bada: 1) Tesia (nire ustez...), 2) Argudioak (lehenik, bigarrenik...), 3) Ondorioa (laburbilduz...). Istorioak SOILIK narrazioetan!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 2,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-5",
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioan gertatutakoak kronologia batean kontatu dituzu (lehenik, gero, ondoren...). Sekuentzia narratiboa jarraitzen duzu!",
+          "Gertaera nagusia (Markel galtzea eta aurkitzea) argi identifikatzen da testuaren erdialdean."
+        ],
+        "hobetzekoak": [
+          "Testua paragrafo BAKAR batean idatzita dago, ia 1000 hitz lerro batean. Hau ezinezkoa da irakurtzeko eta ulertzekotzat. Paragrafoak DERRIGORREZKOAK dira ideia bakoitza banatzeko!",
+          "Puntuazio-arauak ez dituzu ia errespetatzen: ia ez dago punturik esaldien artean (run-on esaldiak), komak faltan, denborazkoak desegokiak... Hau ulermena oso zailtzen du."
+        ],
+        "feed_forward": "Hurrengo aldian, testua paragrafoka zatitu: sarrera (1 par.), garapena (2-3 par.), ondorioa (1 par.). Esaldi bakoitza amaitu PUNTUZ. Lotura-hitzak (lehenik, gero, azkenik) erabili eta haien ondoren KOMA jarri. Hau funtsezko baldintza da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 3,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia DBH4 mailako batentzat nahikoa da eta kontatzeko gaitasuna duzu.",
+          "Zenbait esapide erabili dituzu naturalki: 'susto bat izan zen', 'konturatu ginen', 'oso ondo pasatu genuen'."
+        ],
+        "hobetzekoak": [
+          "Perpaus-egitura ia beti sinplea da: subjektua + objektua + aditza, eta horrekin bukatzen da esaldia. Ez duzu ia inoiz mendekorik erabiltzen (kausazkoak, baldintzazkoak, erlatiboak), eta horrek testua oso monotonoa egiten du.",
+          "Errepikapen lexiko handia: 'joan', 'egin', 'hasi' aditzak 30 aldiz baino gehiagotan erabiltzen dituzu. Erabili sinonimoak edo birformulatu (adib. 'joan ginen' → 'abiatu ginen', 'joan behar genuen' → '-ra jo genuen')."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu gutxienez 2-3 mendeko perpaus sartzen: 'berandu zelako', 'heldu ginenean', 'ikusi nuenean'. Eta aditz berdinak ez errepikatu beti — 'joan' ordez 'abiatu', 'itzuli', 'hurbildu', 'bueltatu' ere erabili daitezke!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 2,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Perpaus batzuk aditz-sistema ongi erabiltzen duzu: 'joan ginen', 'ikusi genuen', 'heldu ginen'.",
+          "Istorioa ulertu egiten da, akats-kopuru handiak gorabehera."
+        ],
+        "hobetzekoak": [
+          "Ortografia-akats ugari: 'pasadan' → 'pasadan', 'esagutzeko' → 'ezagutzeko', 'organizatzen' → 'antolatzen', 'pentzatez' → 'pentsatuz', 'ikuzi' → 'ikusi'. Hauek GUZTIAK zuzendu behar dituzu!",
+          "Puntuazio-akatsak oso larriak dira: ez dago ia punturik esaldien artean (run-on esaldiak), komak falta lotura-hitzen ondoren, eta puntuazio-arauak ez dira errespetatzen. Hau critical arazoa da ulermenerako!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero ERREPASATU testua: 1) Ortografia (Z/S, TZ/TS), 2) Puntuazioa (esaldi bakoitza puntuz bukatu!), 3) Komak (lotura-hitzen ondoren). Zuzentzaile ortografikoa erabil dezakezu laguntzaile gisa, baina errepasoa DERRIGORREZKOA da!"
+      },
+      "zl_modelo": 2,
+      "python_doikuntza": "Modeloaren ZL=2 koherentea EP100=22.28 (hasiberria, tartea 1-2)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 2.5,
+    "biribiltzea": 2,
+    "heziberri_maila": "lortu_gabea",
+    "orokorra": "Kontatzeko gaitasuna duzu eta istorio hunkigarri bat sortu duzu, baina atazak iritzi-artikulua eskatzen zuen, ez narrazioa. Hau oso garrantzitsua da. Gainera, testua paragrafo bakar batean dago eta puntuazio-arazoak ulermena oso zailtzen dute. Oinarrizko mailako akatsak (ortografia, puntuazioa, egitura) konpondu behar dituzu lehenik!",
+    "lehentasuna": "1) Puntuazioa: esaldi bakoitza puntuz bukatu. 2) Testu-motak bereizi: narrazioa vs iritzi-artikulua. 3) Paragrafoak egin (gutxienez 3-4). Hau da lehen pausoa!",
+    "batez_bestekoa_modelo": 2.5,
+    "biribiltzea_modelo": 2.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ortografia — Grafia okerra (Z/S, TZ/TS, I/E)",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 35,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "pasadan",
+        "zuzenketa": "pasadan (ONDO) edo pasatako (egokiagoa)",
+        "azalpena": "Kontuz: 'pasadan' ZUZENA da bizkaieraz, baina 'pasatako' hobetsia batuan. Beste adibideak: 'esagutzeko' → 'ezagutzeko', 'organizatzen' → 'antolatzen', 'pentzatez' → 'pentsatuz', 'ikuzi' → 'ikusi', 'hlabatez' → 'hilabetez', 'heman' → 'eman', 'gheiago' → 'gehiago', 'zguten' → 'zuten', 'bonberuak' → 'bonberoak', 'anbulatziak' → 'anbulantziak', 'derrame' → gaztelaniazko hitza (hemoragia), 'hoetik' → 'handik', 'haber' → 'ea', 'oribak' → 'probak', 'jai' → 'festa/ospakizuna', 'emon' → 'eman', 'goso' → 'goxo', 'prometidu' → 'promes egin', 'irteheta' → 'irteerarik', 'hau' → 'istorio hau', 'konosimenduarekin' → 'kontzientziarekin', 'horain' → 'orain', 'gheiau' → 'gehiago'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazio — Punturik ez esaldien artean (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 40,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ni boxeoko taldera apuntatu nintzen eta maizuak esan zuen mendira joango ginela asteburu bat denak hobetoago esagutzeko",
+        "zuzenketa": "Ni boxeoko taldera apuntatu nintzen. Maizuak esan zuen mendira joango ginela asteburu bat, denak hobeto ezagutzeko.",
+        "azalpena": "Esaldi bakoitza PUNTUZ bukatu behar da. Hemen perpaus independenteek puntu bat behar dute haien artean. Run-on esaldiak (punturik gabeko esaldi luzeak) komunikazioa oso zailtzen dute."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazio — Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 25,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Azkenean eguna haeldu zen",
+        "zuzenketa": "Azkenean, eguna heldu zen.",
+        "azalpena": "Lotura-hitz ondoren (azkenean, gero, horduan, hortik, gainera...) BETI koma jarri behar da. Hau arau zorrotza da euskaraz."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — Plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "denak sartu ginen autobuzean",
+        "zuzenketa": "denak sartu ginen autobusean (ondo — 'autobuzean' okerra)",
+        "azalpena": "Subjektua plurala denean (denak), aditzak ere plurala izan behar du. Adibidea honetan aditza ondo dago ('ginen' plurala da), baina beste testuinguruetan akatsak daude: 'zeudelako' (ondo), 'ziren' (ondo), 'genuen' (ondo). Akatsak: 'poliziak, bonberuak eta anbulatziak etorri ZIREN' (plurala ondo), 'denak EGON ginen' (ondo). Kontuz: 'etorri ZIREN' (plurala) vs 'etorri ZEN' (singularra)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kasu-markak — Adlatiboa (-ra) / Ablatiboa (-tik) nahasketa",
+      "akats_id": "ZL-KAS-3",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "aterpekoari galdetu genion",
+        "zuzenketa": "aterpekoari galdetu genion (ondo — datiboa -ri)",
+        "azalpena": "Kasu-markak nahasten dituzu: 'hirukoteka' → 'hirukotan', 'herrira' (ondo — adlatiboa), 'herrian' (ondo — inesiboa), 'hor' (ondo), 'horduan' → 'orduan', 'hospitalera' (ondo), 'boxeora' → 'boxera', 'lagunen hartean' → 'lagunen artean', 'boxeoko taldehen hartean' → 'boxeoko taldearen artean'. Errepasatu deklinabide-kasuak: -ra (norabidea), -tik (jatorria), -n (kokapena), -ri (zehar-osagarria)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakadak — Hitz-kalkoak",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 12,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "derrame bat zuela",
+        "zuzenketa": "hemoragia bat zuela / odol-isuri bat zuela",
+        "azalpena": "Gaztelaniazko hitzak zuzenean sartu dituzu euskaraz: 'derrame' → 'hemoragia/odol-isuria', 'el señor de los anillos' → 'Eraztunen Jauna' (izen ofizialak itzuli behar dira), 'los anillos' → 'eraztunak', 'saga' → 'segida/saga' (hau onartua da), 'rocky' → izen propioa (ondo), 'azidentea' → 'istripua', 'minimo' → 'gutxienez'. Euskaraz hitz egokiak erabili behar dira, ez gaztelaniako hitzak zuzenean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakadak — Kalko sintaktikoak",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "apuntatu nintzen",
+        "zuzenketa": "izena eman nuen / eman nintzen",
+        "azalpena": "'Apuntarse' gaztelaniazko aditza da. Euskaraz 'izena eman' erabiltzen da. Beste kalkoak: 'alkilatu' → 'alokatu', 'aparte' → 'gainera / alde batera', 'alergiaren bat eduki eskero' → 'alergiaren bat bazuten', 'konosimenduarekin' → 'kontzientziarekin / jakitun'. Egitura ere kalkoak dira: 'zeuozer nahi basute erosi erosteko' → kalko zuzena, baina ERREPIKATU 'erosi' (1 aldiz nahikoa da)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa okerra / Elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 10,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hobetoago",
+        "zuzenketa": "hobeto / hobeki",
+        "azalpena": "Hitz-banaketa eta elkarketa akatsak: 'hobetoago' → 'hobeto' (ez bikoiztu), 'horduan' → 'orduan', 'horain' → 'orain', 'hordua' → 'ordua', 'hortik' → 'handik', 'haber' → 'ea', 'hal' → 'ahal', 'boxeoko taldehen' → 'boxeoko taldearen', 'hartean' → 'artean'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa — SOV haustea",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "bakoitzak 60$ eraman zituen",
+        "zuzenketa": "bakoitzak 60 $ eraman zituen (ondo — SOV ordena errespetatzen da)",
+        "azalpena": "Zenbait kasutan aditza ez dago perpausaren bukaeran, baina normalean SOV ordena errespetatzen da. Adibidea: 'autobuza hartu eta buelta etzera' → 'autobusa hartu eta etxera bueltatu'. Ordena askoz argiagoa litzateke perpaus laburretan zatituta."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Paragrafo-banaketa eskasa",
+      "akats_id": "OK-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Testu osoa paragrafo BAKAR batean",
+        "zuzenketa": "Gutxienez 4-5 paragrafo egin behar zenituen: 1) Sarrera (boxeoko taldea, bidaia-asmoa), 2) Bidaia eta iritsiera, 3) Markel galtzea, 4) Markelen bilaketa eta aurkikuntza, 5) Ondorioa (itzulera, ikaskuntza).",
+        "azalpena": "Testua 1000 hitz baino gehiago ditu paragrafo BAKAR batean. Hau ezinezkoa da irakurtzeko eta PEN-2 penalizazioa dakar AK irizpidean. Paragrafoak DERRIGORREZKOAK dira edozein testu idatzitan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'joan' aditza 40 aldiz baino gehiagotan",
+        "zuzenketa": "Erabili sinonimoak: abiatu, itzuli, hurbildu, bueltatu, jo (mendira jo), mugitu, desplazatu.",
+        "azalpena": "'Joan', 'egin', 'hasi' aditzak gehiegitan errepikatzen dituzu. Hau PEN-5 penalizazioa dakar BLH irizpidean. Errepikapenak saihestu behar dira sinonimoak erabiliz edo esaldiak birformulatuz."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 983,
+    "minor": 73,
+    "major": 73,
+    "critical": 0,
+    "EP100_gordina": 22.28,
+    "EP100_pisuduna": 2.14,
+    "EP100_gordina_modelo": 19.6,
+    "EP100_pisuduna_modelo": 14.2,
+    "minor_modelo": 71,
+    "major_modelo": 58,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0,
+      "ia_puntuazioa_modelo": 0.3,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats ortografiko eta gramatikalak ugari dira zehar-zehar: 'maizuak' (maisuak), 'horduan' (orduan), 'gendue' (genuen), 'ipni' (ipini), 'buekta' (buelta), 'ikuzi' (ikusi), etab. Puntuazio-ikurren erabilera ez da egokia, esaldiak oso luzeak dira eta koherentzia falta nabarmentzen da. Egitura desorganizatua da, ez dago sarrera-garapena-ondorio argirik. Narratiba errepikakorra da eta askotan galdu egiten da hariak. Hiztegi sinplea erabiltzen du, maila egokia gazteentzat. Testua oso luzea da baina ez da uniformeki idatzia, zehaztasun eta kalitate aldakorrez. Guztiz naturala da DBH mailako ikasle baten idazlana, inolako IA-ekoizpenaren zantzurik gabe."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Nota oso baxua (2.5) — irakaslearen berrespena behar da",
+        "Testu-mota ez da errespetatu (CAP-4): iritzi-artikulua eskatu, narrazioa idatzi",
+        "Paragrafo bakarreko testua (CAP-5 arriskua)",
+        "EP100 pisuduna oso altua (14.2) — hasiberriaren tartean"
+      ]
+    }
+  }
+}

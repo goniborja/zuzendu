@@ -1,0 +1,36 @@
+{
+  "kodea": "ISET",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 20,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 2,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu hau IA bidez sortua izan dela susmatzen dut argi. Hainbat seinale nabari dira: (1) Perfekzio susmagarria - ia ez dago akats gramatikal edo ortografikorik DBH4 ikasle batentzat espero den mailan; (2) Hiztegi sofistikatu eta uniformea ('sakabatuta', 'harridurarako', 'baloratuz'); (3) Egitura narratibo oso landu eta koherentea, leitmotiv gisa 17 zenbakia erabiliz era sistematikoan; (4) Estilo literario homogeneoa hasieratik amaieraraino, DBH4 ikasle batentzat ezohikoa; (5) Luzera nabarmena (1000+ hitz); (6) Ez dago gazte batek idaztean espero diren akats naturalik (inkoherentziak, errepikapenak ez nahitakoak, estilo aldaketak); (7) Kalitate narratibo uniformea testu osoan zehar, sarrera, nondoa eta amaiera profesionalki kudeatuta. 17 zenbakiaren erabilera errepikatua eta sinbolikoa ere IA estilo-eredu baten ezaugarri dirudi. Gainera, tonu emozionala deskribatua da baina ez da berez sentitzen, robotiko samarra da.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 20/21)"
+      ]
+    }
+  }
+}

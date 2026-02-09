@@ -1,0 +1,36 @@
+{
+  "kodea": "AMETS",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 20,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 2,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu hau IA bidez sortua dela susmatzen dut argi eta garbi. S1: Akatsik ez dago ia, puntuazioa eta gramatika perfektuak dira DBH4 ikasle batentzat. S2: Hiztegi egokia erabiltzen du, baina artifizialki kontrolatua dirudi ('dardarka', 'distiratsu', 'zirraratxo'). S3: Egitura narratiboa perfektua da, sarrera-nondik-norakoa-mezua oso ongi egituratuta. S4: Tonua didaktikoa da gehiegi, 'ikaskuntza moralarekin' azken zatian bereziki ('Horregatik pozik nago', 'poliki-poliki eginez, gauza berriak ikas daitezke'). S5: 1400+ hitz inguru, oso luzea DBH4 mailan. S6: Ez dago akats tipografikorik, errepikapenik dohaikorik edo koherentzia galtzeko momenturik. S7: Kalitatea uniformea da hasieratik amaierara, inongo nekaduraren arrastorik gabe. Idazkera 'eredugarria' da gehiegi, pertsonalitate gabekoa, eta DBH ikasle batek ez lukeen heldutasun narratibo bat erakusten du.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 20/21)"
+      ]
+    }
+  }
+}

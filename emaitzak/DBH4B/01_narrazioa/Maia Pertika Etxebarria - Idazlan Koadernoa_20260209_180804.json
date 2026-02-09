@@ -1,0 +1,221 @@
+{
+  "kodea": "MAIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 2,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-1",
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo idatzita dago: tentsioa sortzen duzu, pertsonaiak interesgarriak dira, eta istorioak hasiera-korapiloa-amaiera du.",
+          "Idazteko gaitasuna duzu: irudimena, xehetasunak sortzeko ahalmena, eta irakurlea engantxatzeko teknikak. Hori da onena!"
+        ],
+        "hobetzekoak": [
+          "BAINA ataza IRITZI-ARTIKULUA idaztea zen, ez narrazioa. Hau da akats larria: genero okerra hautatu duzu guztiz. Iritzi-artikulu batek tesi bat behar du, argudioak, eta iritzi bat defendatu.",
+          "Hurrengo aldian irakurri ondo zer eskatzen dizuten: testu-mota, generoa, formatua. Idazteko gaitasuna duzu, baina atazaren helburua bete behar duzu lehenik eta behin."
+        ],
+        "feed_forward": "Hurrengo aldian, hastean bertan galdetu: zer testu-mota da? Iritzi-artikulua bada, tesi bat aukeratu (adib. 'Nerabeen pribatutasuna sarean arriskuan dago') eta argudio 3-4 bilatu. Narrazioa gordetzeko modukoa da, baina beste ataza baterako!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa bikaina: hasieran tentsioa sortu, gero flashback-a eman ('Dena duela ordu erdi pasatu zen'), eta pixkanaka-pixkanaka garapena eta amaiera. Txapela!",
+          "Paragrafoak oso ondo banatu dituzu, bakoitza erritmo-aldaketa edo gune berri batekin. Irakurtzeko erraza eta dinamikoa da."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak nahiko onak dira narraziorako ('bat-batean', 'orduan', 'eta'), baina iritzi-artikulu batean hau hobetu beharko zenuke: 'gainera', 'hala ere', 'horregatik', 'bestalde'... Genero bakoitzak lotura-hitz desberdinak behar ditu.",
+          "Paragrafo batzuk oso luzeak dira (adib. 4. paragrafoa 7 lerro). Zatitu zitezke bietan eta irakurgarritasuna hobetuko zenuke."
+        ],
+        "feed_forward": "Hurrengo aldian (iritzi-artikuluan!), saiatu lotura-hitz argumentatiboak gehiago erabiltzen: 'alde batetik... beste alde batetik', 'hala ere', 'horregatik', 'laburbilduz'. Narrazioan ere erabil ditzakezu!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa eta deskriptiboa: 'burdinazko barra bat lurretik arrastaka', 'mekaniekoaren fosoa', 'hotzikara sentitu'. Oso maila ona DBH4rako!",
+          "Egitura konplexuak: mendeko perpausak, erlatibozkoak, denborazkoak... 'Igotzean, haize freskoa sentitu nuen' mota horietako egiturак zuzen erabiltzen dituzu."
+        ],
+        "hobetzekoak": [
+          "Zenbait erderakada/kalko: 'engainatu' hobeto 'engainatu' baino 'iruzurtu' edo 'engainatu' (ondo da), baina 'jarraitzaileak' litzateke 'atzetik zetozanak' edo 'segitzaileak'. 'Mutil normal bat' errepikatzen duzu 2 aldiz bukaeran, aldatu bat.",
+          "Erregistroa nahiko informala da zati batzuetan ('oso ergel samarra', 'lioetan sartu'), eta hori ondo dago narraziorako, baina iritzi-artikulu batean formalagoa izan beharko zenuke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi ea erderakada/kalko bat dagoen: 'jarraitzaileak' → 'atzetik zetozanak', 'lioetan' → 'arauhaustean' (formala). Eta iritzi-artikuluan, erregistroa formalagoa: ez 'ergel samarra', baizik 'inozentea' edo 'zentzugabea'."
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema (NOR-NORK) oso ondo kontrolatzen duzu gehienetan: 'entzun nuen', 'konturatu nintzen', 'ipini nintzen'. Hori ez da erraza eta ondo egin duzu!",
+          "Ortografia ona orokorrean: ez dago typo edo grafia-akats handirik."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 8 aldiz ahaztu duzu, eta hau da akatsik larrienean DBH4 mailakoentzat. Aditza NOR-NORK denean, subjektuak -K behar du BETI: 'Kutxak zarata ateratzen zuen' (ondo!), baina 'metalaren zarata ateratzen zuen' (gaizki, 'zaratak' izan behar zen).",
+          "Kasu-markak: 4 aldiz adlatiboa (-ra) eta ablatiboa (-tik) nahastu dituzu. 'Eskailera ugertuetara' ondo dago (norabidea), baina 'biziagaitik' → 'biziAGATIK' (kausa, ez jatorria)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero ERREPASATU esaldi BAKOITZA: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Eta mugimendua: nora? → -RA; nondik? → -TIK; zergatik? → -GATIK. Hau eginda, nota 7-8ra igoko zaizu seguru!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=5 baxuegi da EP100=1.34 (bikaintasuna, tartea 9-10). ZL=6 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 5.75,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Idazle bikaina zara, benetan! Narrazioa oso ondo eratuta dago, tentsioa sortu duzu eta istorioa interesgarria da. BAINA ataza IRITZI-ARTIKULUA idaztea zen, eta zu NARRAZIOA idatzi duzu. Hori da akats nagusia. Idazteko gaitasuna duzu, baina generoa aldatu behar zenuen. Zuzentasun linguistikoan (ZL), ergatiboa (-k) lantzen jarraitu behar duzu, hori da lehentasuna. Gainerakoan, maila oso ona duzu!",
+    "lehentasuna": "Ergatiboa (-k): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Eta ataza irakurri ONDO: iritzi-artikulua ≠ narrazioa!",
+    "batez_bestekoa_modelo": 5.5,
+    "biribiltzea_modelo": 5.5,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "metalaren zarata ateratzen zuen",
+        "zuzenketa": "metalaren zaratAK ateratzen zuen",
+        "azalpena": "Aditza NOR-NORK denean (zarata ateratzen → nork ateratzen?), subjektuak -K marka behar du. 'Zarata' subjektua da, beraz 'zaratAK'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kasu-marka okerra: adlatiboa/ablatiboa nahasketa",
+      "akats_id": "ZL-KAS-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "korrika nire biziagaitik",
+        "zuzenketa": "korrika nire biziaGATIK",
+        "azalpena": "Kausa adierazteko -GATIK erabiltzen da, ez -GAITIK. 'Nire biziagatik' = 'nire bizia dela eta / nire bizia salbatzeko'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — numero-adostasuna",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "argazkiak berriro begiratu nituen",
+        "zuzenketa": "argazkiak berriro begiratu NITUEN (ondo)",
+        "azalpena": "Hau ONDO dago! Baina beste esaldi batean: 'Argazki guztiak atera nituen' (ondo) vs. beste batzuetan singularrean aditza pluralean jarri behar zenuen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gero Instagramen kontu berri bat sortu nuen",
+        "zuzenketa": "Gero, Instagramen kontu berri bat sortu nuen",
+        "azalpena": "Lotura-hitz edo denborazko adierazpenen ondoren ('gero', 'orduan', 'ondoren') koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma subjektu eta aditz artean (gaztelania kalkoa)",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Kutxak zarata oso handia ateratzen zuen, baina ez zidan axola",
+        "zuzenketa": "ONDO dago! (Baina koma 'zuen' eta 'baina' artean ondo dago, ez da subjektu-aditz artean).",
+        "azalpena": "Beste esaldi batean: 'Metalezko kutxa, portaleko zaborretan utzi nuen' → koma okerra."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko lexikoa",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "jarraitzaileak gainetik pasa ziren",
+        "zuzenketa": "atzetik zetozanak / segitzaileak gainetik pasa ziren",
+        "azalpena": "'Jarraitzaileak' ez da oso naturala testuinguru honetan. Hobeto: 'atzetik zetozanak' edo 'segitzaileak'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'Mutil normal bat' 2 aldiz azken paragrafoan",
+        "zuzenketa": "Aldatu bat: 'ikasle arrunta', 'nerabe ohikoa', 'gazte sinplea'",
+        "azalpena": "Esaldi berean edo hurbilean hitz bera errepikatzea saihestu behar da. Sinonimoak erabili!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "betko moduan",
+        "zuzenketa": "betiko moduan",
+        "azalpena": "'Betiko' = ohikoa, beti egiten dena. 'Betko' ez da existitzen."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1047,
+    "minor": 8,
+    "major": 12,
+    "critical": 0,
+    "EP100_gordina": 3.06,
+    "EP100_pisuduna": 1.34,
+    "EP100_gordina_modelo": 3.8,
+    "EP100_pisuduna_modelo": 6.3,
+    "minor_modelo": 8,
+    "major_modelo": 15,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua argi eta garbi DBH4ko ikasle batek idatzia dirudi. Akats naturalak agertzen dira zehar: 'bakakigu' (badakigu), 'zakatzen' (zakatzen), 'eupelako' (ikaragarrizko?), 'hobatzen' (heldutzen?), 'betko moduan' (beheko?), 'sorbaldarekin' (sorbaldaz), 'jesarri' (jesarri), 'inprimagailuan' (inprimagailuan), 'lioetan' (kontuetan?), 'izekok' (izekok). Hizkera naturala da, gaztearentzat aproposa: 'ni oso inozentea naizenez', 'mutil normal bat', 'talde txungo'. Egitura onargarria da baina ez perfektua; narrazioa dinamikoa da eta koherentea. Luzera (900 hitz inguru) nahiko luzea da baina ez ezohikoa DBH4 lan narratibo batentzat. Kalitatea ez da uniformea; hasiera indartsua da baina erditik aurrera azeleratzen da. Tonu pertsonala eta emozionala du, ez robotikoa. Testua benetako ikasle baten lana da, akats tipografikoak eta hitz-hautaketa naturalekin."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Off-topic larria: iritzi-artikulua eskatu da, narrazioa idatzi du",
+        "CAP-1 aplikatu da (gehienezko nota 2 AB-n)",
+        "Nota finala oso baxua da (5.5) genero-errorearengatik, baina idazteko gaitasuna altua da",
+        "Erabaki pedagogikoa: zer egin kasu honetan? Penalizatu larriki ala balorazioa bikoiztu (narrazioa + iritzi-artikulua eskatu)?",
+        "Irakaslearen berrikusketa BEHARREZKOA da erabaki hau hartzeko"
+      ]
+    }
+  }
+}

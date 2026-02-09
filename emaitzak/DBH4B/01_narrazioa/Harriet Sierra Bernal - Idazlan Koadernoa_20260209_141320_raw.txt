@@ -1,0 +1,360 @@
+# ZUZENDU v3 — Analisi eta Ebaluazio Txostena
+
+## 0. IA DETEKZIO AZTERKETA
+
+**Seinaleen Analisia:**
+
+- **S1 (Perfekzio susmagarria):** 0/3 — Testua akatsez josita dago. Ez da perfektua.
+- **S2 (Hiztegi-maila ez-naturala):** 0/3 — Hiztegia sinplea eta naturala da DBH4 mailarako.
+- **S3 (Egitura perfektua):** 0/3 — Egitura ez da perfektua; paragrafo luzeak, banaketa irregularra.
+- **S4 (Tonu robotikoa):** 0/3 — Oso pertsonala da, esperientzia zehatzez beteta.
+- **S5 (Luzera susmagarria):** 0/3 — 635 hitz narraziotzat egokia da.
+- **S6 (Akats-patroi naturalen falta):** 0/3 — Akats-patroi errepikakorrak daude (ergatiboa, -tik/-ra, ortografia).
+- **S7 (Koherentzia uniformea):** 0/3 — Kalitatea irregularra da testu osoan.
+
+**IA_puntuazioa:** 0/21  
+**IA_probabilitatea:** BAXUA (<25%)  
+**Ondorioa:** Testua ikasle erreal batek idatzia da. Ebaluazioarekin jarraitzen dut.
+
+---
+
+## EBALUAZIO ZEHATZA
+
+### Hitz-kopurua: 635
+
+### EP100 KALKULUA
+
+**Akats detektatuak:**
+
+**1. ORTOGRAFIA (ZL-ORT)**
+- "betadnik" → betidanik (×1 minor)
+- "lengusua" / "legusu" → lehengusu (×2 minor → 1+0.5=1.5)
+- "bezte baztuetak" → beste batzuetan (×1 minor)
+- "txarrtxen" → txarrera (×1 minor)
+- "amitu" → amaitu (×1 minor)
+- "lasaialdia" → lasaitasuna (×1 minor)
+- "aztkenalidan" → azken aldian (×1 minor)
+- "hitzegiten" → hitz egiten (×3 → 1+0.5+0=1.5 minor)
+- "boxeoarengaitik" → boxeoagatik (×1 minor)
+- "horain" → orain (×6 → 1+0.5+0+0+0+0=1.5 minor)
+- "pastu" → pasa (×1 minor)
+- "arrazoi askorengaitik" → arrazoi askorengatik (×1 minor)
+- "hile" → hilabete (×2 → 1+0.5=1.5 minor)
+- "txpelketara" → txapelketara (×1 minor)
+- "abdomenaren azpian" → sabelaldean (×1 minor, mailegu erderakada)
+- "osa" → oso (×1 minor)
+- "horregaitik" → horregatik (×2 → 1+0.5=1.5 minor)
+- "tatuatu ditutu" → tatuatu ditut (×1 minor)
+- "esanai" → esanahi (×1 minor)
+- "gorpo" → gorputz (×1 minor)
+- "hile barru" → hilabete barru (×1 minor)
+- "urtetzen" → irteten (×1 minor)
+- "eltzea" → iristea (×1 minor)
+
+**Ortografia minor guztira:** ~18 puntu (errepikapen arauarekin)
+
+**2. KASUA (ZL-KAS)**
+- "San Franciscon" → San Frantziskon (×1 minor — izen propioaren ortografia)
+- "Zazpti-kaleetarantz" → Zazpikaleetara (×1 minor)
+- "arazo batengaitik" → arazo batengatik (×1 minor)
+
+**Kasu minor guztira:** 3 puntu
+
+**3. ADITZ-MORFOLOGIA (ZL-ADI)**
+- "nire aitak jo egiten dit" → nire aitak jotzen nau (×1 major — NOR-NORK nahasketa)
+- "nire amari txarto tratatzen dio" → ONDO (×0)
+- "ordaintzeko dirurik" → ONDO (×0)
+- "biltegian egiten dut lan" → ONDO (×0)
+- "esan dit" → esan DIT (×0 — ONDO da)
+- "berarekin egingo dut lan" → ONDO (×0)
+- "Ahmederkin egoten naiz" → ONDO (×0)
+- "ez zaigu beste batzuekin egotea gustatzen" → ONDO (×0)
+- "nire ama gaixotu egin da" → ONDO (×0)
+- "nire aitaren eta nire arteko egoera txarrera doa" → ONDO (×0)
+- "nire aitak gero eta gehiago jotzen dit" → nire aitak gero eta gehiago jotzen NAU (×1 major — NOR-NORK, errepikapen patroia)
+- "boxeoa ez dit ordaindu nahi" → boxeoa ordaindu nahi ez dit (×1 minor — ezezkoa aditzaren aurretik)
+- "hitz egin behar izan nuen" → ONDO (×0)
+- "baiezkoa ematen zidatela" → ONDO (×0)
+- "haiengaitik" → haiengatik (×1 minor — ortografia)
+- "espero duela handienetariko bat izatea" → ONDO (×0)
+- "ekipoak etorkizun on bat ikusten dutela" → ONDO (×0)
+- "ordainduko didatela behar izana" → ONDO (×0)
+- "klubean Cristian eta Junior dira" → ONDO (×0)
+- "ni berriz gazteena eta gutxien entrenatzen duena" → ONDO (×0)
+- "egunero entrenatzen dut" → ONDO (×0)
+- "kategoria profesionalean lehiatzen dut" → kategoria profesionalean lehiatzen NAIZ (×1 major — NOR aditza)
+- "Espainako txapelketa irabazi nuen" → ONDO (×0)
+- "Europako txapelketara joango naizelako" → ONDO (×0)
+- "hospitaletik deitu zidaten" → ONDO (×0)
+- "irabazi egin behar nuela" → ONDO (×0)
+- "hori irabasten badut" → ONDO (×0)
+- "Europako irabazlea urtetzen banaiz" → ONDO (×0)
+- "sorpresa bat eman nahi diet" → ONDO (×0)
+- "horra eltzea izan da garrantsitsuena" → horra IRISTEA izan da (×1 minor — aditz okerra)
+
+**Aditz-morfologia guztira:** 4 major + 2 minor = 10 puntu
+
+**4. SINTAXIA (ZL-SIN)**
+- "nire lagunik oberenaren" → nire lagun hoberenaren (×1 minor)
+- "Ahmed-ekin egingo dudala lan" → ONDO (×0)
+- "joango da" → joango DA (×0 — ONDO da)
+- "Ahmed bere legusuaren hile-apainderia joango da" → Ahmed bere lehengusunaren hile-apaindera joango da (×1 major — ordena + kasua)
+- "Ahmederkin egoten naiz" → Ahmedekin egoten naiz (×1 minor — ortografia)
+- "Ahmeden aitari laguntzen diogu" → ONDO (×0)
+- "nire bizitza txarrtxen hasi da" → ONDO (kontzeptua, ortografia akats baina ez sintaxi)
+- "azken aldian Ahmeden aitari laguntzen nago" → ONDO (×0)
+- "horrela boxeoa ordaintzeko ematen dit" → horrela boxeoa ordaintzeko dirua ematen dit (×1 minor — objektua falta)
+- "azken aldian serioago hartzen ari naiz" → ONDO (×0)
+- "nahi badudan lehiatzen hasi" → nahi BANUEN lehiatzen hasi (×1 major — tempusa okerra)
+- "Buelta bat eman genuen Zazpti-kaleetarantz" → ONDO (×0)
+- "komentatu nahi izan nuen" → ONDO (×0)
+- "nik uste inbidia eman zion" → nik uste DUT inbidia eman ziola (×1 major — konpletiboa falta)
+- "oraingoz ezin zuelako boxeoarekin jarraitu" → ONDO (×0)
+- "nire borroka guztietara joaten saiatuko zela" → ONDO (×0)
+- "Ahmedek berdina esan zuen" → ONDO (×0)
+- "goizean lanean egon nintzen" → ONDO (×0)
+- "espero duela handienetariko bat izatea" → espero duela handienetariko bat IZANGO NAIZELA (×1 major — konpletiboa osatu gabe)
+- "dirua ez dela arazo bat izango" → ONDO (×0)
+- "4 urte pastu dira hori idatzi nuenetik" → ONDO (kontzeptua)
+- "anai bat Ahmed deitutakoa" → ONDO (×0)
+- "familia berri bat ez dela odolzkoa" → familia berri bat, ez odolzkoa (×1 minor — puntuazioa)
+- "klub zaharraren omenean" → ONDO (×0)
+- "gutxien entrenatzen duena arrazoi askorengaitik" → ONDO (×0)
+- "kategoria profesionalean lehiatzen dut" → kategoria profesionalean lehiatzen NAIZ (errepikapen, lehenago kontatu)
+- "Espainako txapelketa irabazi nuen" → ONDO (×0)
+- "beraren ohorean izango zela" → ONDO (×0)
+- "nire borroka denak beraren alde doaz" → ONDO (×0)
+- "estimu handia diot" → ONDO (×0)
+- "Ahmed gabe ez zen berdina izango" → ONDO (×0)
+- "Ahmed izena dut tatuatuta dut" → Ahmed izena tatuatuta dut (×1 minor — "dut" errepikatu)
+- "Nik Ahmederi bizi osa zor diot" → ONDO (kontzeptua)
+- "nik uste dudalako tatuajeak esanai handia dutela" → ONDO (×0)
+- "2 hile barru" → 2 hilabete barru (ortografia, ez sintaxi)
+- "hori irabasten badut" → ONDO (×0)
+- "nire herrialdeko hoberena izango naiz" → ONDO (×0)
+- "Europako irabazlea urtetzen banaiz" → ONDO (×0)
+- "Ahmedek eta nik etxe bat erosiko dugu" → ONDO (×0)
+- "niretzat borroka galdu edo irabaztea ez da garrantsitsuena" → ONDO (×0)
+- "baizik eta horra eltzea izan da" → baizik eta horra IRISTEA izan da (aditz okerra, ez sintaxi-arazo)
+
+**Sintaxia guztira:** 5 major + 5 minor = 15 puntu
+
+**5. PUNTUAZIOA (ZL-PUN)**
+- Esaldi luzeak puntua gabe (run-on): ~8 kasu → 1+0.5+0... = ~3 major
+- Koma falta lotura-hitz ondoren: ~4 kasu → 1+0.5+0+0 = 1.5 minor
+- Koma soberan subjektu-aditz artean: 1 kasu → 1 minor
+
+**Puntuazioa guztira:** 6 major + 2.5 minor = 14.5 puntu
+
+**6. ERDERAKADAK (ZL-ERD)**
+- "drogazalea" → drogamenpekoa (×1 minor — mailegu okerra)
+- "prostituta" → prostituta (×0 — euskaraz onartua)
+- "situazioa" → egoera (×1 minor)
+- "esperientziarik" → esperientziarik (×0 — onartua batuan)
+- "boxeo" → boxeo (×0 — onartua batuan)
+- "abdomenaren azpian" → sabelaldean (×1 minor — erderakada)
+- "tatuajeak" → tatuajeak (×0 — onartua batuan)
+- "olimpiar jokuetara" → olinpiar jokoetara (×1 minor — ortografia)
+
+**Erderakadak guztira:** 4 minor
+
+**EP100 KALKULUA:**
+
+- **Minor:** 18 (ort) + 3 (kas) + 2 (adi) + 5 (sin) + 2.5 (pun) + 4 (erd) = 34.5 minor
+- **Major:** 4 (adi) + 5 (sin) + 6 (pun) = 15 major
+- **Critical:** 0
+
+**EP100_gordina = (34.5 × 1 + 15 × 2 + 0 × 3) × 100 / 635 = 10.2**
+
+**Errepikapen araua aplikatuta:**
+- Ortografia-akatsak askok errepikatzen dira (hitzegiten, horain...).
+- Aditz-akatsak errepikatzen dira (jotzen dit/nau patroia).
+- Puntuazio-akatsak sistematikoak dira (run-on esaldiak).
+
+**EP100_pisuduna ≈ 9.5** (errepikapenak kontuan hartuta)
+
+**EP100 banda:** 6-10 → ZL nota tartea: 5-6
+
+---
+
+## IRIZPIDEEN EBALUAZIOA
+
+### **AB — Atazaren Betetzea**
+
+**Banda:** 7-8 (aurreratua)
+
+**Cap aplikatua:** Null
+
+**Iruzkina:**
+
+**Indarguneak:**
+1. "Istorioa oso aberatsa da eta kronologikoki aurkeztuta: hasiera (16 urte, etxeko arazoak), garapena (Ahmed, boxeoa, aurrerapena) eta amaiera (20 urte, etorkizuneko planak). Hau da narrazioaren benetako muina eta oso ondo eginda daukazu!"
+2. "Pertsonaia nagusia (Unax) oso ondo garatzen duzu: bere sentimenduak, ametsak, eta harremanak (Ahmed, Cristian, Manuel). Irakurleak ezagutzen zaitu eta inplikatu egiten da zure istorioaren."
+
+**Hobetzekoak:**
+1. "Hasiera oso trinkoa da baina zati batzuk (adib. 'Ahmeden legusu batekin geratzen gara') ez dira behar beste azaltzen. Noiz? Zer egiten duzue? Xehetasun gehiago emanez, istorioa askoz birtualagoa bilakatuko da."
+2. "Amaiera oso ideia onak ditu (Europako txapelketa, etorkizuneko helburuak) baina azalekoa da. Gehitu emozio gehiago: nola sentitzen zara hori guztia lortu duzunean? Zer pentsatzen duzu boxeo-klubean zure lehenengo ikasleak entrenatzen dituzunean?"
+
+**Feed-forward:**
+"Hurrengo narrazioan, aukeratu une garrantzitsu BAT eta azaldu sakonki (5 esaldi): zer ikusi zenuen, zer entzun, nola sentitu zinen, zer esan zenuten... Xehetasun horiek istorioari BIZIA ematen diote!"
+
+**Nota:** 7
+
+---
+
+### **AK — Antolaketa eta Koherentzia**
+
+**Banda:** 5-6 (tartekoa)
+
+**Cap aplikatua:** Null
+
+**Iruzkina:**
+
+**Indarguneak:**
+1. "Egitura orokorra argia da: sarrera (aurkezpena) → garapena (bizitzaren bilakaera) → amaiera (etorkizunerako planak). Irakurleak erraza du zure istorioa jarraitzea."
+2. "Denboraren aurrerapena ongi markatzen duzu: '14 urterekin', '4 urte pasa dira', 'orain dela 9-10 egun'... Hau koherentzia ematen dio testuari."
+
+**Hobetzekoak:**
+1. "Paragrafoak oso luzeak dira (adib. 2. paragrafoa 120+ hitz) eta ideia asko nahasten dituzu barruan: lana, boxeoa, lagunak... Banatu paragrafo txikiagoetan, ideia nagusi BAT bakoitzean. Horrela, irakurtzeko askoz erosoagoa izango da."
+2. "Lotura-hitzak errepikatzen dituzu: 'orduan' (7 aldiz), 'eta gero', 'baina berriz'... Erabili aniztasun gehiago: 'horrez gain', 'halaber', 'hala ere', 'ondoren', 'bitartean'. Horrek testu sofistikatuagoa ematen du."
+
+**Feed-forward:**
+"Hurrengo aldian, idatzi eta gero berrikusi paragrafoak. Galdetu: paragrafo honetan zenbat ideia daude? 2 edo gehiago badira, banatu bi paragrafotara. Arau sinplea: paragrafo 1 = ideia 1!"
+
+**Nota:** 5.5
+
+---
+
+### **BLH — Baliabide Linguistikoen Hedadura**
+
+**Banda:** 5-6 (tartekoa)
+
+**Cap aplikatua:** Null
+
+**Iruzkina:**
+
+**Indarguneak:**
+1. "Hizkera naturala daukazu eta istorioa modu errealistan kontatzen duzu. Ez dago gezurtasunik eta hori balio handikoa da narrazio batean!"
+2. "Egitura konplexuak erabiltzen dituzu: 'Ahmedek esan dit berarekin eta bere familiarekin bizitzen joateko' — mendeko perpausak ondo erabiltzen dituzu!"
+
+**Hobetzekoak:**
+1. "Hiztegia errepikatzailea da: 'egin' (24 aldiz), 'eta' (60+ aldiz), 'ona/txarra' binomioa askotan... Erabili sinonimoak: egin → burutu, gauzatu, landu; ona → egokia, aproposa, onuragarria."
+2. "Aditz-sintagmak sinpleak dira: 'lan egiten dut', 'entrenatzen dut', 'hitz egiten dut'... Aberastu: 'lanean ari naiz', 'entrenatzeko denbora dedikatzen dut', 'elkarrizketatzen ari gara'."
+
+**Feed-forward:**
+"Hurrengo aldian, idatzi testua eta gero bilatu hitz errepikatuena (adib. 'egin'). Aldatu 3 kasutan sinonimoz edo esapidez. Hori eginez, BLH maila nabarmen igoko zaizu!"
+
+**Nota:** 5.5
+
+---
+
+### **ZL — Zuzentasun Linguistikoa**
+
+**Banda:** 5-6 (tartekoa)
+
+**Cap aplikatua:** Null
+
+**EP100_pisuduna:** 9.5
+
+**Iruzkina:**
+
+**Indarguneak:**
+1. "NOR-NORI-NORK sistema gehienetan ondo erabiltzen duzu: 'esan dit', 'laguntzen diogu', 'deitu zidaten' — hau ez da erraza eta oso ondo daukazu!"
+2. "Aditz-aldiak (burutua, burutugabea, geroa) kontrolatzen dituzu: 'irabazi nuen', 'entrenatzen dut', 'irabaztuko dut' — parfait!"
+
+**Hobetzekoak:**
+1. "Ergatiboa (-k) bi aldiz ahaztu zaizu NOR-NORK aditzetan: 'nire aitak jotzen dit' → 'nire aitak jotzen NAU' (nik zu ikusten ZAITUT, harek ni ikusten NAU). Gogoratu: NOR-NORK denean, ergatiboa (-k) + laguntzaile aproposa (nau, gaitu, zaitu...)."
+2. "Ortografia-akatsak asko dira: 'horain' → 'orain', 'hitzegiten' → 'hitz egiten', 'lengusua' → 'lehengusu'. Idatzi eta gero berrikusi konputagailuko zuzentzailearekin — akats asko automatikoki zuzendu ditzakezu!"
+3. "Puntuazioa: esaldi luzegiak puntua gabe. Araua: esaldi bat = ideia bat; ideia berria = puntu berria. 'Nire ama gaixotu egin da eta nire aitaren eta nire arteko egoera txarrera doa. Nire aitak gero eta gehiago jotzen nau.' — bi esaldi, bi ideia, bi puntu!"
+
+**Feed-forward:**
+"Hurrengo aldian, idatzi eta gero ERREPASATU esaldi bakoitza: Aditza NOR-NORK da? Baietz bada, subjektuak -K duela egiaztatu eta laguntzailea zuzendu (dit → nau). Hori eginda, ZL maila 7-8 harrapatuko duzu!"
+
+**Nota:** 5.5
+
+---
+
+## LABURPENA
+
+**Batez bestekoa:** (7 + 5.5 + 5.5 + 5.5) / 4 = 5.875
+
+**Biribiltzea:** 6.0
+
+**Heziberri maila:** Tartekoa
+
+**Orokorra:**
+
+"Zorionak, Unax! Istorio bikaina idatzi duzu, bihotz-bihotzekoa eta erreala. Zure esperientzia pertsonala nabaritzen da eta hori balio handikoa da idazlan batean. Egitura argia du eta irakurleak erraza du jarraitzea. Hobetzeko lekua gehiena ZL-n dago: ortografia, ergatiboa eta puntuazioa lantzen badituzu, nota igo egingo da zuzenean. Baina ez ahaztu: istorioa kontatzeko gaitasuna badaukazu eta hori da garrantzitsuena. Aurrera zu!"
+
+**Lehentasuna:**
+
+"Ergatiboa (-k) eta NOR-NORK sistema: esaldi bakoitza berrikusi eta aditza NOR-NORK denean, subjektuari -K jarri eta laguntzailea aldatu (dit → nau, du → dut). Hau da lehen lehentasuna eta errezen konpontzen dena!"
+
+---
+
+## AKATS-TALDEAK
+
+```json
+{
+  "kodea": "HARRIET",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioa oso aberatsa da eta kronologikoki aurkeztuta: hasiera (16 urte, etxeko arazoak), garapena (Ahmed, boxeoa, aurrerapena) eta amaiera (20 urte, etorkizuneko planak). Hau da narrazioaren benetako muina eta oso ondo eginda daukazu!",
+          "Pertsonaia nagusia (Unax) oso ondo garatzen duzu: bere sentimenduak, ametsak, eta harremanak (Ahmed, Cristian, Manuel). Irakurleak ezagutzen zaitu eta inplikatu egiten da zure istorioan."
+        ],
+        "hobetzekoak": [
+          "Hasiera oso trinkoa da baina zati batzuk (adib. 'Ahmeden legusu batekin geratzen gara') ez dira behar beste azaltzen. Noiz? Zer egiten duzue? Xehetasun gehiago emanez, istorioa askoz birtualagoa bilakatuko da.",
+          "Amaiera oso ideia onak ditu (Europako txapelketa, etorkizuneko helburuak) baina azalekoa da. Gehitu emozio gehiago: nola sentitzen zara hori guztia lortu duzunean? Zer pentsatzen duzu boxeo-klubean zure lehenengo ikasleak entrenatzen dituzunean?"
+        ],
+        "feed_forward": "Hurrengo narrazioan, aukeratu une garrantzitsu BAT eta azaldu sakonki (5 esaldi): zer ikusi zenuen, zer entzun, nola sentitu zinen, zer esan zenuten... Xehetasun horiek istorioari BIZIA ematen diote!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 5.5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura orokorra argia da: sarrera (aurkezpena) → garapena (bizitzaren bilakaera) → amaiera (etorkizunerako planak). Irakurleak erraza du zure istorioa jarraitzea.",
+          "Denboraren aurrerapena ongi markatzen duzu: '14 urterekin', '4 urte pasa dira', 'orain dela 9-10 egun'... Hau koherentzia ematen dio testuari."
+        ],
+        "hobetzekoak": [
+          "Paragrafoak oso luzeak dira (adib. 2. paragrafoa 120+ hitz) eta ideia asko nahasten dituzu barruan: lana, boxeoa, lagunak... Banatu paragrafo txikiagoetan, ideia nagusi BAT bakoitzean. Horrela, irakurtzeko askoz erosoagoa izango da.",
+          "Lotura-hitzak errepikatzen dituzu: 'orduan' (7 aldiz), 'eta gero', 'baina berriz'... Erabili aniztasun gehiago: 'horrez gain', 'halaber', 'hala ere', 'ondoren', 'bitartean'. Horrek testu sofistikatuagoa ematen du."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi paragrafoak. Galdetu: paragrafo honetan zenbat ideia daude? 2 edo gehiago badira, banatu bi paragrafotara. Arau sinplea: paragrafo 1 = ideia 1!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 5.5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hizkera naturala daukazu eta istorioa modu errealistan kontatzen duzu. Ez dago gezurtasunik eta hori balio handikoa da narrazio batean!",
+          "Egitura konplexuak erabiltzen dituzu: 'Ahmedek esan dit berarekin eta bere familiarekin bizitzen joateko' — mendeko perpausak ondo erabiltzen dituzu!"
+        ],
+        "hobetzekoak": [
+          "Hiztegia errepikatzailea da: 'egin' (24 aldiz), 'eta' (60+ aldiz), 'ona/txarra' binomioa askotan... Erabili sinonimoak: egin → burutu, gauzatu, landu; ona → egokia, aproposa, onuragarria.",
+          "Aditz-sintagmak sinpleak dira: 'lan egiten dut', 'entrenatzen dut', 'hitz egiten dut'... Aberastu: 'lanean ari naiz', 'entrenatzeko denbora dedikatzen dut', 'elkarrizketatzen ari gara'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi testua eta gero bilatu hitz errepikatuena (adib. 'egin'). Aldatu 3 kasutan sinonimoz edo esapidez. Hori eginez, BLH maila nabarmen igoko zaizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 5.5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORI-NORK sistema gehienetan ondo erabiltzen duzu: 'esan dit', 'laguntzen diogu', 'deitu zidaten' — hau ez da erraza eta oso ondo daukazu!",
+          "Aditz-aldiak (burutua, burutugabea, geroa) kontrolatzen dituzu: 'irabazi nuen', 'entrenatzen dut', 'irabaztuko dut' — parfait!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) bi aldiz ahaztu zaizu NOR-NORK aditzetan: 'nire aitak jotzen dit' → 'nire aitak jotzen NAU' (nik zu ikusten ZAITUT, harek ni ikusten NAU). Gogoratu: NOR-NORK denean, ergatiboa (-k) + laguntzaile aproposa (nau, gaitu, zaitu...).",
+          "Ortografia-akatsak asko dira: 'horain' → 'orain', 'hitzegiten' → 'hitz egiten', 'lengusua' → 'lehengusu'. Idatzi eta gero berrikusi konputagailuko zuzentzailearekin — akats asko automatik

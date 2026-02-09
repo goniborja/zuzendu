@@ -1,0 +1,191 @@
+{
+  "kodea": "PAULA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo egituratuta dago: sarrera argia (protagonistaren aurkezpena), korapiloa (maparen aurkikuntza, basoa, tunela, erronka), eta amaiera koherentea (altxorra aurkitu eta ondorioa). Hori da narrazioan espero dena eta bikain egin duzu!",
+          "Istorioa interesgarria da eta irakurlearen arreta mantentzen du hasieratik amaierara: misterioaren sentsazioa, pertsonaia bitxia (Chispi), erronkak... Primeran! Hau da narrazioan lortu behar dena."
+        ],
+        "hobetzekoak": [
+          "Batzuetan deskribapenak gehiago landu zenitzake. Adibidez, 'kobazulo' eta 'gela' deskribatzen dituzu, baina zer dago hormetako marrazkietan? Zer koloretakoak dira? Zer usain du tunelak? Xehetasun sentsorial horiek istorioa askoz biziagoa egiten dute.",
+          "Pertsonaien emozio barnekoagoak falta dira. Badakigu Unax pozik dagoela, baina zer sentitzen du benetan bihotzean? Beldurra? Emozio kontrajarriak? Hori gehiago adieraziz, istorioa sakonagoa litzateke."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu deskribapen sentsorialagoak egiten: koloreak, usainak, soinuak, ukimena... Eta pertsonaiak zer pentsatzen duen barnean. Horrekin, istorioa are zirraragarriagoa izango da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa oso ona da: eszenatxo edo une bakoitza paragrafo batean, eta horrek irakurketa errazten du. Gainera, eszenaren aldaketa nabarmena da (gela → basoa → tunela → froga → altxorra). Ezin hobeto!",
+          "Denborazko lotura-hitzak oso ondo erabili dituzu: 'Egun batean', 'Bat-batean', 'Azkenean', 'Luzaro ibili zen'... Horiei esker, irakurleak jarraitzen du istorioa erraz. Hau oso garrantzitsua da eta bikain egin duzu."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz batzuk gehiegi errepikatu dituzu: 'Bat-batean' 3 aldiz agertzen da. Erabili antzeko batzuk: 'Horrekin batera', 'Hartan', 'Une horretan', 'Ustekabean'... Horrela testua aberatsagoa egingo da.",
+          "Esaldi batzuk oso luzeak dira eta hainbat koma dituzten paragrafoak badaude puntuazioa apur bat nahasgarria egin dezakeena. Esaldiak apurtu eta laburragoak egin ondo legoke. Adibidez, lehenengo paragrafoko azken esaldia: 'Gauero... argitzen...' luzeegia da."
+        ],
+        "feed_forward": "Hurrengo aldian, errepasatu ea lotura-hitz bat behin baino gehiagotan agertzen den eta aldatu beste bategatik. Eta esaldi luzeak hautematen badituzu, zatitu puntu batekin. Horrela, irakurketa are argiagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso aberatsa da eta narrazioaren generoari guztiz egokia: 'esploratzaileak', 'iparrorratz', 'igarkizun', 'kobazulo', 'distiratsu', 'erronka'... Hitz horiek istorioan kolorea ematen dute. Bikain!",
+          "Perpaus konplexuak erabiltzen dituzu: erlatibozkoak ('aurkitu zuen liburu baten barruan'), denborazkoak ('Harria ukitu zuenean'), baldintzazkoak ('nahi balu bezala')... Hau maila aurreratukoa da eta oso ondo egin duzu!"
+        ],
+        "hobetzekoak": [
+          "Aditz batzuk errepikatu egiten dira: 'aurkitu' 4 aldiz, 'joan' 7 aldiz, 'esan' 3 aldiz. Erabili sinonimoak: aurkitu → topatu / atzeman; joan → ibili / abiatu / jarraitu; esan → adierazi / erantzun / oihukatuaren arabera...",
+          "Adberbioak ere errepikatuak: 'astiro' 3 aldiz. Aldatu: pixkanaka, emeki-emeki, geldi-geldi, kontuz..."
+        ],
+        "feed_forward": "Hurrengo narrazioan, hitz errepikatuak begiratu eta ordezkatu sinonimoekin. Idatzi, gero itxaron egun bat, eta berriz irakurri. Errepikapena nabarmena da errepasoan. Horrela, testua are naturalagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia orokorrean oso ondo kontrolatuta dago: NOR-NORK sistema zuzena ('aurkitu zuen', 'ikusi zituen'), aldia egokia ('izan zen', 'irten zen')... Hau ez da erraza eta ondo egin duzu!",
+          "Mendeko perpausak ondo eratuak daude gehienetan: 'imajinatzen nituen', 'adierazten zuen', 'egiten zuen'... Koherentzia handia dago perpaus konplexuetan."
+        ],
+        "hobetzekoak": [
+          "Akats garrantzitsuena ergatiboa (-k) ahaztu izana da: 'ahots bat entzun zuen' → 'ahots batek entzun zuen'; 'haizeak hots bitxiak egiten zituen' → 'haizeak hots bitxiak egiten zituen' (ondo!); 'Unaxen arnasa bakarrik entzuten zen' → 'Unaxen arnasak bakarrik entzuten zen'. Hau da patroi bat: gogoratu, aditza iragankorra denean (NOR-NORK), subjektuak -K behar du.",
+          "Puntuazio-akatsen artean koma falta lotura-hitzen ondoren: 'Hala ere Unax' → 'Hala ere, Unax'; 'Noski Chispi' → 'Noski, Chispi'. Lotura-hitzen ondoren BETI koma jarri behar da."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero errepasatu esaldi bakoitza: ea aditza iragankorra den (zerbait edo norbait egiten du), eta bada subjektuari -K jarri. Sistema hori aplikatuz, ergatiboaren akatsa desagertuko da. Eta lotura-hitzen ondoren, koma jarri beti!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=0.68 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.5,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain egin duzu narrazioa! Istorioa oso interesgarria da, ondo egituratuta dago eta hiztegia aberatsa erabili duzu. Irakurtzeko gozoa da. Hobetzeko arloak: deskribapen sentsorialagoak egin, hitz errepikatuak aldatu eta, batez ere, ergatiboaren (-k) erabilera zuzena kontrolatu. Baina maila aurreratua duzu eta horrelako idazlan batean nota altua lortzeko gai zara!",
+    "lehentasuna": "Ergatiboa (-k): esaldi bakoitza berrikusi eta aditza iragankorra denean (NOR-NORK) subjektuari -K jarri. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.25,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa (-k) falta",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ahots bat entzun zuen",
+        "zuzenketa": "ahots batek entzun zuen",
+        "azalpena": "Aditza iragankorra denean (entzun → nork entzun?), subjektuak ergatiboa (-k) behar du. 'Ahots bat' subjektua da eta 'entzun' aditza iragankorra, beraz 'ahots batek' izan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Hala ere Unax ez zen beldur",
+        "zuzenketa": "Hala ere, Unax ez zen beldur",
+        "azalpena": "Lotura-hitzen ondoren ('Hala ere', 'Noski', 'Oraingoan bai') beti koma jarri behar da perpausaren hasieran."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena — aditzak",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'aurkitu' 4 aldiz, 'joan' 7 aldiz, 'esan' 3 aldiz",
+        "zuzenketa": "aurkitu → topatu / atzeman; joan → ibili / abiatu / jarraitu; esan → adierazi / erantzun / oihukatuaren arabera",
+        "azalpena": "Aditz batzuk gehiegi errepikatu dira. Erabili sinonimoak edo aldatu esaldia errepikapena saihesteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko — adberbioak",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'astiro' 3 aldiz agertzen da",
+        "zuzenketa": "astiro → pixkanaka / emeki-emeki / geldi-geldi / kontuz",
+        "azalpena": "Adberbioa errepikatu egiten da. Erabili sinonimoak aberastasuna erakusteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Lotura-hitz errepikatua",
+      "akats_id": "OK-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'Bat-batean' 3 aldiz",
+        "zuzenketa": "Bat-batean → Horrekin batera / Hartan / Une horretan / Ustekabean",
+        "azalpena": "Lotura-hitz bat behin baino gehiagotan errepikatzea narrazioa monotonoa egiten du. Erabili sinonimoak."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta perpaus mendekoen ondoren",
+      "akats_id": "ZL-PUN-5",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Proba gainditu ondoren beste gela batera erori zen",
+        "zuzenketa": "Proba gainditu ondoren, beste gela batera erori zen",
+        "azalpena": "Mendeko perpausa nagusiaren aurretik badago, koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erregistro-nahasketa — slang",
+      "akats_id": "LH-5",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "balioa dutenek bakarrik egiten dute aurrera",
+        "zuzenketa": "ausartenek bakarrik / kemendunekin soilik / adoretsuek bakarrik",
+        "azalpena": "'Balioa' kolokiala da testu idatzi formalean. Narrazioan formaltasun erdi-mailakoa espero denez, alternatiba formal-literarioagoak erabiltzea gomendatzen da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 878,
+    "minor": 5,
+    "major": 3,
+    "critical": 0,
+    "EP100_gordina": 1.25,
+    "EP100_pisuduna": 0.68,
+    "EP100_gordina_modelo": 6.8,
+    "EP100_pisuduna_modelo": 5.2,
+    "minor_modelo": 5,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

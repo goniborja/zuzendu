@@ -1,0 +1,227 @@
+{
+  "kodea": "HARRIET",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioa oso ondo garatuta dago! Unaxen bizitza osoa kontatu duzu, hasieratik (familia-egoera zaila) gaur egunera (arrakasta profesionala). Narrazioaren elementu guztiak daude: pertsonaiak, korapiloa, bilakaera eta itxaropena.",
+          "Narrazioa pertsonala eta emozionala da. Irakurleari hurbiltzen zatzaizkio eta esperientzia kontatzen diozu. Hori da istorio on baten giltza! Gainera, pertsonaia laguntzaileak (Ahmed, Manuel, Omar, Cristian) ondo txertatuta daude."
+        ],
+        "hobetzekoak": [
+          "Hasiera oso trinkoa da eta informazio asko ematen duzu paragrafo berean (familia, lana, boxeoa...). Hori 2-3 paragrafoan banatu ahal zenuke, arnasa hartzeko. Lehenbizi familia aurkeztu, gero lana, eta gero boxeoa.",
+          "Denbora-jauzia (4 urte geroago) oso azkarra da eta irakurlea galduta gelditzen da pixka bat. Trantsizio-esaldi bat jarri ahal zenuke: 'Lau urte igaro dira geroztik eta nire bizitza guztiz aldatu da' edo antzekoren bat."
+        ],
+        "feed_forward": "Hurrengo aldian, narrazioa idaztean, gelditu eta pentsatu: zenbat informazio dago paragrafo honetan? Gehiegi bada, banatu bi paragraforen artean. Irakurleari arnasa hartzeko tarteak eman behar dizkiozu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura orokorra argia da: hasiera (aurkezpena) → garapena (lana, boxeoa, amaren heriotza) → amaiera/etorkizuna (Europako lehiaketa). Kronologia jarraitzen duzu eta hori ondo dago!",
+          "Lotura-hitz batzuk erabiltzen dituzu: 'orduan', 'baina', 'eta gero', 'berriz'. Horiek laguntzen dute testua lotzen."
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso luzeak dira eta ideia gehiegi dituzte barruan. Adibidez, lehenengo paragrafoan familia, lana eta boxeoa daude nahasian. Hobeto litzateke 3 paragrafo egitea: bat familiarako, bat lanerako eta bat boxeorako.",
+          "Lotura-hitzak errepikatzen dituzu: 'orduan' 8 aldiz agertzen da! Aldatu itzazu: 'beraz', 'horregatik', 'ondorioz', 'hortaz'. Horrek testua askoz naturalagoa egingo du."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu paragrafo bakoitza ideia nagusi BAT batekin egiten. Eta 'orduan' idatzi baino lehen, galdetu zeure buruari: beste lotura-hitz bat erabil dezaket? Horrela aberastasuna emango diozu testuari!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Perpaus-egitura konplexuak erabiltzen dituzu: 'Nire aitak jo egiten dit eta nire amari txarto tratatzen dio', 'Manuelek beti egin du nirekin boxeo baina azkenaldian ezin izan da arazo ekonomikoengatik'. Hau oso ona da DBH4 mailarako!",
+          "Testuaren tonua egokia da narrazio baterako: pertsonala, emozioa islatzen du, lehen pertsonan idatzita. Naturaltasuna dago."
+        ],
+        "hobetzekoak": [
+          "Hitz-errepikapen asko daude: 'nire' 50 aldiz baino gehiagotan, 'eta' 40 aldiz, 'boxeo' 15 aldiz. Saiatu sinonimoak erabiltzen: 'boxeo' → 'borroka', 'kirola', 'entrenamenduak'. 'Nire' → izenordainak erabil ditzakezu (neure, neretzat).",
+          "Gaztelaniazko eraginak nabarmenak dira hitz-aukeran: 'situazioa' (egoera), 'experientia' (esperientzia), 'ekonomiko' (ekonomia-). Saiatu euskarazko hitz hutsak erabiltzen gehiago: 'egoera', 'esperientzia', 'diru-arazoak'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, irakurri testua eta begiratu: zein hitz errepikatzen da gehien? Hitz hori aurkitu eta bilatu 2-3 sinonimo. Horrekin BLH maila nabarmen igoko zaizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema gehienetan ondo erabiltzen duzu: 'nik asko maite ditut', 'Ahmed-ek esan dit'. Hau ez da erraza eta ondo egiten duzu!",
+          "Ortografia orokorrean zuzena da eta testu luzea da. Hau erakusten du idazteko gaitasuna duzula eta ausardia duzula egitura konplexuak saiatzeko."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) batzuetan ahazten zaizu: 'nire aitak eta amak ez zutelako ordaintzeko dirurik' → nire aitak eta amAK. 'Manuelek beti egin du' (ondo), baina 'nire entrenatzaileak esan zidan' → entrenatzaileAK (erg.). Gogoratu: NOR-NORK aditzetan subjektuak -K behar du BETI.",
+          "Kasu-markak batzuetan nahasten dituzu: 'Ahmederkin' → AhmedEKIN (soziatiboa -rekin/-ekin). 'Ahmeden aitaren' (ondo), baina 'boxeoarengaitik' → boxeoARENGATIK (-arengatik kausala). Kontuz kasu-markekin!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero ERREPASATU esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin ergatiboaren akatsak desagertuko dira!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "Modeloaren ZL=5 koherentea EP100=7.03 (tartekoa, tartea 5-6)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.25,
+    "biribiltzea": 6,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Primeran egin duzu lana, benetan! Istorio bat kontatu duzu hasieratik amaierara, pertsonaiak garatu dituzu eta emozioa transmititu duzu. Hori ez da erraza eta lortu egin duzu. Hobetzeko guneak: paragrafoen banaketa hobetu, lotura-hitzen aniztasuna gehitu, eta ergatiboaren kontua findu. Baina oinarria hor dago eta oso sendoa da. Aurrera zu!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna! Bigarrena: 'orduan' errepikapena murriztu eta beste lotura-hitzak erabili.",
+    "batez_bestekoa_modelo": 6.25,
+    "biribiltzea_modelo": 6.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa (-k) falta",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "nire aitak eta amak ez zutelako",
+        "zuzenketa": "nire aitak eta amAK ez zutelako",
+        "azalpena": "Aditza NOR-NORK denean (ez zuten → nork ez zuen?), subjektuak -K marka behar du. 'Ama' pluralean 'amak' (absolutiboa) vs 'amek' (ergatiboa)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Soziatiboa (-rekin/-ekin) okerra",
+      "akats_id": "ZL-KAS-8",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Ahmederkin egoten naiz",
+        "zuzenketa": "AhmedEKIN egoten naiz",
+        "azalpena": "Soziatiboa: -arekin (singularrean mugatu), -ekin (pluralean edo bokalen ondoren). 'Ahmed' bukaera bokala → AhmedEKIN."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kausala (-gatik/-arengatik) nahasketa",
+      "akats_id": "ZL-KAS-7",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "boxeoarengaitik",
+        "zuzenketa": "boxeoARENGATIK edo boxeoGATIK",
+        "azalpena": "Kausala: -gatik (mugagabea), -arengatik (mugatua). 'Boxeoarengaitik' ez da zuzena; 'boxeoagatik' edo 'boxeoarengatik' izan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — pertsona okerra",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "esan zidaten haiengaitik baiezkoa ematen zidatela",
+        "zuzenketa": "esan zidaten haiengaitik baiezkoa ematen ZIDATELA",
+        "azalpena": "Hau zalantzazkoa da. 'Zidatela' (haiek → niri) edo 'zidatela' (hura → niri) izan daiteke kontestuaren arabera. Esaldi hau ulergaitza da pixka bat."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Ortografia — hitz-elkarketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 6,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hile-apainderia",
+        "zuzenketa": "hil-apainderia edo hil-apaindegia",
+        "azalpena": "Hitz elkartuetan marratxoa (-) jarri behar da bi osagaien artean. 'Hil' + 'apainderia' → hil-apainderia. Gainera, 'hile' ez da zuzena; 'hil' da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — mailegu okerra",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "situazioa",
+        "zuzenketa": "egoera",
+        "azalpena": "'Situazioa' gaztelaniazko 'situación' mailegua da zuzenean. Euskaraz 'egoera' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Typo / akats tipografikoak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "betadnik / bezte baztuetak / txarrtxen / amitu / hitzegiten / berarekin / lengusua / odolzkoa / horain / txpelketara / tatuatu ditutu / odoleko anaiarena",
+        "zuzenketa": "betidanik / beste batzuekin / txarrera / amaitu / hitz egiten / berarekin / ilobarekin / odolezkoa / orain / txapelketara / tatuatu ditut / odol-anaiarena",
+        "azalpena": "Typo ugari daude testuan: letra falta, letra soberan, letra okerra. Kontuz idatzi eta gero errepasatu!"
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lokailuen ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Orduan nik eta Ahmedek",
+        "zuzenketa": "Orduan, nik eta Ahmedek",
+        "azalpena": "Lotura-hitzen ondoren ('orduan', 'beraz', 'horregatik'...) koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "nik uste dudalako tatuajeak esanai handia dutela",
+        "zuzenketa": "nik tatuajeak esanahi handia dutela uste dudalako",
+        "azalpena": "Euskaraz ordena SOV da: objektua aditzaren aurretik. 'Tatuajeak esanahi handia dutela' objektu-perpausa da eta 'uste' aditzaren aurretik joan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'nire' 50+ aldiz, 'eta' 40+ aldiz, 'orduan' 8 aldiz, 'boxeo' 15 aldiz",
+        "zuzenketa": "Sinonimoak erabili: 'boxeo' → borroka, kirola, entrenamenduak; 'orduan' → beraz, horregatik, hortaz; 'eta' → gainera, baita ere",
+        "azalpena": "Hitz berdinak errepikatzen dituzu gehiegitan. Saiatu sinonimoak edo parafrasiak erabiltzen, testua aberatsagoa izateko."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 782,
+    "minor": 35,
+    "major": 10,
+    "critical": 0,
+    "EP100_gordina": 7.03,
+    "EP100_pisuduna": 2.11,
+    "EP100_gordina_modelo": 8.4,
+    "EP100_pisuduna_modelo": 6.9,
+    "minor_modelo": 30,
+    "major_modelo": 18,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

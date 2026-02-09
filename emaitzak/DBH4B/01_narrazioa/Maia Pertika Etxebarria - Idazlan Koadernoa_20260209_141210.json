@@ -1,0 +1,215 @@
+{
+  "kodea": "MAIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Zure ipuinak narrazio guztiak izan behar duena du: hasiera korapilatsua (teilatutik jauzia!), garapena intriga-maila handikoa, eta amaiera oso koherentea. Thriller batean egongo bazina bezala sentitu naiz irakurtzen!",
+          "Xehetasunak bikainak dira: tailerren deskribapena ('lurrean etsanda', 'olioz pringatuta', 'foso baten modukora'), sentsazioak ('taupada gogorrekin', 'hotzikara bat sentitzen dut')... Irakurlea istorioan sartzea lortu duzu. Hori ez da erraza!",
+          "Narrazioaren erritmoa oso ondo kontrolatzen duzu: une batzuetan motela (pentsamenduak: 'zergaitik nengoen ni...'), besteetan azkar-azkar (ihesa: 'korrika nire biziagaitik'). Hau da idazle onaren ezaugarria!"
+        ],
+        "hobetzekoak": [
+          "Amaiera oso arrakastatsua da baina paragrafo bat gehiago jarri ahal zenukeen azken ondorioetarako: nola sentitzen zaren orain, zer ikasi duzu esperientzia honetatik... Horrela biribilagoa izango litzateke.",
+          "Batzuetan testuingurua zertxobait azaldu beharko zenuke irakurlearentzat: 'Mikel beti ibili zen hango inguruko jendearekin' — ze jendearekin? Laguntzaile batzuk, delinkuenteak? Txikitxo bat gehiago, eta perfektua!"
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu amaiera bat idazten gogoeta txiki batekin: 'Gauza bat ikasi dut esperientzia honetatik: ...' Horrela, irakurleak eramango du mezu bat etxera. Jada maila oso altuan zaude!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura perfektua duzu: hasiera in medias res (ekintza erdian), flashback bat (nola hasi zen guztia), itzulera orainaldira, eta amaiera ondorioekin. Honek dena egitura profesional-maila du!",
+          "Lotura-hitzak oso ondo erabiltzen dituzu: 'bat-batean', 'berehala', 'orduan konturatu nintzen', 'eta orain'... Hau da koherentzia! Paragrafoen arteko trantsizioak oso natural dira."
+        ],
+        "hobetzekoak": [
+          "Paragrafo luze batzuk daude (adib. 3. paragrafoa: 11 lerro inguru). Banatu ahal zenukeela bi paragrafon: bat ihesari buruzkoa, bestea zergatia azaltzen duena. Irakurlea askoz errazago jarraituko luke!",
+          "Noizean behin lotura-hitz bat falta da esaldi independenteen artean. Adibidez: 'Metalezko kutxa, portaleko zaborretan utzi nuen' → 'Metalezko kutxa, berriz, portaleko zaborretan utzi nuen'. Txikitxo bat baina laguntzen du."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, bilatu paragrafo 8 lerrotik gorakoak eta pentsatu ea bi zatitan bana daitezkeen. Hori eginda, irakurgarritasuna nabarmen hobetuko da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso aberatsa da eta naturalki erabiltzen duzu: 'taupada gogorrekin', 'lurrean etsanda', 'burdinazko barra', 'metalaren zarata', 'hotzikara bat'... Hau ez da DBH4ko maila arrunta, benetan!",
+          "Egitura konplexuak erabiltzen dituzu akatsik gabe: baldintzak ('geldi geratzen banintza harrapatuko nindukeela'), kausazkoak ('ni oso inozentea naizenez'), denbora-perpausak... Eta horrek puntua ematen dizu BLH-n eta ZL-n!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko bat dago: 'kutxa' hitza 15 aldiz baino gehiagotan agertzen da. Hau normala da objektu garrantzitsua delako, baina sinonimoak erabiltzea ere ona da: 'ontzia', 'metalezko kaxa', 'pakete hura'... Horrela testua askoz aberatsagoa da!",
+          "Hitz generiko batzuk gehiegi erabiltzen dituzu: 'gauza' (4 aldiz), 'jende' (6 aldiz). Alternatibak: 'gauza' → 'elementu/objektu/gailu', 'jende' → 'pertsonak/gizonak/jarraitzaileak'. Hau hobetzea erraza da eta puntu asko ematen ditu!"
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, egin 'aurkitu eta ordezkatu' zure buruan: bilatu hitz bat 5 aldiz baino gehiago errepikatzen dena, eta ordezkatu sinonimoekin. Horrela BLH 9-10 harrapatuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia oso ondo kontrolatzen duzu: NOR-NORK sistema ('harrapatuko nindukeela', 'salatu egin ninduen'), NOR-NORI-NORK ('esan zizkidan', 'bidali nizkion')... Hau ez da erraza eta oso ondo erabiltzen duzu!",
+          "Perpaus konplexuak zuzen erabiltzen dituzu: baldintzak, erlatiboak, kausazkoak... Eta horrek esan nahi du gramatika ondo barneratuta duzula. Primeran!"
+        ],
+        "hobetzekoak": [
+          "Ortografia-akats batzuk daude (10 inguru), batez ere hitz-banaketan: 'banekien' → 'ba nekien', 'ahal nuen' → 'ahal nuen' (ondo), 'euskaleko' → 'ezkutaleku'. Hauek minor akatsak dira baina EP100-n kontuan hartzen dira.",
+          "Kasu-marka batzuk falta dira: '-gaitik' erabilera okerra (kausa adieraziz) → '-gatik'; 'biziagaitik' → 'bizitzagaitik'. Hauek arau argi bat dute eta erraza da ikastea!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, egin errepaso bat '-gaitik' eta '-gatik' kontuari begira: KAUSA adierazteko (zergatia) → '-gatik' beti; HELBURU adierazteko (norentzat) → '-rentzat'. Sistema sinple horrekin akats hauek desagertuko dira!"
+      },
+      "zl_modelo": 7,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=7 baxuegi da EP100=1.66 (bikaintasuna, tartea 9-10). ZL=8 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.25,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Benetan txoratzen duen narrazioa idatzi duzu! Egitura, erritmoa, xehetasunak, intriga... dena dago. DBH4ko maila gaindituta duzu kalitatean. Ortografia eta kasu-marka batzuk hobetzea falta da soilik, baina oinarria solidoa duzu. Segi horrela idazten, gaitasun handia duzu!",
+    "lehentasuna": "Hitz-banaketa: 'ba nekien' (ez 'banekien'), 'ahal nuen' (ez 'ahalnuen'... baina hau ondo daukazu!). Errepasatu '-gatik' (kausa) vs '-rentzat' (helburu) araua. Bi gauza hauek landuta, ZL 8-9 harrapatuko duzu!",
+    "batez_bestekoa_modelo": 8.0,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Hitz-banaketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "banekien",
+        "zuzenketa": "ba nekien",
+        "azalpena": "'Ba-' galdera/baldintza partikula bereiz idazten da aditz laguntzailetik: 'ba nekien', 'ba dut', 'ba dira'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kausa vs helburu ('-gatik' vs '-rentzat')",
+      "akats_id": "ZL-ERD-5",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "lehengusua-ren-gaitik (kausa adieraziz)",
+        "zuzenketa": "lehengusua-ren-gatik",
+        "azalpena": "KAUSA (zergatia) adierazteko '-gatik' erabiltzen da: 'horrengatik', 'honengatik', 'Mikelengatik'. HELBURU (norentzat) adierazteko '-rentzat': 'niretzat', 'zurentzat'. Gaztelaniako 'por/para' nahasketa."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia - letra larri falta",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "instagramen",
+        "zuzenketa": "Instagramen",
+        "azalpena": "Izen propioak letra larriz hasten dira: 'Instagram', 'Beasain', 'Frantzia'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Gero Instagramen",
+        "zuzenketa": "Gero, Instagramen",
+        "azalpena": "Lotura-hitz hauek beti koma behar dute ondoren: 'gero', 'orduan', 'beraz', 'hala ere', 'gainera'..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta esaldi artean (run-on txikia)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Lurrera heltzea mingarria izan zen,sorbaldarekin",
+        "zuzenketa": "Lurrera heltzea mingarria izan zen. Sorbaldarekin",
+        "azalpena": "Esaldi independenteak puntu edo puntu-komaz bereizi behar dira. Hemen bi esaldi daude: 'mingarria izan zen' + 'sorbaldarekin lurra jo nuen'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-elkarketa okerra / Typo",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "euskaleko",
+        "zuzenketa": "ezkutaleku",
+        "azalpena": "Typo bat da: 'ezkutaleku' (ezkutuko tokia) idatzi nahi zenuen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra edo typo",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hobatzen",
+        "zuzenketa": "helduta / eusten",
+        "azalpena": "'Hobatzen' ez da hitz zuzena euskaraz. 'Helduta' edo 'ondo eusten' esan nahi zenuen seguru asko."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Determinazioa falta",
+      "akats_id": "ZL-KAS-5",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "diru pilobat",
+        "zuzenketa": "diru-pilo bat / dirua pilo bat",
+        "azalpena": "Hitz-elkarketa: 'diru-pilo bat' (izen elkartua) edo 'dirua pilo bat' (determinatua + pilo bat)."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 845,
+    "minor": 10,
+    "major": 5,
+    "critical": 0,
+    "EP100_gordina": 2.37,
+    "EP100_pisuduna": 1.66,
+    "EP100_gordina_modelo": 2.37,
+    "EP100_pisuduna_modelo": 4.14,
+    "minor_modelo": 10,
+    "major_modelo": 5,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua gizaki batek idatzia dirudi, DBH4ko ikasle batek. Akats naturalak ugari: 'bakakigu' (badakigu), 'zarratu' (itxi), 'banekien' (bazekien), 'eupelako' (ziurrenik 'zapalako'), 'irten' (irten), 'biziagaitik' (bizitzagatik), 'eskilarak telaturaino' (eskailarak teilaturaino), 'laban' (labain), 'euriarengaitik' (euriagaitik), 'betko moduan hobatzen' (bestelako adierak), 'jesarri' (eseri), 'izekok' (izekoak). Hiztegi egokia da DBH mailako batentzat, nahiz eta batzuetan zailtasun handiagoko hitzak erabili ('sakratua', 'korrupto'). Narrazioa bizia da, lehenengo pertsonatik kontatua, eta pertsonalitate argia du. Egitura ondo egituratuta dago baina ez da perfektuegia, hobekuntza-guneak ditu. Luzera normala da (850 hitz inguru), baina DBH4n aukera erreala da. Puntuazio- eta maiuskulen akatsen falta gutxi susmagarria da, baina beste akats morfosintaktiko eta lexikoek konpentsatzen dute. Txosten bat baino gehiago, pertsona gazte batek idatzitako narratiba dinamikoa dirudi."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "kodea": "SOLAFA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio originala eta sortzailea! Hiri misteriotsua, tenporizadorea, mutanteak... Elementu guztiek funtzionatzen dute batera narratiba being bat eraikitzeko. Irakurlea haseratik bukaerara mantentzen duzu.",
+          "Egitura klasikoa oso ondo erabiltzen duzu: sarrera (maparen aurkikuntza), korapiloa (hirian harrapatuta), gailurra (mutanteen buruarekin borrokatu), amaiera (ihesa). Eta amaiera irekia primeran dago, zirrara uzten du!"
+        ],
+        "hobetzekoak": [
+          "Zenbait pasarte gehiago garatu zenezake: mutanteen burua azaltzeko, zergatik sortu zen Krish, nola funtzionatzen duen sinboloen sistema... Informazio gehiago emoteak istorioa sakonagoa egingo luke.",
+          "Lina pertsonaia bat-batean agertzen da baina gutxi garatzen da. Eman iezaiozu nolakotasun gehiago, azaldu bere beldurrak edo bere bizipena hirian. Horrekin irakurleak gehiago konektatuko du."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu pertsonaia bakoitzari 'momentu bat' ematen: deskribapen labur bat, pentsamendu bat, zehaztasun txiki bat bere izaerari buruz. Horrekin istorioa askoz biziagoa izango da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura argia da eta jarraitzeko erraza. Sekuentzia logikoa daukazu: maparen aurkikuntza → bidaia → harrapatuta → froga → ihesa. Bikain!",
+          "Paragrafoen banaketa ondo egina dago, momentu bakoitza bereizita. Irakurleari arnasa hartzen uzten diozu eta une garrantzitsuak azpimarratzen dituzu (adib. 'Ez nengoen bakarrik' lerro bakar batean)."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak gehiago erabili beharko zenituzke paragrafoen artean. 'Bat-batean', 'orduan', 'une horretan' errepikatu egiten dituzu. Erabili 'hala ere', 'horrez gain', 'ondoren', 'dena dela'... horrekin testua fluidoagoa izango da.",
+          "Zenbait saltoren bat dago denborazko sekuentzian: 'Hurrengo egunean' eta 'Iritsi nintzenean' artean, zer gertatu zen? Bidaia luzea zen? Trantsizio gehiago jarri, irakurlea ez galtzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu lotura-hitzak eta ziurtatu paragrafo bakoitza aurrekoari lotzen zaizula. 'Gainera', 'bestalde', 'hala ere'... hauek hartu behar dituzu tresna gisa!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa erabiltzen duzu: 'ezkutatuta', 'hautsez beteta', 'abandonatuta', 'dirdiratsua', 'desitxuratuak'... Adjektiboak egokiak dira eta giroa ondo sortzen dute. Oso ondo!",
+          "Esaldi-egitura konplexuak erabiltzen dituzu (erlatibozkoak, baldintza-esaldiak, kausazkoak): 'Baina gauzarik bitxiena hau zen', 'nahiz eta ez jakin zer aurkituko nuen', 'Bagenekien hiri horrek betiko markatu gintuela'. Horrek BLH-n puntu ematen dizu!"
+        ],
+        "hobetzekoak": [
+          "Zenbait hitz errepikatu egiten dituzu maiz: 'arraro/arraroak' (5 aldiz), 'bat-batean' (3 aldiz), 'une horretan' (3 aldiz). Bilatu sinonimoak: 'ezohiko', 'bitxia', 'berariaz', 'bat-batean' → 'ustekabean', 'momentu horretan' → 'orduantxe'...",
+          "Erregistroa narrazioari egokia da, baina 'rompecabezas' hitza gaztelaniaz dago (aipamen gisa ere). Euskaraz 'enigmak' edo 'asma-jokoak' erabil zenezake. Eta 'tenporizadorea' (anglismoa) badago, 'kontaketa atzera' ere erabil zenezake."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, bilatu zure 4-5 hitzik errepikatenak eta aldatu sinonimoekin. Sistema sinplea: Word/Docs-en Ctrl+F sakatu eta hitz bat bilatu, zenbat aldiz agertzen den ikusi, eta ordezkoak jarri. Horrekin hiztegia nabarmen aberastuko duzu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema orokorrean ondo kontrolatzen duzu: 'ez nuen inoiz imajinatuko', 'sartu nintzen', 'joan nintzen', 'entzun nituen'. NOR-NORK eta NOR ondo bereizten dituzu gehienetan. Hori ez da erraza!",
+          "Aspektuak (burutua, burutugabea, geroa) ondo erabiltzen dituzu narrazioan. Denbora-sekuentzia argia da: iragana (lehenaldia) + momentuko ekintza (orainaldia)."
+        ],
+        "hobetzekoak": [
+          "Puntuazioan akats ugari daude, batez ere koma falta lotura-hitzen ondoren eta esaldi konplexuetan. 'Orduan konturatu nintzen' → 'Orduan, konturatu nintzen'. Lotura-hitzak BETI koma behar dute ondoren.",
+          "Zenbait ergatiboa (-k) falta da: 'Hiria barrutik harrapatu ninduela' → 'HiriaK barrutik harrapatu ninduela'. NOR-NORK aditzetan (harrapatu) subjektuak -K behar du. Hau da zure akats nagusia."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, LEHENIK puntuazioa errepasatu: bilatu lotura-hitzak ('orduan', 'baina', 'hala ere') eta jarri koma ondoren. BIGARRENIK, NOR-NORK aditzak bilatu (harrapatu, ikusi, esan, egin...) eta egiaztatu subjektuak -K duela. Bi pauso hauek EP100 erdira jaitsiko dizute!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.28 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Oso lan ona egin duzu! Istorio originala, ondo egituratua eta hizkuntza-baliabide onak erabiltzen dituzu. Maila aurreratua duzu narratiban, eta hori oso gutxi lortu du zure adinean. Hobetzeko tarte nagusia ZL-n dago: puntuazioa eta ergatiboa. Bi gauzok konpondu eta 8-9 tartean egongo zara!",
+    "lehentasuna": "Puntuazioa: lotura-hitz guztien ondoren koma jarri (orduan, baina, une horretan, bat-batean...). Hau da lehen pausoa, errazena eta eragin handiena duena!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina gauzarik bitxiena hau zen",
+        "zuzenketa": "Baina, gauzarik bitxiena hau zen",
+        "azalpena": "Lotura-hitzen ondoren (baina, orduan, une horretan, bat-batean, bestela...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ergatiboa falta (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Hiria barrutik harrapatu ninduela",
+        "zuzenketa": "HiriaK barrutik harrapatu ninduela",
+        "azalpena": "Aditza NOR-NORK denean (harrapatu → nork harrapatu?), subjektuak -K marka behar du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta esaldi konplexuetan",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Iritsi nintzenean giroak berehala eman zidan",
+        "zuzenketa": "Iritsi nintzenean, giroak berehala eman zidan",
+        "azalpena": "Mendeko perpausa nagusiaren aurretik badago, koma jarri behar da bien artean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa (elkarketa)",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "beste batzuk oraindik zutik",
+        "zuzenketa": "besteak oraindik zutik",
+        "azalpena": "'Beste batzuk' egitura ez da zuzena. 'Besteak' (mugagabea pluralean) edo 'beste batzuk' (mugagabea + zenbatzailea). Testuinguruan 'besteak' egokia da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — mailegua",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "rompecabezas konpontzea",
+        "zuzenketa": "enigmak konpontzea / asma-jokoak konpontzea",
+        "azalpena": "Gaztelaniazko hitza zuzenean. Euskaraz 'enigma', 'asma-joko' edo 'buruko-hausgarri' erabil daitezke."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazioa — esaldi bukaeran hutsune",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "beste ezer ez,orduan konturatu nintzen",
+        "zuzenketa": "beste ezer ez. Orduan konturatu nintzen",
+        "azalpena": "Bi esaldi independente dira. Puntua jarri lehenengoaren bukaeran eta letra larriz hasi bigarrena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'arraro/arraroak' 5 aldiz, 'bat-batean' 3 aldiz, 'une horretan' 3 aldiz",
+        "zuzenketa": "Sinonimoak erabili: 'ezohikoa', 'bitxia', 'berariaz', 'ustekabean', 'momentu horretan', 'orduantxe'",
+        "azalpena": "Hitz berdinak askotan errepikatzeak testua pobreagoa egiten du. Sinonimoak aberasten dute hizkuntza."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 782,
+    "minor": 22,
+    "major": 3,
+    "critical": 0,
+    "EP100_gordina": 3.58,
+    "EP100_pisuduna": 1.28,
+    "EP100_gordina_modelo": 3.8,
+    "EP100_pisuduna_modelo": 3.3,
+    "minor_modelo": 22,
+    "major_modelo": 3,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 2.3,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 3,
+        "S3": 3,
+        "S4": 2,
+        "S5": 2,
+        "S6": 2,
+        "S7": 2
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua IA bidez sortua izan daiteke hainbat arrazoirengatik: (1) Perfekzio susmagarria - euskara ia perfektua da DBH4 mailako ikasle batentzat, oso akats gutxirekin; (2) Hiztegi sofistikatua - 'dirdiratsua', 'desitxuratuak', 'kasualitatez' bezalako hitzak ez dira arruntak DBH mailan; (3) Egitura oso landuak - elkarrizketa atalak formato egokian, narratiba koherentea sarrera-garapena-amaiera; (4) Tonu nahiko uniformea eta profesionala, nahiz eta lehen pertsonan idatzia; (5) Luzera aproposa (900+ hitz), baina ez gehiegizkoa; (6) Akats naturalak falta - ez dago gazteen idazketaren akatsik (ortografia, puntuazio inkoherentziak); (7) Kalitatea ez da guztiz uniformea - badira espresiozko zatiak eta naturalagoak diren uneak ere. Gaztelerazko hitz bat ('rompecabezas') eta zenbait perpaus labur naturalagoak agertzen dira, baina orokorrean kalitate-maila oso altua da DBH4 ikasle batentzat. Elementu fantastikoaren tratamendua eta narratiba-teknikak ezohiko lan egokiak dira."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

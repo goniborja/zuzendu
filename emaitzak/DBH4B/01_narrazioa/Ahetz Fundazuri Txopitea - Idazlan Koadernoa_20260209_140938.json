@@ -1,0 +1,246 @@
+{
+  "kodea": "AHETZ",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: Perfekzio susmagarria = 0 (testua akatsez josita dago)",
+      "S2: Hiztegi-maila ez-naturala = 0 (hiztegia sinplea da)",
+      "S3: Egitura perfektua = 0 (egiturarik ia ez)",
+      "S4: Tonu robotikoa = 0 (esperientzia pertsonala kontatzen du)",
+      "S5: Luzera susmagarria = 0 (luzera normala narraziorako)",
+      "S6: Akats-patroi naturalen falta = 0 (akats-patroi argia eta sistematikoa)",
+      "S7: Koherentzia uniformea = 0 (testua irregularra da)"
+    ],
+    "oharrak": ""
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio interesgarria kontatu duzu! Istorioak korapilo bat dauka (Markel galtzea eta topatzea) eta horrek irakurlearen arreta erakartzen du. Ideia ona da!",
+          "Esperientzia pertsonala kontatzen duzu eta hori oso ona da narraziorako. Sentsazio eta emozioak tartekatzen dituzu ('asko arduratu ginen', 'oso ondo pasatu genuen')."
+        ],
+        "hobetzekoak": [
+          "Narrazioaren egitura nahasita dago: hasiera-korapiloa-amaiera ez dira argi bereizten. Saiatu lehenik testuingurua azaltzen (nork, non, noiz), gero korapiloa (Markel galdu), gero nola konpondu zen, eta amaieran ondorioa edo gogoeta bat.",
+          "Denbora-sekuentzia lausoa da batzuetan. Erabili denbora-lotura gehiago: 'lehenik', 'ondoren', 'hurrengo egunean', 'azkenean'. Horrela istorioa errazago jarraitzen da."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu hasiera batean (nork/non/noiz), gero arazo bat azaltzen (korapiloa), gero konponbidea, eta amaieran ondorio bat. Hiru atal horiek argi bereizten badituzu, istorioa askoz ere hobea izango da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": "CAP-5",
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoak erabiltzen dituzu eta hori oso ona da. Gutxienez saiakera bat ikusten da testuaren antolaketan.",
+          "Denbora-lotura batzuk agertzen dira ('hurrengo egunean', 'gero', 'azkenean') eta horiek laguntzen dute sekuentzia jarraitzen."
+        ],
+        "hobetzekoak": [
+          "Falta da sarrera argia: nork parte hartzen duen, non gauzak gertatzen diren, noiz... Lehenengo paragrafoak informazio hori eman behar du modu antolatuan. Orain guztia nahastuta dago.",
+          "Testua paragrafo BAKAR batean dago (lerro-jauzia bat baino ez dago). Narrazioak gutxienez 4-5 paragrafo behar ditu: sarrera, korapiloa, garapena, konponbidea, ondorioa. Paragrafo bakoitzean ideia nagusi bat jarri."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero irakurri berriz. Ideia nagusi bat (adib. 'Markel galdu zen', 'Markel bilatu genuen', 'Markel aurkitu genuen') identifikatu bakoitzean eta paragrafo berri bat hasi. Paragrafo bakoitzak argi bereizi behar du zer kontatzen duen."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hitz emozionalak erabiltzen dituzu ('arduratu', 'pozik', 'sorpresa') eta horiek istorioa biziagoa egiten dute.",
+          "Aditz-aniztasuna duzu: 'joan', 'igo', 'topatu', 'etorri'... Istorioan ekintzak argi adierazten dituzu."
+        ],
+        "hobetzekoak": [
+          "Hitz errepikatuak asko daude: 'gero' 15 aldiz baino gehiagotan, 'eta' behin eta berriz. Erabili alternatibak: 'ondoren', 'jarraian', 'horren ondorioz'... Horrek testua askoz naturalagoa egingo du.",
+          "Perpaus sinpleak dira ia denak. Saiatu mendekoak erabiltzen: 'Markel aurkitu genuenean, oso pozik egon ginen', 'Medikuek esan zigutenez, Markel ondo zegoela'. Horrela konplexutasuna gehitu egingo duzu."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta kontatu zenbat aldiz errepikatzen den 'gero'. Aldatu 5 aldiz gutxienez beste hitz batekin: 'ondoren', 'jarraian', 'handik gutxira'. Ikusiko duzu nola hobetzen den testua!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 2,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-8",
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema batzuetan ondo erabiltzen duzu: 'joan ginen', 'ikusi genuen'. Badakizu oinarrizko laguntzaileak nola erabili.",
+          "Partizipio batzuk ondo daude: 'ikusi', 'joan', 'etorri'. Horiek kontrolatzen dituzu."
+        ],
+        "hobetzekoak": [
+          "Akats-kopurua oso altua da (EP100 > 25). Akats nagusiak: ortografia (hitz-banaketa, letra larriak), puntuazioa (punturik ez esaldien artean, komak falta), eta deklinabidea (kasuen markak). Honek testua ia ulertezina egiten du.",
+          "Puntuazioa falta da ia guztiz. Esaldiak ez dira bereizten puntuarekin eta hori oso larria da. Esaldi bakoitzak puntu bat behar du bukaeran. Gero irakurri eta ikusi non bukatzen den esaldi bat — han puntua jarri."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero irakurri osoa. Esaldi BAKOITZAREN bukaeran PUNTUA jarri. Gero berrikusi letra larriak: izen propioak (Markel, Gipuzkoa, Joxe) letra larriz hasten dira. Horiek zuzendu eta ikusiko duzu testua askoz hobea dela!"
+      },
+      "zl_modelo": 2,
+      "python_doikuntza": "Modeloaren ZL=2 koherentea EP100=26.24 (hasiberria, tartea 1-2)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 4.0,
+    "biribiltzea": 4,
+    "heziberri_maila": "hasiberria",
+    "orokorra": "Istorio interesgarria kontatu duzu, benetan! Esperientzia bat bizi zenuen eta hori ondo adierazten duzu. Baina testua oso zail da irakurtzeko akats-kopuru altuagatik eta egitura faltarengatik. Lehentasun nagusia: PUNTUAZIOA. Esaldi bakoitzaren bukaeran puntua jarri. Horrekin bakarrik testua askoz hobea izango da. Animo eta aurrera!",
+    "lehentasuna": "Puntuazioa: esaldi BAKOITZAREN bukaeran puntua jarri. Irakurri esaldia eta non bukatzen den ikusi — han puntua. Hau da lehen pausoa!",
+    "batez_bestekoa_modelo": 4.0,
+    "biribiltzea_modelo": 4.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ortografia — Hitz-banaketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 40,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hobetoago, esagutzeko, horduan, organizatzen, pentzatez, eginhal, jende gutxiago apuntzatzen, hrttira, erelasatu, etzera, haeldu, autobuz, ipni, handirrik, nueles, ikuzten, guztatu, zitzaodan, buektzatzen, munutukoa, aparkalekura, hoinez, danok, herresak, hoehan, armusua, genuelez, ikuzi, jantokikoari, zguten, wealki, zguten, topatzen, separatu, batu ginen batek bez, denekin, ezan, topatzera, horain, genuen horduan, bonberuak, anbulatziak, zarratu, hurengo, medikuek, ezan, minutu, itzaringo, bagenuen, deitzeko, hal zen, ezan, biziko, egon ginen arduratuta, etorrtzen, ipintzen, hoetik, altzatu, hal, oraindik, hortik, ezan, hlabatez, minimo, zanean, beraikusten, bueltatuko, esaz, haber, oribak, emon, zizkigu, gonbidatu, goso, aparte, eskero, nonork, genitueka, irteheta, aterpa, horain, nonork, gograzen, diogu, ha, jende barria, sartzen dendan, kontzan, haber, ezan, baze, ego, konosimenduarekin, potzura, heman, horain, lagunen hartean, taldehen hartean, horai, baian, gertatuko, inportantehenada, gaudelao, esebes, txar trxarra, askenean",
+        "zuzenketa": "hobeto ezagutzeko, orduan, antolatzen, pentsatzen, egin ahal, jende gutxiago apuntatzen, herrira, erlaxatu, etxera, ailegatu, autobus, ipini, handirik, nuen lez, ikusten, gustatzen, zitzaidan, bueltatzean, minutukoa, aparkalekura, oinez, denok, errazak, han, gosaria, genuen lez, ikusi, jantokikoari, ziguten, walkie talkie, ziguten, topatzen, banandu, batu ginen batzuk ez, denarekin, esan, topatzera, orain, genuen orduan, bonberoak, anbulantziak, itxi, hurrengo, medikuek, esan, minutu, itxarongo, bagenu, deitzeko, hil zen, esan, biziko, egon ginen kezkatuta, itzultzen, jartzen, handik, altxatu, ahal, oraindik, handik, esan, hilabetez, gutxienez, zenean, bera ikusten, itzuliko, esan genion, haber (hau gaztelaniakoa da, 'ikusteko' edo 'jakiteko'), probak, eman, zizkigun, gonbidatu, gozoa, aparte, bazekaro, inork, genituzke, irteera, aterpera, orain, inork, gogorazten, diogu, hori, jende berria, sartzen denean, kontatzen, haber, esan, bera ez, egon, kontzientziarekin, putzura, eman, orain, lagunen artean, taldearen artean, orain, baina, gertatzen, inportanteena da, gaudela, ezer, txar, azkenean",
+        "azalpena": "Hitz-banaketa EZINBESTEKOA da euskaraz. Hitz bakoitza bananduta idatzi behar da. Elkarketa egin behar denean, marratxoa jarri. Adibideak: 'egin ahal' (ez 'eginhal'), 'jende berria' (ez 'jende barria'), 'orain' (ez 'horain')."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazioa — Punturik ez esaldien artean (run-on)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 35,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Pasadan urtean boxeoko talde bat ireki zen gernikan, ni boxeoko taldera apuntatu nintzen eta maizuak esan zuen mendira joango ginela asteburu bat denak hobetoago esagutzeko",
+        "zuzenketa": "Pasadan urtean boxeoko talde bat ireki zen Gernikan. Ni boxeoko taldera apuntatu nintzen eta maisuak esan zuen mendira joango ginela asteburu bat, denak hobeto ezagutzeko.",
+        "azalpena": "Esaldi bakoitzak puntu bat behar du bukaeran. Testu osoan ia ez dago punturik eta hau LARRIA da. Esaldia bukatzen denean, puntua jarri. Gero beste esaldi bat hasi letra larriz."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Letra larriak",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 20,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "gernikan, xoxoteko, gipuzkuara, markel",
+        "zuzenketa": "Gernikan, Xoxoteko, Gipuzkoara, Markel",
+        "azalpena": "Izen propioak (pertsonak, herriak, lekuak) BETI letra larriz hasten dira: Markel, Gernika, Gipuzkoa, Xoxote. Esaldi bat letra larriz hasten da eta atzetik letra xehez."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Adlatiboa (-ra) falta",
+      "akats_id": "ZL-KAS-3",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "boxeoko taldera apuntatu, mendira joango, xoxoteko aterpera, herrira joan, aterpera bueltatu, buelta aterpera, etxera buektzatzen, etxera joateko",
+        "zuzenketa": "boxeoko taldeRA apuntatu, mendiRA joango, xoxoteko aterpeRA, herriRA joan, aterpeRA bueltatu, buelta aterpeRA, etxeRA bueltatzean, etxeRA joateko",
+        "azalpena": "Norabidea adierazteko -RA atzizkia behar da: mendira, etxera, herrira. Hau ondo erabiltzen duzu batzuetan, baina beste batzuetan ahazten zaizu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "azkenean pentzatu gendun, gero eta jende gutxiago, horduan boxeoko entrandoreak, azkenean eguna haeldu zen, horduan denok joan ginen, gero denak joan ginen, horduan asko arduratu ginen, gero aterpera bueltatu ginen, horduan gero berriro joan ginen, horduan denek deitu zioten, azkenean hilabeta bat eta gero",
+        "zuzenketa": "Azkenean, pentzatu genuen / Gero eta gero, jende gutxiago / Orduan, boxeoko entrenatzaileak / Azkenean, eguna ailegatu zen / Orduan, denok joan ginen / Gero, denak joan ginen / Orduan, asko arduratu ginen / Gero, aterpera bueltatu ginen / Orduan, gero berriro joan ginen / Orduan, denek deitu zioten / Azkenean, hilabete bat eta gero",
+        "azalpena": "Lotura-hitz hauek BETI koma behar dute ondoren: azkenean, gero, orduan, hala ere, gainera, beraz... Hau arau INDARTSUA da euskaraz."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-adostasuna — Pertsona",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "konturatu ginen Markel ez zegoela (argi dago baina beste batzuetan nahasten da)",
+        "zuzenketa": "Konturatu ginen Markel ez zegoela (ondo)",
+        "azalpena": "Aditz-adostasunak pertsona ondo adierazi behar du. 'Guk' → 'genuen/ginen', 'Nik' → 'nuen/nintzen'. Berrikusi aditzak eta subjektua ondo bat datozen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakadak — Kalko sintaktikoak",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "haber zelan doan (cast. 'a ver cómo va'), haber istorioas gogoratzen (cast. 'a ver si recuerda'), parte hartu (hau ZUZENA da batuan, ez da erderakada), el senor de los anillos (gaztelaniako izenburua zuzenean), rocky izenekoa (euskaraz 'Rocky izenekoa' ondo dago)",
+        "zuzenketa": "ikusteko zelan doan Markel / jakiteko istorioa gogoratzen duen / parte hartu (ONDO) / Eraztunen Jauna / Rocky izeneko (pelikula)",
+        "azalpena": "'Haber' gaztelaniako berbatik dator zuzenean. Euskaraz 'ikusteko' edo 'jakiteko' erabili. Pelikula-izenak euskaratzea ez da derrigorrezkoa baina gomendagarria da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa — SOV",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "autobus gidariak pelikula bat ipini zuen (ondo dago), nik ez nueles ikusita (ordena lausoa)",
+        "zuzenketa": "Autobus-gidariak pelikula bat ipini zuen (ONDO) / Nik ez nuen ikusia (hobea)",
+        "azalpena": "Euskaraz ordena SOV da: Subjektua + Objektua + Aditza. Normalean ondo erabiltzen duzu baina batzuetan ordena nahasia da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Deklinabidea — Kasu okerra",
+      "akats_id": "ZL-KAS-2",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "jantokikoari galdetu genion (DATIBOA ondo), aterpekoari galdetu genion (DATIBOA ondo)",
+        "zuzenketa": "Jantokikoari galdetu genion (ONDO) / Aterpekoari galdetu genion (ONDO)",
+        "azalpena": "Datiboa (-RI) 'galdetu' aditzarekin ondo erabiltzen duzu. Jarraitu horrela!"
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 743,
+    "minor": 77,
+    "major": 59,
+    "critical": 0,
+    "EP100_gordina": 26.24,
+    "EP100_pisuduna": 2.83,
+    "EP100_gordina_modelo": 23.4,
+    "EP100_pisuduna_modelo": 26.1,
+    "minor_modelo": 72,
+    "major_modelo": 51,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Nota oso baxua (≤2 ZL-n)",
+        "EP100 oso altua (>25)",
+        "Testua ia ulertezina akats-kopuruagatik",
+        "CAP-8 aplikatua (testua ia ulertezina)",
+        "Ikasleak laguntza indibidualizatua behar du puntuazioan eta ortografian"
+      ]
+    },
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Argi eta garbi DBH4ko ikasle batek idatzitako testua da. Ezaugarri guztietan puntuazio baxuenak ditu: Ortografia akats ugari (horduan, baskarria, hlabatez, konosimenduarekin), puntuazio falta ia osoa (perpaus luzeak punturik gabe), hitz-egiturak desegokiak (apuntzatzen, erelasatu), maiuskula/minuskula erabilera okerra, perpaus desantolatu eta koherentzia arazoak. Narrazioa kaotikoa da, denbora-markerak nahastuta, eta ikasle gaztearen estilo eta heldugabetasun argia dauka. Erabat da jatorrizko idazlana, inolako IA arrastorik gabe."
+    }
+  }
+}

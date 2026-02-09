@@ -1,0 +1,203 @@
+{
+  "kodea": "KAL-004",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Bikain! Egitura argia du zure testua: galdera erretorikoekin hasten zara, bi alde aurkezten dituzu, eta ondorio koherentea ematen duzu. Hori idazle onaren marka da!",
+          "Argumentuak ondo identifikatuta dituzu: abantailak eta desabantailak. Gainera, irakurleari zuzenean galdetzea ('zeuk zein taldetan zaude?') ideia oso ona da, testu interaktiboa egiten duzu!"
+        ],
+        "hobetzekoak": [
+          "Argumentuak sakontzea falta da. Aipatu dituzu ('jakintsuagoa', 'onura') baina ZERGATIA eta adibide zehatzak falta dira. Esaterako: 'jakintsuagoa → zergatik? → hiztegia zabaltzen delako eta pentsamendu kritikoa garatzen delako → ikerketa batek dioena: irakurleak %30 hiztegi zabalagoa dute'. Horrela sartuta, nota 8-9 tartean egongo zenuke!",
+          "Bigarren paragrafoa oso luzea da eta bi gai ukitzen ditu nahasian: irakurmenaren alde onak/txarrak + gizarteko taldeak. Bi paragrafo bereizi egingo nituzke honela: lehena 'alde onak eta txarrak', bigarrena 'gizarteko bi taldeak'. Horrela irakurlea ez da galtzen."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu argumentu bakoitza hiru mailarekin lantzen: ideia → zergatia → adibide zehatza (datua, ikerketa, zure esperientzia). Hori egiten duzunean, AB irizpidean 8-9 lortuko duzu ziur!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura orokorra argia da: sarrera (galdera erretorikoak) + garapena (alde onak/txarrak + gizarteko taldeak) + ondorioa. Txapela kendu behar dizut, ez da erraza!",
+          "Lotura-hitz aniztasuna oso ona da: 'horrexegatik', 'hala nola', 'esate baterako', 'ordea', 'beraz', 'ala eta guztiz ere'. Hau maila aurreratuaren marka da, benetan!"
+        ],
+        "hobetzekoak": [
+          "Bigarren paragrafoa oso luzea da (8 esaldi). Honela banatuko nuke: 1. paragrafoa → irakurmenaren alde onak eta txarrak (adibideekin); 2. paragrafoa → gizarteko bi taldeak eta haien ohiturak. Horrela irakurlearen arreta hobeto mantentzen da.",
+          "Azken paragrafoan kontrako lotura bat falta da: 'lehenengo paragrafoan... bigarren paragrafoan, berriz...' ondo dago, baina gero 'aitzitik' edo 'bestalde' bezalako kontraste bat gehitu ahal zenuke azken ondorioa aurretik."
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo bat 8 esaldi baino luzeagoa denean, gelditu eta galdetu: gai bat baino gehiago ari naiz ukitzen? Baietz bada, banatu. Paragrafo bakoitzak ideia nagusi BAT izan behar du, eta kito!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia oso aberatsa da DBH4 mailako ikasle batentzat: 'murriztu', 'islatzen', 'abantailak', 'desabantailak', 'onuragarria', 'aberasgarria'. Hitz horiek maila handiaren seinalea dira!",
+          "Egitura konplexuak erabiltzen dituzu: 'murriztu egin den islatzen zuen ikerketa bat ikusi ondoren' → perpaus erlatiboa + denborazkoa. Hori ez da erraza eta ondo dago eratua. Gorago zu!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen batzuk daude: 'alde onak eta alde txarrak' errepikatzen da 3 aldiz. Sinonimoak erabil ditzakezu: abantailak/desabantailak, onurak/eragozpenak, alde positiboak/alde negatiboak. Horrela hiztegia askoz aberatsagoa izango da!",
+          "Zenbait esamolde errepikatzailea da: 'makina bat onura' bi aldiz agertzen da. Proba alternatibak: 'hainbat onura', 'onura ugari', 'abantaila asko'."
+        ],
+        "feed_forward": "Hurrengo aldian, testua amaitu ondoren, errepasatu eta ideia/hitz bera bi aldiz baino gehiagotan agertzen den begiratu. Aurkitzen baduzu, aldatu sinonimoz. Sistema sinple horrekin BLH 8-9 tartean izango zara!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema ondo kontrolatzen duzu gehienetan: 'ikusi ondoren', 'aztertu ditugu', 'ekar ditzake'. Hau ez da erraza eta oso ondo zabiltza!",
+          "Aditz-komunztadura zuzen erabiltzen duzu gehienetan: 'islatzen zuen', 'bururatu zitzaizkigun'. Hau maila altuko egitura da eta primeran erabiltzen duzu!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 5 aldiz ahaztu duzu, eta hau da akatsik larrienenetakoa. Gogoratu: aditza NOR-NORK denean (ikusi, ekarri, esan...), subjektuak BETI -k marka behar du. Adibidea: 'irakurmenak ekar diezazkigukeen' → 'irakurmeNAK' ondo dago, kriston! Baina 'irakurmenak dituen alde txarrak' → 'irakurmenak' ere ondo (objektua da, ez subjektua). Bereizi beti: nork egiten du ekintza? Hori da ergatiboa behar duena!",
+          "Erderakada batzuk daude: 'irakurmenaren arloan' (gaztelaniako 'en el campo de'), 'logura sustatzen du' (erderakada 'sueño' → 'lo'). Hauek aldatu: 'irakurmenari buruz / irakurmenaren inguruan' eta 'lo eginarazten du / logale egiten du'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Nork egiten du ekintza? Pertsona/gauza horri -K jarri. Sistema sinple horrekin ergatiboaren akatsak desagertuko dira. Badaukazu maila hori harrapatzeko, ziur!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=3.05 (aurreratua, tartea 7-8). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7.0,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Zorionak! Lan oso ona egin duzu. Testu argia, egitura logikoa eta hiztegia aberatsa dituzu. Zuk maila ona duzu, benetan! Hobetzeko tarte handiena bi arlotan dago: 1) argumentuak gehiago garatu (zergatia + adibide zehatzak); 2) ergatiboa (-k) ez ahaztu NOR-NORK aditzetan. Bi puntu horiek landuz gero, 8-9 tartean egongo zara hurrengo aldian. Gora zu!",
+    "lehentasuna": "Ergatiboa (-k): esaldi bakoitza berrikusi eta NOR-NORK aditzetan (ikusi, ekarri, esan, lortu...) subjektuari -K jarri. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "irakurmenak ekar ditzake",
+        "zuzenketa": "irakurmeNAK ekar ditzake (ondo — objektua da, ez subjektua) / ARAZOA: 'logurea sustatzen du' → 'logurEAK sustatzen du' (ergatiboa)",
+        "azalpena": "Aditza NOR-NORK denean (nork sustatzen du? → logureak), subjektuak -K marka behar du. Bereizi subjektua (nork?) eta objektua (zer?)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kasu-marka okerra (destinatiboa vs genitiboa)",
+      "akats_id": "ZL-KAS-4",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "osasunarentzat makina bat onura",
+        "zuzenketa": "osasunaRENTZAT → osasunARENTZAT (batua) / HOBETO: osasunerako / osasunean",
+        "azalpena": "Destinatiboa (-arentzat) onuraduna adierazten du (norentzat?). Hemen kausa/lekua da: 'osasunean onura' edo 'osasun-mailako onura' hobeto."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko sintaktikoa",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "irakurmenaren arloan",
+        "zuzenketa": "irakurmenari buruz / irakurmenaren inguruan / irakurmenaz",
+        "azalpena": "Gaztelaniazko 'en el campo de' kalkoa. Euskaraz: '-ri buruz', '-ren inguruan', '-z' erabiltzen dira gai bat adierazteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz okerra",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "logurea sustatzen du",
+        "zuzenketa": "lo eginarazten du / logale egiten du",
+        "azalpena": "Gaztelaniazko 'sueño' → 'lo' euskaraz. 'Logura' existitzen da baina 'sustatzen' ez da naturala. Erabili: 'lo eginarazten du' edo 'logale egiten du'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — hitz-elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "askeneno",
+        "zuzenketa": "azken urteotan / azkenaldian",
+        "azalpena": "Hitz-elkarketa okerra. 'Azken' + 'urteotan' edo 'azkenaldian' bereizita idatzi behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "categoria": "Aditz-komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "badaue alde onak",
+        "zuzenketa": "badauDE alde onak / badaude alde onak",
+        "azalpena": "Subjektua plurala denean (alde onak → haiek), aditzak ere plurala izan behar du: dau (hura) → dau-DE (haiek). Kontsonante bikoitza: 'badaude' (batua)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazio — koma falta lokailuaren ostean",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina beste alde batetik",
+        "zuzenketa": "Baina, beste alde batetik,",
+        "azalpena": "Lokailu konplexuak ('beste alde batetik', 'hori guztia esan dugula') koma artean joan behar dute."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Dialektismo — aditz laguntzailea",
+      "akats_id": "LH-7",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ailegatu gintezke",
+        "zuzenketa": "iritsi ginteke / hel ginteke",
+        "azalpena": "'Ailegatu' bizkaierazko forma da (batuan onartzen da). Idatzizko erregistro formalean 'iritsi' edo 'heldu' hobetsia da. Ez penalizatu larriki."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 393,
+    "minor": 10,
+    "major": 6,
+    "critical": 0,
+    "EP100_gordina": 5.6,
+    "EP100_pisuduna": 3.05,
+    "EP100_gordina_modelo": 7.1,
+    "EP100_pisuduna_modelo": 6.4,
+    "minor_modelo": 10,
+    "major_modelo": 9,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

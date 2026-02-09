@@ -1,0 +1,191 @@
+{
+  "kodea": "MARIA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso polita eta emoziozko garapena bikaina! Amaiak bere bakarti-egoera nola gainditzen duen ondo kontatzen duzu. Hasieratik amaierara arku narratibo osoa egin duzu, pertsonaien eboluzioarekin.",
+          "Xehetasunak oso onak dira: Amaiaren sentipenak deskribatzen dituzu ondo (\"hil nahi zuen\" lotsatuta zegoenean), eta Maiderekin duen harremana pausoz pauso garatzen da naturaltasunez."
+        ],
+        "hobetzekoak": [
+          "Dialogoak gehiago lan ditzakezu — batzuk naturalak dira, baina besteetan pixka bat artifizialak dira (\"Nire bizitzari buruz hitz egin zien\" — ZER esan zioten?). Dialogo zuzenak sartuz, istorioa biziagoa egingo zenuke.",
+          "Amaiak bere gurasoekiko jarrera aldatzea azkarregixeago gertatzen da. Erakutsi, ez kontatu: dialogoren baten bidez erakutsi zergatik aldatzen den, ez soilik \"konturatu zen\" esanez."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu dialogoak erabiliz ERAKUSTEN pertsonaiek nola pentsatzen duten. Esaldi bakarra kontatzea («nola denak gustura zeuden») ordez, dialogo txiki bat jarri (zer esan zuten? nola?) Horrek istorioa askoz indartsuago egingo du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratibo argia: hasiera-korapiloa-amaiera. Donostiatik Gasteizera, bakardadetik adiskidetasunerako bidaia ondo egituratuta dago.",
+          "Paragrafoen banaketa logikoa da gehienetan: paragrafo bakoitzak eszenatxo bat kontatzen du (lehen eguna eskolan, Maiderrekin elkartu, afaria etxean...)."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak gehitu behar dituzu paragrafoen artean. Trantsizio asko ez dira ikusten: \"Egun batean...\" → \"Hurrengo egunean...\" → \"Aste batzuk ondoren...\" Hau ondo dago kronologia markatzeko, baina beste lotura mota batzuk erabil ditzakezu (\"Hala ere\", \"Gainera\", \"Orduan\").",
+          "Paragrafo batzuk luzeak dira eta barnean hainbat ekintza dituzte. Banatu: adibidez, \"Hurrengo hilabeteetan...\" paragrafoa bi zatitan bana zenezake, garapena hobetzeko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz bat gehiago erabiltzen paragrafo berriak hasterakoan, kronologia-adberbioak baino. \"Hala ere\", \"Horrez gain\", \"Horregatik\"... Horiekin testua koherenteago eta heldutasun handiagoz irakurriko da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Erregistroa egokia da narrazio baterako: ez da larriegixeago formala, baizik eta naturala, istorioa kontatzeko moduan.",
+          "Hitz batzuk oso egokiak dira testuinguruan: \"lagun benetakoa\", \"autoestimak gora egin zuen\", \"sentitu zuen bere tokia aurkitu zuela\". Oso ondo aukeratuta!"
+        ],
+        "hobetzekoak": [
+          "Hiztegia errepikatzen da asko: \"triste\" (4 aldiz), \"lagun bat\" (6 aldiz), \"oso\" (11 aldiz), \"hitz egin\" (11 aldiz). Erabili sinonimoak: tristea → atsekabetuta / mina hartuta; hitz egin → mintzatu / solasean ibili / berbetan egon; oso → benetan / guztiz / benetan.",
+          "Egitura sinpleak dira nagusi. Saiatu perpaus konplexuagoak erabiltzen: baldintzak (\"Lagun bat izan balu, ez zen...\"), kontzesiboak (\"Nahiz eta beldurtuta egon, sartu zen...\"). Horiek BLH maila handitzen dute."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu eta bilatu hitz errepikatuak. Markatu eta bilatu sinonimoak. Euskaltzaindiaren sinonimoen hiztegia edo sinonimoen webguneak lagungarriak dira. Hori eginda, testua askoz aberatsagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-komunztadura gehienetan ondo erabiltzen duzu: \"Amaia konturatu zen\", \"denek begiratu zioten\", \"pizzak erosi zituen\" — pluralak eta singularrak ondo bereizten dituzu. Hau ez da erraza eta oso ondo egin duzu!",
+          "NOR-NORI sistema ondo kontrolatzen duzu orokorrean: \"entzun zuen norbait galdetzen\", \"gustura zeuden\". Bikain!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) batzuetan ahaztu zaizu, eta hau oso garrantzitsua da. \"Mailerrek\" / \"aitak\" / \"amak\" aditz iragankorren subjektua direnean -K behar dute. Idatzi eta gero, errepasatu: ea aditza NOR-NORK den, eta subjektuari -K jarri.",
+          "Puntuazioan hobetzeko alorra daukazu: koma batzuk falta dira lotura-hitzen ondoren (\"Beraz, berehala...\" / \"Gainera, zuk...\"). Komak lotura-hitzen ondoren beti jarri behar dira."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, irakurri berriro esaldi bakoitza. Galdetu zeure buruari: aditza NOR-NORK da? Baietz bada, subjektuak -K behar du. Sistema hori aplikatuz gero, ergatiboaren akatsak % 90 murriztuko dituzu. Badaukazu maila horretarako!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=3.24 (aurreratua, tartea 7-8). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Oso lan ona egin duzu, benetan! Istorioa emozioz eta koherentziaz kontatzen duzu, eta Amaiak bere bidaia pertsonala egiten duela ikusten da. Hobekuntzarako tarterik handiena BLH-n dago: hiztegia aberastu eta egitura konplexuagoak erabiltzen hasiko bazara, maila bat gora egingo duzu. Ergatiboa lantzea da lehentasuna, eta horrekin gainontzeko guztia jatorriz datorren izango da!",
+    "lehentasuna": "Ergatiboa (-k): testu osoa errepasatu eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna, gainerako guztia ondo datorrelako!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa (-k) ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Maider Amaiaren ondoan jessarri zen",
+        "zuzenketa": "Maider Amaiaren ondoan jesarri zen (edo: MaideRREK... jesarri zen)",
+        "azalpena": "NOR-NORK aditza denean (jesarri → nork jesarri?), subjektuak ergatiboa (-k) behar du. 'Maider' subjektua da eta aditza iragankorra da, beraz: 'MaideRREK jesarri zen' edo 'Maider jesarri zen' (NOR aditza balitz). Kasu honetan aditza NOR da ('jesarri zen' = 'sentatu zen'), beraz ondo dago 'Maider jesarri zen', baina beste kasuetan (\"Maider... hitz egin zuen\") behar du -k."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-komunztadura — NOR plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "nabarmentzen zen nola denak gustura zeuden",
+        "zuzenketa": "nabarmentzen zen nola denak gustura ZEUDEN (ondo) — ez da akats",
+        "azalpena": "Kasu honetan ondo dago. Baina beste toki batean: \"Ikasle guztiak taldeetan zeuden\" (ondo), baina \"ez zuen lagunik\" → \"lagunak\" plurala bada \"ez ZITUEN\" behar da. Kontuz pluralarekin."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Beraz berehala bere gauzak kutxatik ateratzen hasi zen",
+        "zuzenketa": "Beraz, berehala bere gauzak kutxatik ateratzen hasi zen",
+        "azalpena": "Lotura-hitzen ondoren beti koma jarri behar da: \"Beraz,\", \"Gainera,\", \"Hala ere,\", \"Horregatik,\"..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — typo / letra banaketa",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "libruruak",
+        "zuzenketa": "liburuak",
+        "azalpena": "Letra errepikatua (typo): 'libRuRuak' → 'liburuak'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV) — objektua aditzaren atzetik",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "ez zuen lagunik. Bere gurasoek ez zuten askorik hitz egiten berarekin",
+        "zuzenketa": "Bere gurasoek berarekin askorik ez zuten hitz egiten (edo: ...ez zuten berarekin askorik hitz egiten)",
+        "azalpena": "Euskaraz ordena SOV da: objektua ('berarekin') aditzaren AURRETIK joan behar da gehienetan. Gaztelaniazko ordena ez jarraitu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "\"triste\" 4 aldiz, \"hitz egin\" 11 aldiz, \"oso\" 11 aldiz, \"lagun\" 15 aldiz",
+        "zuzenketa": "Sinonimoak erabili: triste → atsekabetuta / larrituta / mina hartuta; hitz egin → mintzatu / solasean ibili; oso → benetan / guztiz / erabat; lagun → adiskide / lagunkide",
+        "azalpena": "Hitz bera askotan errepikatzea testuaren kalitatea gutxitzen du. Sinonimoak erabiliz aberastasun lexikoa erakusten duzu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "\"gauza\" hitza 2 aldiz",
+        "zuzenketa": "Zehatzago izatea: \"gauzak\" → \"objektuak / jostailuak / liburuak\" (kontestuaren arabera)",
+        "azalpena": "\"Gauza\", \"egin\", \"eman\" bezalako hitz generikoak ahalik eta gutxien erabili. Hitz zehatzagoak erabiltzen saiatuko balina (\"jarri\", \"kokatu\", \"antolatu\"), hiztegia aberatsagoa litzateke."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 987,
+    "minor": 12,
+    "major": 10,
+    "critical": 0,
+    "EP100_gordina": 3.24,
+    "EP100_pisuduna": 1.06,
+    "EP100_gordina_modelo": 3.1,
+    "EP100_pisuduna_modelo": 2.7,
+    "minor_modelo": 8,
+    "major_modelo": 11,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "oharrak": ""
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}
