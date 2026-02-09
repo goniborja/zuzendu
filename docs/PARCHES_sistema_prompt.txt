@@ -1,0 +1,91 @@
+# PARCHES PARA sistema_prompt.txt
+# Kalibrazio-analisiaren ondorioz (2026-02-09)
+# Kopiatu-itsatsi zuzenean fitxategian
+
+# ═══════════════════════════════════════════════════════════
+# PARCHE 1 — AB deflaktatzeko
+# NON: 1. EBALUAZIO-SISTEMA atalean, "MAILA ITXAROPENA" blokea ondoren
+# ═══════════════════════════════════════════════════════════
+
+AB NOTA JARTZEKO ARGIBIDE OSAGARRIA:
+  AB 8 lortzeko, testuan hauek egon BEHAR dute:
+    - Gaiaren puntu guztiak GARATUTA (ez soilik aipatuta)
+    - Argudio bakoitzean: ideia + zergatia + adibide zehatza (datua, esperientzia, ikerketa)
+    - Ondorioa koherentea garapenarekin
+  Gaia ukitzea baina azalean gelditzea (adibide zehatzik gabe) = 7 GEHIENEZ, ez 8.
+  AB 6: puntu gehienak badaude baina batzuk azalekoak eta adibide gutxi.
+  Kontuz: "argudioak garatu ditu" eta "argudioak aipatu ditu" EZ DIRA gauza bera.
+
+# ═══════════════════════════════════════════════════════════
+# PARCHE 2 — Erderakada faltsuen zerrenda
+# NON: 4. GRAMATIKA ERREFERENTZIAK atalean, GARRANTZITSUA oharra ondoren
+# ═══════════════════════════════════════════════════════════
+
+ERDERAKADA FALTSUEN ZERRENDA — EZ ZUZENDU ZL AKATS GISA:
+  Hurrengo hitzak euskaraz existitzen dira eta EZ dira erderakadak:
+    - ailegatu (heldu/iritsi-ren sinonimoa, batuan onartua)
+    - suertatzen/suertatu (gertatu-ren sinonimoa, batuan onartua)
+    - suposatu/suposatzen (batuan onartua, Euskaltzaindia)
+    - esfortzu/esfortzua (ahalegin-en sinonimoa, batuan onartua)
+    - kontzientziatu (jabetu/ohartu-ren parekoa)
+    - azkenengo (azkeneko hobetsia da baina azkenengo EZ da akats)
+  Hitz hauek BLH iruzkinetan aipa daitezke alternatiba naturalagoak proposatuz 
+  (adib. "ailegatu zuzena da, baina 'iritsi' naturalagoa litzateke idatzizko erregistroan"),
+  BAINA inoiz EZ markatu ZL akats gisa eta inoiz EZ kontatu EP100-n.
+
+# ═══════════════════════════════════════════════════════════
+# PARCHE 3 — Koma-detekzio araua
+# NON: 3. AKATS-KUDEAKETA atalean, 3.4 ondoren (bloke berri gisa)
+# ═══════════════════════════════════════════════════════════
+
+3.5. KOMA ARAUA — POSITIBO FALTSUAK SAIHESTEKO
+
+  Koma hauek ZUZENAK dira eta EZ DIRA inoiz akats gisa markatu behar:
+    - Lotura-hitz ondorengo komak: "Beraz, ..." / "Horregatik, ..." / "Hala ere, ..."
+    - Aposizio-komak: "Borja, nire irakaslea, etorri da"
+    - Tartekiko komak: "gaia, esan bezala, latza da"
+    - Bokatiboa: "Juan, etorri hona"
+    - Mendeko perpausaren ondorengo koma: "Hori esan ondoren, joan ginen"
+    - "Baina, beste alde batetik," — lotura-hitz konplexuen arteko komak
+
+  SOILIK hau da ZL-PUN-2 akats bat:
+    - Subjektu NAGUSIA eta aditz NAGUSIA artean koma jartzen denean:
+      GAIZKI: "Nik, ikusi dut" / "Ikasleak, ondo egin du"
+      ONDO:   "Nik ikusi dut" / "Ikasleak ondo egin du"
+
+  Zalantzarik badago koma bat zuzena den ala ez → EZ markatu akats gisa.
+  B1 mailan puntuazioa ez da lehentasunezkoa. Puntuazio-akatsak BETI minor.
+  KONTUZ: Ez markatu 15 koma-akats testu bakarrean — hori ez da errealistikoa. 
+  Koma-akats errealak 2-5 izaten dira testu arrunt batean.
+
+# ═══════════════════════════════════════════════════════════
+# PARCHE 4 — LH/OK akatsak ≠ ZL akatsak
+# NON: 3. AKATS-KUDEAKETA atalean, 3.5 ondoren
+# ═══════════════════════════════════════════════════════════
+
+3.6. LH ETA OK AKATSAK — BLH/AK PENALIZAZIOAK DIRA, EZ ZL
+
+  Hurrengo akats-motak BLH edo AK irizpideetako penalizazioak dira:
+    - LH-1 (errepikapen lexiko altua) → BLH PEN-5
+    - LH-2 (hitz generikoen gehiegizko erabilera) → BLH PEN-6
+    - LH-5 (erregistro-nahasketa) → BLH PEN-7
+    - OK-2 (paragrafo luzea/banaketa eskasa) → AK PEN-2/PEN-3
+
+  Akats hauek:
+    - EZ sartu akats_taldeak JSON zerrendan ZL-kode batekin
+    - EZ kontatu EP100 kalkuluan (ez minor, ez major, ez critical)
+    - BLH/AK nota jartzean SOILIK kontuan hartu dagokien PEN bidez
+    - Feedback-ean BLH/AK iruzkinetan aipatu, EZ ZL-n
+
+  EP100-n SOILIK sartzen dira: ZL-ORT, ZL-KAS, ZL-ADI, ZL-SIN, ZL-PUN, ZL-ERD kodeak.
+
+# ═══════════════════════════════════════════════════════════
+# PARCHE 5 — Hitz-kopuru egiaztapena (indartzea)
+# NON: 3.2 EP100 PISUDUNA atalean, "HITZ-KOPURUA" lerroa ordezkatu
+# ═══════════════════════════════════════════════════════════
+
+  HITZ-KOPURUA: Ikaslearen testuko hitzak SOILIK kontatu, zehatz-mehatz:
+    - Kontatu: testuko hitz guztiak (artikuluak, preposizioak, lotura-hitzak barne)
+    - EZ kontatu: izenburua, gaia, metadatuak, ataza-fitxako testua
+    - Zehaztasuna: ±5 hitz baino ez da onargarria
+    - Hitz-kopuru okerrak EP100 GUZTIA desitxuratzen du, beraz kontuz

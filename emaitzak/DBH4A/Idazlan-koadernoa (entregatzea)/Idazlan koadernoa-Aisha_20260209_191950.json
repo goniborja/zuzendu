@@ -1,0 +1,229 @@
+{
+  "kodea": "IDAZLAN KOADERNOA-AI",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: 0p - Perfekzio susmagarria ez. Testu honek akats ugari ditu morfologia, ortografia eta sintaxian.",
+      "S2: 0p - Hiztegi-maila naturala DBH4 mailako ikasle batentzat.",
+      "S3: 1p - Egitura oinarrizkoa baina ez perfektua. Hainbat salto logiko eta koherentzia-arazo.",
+      "S4: 0p - Tonua naturala eta pertsonala. Ez da robotikoa.",
+      "S5: 0p - Luzera egokia (839 hitz). Ez da susmagarria.",
+      "S6: 2p - Akats-patroi errepikakorrak: ergatiboa falta sistematikoki, deklinabidea nahastua, aditz-komunztadura okerra. Hau ikasle errealaren patroia da.",
+      "S7: 1p - Kalitatea ez da uniformea. Hasieran hobeto hasita baina ondoren akatsak areagotzen dira."
+    ],
+    "oharrak": "IA probabilitatea baxua da (4/21). Testua ikasle batek idatzia dirudi."
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio bat kontatzen duzu eta ekintza-sekuentzia bat badago: protagonista baten bila doa, mundu berri batera sartzen da, aurkikuntza harrigarriak egiten ditu, beldurgarria denarekin kokatzen da. Hori da narratzeko ahalmena!",
+          "Elementu interesgarriak dituzu: mapa bat margotzen duenean gauza errealetatik desagertzen direla, mundu paralelo bat, misio bat betetzeko bidaia, aita bat bilatzea... Horiek guztiak ondo txertatzen dira narrazioan."
+        ],
+        "hobetzekoak": [
+          "Istorioak salto handiak ditu. Adibidez: nola pasatzen da herrialdetik Madagazkarera? Zergatik ordura arte Madagazkarera joan behar? Zein da aita horrekin dituzun esteka? Zer gertatzen da amaieran zehatz-mehatz? Trantsizio hauek gehiago landu behar dituzu.",
+          "Amaiera oso azkarra da eta ez da ulertzen ondo: 'ezin nuen [begiak zabaldu]', 'mamu bat nintzen', 'mundua utsituta geratu zen' — amaiera hau gehiago garatu beharko zenuke, irakurleak uler dezan zer gertatu den."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, irakurri istorioa eta galdetu: 'Nondik nora pasatzen da ekintza batetik bestera?' eta 'Ulertuko al du irakurleak zergatia?'. Trantsizio horiek argi utzi behar dituzu esaldi batzuekin. Horrela, istorioak koherentzia gehiago izango du!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa bat dago eta ekintzak sekuentzia bat jarraitzen du. Hau oinarria da!",
+          "Elkarrizketa-marrak erabili dituzu (— symbol) eta hori ondo dago elkarrizketa-ataletan."
+        ],
+        "hobetzekoak": [
+          "Esaldien arteko lotura oso ahula da. Falta dira lotura-hitzak: 'ondoren', 'horregatik', 'hala ere', 'beraz'. Adibidez: 'Herrialdera sartu nintzen. Lehenengo gauza ikusi dudana...' → 'Herrialdera sartu nintzenean, lehenengo gauza ikusi nuena...' edo 'Sartu nintzen eta lehenengo gauza...'",
+          "Batzuetan paragrafoak oso luzeak dira esaldi askok ideia desberdinak dituztelako. Adibidez, laugarren paragrafoak hainbat ekintza ditu: sartu, ikusi, harrituta geratu, joan, salto egin, jausi, negarrez hasi... Horiek guztiak paragrafo banatan jar zitezkeen."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, begiratu ea esaldi bakoitzaren amaieran lotura-hitz bat jar dezakezun hurrengo esaldia hasteko: 'Gero', 'Ondoren', 'Horrez gain', 'Orduan', 'Horregatik'. Hori eginez gero, testua askoz koherenteagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia nahiko aberatsa da narrazioa sortzeko: 'expedizioa', 'aurkikuntza', 'kartografa', 'ozeano pasifikoa', 'templu', 'distorzionatu', 'etsipen'. Hau oso ona da!",
+          "Perpaus sinpleak eta konplexuak nahasten dituzu. Batzuetan egitura konplexuagoak saiatu zara erabiltzen: 'joaten naizen lekuetara', 'marraztu nuenetik', 'gure mundua apurtzen zaude'."
+        ],
+        "hobetzekoak": [
+          "Hitz batzuk errepikatu egiten dituzu: 'hasi', 'izan', 'egin', 'esan'. Errepikapen hori normala da, baina sinonimoak bilatzea oso lagunduko luke: 'hasi' → 'abiatu', 'ekin'; 'izan' → 'gertatu', 'suertatu'; 'egin' → 'burutu', 'gauzatu'.",
+          "Gaztelaniazko esamoldeak txertatzen dituzu zuzenean: 'Hola te estaba esperando', 'Soy tu entrenador...', 'Vamos rápido...'. Hau nahita egin baduzu (pertsonaia batek gaztelaniaz hitz egiten duelako), azaldu beharko zenuke. Bestela, hobe da guztia euskaraz idaztea."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, bilatu 'hasi', 'izan', 'egin' hitzak eta konprobatu ea behin edo biren bat sinonimoz ordeztu ditzakezun. Horrek aberastasun handiagoa emango dio testuari!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 3,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK aditz-sistema saiatzen zara erabiltzen, eta batzuetan ondo dago: 'egin nuen', 'ikusi nuen', 'esan nuen'. Hau kontrolatzen ari zara!",
+          "Deklinabidetik zenbait forma zuzen erabiltzen dituzu: 'kartografa bat naiz', 'nire kuadernoan', 'ekspedizioan'."
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-K) 15 aldiz baino gehiagotan falta da testuan: 'nire aita joan zenetik' → 'nire aita joan ZENetik' (ondo); 'gauza batek atenzioa deitu zidan' → 'gauza bateK atenzioa deitu zidan'. Hau da akats larriena eta sistematikoa. Gogoratu: aditza NOR-NORK denean, subjektuak BETI -K behar du. Berriro irakurri eta galdetu: 'Nork egin du ekintza hau?' → hori da subjektua, eta -K jarri!",
+          "Aditz-komunztadura okerrak: 'saiatu nintzen' → 'saiatu nintzen' (ondo); baina 'zaitu' → 'zabaldu'. Batzuetan aditz-formak nahastuta daude edo ez dira existitzen euskaraz: 'hazi' (ez da existitzen), 'ebaitzeko' (ebaki behar zen), 'zaitu' (zabaldu)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu esaldi bakoitza eta bilatu aditz nagusia. Galdetu: aditza NOR-NORK da? (Nik/Zuk/Hark... + EGIN egitura). Baietz bada, subjektuari -K jarri. Sistema hau praktikatzen baduzu, ergatiboa kontrolatuko duzu eta nota asko igoko da!"
+      },
+      "zl_modelo": 3,
+      "python_doikuntza": "Modeloaren ZL=3 koherentea EP100=12.28 (oinarrizkoa, tartea 3-4)"
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 4.25,
+    "biribiltzea": 4,
+    "heziberri_maila": "hasiberria",
+    "orokorra": "Ideia ona duzu istorio bat sortzeko eta irudimena badaukazu, hori txapeldun! Baina gramatika aldetik lan handia dago egiteko. Ergatiboa (-K) da arazo nagusiena, eta hori konpontzen baduzu, diferentzia ikusiko duzu. Idazten jarraitu, irakurri, eta gramatika errepasatu. Bidean zoaz!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza errepasatu eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehentasun handiena eta hemen irabaziko dituzu puntu gehienak!",
+    "batez_bestekoa_modelo": 4.25,
+    "biribiltzea_modelo": 4.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-K)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 18,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "gauza batek atenzioa deitu zidan",
+        "zuzenketa": "gauza bateK atenzioa deitu zidan",
+        "azalpena": "Aditza NOR-NORK denean (deitu → nork deitu?), subjektuak -K marka behar du. Hau da arau nagusia euskaraz. Fijatu: 'gauza batek' da subjektua eta aditzaren ekintza egiten duena. 'Niri' (zidan) datibo-osagarria da, baina subjektuak ergatiboa behar du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-komunztadura okerra",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "entrenatuko duzu",
+        "zuzenketa": "entrenatuko zara (NOR) edo entrenatuko duzu (NOR-NORK objektuarekin)",
+        "azalpena": "Aditz-komunztadura ez dator bat testuinguruarekin. 'Entrenar' aditza itzuli behar da euskaraz ('trebatu', 'entrenatu') eta kontuz sistema hautatu: NOR ('trebatuko zara') edo NOR-NORK objektuarekin ('zerbait trebatuko duzu')."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-forma okerra edo ez existitzea",
+      "akats_id": "ZL-ADI-1",
+      "kopurua": 8,
+      "larritasuna": "critical",
+      "adibidea": {
+        "detektatutakoa": "hazi nintzen (korrika hasi)",
+        "zuzenketa": "hasi nintzen",
+        "azalpena": "'Hazi' ez da existitzen euskaraz aditz gisa (haztea = 'crecer'). Nahi zenuen aditz-forma 'hasi' da: 'korrika hasi nintzen'. Aditz-formak ondo hautatu behar dira."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Deklinabide-akatsak: kasuak nahastu",
+      "akats_id": "ZL-KAS-3",
+      "kopurua": 7,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Madagazkarera heldu",
+        "zuzenketa": "Madagazkarrera heldu / Madagazkarrera iritsi",
+        "azalpena": "Leku-izen propioak ere deklinatu behar dira. 'Madagaskarra' + -ra (adlatiboa) → 'Madagazkarrera'. Gainera, kontuz: 'heldu' izan daiteke 'iritsi' edo 'heldu adin bati', baina leku batera joateko 'iritsi' hobetsia da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia-akatsak: hitz-banaketa eta elkarketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 6,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "aurkepiak",
+        "zuzenketa": "aurpegiak",
+        "azalpena": "'Aurpegia' da forma zuzena. Ez nahastu 'aurka' (kontra) eta 'aurpegi' (cara). Gainera, typo bat dago: 'aurkepiak' → 'aurpegiak'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazio-akatsak: koma falta",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Urduri neure ingurua ikusten hasi nintzen",
+        "zuzenketa": "Urduri, neure ingurua ikusten hasi nintzen",
+        "azalpena": "Adjektibo bat esaldiaren hasieran testuingurutik bereizita badago, koma jarri behar da. 'Urduri' (adjektiboa moduan) + koma."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakadak: gaztelaniazko hitzak edo kalkoak",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Hola te estaba esperando",
+        "zuzenketa": "Kaixo, zure zain nengoen",
+        "azalpena": "Gaztelaniazko esaldi oso bat sartu duzu zuzenean. Personaiak gaztelaniaz hitz egiten badu, azaldu beharko zenuke edo euskaraz itzuli. Bestela, akats bat da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Sintaxia: ordena okerra (SOV araua)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "saiatu nintzen zabaltzn (zabaltzeko)",
+        "zuzenketa": "zabaltzeko saiatu nintzen",
+        "azalpena": "Euskaraz, aditz nagusia (zabaltzeko) aditz laguntzailearen aurretik joan behar da normalean: 'zabaltzeko saiatu nintzen'. SOV ordena da euskarako egitura oinarrizkoa."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 839,
+    "minor": 13,
+    "major": 33,
+    "critical": 8,
+    "EP100_gordina": 12.28,
+    "EP100_pisuduna": 2.5,
+    "EP100_gordina_modelo": 9.18,
+    "EP100_pisuduna_modelo": 8.46,
+    "minor_modelo": 13,
+    "major_modelo": 38,
+    "critical_modelo": 8,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    },
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.4,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 0,
+        "S6": 1,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua argi eta garbi DBH4ko ikasle batek idatzia da. Akats naturalak ugariak dira: 'garatu ginen' (geratu beharrean), 'sartuno' (sartzera), 'aurkepia' (aurpegia), 'mozteko' (mozteko), 'hiltzen nengoen' (nengoen hiltzen), 'zaitu' (zabaldu), etab. Hiztegia oso sinplea da eta mailari dagokiona. Egitura narratiboa haur-gazteenak typikoa da, koherentzia faltarekin eta salto narratibo asko. Ipuin fantasiaren tonua deskribapen emozionalekin da, ez robotikoa. Luzera inguruan 650 hitz (ez 800+). Akats-patroi naturalak ugariak: deklinabide akatsak, aditz jokatze akatsak, puntuazio arazoak, gaztelaniazko eragina ('Hola te estaba esperando'). Kalitatea ez da uniformea, zati batzuk hobeto idatziak daude beste batzuk baino. Oso argi dago giza idazkera dela, gazteak sortu eta akats naturalez betea."
+    }
+  }
+}

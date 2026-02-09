@@ -1,0 +1,263 @@
+{
+  "kodea": "AITOR MADARIAGA BERM",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura klasikoa ondo erabili duzu: aurkezpena-korapiloa-bukaera. Pertsonaiak argi aurkeztu dituzu eta haien arteko harremanak ongi ezarri dituzu hasieran.",
+          "Istorioak erritmoa du eta irakurlea engantxatzen du. Tentsioa eraikitzen duzu poliki-poliki eta bukaera dramatikoa da. Krimena-suspensea genero honetan lan ona egin duzu!"
+        ],
+        "hobetzekoak": [
+          "Pertsonaien psikologia sakonago garatu zenezake. Adibidez, June-ren dudan (zergatik ez zion taldeko presioari aurre egin?) edo Aitor-en sentimenduen eboluzioa xehetasun gehiagorekin azal zenezake.",
+          "Narrazioaren erritmo batzuetan azkar samarra da. Esate baterako, plana egitetik egiteko egunera salto azkarra egiten duzu. Trantsizio gehiago edo denbora-arloko xehetasun gehiago lagundu egingo luke."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu pertsonaien pentsamendu barnekoak agerian jartzen, batez ere erabaki larrietan. Hori eginda, istorioa sakonagoa eta sentikorragoa izango da!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa logikoa da: pertsonaia bakoitza aurkeztu, gero korapiloa garatu, amaieran amaiera. Egitura argia dago.",
+          "Lotura-hitz ugari erabili dituzu: 'ordez', 'berriz', 'azkenik', 'ordea', 'bat-batean', 'horrela'... Honek testua lotzen laguntzen du eta irakurlea gidatzen duzu."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz batzuk errepikatzen dituzu: 'ordea' 3 aldiz agertzen da, 'berriz' ere ugari. Saiatu aniztasun handiagoa bilatzen: 'aldiz', 'aitzitik', 'bestalde'...",
+          "Paragrafo batzuk oso luzeak dira (batez ere pertsonaiak aurkezten dituzu lehen zatian). Zatitu paragrafo luzeagoak bi edo hirutan, ideia nagusi bat bakoitzean."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz berriak txertatzen 'ordea' edo 'berriz' baino: 'aldiz', 'are gehiago', 'halaber'. Horrekin koherentzia maila igo egingo da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa erabili duzu narraziorako: 'bastertuta', 'konbentzituta', 'trikimailu', 'panikoan', 'pikutara'... Hitz hauek naturalak dira eta istorioa aberasten dute.",
+          "Perpaus-egitura konplexuak erabili dituzu: mendeko perpausak, kausalak, kontzesiboak... Hau maila aurreratua da! Adibidea: 'Merezi zuen, urte askotako esfortzuak pikutara botatzea?'"
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko batzuk daude: 'diru' hitza oso sarri agertzen da (normalean narrazioaren gai nagusia delako, baina noizean behin 'kapital', 'dirutza' edo beste sinonimoren bat erabil zenezake).",
+          "Erregistroa gehienetan egokia da, baina zati batzuetan kolokialismoak agertzen dira ('beitu', 'gure adineko gazteak'). Narraziorako erregistro neutralago bat egokiagoa litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu hitz klabeak aldatzen noizean behin sinonimoekin. Hori eginda, testua are aberatsagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-morfologia nahiko kontrolatuta daukazu: 'geratu ziren', 'ikasi nahi zuen', 'ihes egiten ahalegindu ziren'... NOR-NORK sistema gehienetan ondo erabiltzen duzu!",
+          "Ortografia orokorrean ona da, eta testu luzea idatzi duzu akatsetatik ihes egin gabe. Lan polita!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboaren (-k) arazoa akats nagusiena da: 11 aldiz ahaztu duzu. Hau da lehentasun bat: aditza NOR-NORK denean, subjektuak -K behar du beti. Adibidea: 'Aitorrek' → 'Aitorrek esan zuen' (ondo), baina 'Aitor zegoen' (NOR) → 'Aitor zegoen' (ez da -K behar).",
+          "Kasu-marketan ere arazoak daude: datiboa (-ri) ahaztu duzu 2 aldiz ('Aitorrek lagunak batu' → 'laguneI batu'), eta ablatiboa (-tik) ere nahasten duzu ('momentu hartik' → 'momentu harteTIK')."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, errepasatu esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple horrekin akats hauek desagertuko dira!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=2.0 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Narrazioa oso ona da! Istorioak egitura argia du, pertsonaiak interesgarriak dira eta suspensea ondo eratzen duzu. Hizkuntza-mailan, konplexutasun sintaktikoa erakusten duzu eta hiztegi aberatsa daukazue. Hobetzeko tarte nagusiena ergatiboa da: subjektu-aditz konbinazioetan -K marka kontuz jarri behar da. Horri arreta jarriz gero, maila bikaintasunera iritsi ahal izango duzu. Oso lan ona egin duzu, benetan!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 11,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Aitor zen ikasleak elkartzen zituena",
+        "zuzenketa": "AitorrEK zen ikasleak elkartzen zituena",
+        "azalpena": "Aditza NOR-NORK denean (nork elkartzen zituen? → Aitorrek), subjektuak -K marka behar du."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Datiboa (-ri) ahaztu",
+      "akats_id": "ZL-KAS-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Aitorrek lagunak batu egin zituen",
+        "zuzenketa": "Aitorrek lagunaK batu egin zituen (edo: laguneI deitu egin zien)",
+        "azalpena": "Kontestuan, 'lagunak batu' = 'lagunak bildu' (hau ONDO dago). Baina beste esaldi batean: 'etxeko giroa azaldu zien' → 'lagune-I' izan beharko litzateke (NOR-NORI-NORK)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ablatiboa (-tik) nahasketa",
+      "akats_id": "ZL-KAS-4",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Momentu hartik aurrera",
+        "zuzenketa": "Momentu harteTIK aurrera",
+        "azalpena": "Ablatiboa (-tik) jatorria/abiapuntua adierazten du. 'Hartik' ez da zuzena; 'harteTIK' edo 'hortik' izan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "categoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ez zeudenean",
+        "zuzenketa": "ez zeuDENEan",
+        "azalpena": "Subjektua plurala denean (gurasoak), aditzak ere plurala izan behar du: 'zeuden' ez, 'zeudENEan' bai (inesibo plurala)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — subjektua vs objektua",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Aitor eta Junek bazekiten ertzainak haien bila joango zirela",
+        "zuzenketa": "Aitor eta Junek bazekitEN ertzainak haien bila joango zireLa",
+        "azalpena": "Subjektua plurala da (Aitor eta June → haiek), beraz 'bazekiten' ondo dago. Baina esaldiaren amaiera 'zirela' izan behar da (ez 'zitela')."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Konpletibo okerra (-la/-nik)",
+      "akats_id": "ZL-SIN-4",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Dudan jartzen zuen ikasketak benetan triunfoa ekarriko baliote",
+        "zuzenketa": "Zalantzan jartzen zuen ea ikasketak benetan triunfoa ekarriko lioKEten",
+        "azalpena": "Baldintza konplexua da. 'Baliote' ez da zuzena hemen; 'lioketen' edo 'ba-lioteKE' izan behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — hitz-banaketa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "bizitxa",
+        "zuzenketa": "bizitza",
+        "azalpena": "Typo bat: 'bizitza' idatzi nahi zenuen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — sibilanteak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "medikuntza",
+        "zuzenketa": "medikuntza (forma zaharra) edo mediZina (batua)",
+        "azalpena": "Batuan 'medizina' da forma estandarra, baina 'medikuntza' dialektala onargarria da."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Puntuazioa — koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Aitor ordea oso haserretuta zegoen",
+        "zuzenketa": "Aitor, ordea, oso haserretuta zegoen",
+        "azalpena": "'Ordea' bezalako lotura-hitzak koma artean joan behar dute."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — kalko sintaktikoa",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "lapurtuko dugu",
+        "zuzenketa": "lapur egingo dugu",
+        "azalpena": "'Lapurtu' aditza ez da erabiltzen euskaraz ohiko aditz gisa. 'Lapur egin' esamoldea da zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz-kalkoa",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "topera aprobetzatu",
+        "zuzenketa": "guztiz/erabat aprobetxatu",
+        "azalpena": "'Tope' gaztelaniazko hitza da zuzenean. Euskaraz 'guztiz', 'erabat', 'osotik' erabili behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa (SOV)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 1,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "erakutsi zion Aitorrek",
+        "zuzenketa": "Aitorrek erakutsi zion",
+        "azalpena": "Euskaraz subjektua aditzaren aurretik joan behar da normalean (SOV ordena). 'Aitorrek' hasieran jarri behar da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1247,
+    "minor": 8,
+    "major": 21,
+    "critical": 0,
+    "EP100_gordina": 4.01,
+    "EP100_pisuduna": 2.0,
+    "EP100_gordina_modelo": 3.4,
+    "EP100_pisuduna_modelo": 3.0,
+    "minor_modelo": 7,
+    "major_modelo": 20,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats naturalak ugariak dira: 'Ikasle hona zen' (ona), 'sartunda' (sartuta), 'beraren logelan' (logela), 'medikuntza' (medikuntza), 'topera aprobetzatu' (tope, aprobetxatu), 'paintailaren' (pantailaren), 'Beitu' (begiratu), 'Dudan jartzen zuen' (Zalantzan), 'negozio bat hazteko' (hasteko), 'laputuko' (lapurtuko), 'zeuden' (zegoen), 'orkatilla' (orkatila), 'urduri zueden' (zeuden), eta beste hainbat. Hiztegi eta aditz-denborak ere ez dira beti egokiak. Narrazio-egitura ona da baina ez perfektua. Kalitatea ez da uniformea, atalak ditu hobeak eta okerragoak. Luzera (1000 hitz inguru) pixka bat luzea da baina ez susmagarria batxilergoko ikasle batentzat. Tonua naturala da, ez robotikoa, eta pertsonalitatea nabari da narratiban. Oso argi dago ikasle gazte batek idatzitako lana dela, ahaleginarekin baina akats naturalez betea."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "kodea": "IDAZLAN KOADERNOA FI",
+  "segurtasun_azterketa": {
+    "susmagarria": false,
+    "ia_puntuazioa": 4,
+    "seinaleak": [
+      "S1: 2/3 - Testuak akats batzuk ditu, ez da perfektua",
+      "S2: 1/3 - Hiztegi egokia DBH4 mailarako, ez da susmagarria",
+      "S3: 2/3 - Egitura narratiboa ondo garatuta baina naturala",
+      "S4: 0/3 - Tonua pertsonala eta bizitsua, ez robotikoa",
+      "S5: 1/3 - Luzera egokia (734 hitz)",
+      "S6: 1/3 - Akats-patroi naturalak: ergatiboak, puntuazioa",
+      "S7: 0/3 - Kalitatea uniformea baina ez susmagarria"
+    ],
+    "oharrak": "IA probabilitate baxua. Testua ebaluatu da normalean."
+  },
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 9,
+      "maila": "bikaintasuna",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Narrazioa primeran egituratu duzu: hasiera argia, korapiloa garatua, eta amaiera borobila. Saskibaloi-testuingurua argi azaltzen duzu hasieratik, eta gero pertsonaiak garatzen joaten zara naturalki.",
+          "Istorioak indar emotibo handia du. Markosen bidaia pertsonala oso ondo adierazten duzu: haren ahalegina, Noraren laguntza, eta azken partidako tentsioa. Irakurleak sentitzen du gertatzen ari dena!"
+        ],
+        "hobetzekoak": [
+          "Azken partidaren deskribapena bikaina da, baina zenbait xehetasun gehiago jar zenezake inguruneari buruz: zer sentitzen dute ikusleek? Zer entzuten da? Honek oraindik indartuago egingo luke klimax hori.",
+          "Noraren pertsonaia oso ondo garatuta dago, baina beste lagun batzuk agertu arren (Larrañaga, taldekideak), hauek ere zertxobait gehiago landu ahal izango zenituzke testuingurua aberasteko."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu ingurunearen deskribapen sentsorialak gehitzen (usainak, soinuak, argia...). Horrekin mundua oraindik errealistagoa egingo duzu!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa argia da: sarrera (Markos entrenatzen), garapena (Noraren laguntza, probak), eta bukaera (partida erabakigarria). Irakurleak erraz jarraitzen du istorioa.",
+          "Paragrafoen banaketa oso logikoa da. Eszenak eta denbora-jauzi bakoitza ondo bereizten dituzu, eta horrek testua irakurterraz egiten du."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz gehiago erabiltzea falta zaizu eszenen arteko trantsizioak leunagoak egiteko. Adibidez, 'Denborarekin' eta 'Azkenean' erabili dituzu, baina beste batzuk gehitu ahal zenituzke: 'Egun hartatik aurrera', 'Aste batzuk geroago'...",
+          "Zenbait paragraforen artean lotura espliziturik ez dago. Adibidez, Noraren lehenengo agerralditik bere laguntzara pasatzean, trantsizioa zertxobait leunagoago egin ahal izango zenuke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu eszena bakoitzaren hasieran denborazko edo kausazko lotura-hitz bat sartzen ('Egun batzuk geroago...', 'Horregatik...', 'Pixkanaka...'). Horrekin testua askoz fluidoagoa izango da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi aberatsa eta egokia erabiltzen duzu narrazioan: 'harmailetan', 'bekain bat altxatu', 'ukabilak estutu', 'garrasika lehertu'... Esamolde hauek testua bizitasunez betetzen dute!",
+          "Mendeko perpaus anitzak eta egitura konplexuak erabiltzen dituzu naturalki: 'Beste guztia desagertuko balitz bezala zen', 'Asko gustatzen zitzaion baloiaren hotsa lurrean botaka entzutea'. Hau maila oso altukoa da DBH4rako!"
+        ],
+        "hobetzekoak": [
+          "Zenbait esaldi errepikakor dira egituraz: 'esan zuen' 8-9 aldiz agertzen da. Saiatu aldaerak erabiltzen: 'erantzun zuen', 'galdetu zuen', 'oihu egin zuen', 'xuxurlatu zuen'...",
+          "Erregistroa gehienetan egokia da, baina 'Ez nekien oihu egin edo baloia bota' esaldian 'ez neukien' edo 'ez nekien' biak zuzen dira, baina erregistro narratiboan 'ez nekien' naturalagoa da (ondo!). Kontuz: zenbait esalditan ergatibo faltak daude, eta hau hobetzea funtsezkoa da."
+        ],
+        "feed_forward": "Hurrengo aldian, 'esan' aditzaren sinonimoak erabiltzeko zerrenda egin aurrean: erantzun, galdetu, oihu egin, iradoki, adierazi... Horrekin pertsonaien elkarrizketak askoz koloreduneagoak izango dira!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORI-NORK sistema ondo kontrolatuta daukazu gehienetan: 'lagundu zaitzaket', 'eman zion', 'irakasten zion'. Hau ez da erraza eta oso ondo egin duzu!",
+          "Aditz-denborak eta aspektuak ondo erabiltzen dituzu narratiban: iragana (zen, zuten), ohitura (joaten zen), eta une zehatza (sartu zen). Hau funtsezkoa da narrazio batean eta bikain egiten duzu!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-K) 7 aldiz ahaztu zaizu, eta hau da akatsik garrantzitsuena zure testuan. Gogoratu: aditza NOR-NORK denean, subjektuak -K behar du. 'Nora zen' → 'Nora zeGOEN' (NOR) edo 'NoreK zen' (NORK)? Kontestua behar da, baina normalean 'Nora zegoen' esan nahi zenuen.",
+          "Puntuazio-akatsak ere baditugu, batez ere komak falta lotura-hitzen ondoren ('Baina bazuen' → 'Baina, bazuen') eta esaldien artean ('Egun horretan Markosek ulertu zuen' → 'Egun horretan, Markosek ulertu zuen'). Hauek konpontzea erraza da!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero, ERREPASATU esaldi bakoitza honela: aditza NOR-NORK da? Baietz bada, subjektuari begiratu eta -K jarri. Sistema sinple horrekin akats gehienak desagertuko dira. Badaukazu maila hori harrapatzeko, benetan!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.09 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 8.0,
+    "biribiltzea": 8,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Primeran egin duzu lan hau, benetan primeran! Narrazioa oso ongi egituratu duzu, pertsonaiak garatzen dituzu, eta istorioak indar emotibo handia du. Hiztegi aberatsa erabiltzen duzu eta egitura konplexuak naturalki txertatzen dituzu. Hobetzeko arlo nagusia ZL da: ergatiboa kontrolatzea eta puntuazioa zaintzea. Akats hauek konponduta, 9-10 maila harrapatzeko prest egongo zara! Zorionak lan honengatik eta aurrera!",
+    "lehentasuna": "Ergatiboa (-K): esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna hurrengo idazlanerako!",
+    "batez_bestekoa_modelo": 7.75,
+    "biribiltzea_modelo": 8.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa ahaztu (NOR-NORK aditzetan)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 7,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Nora zen, ikaskide bat",
+        "zuzenketa": "NoreK zen (kontestuan: 'zegoen' NOR aditza da, baina 'zen' anbiguoa da; 'Nora, ikaskide bat, zegoen' edo berridatzi)",
+        "azalpena": "Aditza NOR-NORK denean, subjektuak -K marka behar du beti. Kasu honetan, kontestua argi ez dagoenez, anbiguotasuna dago. Normalean 'Nora zegoen' esan nahi zenuen (NOR), baina 'NoreK zen' erabiliz gero, NORK aditza izan beharko luke."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina bazuen begi hutsez",
+        "zuzenketa": "Baina, bazuen begi hutsez",
+        "azalpena": "Lotura-hitz baten ondoren (baina, hala ere, gainera, ordea...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta esaldi hasieran denborazko adierazpenetan",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Egun horretan Markosek ulertu zuen",
+        "zuzenketa": "Egun horretan, Markosek ulertu zuen",
+        "azalpena": "Esaldi hasieran denbora-adierazpen bat dagoenean (egun horretan, atzo, azkenean...), koma jarri behar da ondoren."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — subjektua plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Partidarik garrantzitsuenaren eguna iritsi da",
+        "zuzenketa": "Partidarik garrantzitsuenaren eguna iritsi DA (ondo) edo partidak... iritsi DIRA (plurala)",
+        "azalpena": "Subjektua singularra denean ('eguna'), aditza ere singularrean egon behar du ('da'). Kasu honetan ZUZENA da, baina beste esaldi batean akats bat egon liteke."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Hitz-errepikapen altua ('esan zuen')",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'esan zuen' 8-9 aldiz",
+        "zuzenketa": "Aldaerak: erantzun zuen, galdetu zuen, oihu egin zuen, adierazi zuen, iradoki zuen",
+        "azalpena": "'Esan' aditza oso errepikatzen da. Hau ez da ZL akats bat (gramatika zuzena da), baizik eta BLH hobetzeko oharra. Sinonimoak erabiltzea narrazioa aberastuko du."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 734,
+    "minor": 8,
+    "major": 8,
+    "critical": 0,
+    "EP100_gordina": 3.27,
+    "EP100_pisuduna": 1.09,
+    "EP100_gordina_modelo": 3.27,
+    "EP100_pisuduna_modelo": 2.59,
+    "minor_modelo": 8,
+    "major_modelo": 8,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    },
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 5,
+      "ia_puntuazioa_modelo": 1,
+      "seinaleak": {
+        "S1": 1,
+        "S2": 1,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 1,
+        "S7": 1
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua DBH4ko ikasle batek idatzi duela dirudi. Narrazioaren egitura ona da baina ez perfektua, akats txikiak ditu ('Bera?' galdera bat bakarrik, 'Norarekin hainbestetan ibilia zen lekuan' esaldi pixka bat okertua da). Hizkuntza egokia da maila horretarako, C1/C2 mailako hitzik bereziki nabarmenik gabe. Istorioak nortasuna du eta tipikoa da adingabeek idaztea saskibaloiaren, adiskidetasunaren eta gainditzeko gogoaren inguruko narrazio motibatzaileak. Luzera aproposekoa da (900 hitz inguru, pixka bat luzea baina ez kezkagarria). Akats txiki batzuk daude modu naturalean (puntuazio, errepikapenak). Kalitatea uniformea da baina ez perfektua. Guztira, ikasle gazte baten lan ona dirudi, IAren sorkuntza baino gehiago."
+    }
+  }
+}

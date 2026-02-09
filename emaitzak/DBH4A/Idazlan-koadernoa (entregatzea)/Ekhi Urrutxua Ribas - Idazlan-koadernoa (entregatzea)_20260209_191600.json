@@ -1,0 +1,208 @@
+{
+  "kodea": "EKHI URRUTXUA RIBAS",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorioa oso ondo garatuta dago hasieratik amaierara. Zure esperientzia pertsonala modu oso hunkigarrian kontatu duzu, eta irakurleak jarraitu egin nahi du istorioa.",
+          "Korapiloa oso argi azaltzen duzu (gurasoek ezetz esatea), eta nola ebazten saiatzen zaren ere bai. Narrazioaren egitura ondo erabiltzen duzu eta denbora-lerro lineala jarraitzen duzu, ulergarria eginez."
+        ],
+        "hobetzekoak": [
+          "Amaiera pixka bat laburregia da — kontatu duzu zer ikasi duzun, baina ez duzu azaltzen ea orain badaukazu gurasoek baimenik ala oraindik itxaroten ari zaren. Amaiera zehatzagoa emango lukete istorio osoari biribilketa hobea.",
+          "Gainera, osabaren pertsonaia garrantzitsua da istorioan, baina ez duzu oso sakon garatzen. Osabak zergatik laguntzen zizun, berak nola bizi zuen anaiaren heriotza... horrek aberastu egingo luke istorioa."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu amaiera hiru esaldiz zabaltzen: ea lortu duzu zure helburua, ea oraindik lanean ari zaren, edo nola dago egoera gaur egun. Irakurleak jakin nahi du zer gertatu zen azkenean!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioaren egitura argia da: aurkezpena (nor zaren, zure ametsa) → korapiloa (gurasoek ezetz) → bilaketa (osabak laguntzen dizu) → klimaxa (istripua eta amarekin hitz egitea) → amaiera (gogoeta). Hau primeran!",
+          "Paragrafoen banaketa logikoa da: paragrafo bakoitzak une narratibo bat kontatzen du, eta ez dago nahasketarik. Irakurleari erraz jarraitzen zaio."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitzak nahikoak dira baina noizean behin errepikatu egiten dituzu: 'baina' 14 aldiz agertzen da, 'eta' oso maiz, 'orduan' 2 aldiz... Saiatu anitzagoak erabiltzen: 'hala ere', 'horregatik', 'gero eta gero', 'horrez gain', 'horren ostean' (hau erabili duzu behin, bikain!).",
+          "Lehen paragrafoa oso luzea da (14 lerro inguru) eta bi gai ukitzen ditu: nola jaio zen zure ametsa ETA gurasoek ezetz esan zizutela. Zatitu bi paragrafoan, argiagoa egongo zen."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi eta gero berrikusi zure lotura-hitzak. Non jartzen duzu 'baina' 5 aldiz? Aldatu 3 beste lotura-hitz batzuez ('hala ere', 'ordea', 'alabaina'). Horrek testua askoz profesionalagoa egingo du!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia aberatsa da narraziorako: 'kotxe batek jo eta bertan hil zen', 'elkarizketa sakon bat', 'ausardia hartu', 'zauri hori oraindik itxi gabe', 'askatasuna, naturarekin konektatzea'. Hitz hauek kalitatezko prosa adierazten dute!",
+          "Egitura konplexuak erabiltzen dituzu naturalki: mendeko perpausak ('nahiz jaio nintzenetik', 'nire ametsa batetzeko'), erlatiboak ('han zeuden horietako bat'), baldintzak ('ea haiek nitaz fidatzen baziren'). DBH4 mailarako oso ondo!"
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexikoak badaude: 'esan' 22 aldiz, 'egin' 15 aldiz, 'konturatu' 4 aldiz, 'uste' 4 aldiz. Erabili sinonimoak: 'esan' → adierazi, azaldu, kontatu, bota, komentatu, jakinarazi; 'egin' → burutu, gauzatu, bete; 'konturatu' → ohartu, jabetu, ikusi.",
+          "Zenbait formulaziok gaztelaniatik datozen dirudite naturalki, baina ez dira akats larriak: 'egia osoa kontatu nion' → 'egia osoa aitortu nion' edo 'dena kontatu nion' naturalagoa da. 'Argi eta garbi' edo 'zuzen-zuzenean' esamoldeak euskarazko aberastasuna emango lukete."
+        ],
+        "feed_forward": "Hurrengo aldian, testu osoa idatzi eta gero 'esan' hitza bilatu. 22 instantziatik gutxienez 10 aldatu sinonimoz. Sistema hau edozein testuri aplika diezaiokezu eta berehalaxe hobetuko duzu zure kalitatea!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema oso ondo kontrolatuta daukazu orokorrean: NOR-NORI-NORK sistema zuzen erabiltzen duzu ('esan zidan', 'kontatu nion', 'galdetu nion'), eta aspektua ere ondo ('joaten nintzen' vs 'joan nintzen'). Hau ez da batere erraza eta bikain egiten duzu!",
+          "Deklinabidea gehienetan zuzena da: datiboa ('gurasoei', 'amari', 'osabarekin'), adlatiboa ('etxera', 'ospitalera'), genitiboa ('nire ametsa', 'aitak eta berak'). Oso ongi!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-k) 6 aldiz ahaztu duzu, eta hau da akatsen erdien agerraldia. NOR-NORK aditzetan (ikusi, eman, kontatu, esan...) subjektuak BETI -k behar du: 'amak galdetu zidan' (ONDO), 'aitaren osaba' (ONDO), BAINA 'ni motorrean irudikatzeak' → 'ni motorrean irudikatzea' (ergatiboa sobera). Berrikusi aditz bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada → -k jarri.",
+          "Letra larri eta txikien erabilera ez da sistematikoa: esaldi hasieran beti letra larriz hasi behar da ('nik, egoera...' → 'Nik, egoera...'). 15 kasutan esaldi letra txikiz hasten da eta hau ortografiaren oinarria da.",
+          "Puntuazioan koma falta 8 kasutan lotura-hitz ondoren: 'Nik, egoera...' → 'Nik, egoera hau ikusita, ...' ONDO, 'Momentu hartan pentsatu nuen' → 'Momentu hartan, pentsatu nuen' BEHAR."
+        ],
+        "feed_forward": "Hurrengo aldian, testu osoa idatzi ondoren, berrikusi esaldi bakoitza eta galdetu: aditza NOR-NORK da? (adibidez, 'ikusi', 'kontatu', 'esan'). Baietz bada, subjektuari -k jarri. Gainera, esaldi guztiak letra larriz hasi behar dira. Sistema honekin ZL-k 8 puntura igoko zaizu!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=4.7 (aurreratua, tartea 7-8). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Lan bikaina egin duzu! Narrazioa hunkigarria da, ondo egituraturik dago, eta irakurlea hasimatik bukaerara engantxatuta mantentzen duzu. Hizkuntza-baliabideak aberatsak dira eta istorioa naturalki kontatzen duzu. Hobetzeko eremu nagusiak bi dira: ergatiboaren (-k) erabilera eta letra larriak esaldi hasieran. Biak konpondu eta zure maila ikusgarria izango da!",
+    "lehentasuna": "Ergatiboa (-k): berrikusi esaldi bakoitza eta NOR-NORK aditzetan (ikusi, esan, kontatu, eman...) subjektuari -k jarri. Lehen lehentasuna da!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ni motorrean irudikatzeak egonezin handia sortzen ziela",
+        "zuzenketa": "ni motorrean irudikatzea egonezin handia sortzen ziela",
+        "azalpena": "Kasu honetan ergatiborik ez da behar, zeren 'ni irudikatzea' subjektua baita (NOR sistema), ez NOR-NORK. Baina beste kasu batzuetan bai: 'ni gernikan bizi izan nahiz' → ZUZEN ('izan' NOR da); 'momentu hartan pentsatu nuen' → ZUZEN ('pentsatu' NOR-NORK da eta subjektua ezkutatua 'nik'). Ergatiboa falta duten 6 kasuak: 'betidanik gustoko izan ditut' (ONDO), 'inoiz ez nuen entzun' (ONDO), baina beste 4 kasutan falta da kasu-marca."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Letra larri falta esaldi hasieran",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 15,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "betidanik gustoko izan ditut notorrak",
+        "zuzenketa": "Betidanik gustoko izan ditut notorrak",
+        "azalpena": "Esaldi hasieran BETI letra larriz hasi behar da. Adibideak: 'betidanik' → 'Betidanik', 'baina' → 'Baina' (esaldi berri bat bada), 'esan zidan' → 'Esan zidan', 'haiek esan zidaten' → 'Haiek esan zidaten', etab. Guztira 15 agerraldi."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Momentu hartan pentsatu nuen",
+        "zuzenketa": "Momentu hartan, pentsatu nuen",
+        "azalpena": "Lotura-hitz edo denbora-adierazpen ondoren (momentu hartan, orduan, gero, horren ostean, gaur egun...) koma jarri behar da. Adibideak: 'Momentu hartan, pentsatu nuen', 'Orduan, arratsalde baten...', 'Gero, nire familiarengan...', 'Horren ostean, osabarekin...'. Guztira 8 agerraldi."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta mendeko perpausaren ondoren",
+      "akats_id": "ZL-PUN-5",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Nik egoera hau ikusita aitona amonei galdetu nien",
+        "zuzenketa": "Nik, egoera hau ikusita, aitona amonei galdetu nien",
+        "azalpena": "Mendeko perpausa nagusiaren erdian dagoenean, koma artean joan behar da: 'Nik, egoera hau ikusita, aitona amonei galdetu nien'. Beste adibide bat: 'Osabak, esan zidan berak gaztetan...' → ONDO (koma dago). 5 kasutan falta da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — plurala",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ospitalean medikuaren gana joateko itxaroten geundela",
+        "zuzenketa": "ospitalean, medikuaren gana joateko itxaroten geundela",
+        "azalpena": "Kasu honetan komunztadura zuzena da ('geundela' plurala da, ondo). Baina beste kasu batean: 'inguruko senide eta lagunek ere parte hartzen dutela' → ONDO ('hartzen dutela' plurala). Bi kasutan komunztadura okerra: bat 'esan zidaten' vs 'esan zidan' (kontestua argitu behar da), beste bat morfologia-akats txiki bat."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-elkarketa (marratxoa falta)",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hamaika urte",
+        "zuzenketa": "hamabi urte (edo 'hamar bat urte')",
+        "azalpena": "'Hamaika' hitza zuzen idatzi da baina testuinguruan 'hamabi urte' esan nahi zenuen ('hamaika urte egin berri nituela' vs 'hamabi urterekin'). Beste adibide bat: 'zortzi hamar urte bitartean' → 'zortzi-hamar urte bitartean' (tartea adierazteko marratxoa jarri). 3 kasu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Subjektu eta aditz artean koma (okerra)",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Nik, egoera hau ikusita, aitona amonei galdetu nien",
+        "zuzenketa": "Nik, egoera hau ikusita, aitona amonei galdetu nien (ONDO — tartekiko koma da)",
+        "azalpena": "Kasu honetan koma ZUZENA da, zeren 'egoera hau ikusita' tartekiko perpausa baita. OKERRA izan da beste kasu batean: 'Osabak, esan zidan' → ONDO (tartekikoa). 2 kasutan koma beharrezkoa da baina beste kontestuetan sobera dago: berrikusi behar da esaldi bakoitza."
+      },
+      "zalantzazkoa": true
+    },
+    {
+      "kategoria": "Errepikapen lexikoa — 'esan' hitza",
+      "akats_id": "LH-1",
+      "kopurua": 22,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'Esan' hitza 22 aldiz erabiltzen duzu testuan",
+        "zuzenketa": "Erabili sinonimoak: adierazi, azaldu, kontatu, bota, jakinarazi, komentatu, aitortu, aitortarazi",
+        "azalpena": "'Esan' aditza testu osorako hitz arruntena da eta errepikapena nabaria da. Txandakatu sinonimoekin: 'Esan zidan' → 'Adierazi zidan', 'Azaldu zidan', 'Kontatu zidan'. Horrek aberastasun lexikoa ematen du."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1042,
+    "minor": 33,
+    "major": 8,
+    "critical": 0,
+    "EP100_gordina": 4.7,
+    "EP100_pisuduna": 1.3,
+    "EP100_gordina_modelo": 5.08,
+    "EP100_pisuduna_modelo": 4.32,
+    "minor_modelo": 33,
+    "major_modelo": 10,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 0,
+      "ia_puntuazioa_modelo": 0,
+      "seinaleak": {},
+      "maila": "BAXUA",
+      "iruzkina": "JSON parseatzean huts egin du: ```json\n{\n  \"ia_puntuazioa\": 2.3,\n  \"seinaleak\": {\n    \"S1\": 3,\n    \"S2\": 3,\n    \"S3\": 3,\n    \"S4\": 2,\n    \"S5\": 3,\n    \"S6\": 1,\n    \"S7\": 2\n  },\n  \"iruzkina\": \"Testu honek IA bidez sortua izateko sei"
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

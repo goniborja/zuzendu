@@ -1,0 +1,36 @@
+{
+  "kodea": "XANET ETXEBARRIETA U",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 20,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 2,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu hau IA bidez sortua dela adierazten duten seinale oso argiak daude. Perfekzio linguistikoa nabaria da DBH4 ikasle batentzat: ez dago akats ortografikorik, puntuazio-akatsik edo sintaxi desegokia. Egitura literarioa perfektua da, sarrera-garapena-amaiera argi eta errepikapenezko formulekin ('Momentu hartan', 'Goizean', 'Gauean'). Hiztegiak zenbait hitz sofistikaturen erabilera erakusten du ('jakin-mina', 'misteriotsua', 'itzal luzeak'). Testuak 800 hitz baino gehiago ditu, ohiz kanpo DBH4n. Tonua uniformea eta emozio pertsonalik gabea da, ipuin generiko baten antz handia duena. Ez dago gazteen idazkeraren ezaugarririk: ez txistukako perpausik, ez informalitaterik, ez koherentzia faltarik. Kalitatea uniformea da hasieratik amaieraraino, IA eredu batek sortutako testu-patroiekin bat datorrena.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 20/21)"
+      ]
+    }
+  }
+}

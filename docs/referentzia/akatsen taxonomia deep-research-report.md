@@ -1,0 +1,75 @@
+# Euskara‑erroreen taxonomia eta tratamendu automatikoa: tesi‑paisaiaren azterketa
+
+## Helburua eta esparrua
+
+Zure galderak bi ardatz uztartzen ditu: (a) **euskaraz egiten diren erroreen/desbideratzeen taxonomia** (kategoriak, etiketatzea, datu‑ereduak) eta (b) **errore horien tratamendu automatikoa** (detekzioa eta/edo zuzenketa; zuzentzaile ortografiko/gramatikalak, estilo‑tresnak, eta hizkuntzen irakaskuntza adimenduna). Ardatz horiek lotuta agertzen dira, bereziki, **zuzentzaileetan** eta **IKASKUNTZA‑inguruneetan (CALL/ICALL)**: tesi batzuek espresuki bi helburuak aipatzen dituzte (zuzentzaileak + irakaskuntza), eta errore‑kontzeptua berariaz definitu edo “desbideratze”arekin bereizten dute. citeturn34view0turn58view0turn50view0
+
+Euskararen kasuan, hainbat tesi‑lerrotan agertzen da testuinguru soziolinguistikoa (estandarra vs aldaerak; araugintza; hiztunen praktika errealak) **errore** gisa etiketatzea zailtzen duen faktore gisa. Horregatik, “errore” hutsa baino gehiago, askotan **zuzentasun‑arauetatik desbideratutako egiturak** eta haien kausak (morfologia‑anbigutasunak, sintaxi‑estaldurak, arau‑formalizazio eskasak…) aztertzen dira. citeturn58view0turn50view0turn22view0
+
+## Iturriak eta bilaketa‑estrategia
+
+Tesiak identifikatzeko, lehen “hub” edo biltegi egonkorrak hartu ditut abiapuntu:
+
+- **entity["organization","TESIKER","basque doctoral theses db"]**: Euskarazko doktorego‑tesien katalogoa, Euskadi.eus atarian integratua (Kultura eta Hizkuntza Politika Sailaren ingurunean). Lan askoren metadatuak, laburpenak eta deskriptoreak ematen ditu. citeturn54search2turn34view0turn58view0turn50view0turn55view0  
+- **entity["organization","Inguma","basque scientific db"]**: UEUk sortutako euskal komunitate zientifiko‑intelektualaren datu‑basea; tesi zahar askorentzat PDF‑kopia erabilgarria ematen du (adib. 1995eko morfologia‑tesia). citeturn56search14turn56search1turn42view0  
+- **entity["organization","ADDI","ehu digital repository"]**: entity["organization","Euskal Herriko Unibertsitatea (UPV/EHU)","public univ basque country"]‑ren erakunde biltegia; doktorego‑tesiez gain master tesiak eta gradu amaierako lanak ere barne hartzen ditu, sarri PDF zuzena emanez (bereziki azken urteetako lanetan). citeturn56search5turn48search0turn48search4  
+- **Dialnet** bezalako katalogoak: tesi‑erregistro bibliografikoak (egilea, urtea, zuzendaritza) egiaztatzeko, eta batzuetan laburpenak lortzeko. citeturn57search1turn49search3turn39search1turn52search2  
+
+Bilaketa‑logika praktikoa izan da: (1) Tesiker‑en “hizkuntzaren_zuzenketa / hizkuntzaren_patologia / hizkuntzalaritza_konputazionala” bezalako deskriptoreekin egile‑ eta izenburu‑lerroa identifikatzea; (2) izenburu horiek Inguma/ADDI/Dialnet‑en gurutzatzea; (3) laburpenetan agertzen diren errore‑motak eta tratamendu teknikak (erregelak, MG/CG, ikasketa automatikoa, etab.) oinarri hartuta “zuzenean” vs “hurbileko” sailkapena egitea. citeturn34view0turn58view0turn50view0turn55view0turn56search14turn56search5  
+
+## Errore‑taxonomia eta zuzenketa automatikoa zuzenean lantzen duten tesiak
+
+Hona hemen zure gaiarekin **zuzen‑zuzen** gurutzatzen diren tesiak (erroreen/desbideratzeen azterketa + tratamendu automatikoa, edo zuzentzaile baten osagai zehatza). Gehienak entity["organization","IXA taldea","nlp research group ehu"]‑ren ikerketa‑lerroarekin lotuta agertzen dira (zuzentzaileak, corpusetako analisia, eta hizkuntzaren prozesamenduko kateak). citeturn58view0turn50view0turn55view0turn6search0  
+
+| Urtea eta lana | Zer ekartzen du errore‑taxonomiari? | Zer ekartzen du tratamendu automatikoari? | Iturri nagusiak |
+|---|---|---|---|
+| entity["book","Euskarazko erroreen eta desbideratzeen analisirako lan-ingurunea. Determinatzaile-erroreen azterketa eta prozesamendua","phd thesis ehu 2009"] — entity["people","Larraitz Uria Garin","basque nlp researcher"] | Errore eta desbideratzeen **analisi “osoa” egiteko ingurunea**: corpusa(k), etiketatze‑editorea, sailkapena eta informazioa gordetzeko bi datu‑base; ikerketa‑irizpideak finkatzea (zer etiketatu, nola, zein helbururekin). citeturn34view0turn19search0 | Determinatzaile‑errore batzuen **detekzio automatikoa** erregelaz (tesian determinatzaile‑erroreak aukeratzen dira, guztiak batera ezin direlako). citeturn34view0 | citeturn34view0turn19search0turn33search9 |
+| entity["book","Euskarazko errore sintaktikoak detektatzeko eta zuzentzeko baliabideen garapena: datak, postposizio-lokuzioak eta komunztadura","phd thesis ehu 2009"] — entity["people","Maite Oronoz Antxordoki","basque nlp researcher"] | “Errore” kontzeptua eta erroreduna den ala ez erabakitzeko zailtasuna esplizituki aitortzen da; errore‑motetan zentratzen da (datak, postposizio‑lokuzioak, komunztadura). citeturn58view0turn57search3 | Detekzio/zuzenketa sinbolikoa: testuinguru lokaletan **XFST** (date‑erroreak) eta **Murriztapen Gramatika** (postposizio‑lokuzioak); testuinguru zabaleko komunztadurarako tresna propioa (Saroi) eta analisi‑zuhaitzen arakatzea. citeturn58view0turn1search4 | citeturn58view0turn1search4turn57search3 |
+| entity["book","Azaleko sintaxiaren tratamendua ikasketa automatikoko tekniken bidez: euskarako kateen eta perpausen identifikazioa eta bere erabilera koma-zuzentzaile batean","phd thesis ehu 2010"] — entity["people","Bertol Arrieta Kortajarena","basque nlp researcher"] | Errore‑detekziorako hurbilpenen bereizketa (ezagutza‑oinarritua vs corpus‑oinarritua) eta, ikerketa‑testuinguruan, errore‑kategoriak zerrendatzen dira (ortografiko/lexiko/gramatikal eta azpikategoriak). citeturn50view0turn22view0 | **Koma‑zuzentzailea**: sintagma‑ eta perpaus‑identifikatzaileak + analisatzaile sintaktikoak + ikasketa automatikoa; gramatika‑ eta estilo‑zuzentzailearen (Xuxen) garapenerako urratsa. citeturn50view0turn22view0 | citeturn50view0turn22view0turn49search3 |
+| entity["book","Euskarazko Zuzentzaile Gramatikal Neuronala","bsc thesis ehu 2020"] — entity["people","Ariane Méndez Amuchategui","basque nlp student"] | Ez da taxonomia‑tesi klasikoa; baina “GEC” (Grammar Error Correction) ikuspegian, errore‑motak datu‑sortan/ereduan nola islatu lantzen da (ikuspegi neuronala). citeturn48search4turn18search0 | Transformer/ikasketa sakoneko teknikekin euskarazko errore gramatikalen zuzenketa automatikoa aztertzen da (gradu amaierako lana). citeturn48search4turn18search0 | citeturn48search4turn18search0turn18search2 |
+| entity["book","Error Generation for a Grammar Checker in Basque: Correction and Detection","master thesis ehu 2023"] — entity["people","Ariane Méndez Amuchategui","basque nlp student"] | Errore‑sortze automatikoak “errore‑espazioa” esplizitatzera behartzen du (zer aldatu, nola, zein baldintzatan); horrek taxonomiaren antzeko egituraketa dakar, nahiz eta helburua entrenamendua den. citeturn48search0turn48search1 | Esaldi okerrak automatikoki sortzeko metodoa aurkezten da, gero zuzentzaile/eredu neuronalak entrenatzeko edo ebaluatzeko baliagarri. citeturn48search0turn48search1 | citeturn48search0turn48search1turn48search6 |
+
+image_group{"layout":"carousel","aspect_ratio":"16:9","query":["Xuxen euskarazko zuzentzaile ortografiko gramatikal interfazea","IXA taldea UPV EHU hizkuntza teknologiak","Basque grammar checker comma checker","Euskara learner corpus annotation"],"num_per_query":1}
+
+Taula horretatik bi ondorio sendo ateratzen dira. Lehenik, 2000ko hamarkadaren amaieran eta 2010 hasieran errore‑detekzio/zuzenketa lanean **bi paradigma** paralelo agertzen dira: (i) sinbolikoa (erregelak, MG/CG, tresna ad‑hoc) eta (ii) corpus/ikasketa automatikoa (koma‑zuzentzailearen ildoan). citeturn58view0turn50view0turn22view0 Bigarrenik, azken urteetan (2020–2023) zuzenketa automatikoa berriro indartzen da, baina orain **eredu neuronaletan** jarrita (GEC eta errore‑sortzea). citeturn48search4turn48search0
+
+## Zuzentzaileetarako oinarri teknologikoa osatzen duten tesiak
+
+Errore‑taxonomia eta zuzenketa automatikoa ez dira hutsetik eraikitzen: beharrezkoak dira **morfologia‑analizatzaileak**, **desanbiguatzaileak**, **parserrak** eta tresnen integrazioa. Horregatik, ondoko tesi hauek “hurbilekoak” dira: ez dira beti errore‑taxonomian zentratzen, baina zorrotz lotzen dira zuzentzaile batek behar dituen osagaiei.
+
+| Urtea eta lana | Zergatik da gertu zure gaiarekin? | Iturri nagusiak |
+|---|---|---|
+| entity["book","Euskal morfologiaren tratamendu automatikorako tresnak","phd thesis ehu 1995"] — entity["people","Iñaki Alegria Loinaz","basque nlp researcher"] | Euskararako prozesadore morfologiko sendoa + **Xuxen zuzentzaile ortografikoaren** oinarriak; moduluetan “erabilera ez‑estandarrak” eta “gaitasun‑erroreak” ere lantzen dira, eta horrek errore‑ikuspegia zuzenean ukitzen du (nahiz eta ardatza morfologia izan). citeturn53view0turn42view0 | citeturn53view0turn42view0turn52search2 |
+| entity["book","Euskal morfologiaren tratamendu informatikorantz","phd thesis ehu 1997"] — entity["people","Miriam Urkia Gonzalez","basque lexicographer"] | MORFEUS analizatzaile/sortzaile morfologikoa (bi mailatako morfologian oinarritua) eta hortik eratorritako aplikazioen aukera (Xuxen eta corpus‑lanak barne). Morfologia automatikoa funtsezkoa da errore ortografiko/morfologikoen detekzioan eta zuzenketan. citeturn8view0turn44view0 | citeturn8view0turn44view0turn7search3 |
+| entity["book","EUSMG: morfologiatik sintaxira murriztapen gramatika erabiliz","phd thesis ehu 2001"] — entity["people","Itziar Aduriz Agirre","computational linguist"] | Constraint Grammar bidezko desanbiguazioa + funtzio sintaktikoen esleipena; anbiguotasuna erdira jaistea eta etiketatze/analisi fidagarriagoa lortzea (errore‑detekzioak analisiaren kalitatearen menpekotasun handia du). citeturn40view0turn39search1 | citeturn40view0turn39search1turn39search5 |
+| entity["book","Euskararen sintaxi konputazionalerantz: oinarrizko baliabideak eta beren aplikazioa aditzen azpikategorizazio-informazioaren erauzketan eta erroreen tratamenduan","phd thesis ehu 2000"] — entity["people","Koldo Gojenola Galletebeitia","basque nlp researcher"] | Sintaxi konputazionaleko baliabide orokorrak + tresnen sistema integratua; aplikazioen artean, espresuki aipatzen da tresna sintaktikoen erabilera **errore ortografiko eta sintaktikoen detekzio/zuzenketan**. citeturn55view0turn36view0 | citeturn55view0turn36view0turn26search3 |
+
+Ikus daiteke “pipeline” logika: morfologia (1995/1997) → desanbiguazioa/azaleko sintaxia (2000/2001) → errore‑detekzio eta zuzenketa espezifikoak (2009/2010). Tesi‑laburpenetan bertan lotura hori esplizituki agertzen da, bai talde‑testuinguruan bai aplikazioetan. citeturn36view0turn55view0turn58view0turn50view0
+
+## Ikasle‑corpusak, etiketatzea eta diagnosia lantzen dituzten tesiak
+
+Zure gaia “taxonomia” denez, **ikasle‑corpusetan** eta “diagnosi/feedback” logikan oinarritutako lanak bereziki garrantzitsuak dira: taxonomia praktikan frogatzen da (zer etiketatzen den, nola, eta zein erabileratarako).
+
+Horren adibide klasiko eta goiztiarra da entity["book","Mugarri: bigarren hizkuntzako ikasleen hizkuntz ezagutza eskuratzeko sistema anitzeko ingurunea","phd thesis ehu 1999"] — entity["people","Montse Maritxalar Anglada","basque nlp researcher"]. Tesiak helburu teorikoa (NLPk irakaskuntzan ekar dezakeena) eta praktikoa (tresna prototipoak) uztartzen ditu; eta hiru agentetarako tresnak garatzen ditu (ikaslea, irakaslea, psikolinguista), ingurune bakarrean: IDAZKIDE (ikaslearentzat), IRAKAZI (irakaslearentzat, ikasleen testuen corpusa bildu eta egiturak aztertuz) eta HITES (tartehizkuntzaren modelizazio erdiautomatikoa). citeturn51view0turn26search15
+
+1999ko ildo horrek zuzenean elikatzen du 2009ko “errore eta desbideratzeen” ingurune‑tesia: azken horrek, bere laburpenean, corpusa(k) + etiketatze‑editorea + sailkapena + datu‑baseak espresuki zerrendatzen ditu, eta determinatzaile‑erroreen tratamendu automatikoa aukeratzen du ilkartze gisa. citeturn34view0turn19search0
+
+Era berean, 2010eko koma‑zuzentzailearen tesian agertzen den errore‑kategoriaketa orokorrak (ortografiko/lexiko/gramatikal eta azpikategoriak) eta errore‑corpusekin lan egiteko beharrak taxonomia‑ikuspegiaren garrantzia azpimarratzen dute, nahiz eta ardatza puntuazioa eta estiloa izan. citeturn22view0turn50view0
+
+## Azken joerak eta nola aurkitu “beste tesi gehiago”
+
+### Joera berriak
+
+Azken urteetako tesi‑produkzio hurbilean (bereziki master/graduko lanetan) ikusten da **gramatika‑erroreen zuzenketa neuronala** eta **datu sintetikoen sorkuntza** (erroreak sortzea) indartzen ari direla. Horren adibide zuzenak dira 2020ko gradu amaierako lana (zuzentzaile gramatikal neuronala) eta 2023ko master tesia (erroreak sortzea, zuzentzaile bat trebatzeko). citeturn48search4turn48search0turn48search3
+
+Hau, praktikan, “taxonomia” klasikotik (etiketa‑eskema estatikoak) “taxonomia inplizitua”ren norabidera mugi daiteke: errore‑operazioek (txertatu/ezabatu/ordezkatu, komunztadura‑hausturak, puntuazio‑aldaketak…) taxonomia funtzional baten antzera jokatzen dute, entrenamendu‑datuak sortzeko edo ebaluatzeko. citeturn48search0turn50view0
+
+### Bilaketa praktikorako gakoak
+
+“Beste tesi gehiago” aurkitzeko, bi kanal osagarri gomendatzen dira (batez ere euskarazko ekoizpena bilatzen duzunean):
+
+1) **Tesiker‑en deskriptoreak**: zure gaiari zuzenean lotzen zaizkionak hauek dira: *hizkuntzaren_zuzenketa*, *hizkuntzaren_patologia*, *hizkuntzalaritza_konputazionala*, eta, irakaskuntzaren aldetik, *hizkuntzalaritza_aplikatua*. Deskriptore horiek tesien laburpen eta metadatuetan ageri dira, eta “tantaka” agertzen diren beste lan batzuk harrapatzeko modurik eraginkorrenetakoa dira. citeturn58view0turn50view0turn55view0turn40view0  
+
+2) **Inguma + ADDI gurutzaketa**: Tesiker‑ek identifikatzen dizun izenburua Inguma‑n bilatuz gero, maiz PDF‑kopia edo erreferentzia osagarriak agertzen dira (bereziki 1990–2000 hamarkadetakoetan). Bestalde, ADDIn, “master tesiak / gradu amaierako lanak” bezalako ekoizpena ere jasotzen da, eta azken urteetako joerak (neurona‑ereduak, errore‑sorkuntza…) bertan harrapatzen dira sarri. citeturn56search14turn56search5turn48search3turn48search0  
+
+Azken ohar metodologiko bat: “euskarazko erroreak” bilatzean, egileek ez dute beti “errore” hitza erabiltzen; maiz agertzen dira **“desbideratze”, “zuzentasun”, “zuzentzaile”, “anotazio”, “ikasle‑corpus”, “ICALL/CALL”, “gramatika‑zuzentzaile”, “estilo‑zuzentzaile”, “puntuazio‑zuzentzaile”** bezalako giltzak. Hori bereziki argi geratzen da ikasle‑inguruneen (MUGARRI, errore‑ingurunea) eta zuzentzaile‑osagaien (koma‑zuzentzailea) laburpenetan. citeturn51view0turn34view0turn50view0turn19search0

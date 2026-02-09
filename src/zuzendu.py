@@ -244,7 +244,7 @@ def prozesatu_ikaslea(
         console.print(f"  [bold red]BLOKEATUA[/] — IA susmoa altua")
         result = sortu_blokeo_json(kodea, ia_result)
         output_path = save_json(result, izena, output_dir)
-        console.print(f"  [dim]→ {output_path.name}[/]")
+        console.print(f"  [dim]-> {output_path.name}[/]")
         return {"izena": izena, "kodea": kodea, "egoera": "BLOKEATUA",
                 "nota": None, "ia_punt": ia_punt, "ia_maila": ia_maila}
 
@@ -311,7 +311,7 @@ def prozesatu_ikaslea(
 
     # 8. Gorde
     output_path = save_json(result, izena, output_dir)
-    console.print(f"  [dim]→ {output_path.name}[/]")
+    console.print(f"  [dim]-> {output_path.name}[/]")
 
     return {"izena": izena, "kodea": kodea, "egoera": egoera,
             "nota": nota, "ia_punt": ia_punt, "ia_maila": ia_maila,
@@ -397,6 +397,14 @@ def main():
         help="Zuzenketa-modua (def: azken_bertsioa)",
     )
     parser.add_argument(
+        "--mota", default=None,
+        choices=[
+            "iritzi_artikulua", "gutun_formala", "gutun_informala",
+            "deskribapena", "hausnarketa", "gidoia", "narrazioa", "laburpena",
+        ],
+        help="Testu-mota gainidatzi (karpetatik ezin bada atera)",
+    )
+    parser.add_argument(
         "--fitxategia", default=None,
         help="Fitxategi bakar bat prozesatu (izena edo zatia, adib: 'Telmo')",
     )
@@ -414,6 +422,8 @@ def main():
 
     # Metadatuak pathetik atera
     meta = atera_metadatuak(karpeta)
+    if args.mota:
+        meta["mota"] = args.mota
     console.print(Panel(
         f"Taldea: [bold]{meta['taldea']}[/]\n"
         f"Maila:  {meta['maila']}\n"

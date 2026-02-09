@@ -1,0 +1,36 @@
+{
+  "kodea": "BIZITZAREN GORABEHER",
+  "ebaluazioa": {},
+  "laburpena": {
+    "batez_bestekoa": null,
+    "biribiltzea": null,
+    "heziberri_maila": null,
+    "orokorra": "Testu hau ez da ebaluatu IA bidez sortua izan daitekeelako. Hitz egin zure irakaslearekin."
+  },
+  "akats_taldeak": [],
+  "EP100": {},
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": true,
+      "ia_puntuazioa": 20,
+      "seinaleak": {
+        "S1": 3,
+        "S2": 2,
+        "S3": 3,
+        "S4": 3,
+        "S5": 3,
+        "S6": 3,
+        "S7": 3
+      },
+      "maila": "ALTUA",
+      "iruzkina": "Testu hau IA bidez sortua izan dela susmatzen dut argi eta garbi. S1: Gramatika ia perfektua da, perpaus konplexuak ondo eratuak, puntuazio perfektua DBH4 ikasle batentzat ohiz kanpokoa dena. S2: Hiztegi sofistikatua ('distantziatsua', 'murgilduta', 'despektiboak', 'filtrazioen'), C1 mailakoak. S3: Egitura narratibo oso lana dago: sarrera, garapena eta amaiera koherenteak, trantsizio perfektuak. S4: Tonua robotikoa da, emozio-distantzia narratiboa mantendu arren, ez dago DBH ikasleen idazkera-estilo naturalik. S5: 1900+ hitz inguru, oso luzea DBH4rako. S6: Ez dago akats tipikorik (ortografia, puntuazio, errepikapenak). S7: Kalitatea uniformea da hasieratik amaieraraino, nekatzarik gabe. DBH ikasle batek narrazioa hasiko luke indartsuki baina nekatzeko joera izango luke; hemen kalitatea konstante mantentzen da. Idazkera-estiloa ere oso homogeneoa da, paragrafoz paragrafo.",
+      "mezua": "Testu hau IA bidez sortua izan daitekeela susmatzen da. Irakaslearekin hitz egin behar duzu."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "IA susmo altua (puntuazioa: 20/21)"
+      ]
+    }
+  }
+}

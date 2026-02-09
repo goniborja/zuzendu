@@ -1,0 +1,228 @@
+{
+  "kodea": "MARIA PRIETO AGUIRRE",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Narrazioa oso ondo egituratuta dago hasiera-korapiloa-amaiera eskemarekin. Istorioak koherentzia handia du eta irakurlearen interesa mantentzen du hasieratik bukaeraraino.",
+          "Pertsonaia nagusiaren garapena bikaina da: Yasmina protagonista sendo bat da, bere ametsak, erronkak eta bilakaera argi adierazten dituena. Esperientzia pertsonala (aitonarekin medikuntza) modu naturalean txertatzen duzu."
+        ],
+        "hobetzekoak": [
+          "Narrazioaren zenbait une deskripzio gehiago behar luke biziagoa izan dadin. Adibidez, bonbardaketaren unean, zer ikusten/entzuten duzue? Zer sentitzen duzu? Xehetasun sentsorial gehiago testua indartuago egingo luke.",
+          "Denborazko jauziak azkarregiak dira batzuetan ('10 hilabete beranduago', '10 urte pasa dira'). Trantsizio horiek gehiago landu zenitzake, irakurleari denbora-jauzia nola bizi duen adieraziz."
+        ],
+        "feed_forward": "Hurrengo narrazioan, saiatu eszenatik eszenara pasatzean trantsizio-esaldi bat sartzen ('Hilabeteak joan-etorrian pasatu ziren...', 'Egun batetik bestera...'). Horrek testuari fluidotasun handiagoa emango dio."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa argia da: aurkezpena (Yasminaren familia eta egoera), korapiloa (bonbardaketa eta ihesa), amaiera (hamar urte geroago). Egitura klasikoa oso ondo aplikatzen duzu.",
+          "Paragrafoen banaketa logikoa da orokorrean eta kronologia errespetatzen duzu. Atalak tituluekin bereizten dituzu eta hori asko laguntzen du."
+        ],
+        "hobetzekoak": [
+          "Zenbait paragrafok luzera desordekatua dute. Lehenengo paragrafoak informazio asko metatzen du (familia, historia, ametsak...), eta denboraren sekuentzia ez da guztiz lineala. Hobe da paragrafo bakoitzean ideia nagusi bat izatea.",
+          "Lotura-hitzak gehiago barietatu beharko zenituzke. 'Orduan', 'eta gero', 'baina' errepikatzen dira asko. Erabili 'hala ere', 'horrez gain', 'ondoren', 'horregatik'... Testu narratiboa aberatsagoa izango litzateke."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu ea paragrafo bakoitzak ideia nagusi bat duen. Paragrafo luzeak bitan zatitu ditzakezu une-aldaketa bat gertatzen denean (adibidez, leku-aldaketa bat)."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegi zabala eta egokia erabiltzen duzu: 'arduratuta', 'urduritasuna', 'bilurra', 'biztanleak', 'errefuxiatu'... DBH4 mailarako hiztegia oso egokia da.",
+          "Perpaus konplexuak erabiltzen dituzu naturalki: erlatibozkoak ('aitona medikua izan zen'), kausalak ('herritik joan behar ginelako'), kontzesiboak... Hori seinale ona da zure maila linguistikoaren."
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko batzuk daude: 'arineketan' 4 aldiz agertzen da, 'ametsa/ametsak' 3 aldiz... Sinonimoak erabili: 'bizkor', 'presaka', 'korrika'; 'ilusioa', 'helburua'.",
+          "Zenbait adierazpen sinpleegia da emozio-uneetan. Adibidez: 'oso pozik jarri dira', 'oso triste utzi dit'. Saiatu emozioak modu zuzenagoan adierazten: 'poza agertu zuten aurpegietan', 'tristurak harrapatu ninduen'."
+        ],
+        "feed_forward": "Hurrengo aldian, testua idatzi ondoren, bilatu hitz errepikatuak (Ctrl+F erabil dezakezu) eta ordezkatu sinonimoekin. Hitz-errepertorio zabala erakutsiko duzu horrela!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema orokorrean ondo kontrolatzen duzu: NOR-NORK ('ikusi dut'), NOR-NORI-NORK ('esan dit'), NOR-NORI ('gustatu zait'). Horrek esan nahi du oinarrizko gramatika ondo barneratuta daukatzula.",
+          "Ortografia nahiko zuzena da orokorrean eta puntuazioa ere nahiko egokia. Testu luzea denez, oso oinarrizko maila daukazu!"
+        ],
+        "hobetzekoak": [
+          "Ergatiboa (-K) 8 aldiz ahaztu duzu testu osoan. Hau da zure akats nagusia eta KRITIKOA da. Gogora: aditza NOR-NORK denean (du/dute/ditut...), subjektuak -K behar du. 'Nire aitak' (ondo), baina *'nire aita' (gaizki).",
+          "Aditz-komunztadura arazoak daude: subjektua plurala denean, aditza ere plurala izan behar da. 'Marokoak eta Argeliarrak bonbardatu egingo gaituzte' (ondo), baina *'bonbardatu egingo gaitu' (gaizki).",
+          "Puntuazio-akats errepikatuak: koma lotura-hitzen ondoren falta da batzuetan ('Orduan, berarengana...', 'Gainera, gaur...'), eta run-on esaldiak (esaldi oso luzeak punturik gabe)."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, irakurri esaldi bakoitza eta galdetu: aditza NOR-NORK da? Baietz bada, subjektuari -K jarri. Sistema sinple honekin ergatiboaren akatsak desagertuko dira pixkanaka!"
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=5 baxuegi da EP100=1.64 (bikaintasuna, tartea 9-10). ZL=6 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.0,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Bikain idatzi duzu, Maria! Narrazioa oso interesgarria da, koherentea eta emozionala. Istorioak indar handia du eta irakurlearen arreta mantentzen duzu hasieratik amaieraraino. Egitura ondo egituratuta dago eta hiztegi aberatsa erabiltzen duzu. Hobetzeko arlo nagusia ZL da: ergatiboa (-K) sistematikoki landu behar duzu, zure akats nagusia baita. Gainontzean, maila oso ona duzu. Jarraitu honela, oso ondo zoaz!",
+    "lehentasuna": "Ergatiboa (-K) landu: esaldi bakoitza berrikusi eta NOR-NORK aditzetan subjektuari -K jarri. Hau da lehen lehentasuna, gainerako guztia ondo daukazu!",
+    "batez_bestekoa_modelo": 6.75,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa falta (-k)",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "nire aitak diru guztia galdu zuen",
+        "zuzenketa": "nire aitak diru guztia galdu zuen (ONDO — 'aitak' ergatiboa dauka)",
+        "azalpena": "Aditza NOR-NORK denean (galdu → nork galdu?), subjektuak -K marka behar du. Kasu honetan ONDO dago, baina testuan 8 aldiz ahaztu duzu ergatiboa beste esaldietan. Adibidez: *'gure kotxea eta garraio guztiak saldu zituen' → 'saldu zituEN' NOR-NORK da, beraz subjektuak (aitak) -K behar du (aitak saldu zituen)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura — numeroa",
+      "akats_id": "ZL-ADI-3",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "beste familia batzuekin elkartzen joan gara",
+        "zuzenketa": "beste familia batzuekin elkartzen joan gara (ONDO)",
+        "azalpena": "Subjektua plurala denean ('gu'), aditzak ere plurala izan behar du ('gara'). Kasu honetan ondo dago. Baina beste esaldi batzuetan akatsa dago: *'pertsona nagusiak ezin dira gehiago ibili' → ONDO; *'Marokoak eta Argeliarrak bonbardatu egingo gaitu' → 'bonbardatu egingo gaituZTE' (subjektua plurala da: Marokoak ETA Argeliarrak)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitzen ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Orduan berarengana joan naiz",
+        "zuzenketa": "Orduan, berarengana joan naiz",
+        "azalpena": "Lotura-hitzen ondoren ('orduan', 'gainera', 'horregatik', 'ordea'...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Run-on esaldiak (puntu falta)",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Denak oso pozik jarri dira eta gure gurasoak izartu dituzte. Zarataka hasi dira, esan digute nola ausartzen garen...",
+        "zuzenketa": "Denak oso pozik jarri dira eta gure gurasoak izartu dituzte. (Puntu). Zarataka hasi dira...",
+        "azalpena": "Esaldi independenteak puntu bidez banatu behar dira. Esaldi oso luzeak punturik gabe (run-on esaldiak) irakurketa zailtzen dute."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexikoa",
+      "akats_id": "LH-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "arineketan (4 aldiz), ametsa/ametsak (3 aldiz)",
+        "zuzenketa": "Erabili sinonimoak: bizkor, presaka, korrika; ilusioa, helburua, ametsa",
+        "azalpena": "Hitz berak errepikatzen direnean, testua monotonoa bihurtzen da. Saiatu sinonimoak bilatzen eta tartekatzen."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa akatsa",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "eskutuan",
+        "zuzenketa": "esku artean edo eskuan",
+        "azalpena": "Hitz konposatua ala bi hitz? 'Eskutuan' ez da zuzena. 'Eskuan' (eskuarekin) edo 'esku artean' (mantxuan) esan nahi baduzu."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — letra larria falta",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "saharar (herritarra adierazten duenean)",
+        "zuzenketa": "Saharar",
+        "azalpena": "Herritarrak adierazten dituzten adjektiboak letra larriz idazten dira: Saharar, Euskal Herritarra, Alemaniarra..."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — hitz-ordena (SOA)",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "utzi didate eskolara joaten",
+        "zuzenketa": "eskolara joaten utzi didate",
+        "azalpena": "Euskaraz ordena SOV da: objektua (eskolara joaten) aditzaren aurretik joan behar da. 'Utzi didate eskolara joaten' ez da zuzena, nahiz eta ulergarria izan."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Egitura konplexu bat saiatu eta akatsa",
+      "akats_id": "LH-8",
+      "kopurua": 1,
+      "larritasuna": null,
+      "adibidea": {
+        "detektatutakoa": "seme albak gu bakarrik zaindu behar",
+        "zuzenketa": "seme-alabak gu bakarrik zaindu behar (marratxoarekin)",
+        "azalpena": "Hitz konposatua denean, marratxoa (-) jarri behar da: 'seme-alabak'. Gainera, 'zaindu' / 'zaintzea' aditza falta da (mugagabea): 'seme-alabak gu bakarrik zaindu behar ditugu' edo 'seme-alabak zaintzea ez da gu bakarrik gure gauza'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 916,
+    "minor": 11,
+    "major": 15,
+    "critical": 0,
+    "EP100_gordina": 4.48,
+    "EP100_pisuduna": 1.64,
+    "EP100_gordina_modelo": 3.49,
+    "EP100_pisuduna_modelo": 3.38,
+    "minor_modelo": 9,
+    "major_modelo": 11,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua argi eta garbi DBH4ko ikasle batek idatzia dirudi. Akats naturalak ugariak dira: 'saharauien' (saharatarren), 'berehala' (berehalakoan), 'arineketan' (arinean), 'batzen' (biltzera), 'erakutsi zidan' (irakatsi), 'ekidin' (saihestu), ortografia-akatsak ('izartu', 'berriro be'), esaldi-egiturak ez dira beti zuzenak, eta koherentzia-arazoak daude (adibidez, denbora-lerroak nahastuta, kontakizunaren zenbait zati ez dator ondo bat). Hiztegia DBH mailakoa da, hitz sofistikatuak falta dira. Egitura zehatz samar dago baina ez perfektua. Luzera (1000 hitz inguru) luzexka bada ere, ez da susmagarria ikasle motibatu batentzat. Kalitatea ez da uniformea, hasiera hobea da amaiera baino. Tonu pertsonala eta emozionala nabarmen dago. Guztiz ikasle-lana dirudi."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

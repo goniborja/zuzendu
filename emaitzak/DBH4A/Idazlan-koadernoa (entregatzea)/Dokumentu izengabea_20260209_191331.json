@@ -1,0 +1,232 @@
+{
+  "kodea": "DOKUMENTU IZENGABEA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 2,
+      "maila": "lortu_gabea",
+      "cap_aplikatua": "CAP-1",
+      "iruzkina": {
+        "indarguneak": [
+          "Ideia original bat daukazu istorioa garatzeko: gazte bat narkotrafikoaren munduan sartzen da pixkanaka. Gai tabu bat hautatu duzu eta horrek kurajioa erakusten du.",
+          "Pertsonaiak bilakaera bat du: ikasle normala izatetik negozio ilegaletara sartzera. Horrek erakusten du ideia konplexuekin lan egiteko gaitasuna duzula."
+        ],
+        "hobetzekoak": [
+          "Testua gaitik guztiz urrun dago. Narrazioa ez da gaia bera; narrazioaren barnean elementu narrazio zehatzak behar dira: elkarrizketa, deskribapenak, une zehatzen garapena... Zure testua erreflexio luze bat da gehiago, ez istorio bat.",
+          "Narrazioan, pertsonaien arteko elkarrizketak, paisaia-deskribapenak, ekintzen xehetasunak behar dira. Hemen barruko gogoeta bakarrik dago, ez istorio bizia. Narrazioa istorioa da, ez erreflexioa."
+        ],
+        "feed_forward": "Hurrengo aldian, narrazioa idazteko: hasiera-korapiloa-amaiera argia sortu, elkarrizketak txertatu, paisaiak eta pertsonaiak deskribatu, eta ekintza zehatzak jarri. Istorioa bizitzera ekarri behar duzu, ez soilik kontatu."
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 3,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hasiera bat daukazu: 'Bazen behin ume bat...' Hau istorio baterako sarrera egokia da eta ondo egin duzu.",
+          "Sekuentzia bat jarraitzen saiatzen zara testuaren gehiengoan: Ikeren aurkezpena → bere bizimodua → bere negozioaren hasiera → amaiera goibela."
+        ],
+        "hobetzekoak": [
+          "Paragrafoen banaketarik ia ez dago — testu dentsoegia da. Paragrafoak ideiak antolatzeko balio dute: pertsonaia aurkezteko bat, ekintza nagusietarako beste bat, korapiloari bat, amaiererako beste bat...",
+          "Errepikapenak ugari dira: 'baina barruan...', 'gauero...', 'momentu horretan...', 'baina bere burua...' Lotura-hitz gehiago behar dituzu eta errepikapenak saihesteko estrategiak erabili: sinonimoak, elipsia, lotura-hitz konplexuak."
+        ],
+        "feed_forward": "Hurrengo aldian, narrazioa idatzi ondoren, zatitu paragrafoka: aurkezpena → ekintzak → korapiloa → amaiera. Paragrafo bakoitza ideia nagusi batekin. Eta lotura-hitz desberdinak erabili: 'hala ere', 'ordea', 'ondoren', 'halaber'..."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 5,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia nahiko aberatsa da DBH4 mailarako: 'susmatu', 'mesfidantza', 'estratega', 'lasaitasuna', 'pizgarri', 'bakarrik zentitzen zen'... Kontzeptu konplexuak adierazi dituzu!",
+          "Saiatu zara egitura konplexuak erabiltzen: erlatibozkoak ('zuen esaldi bat', 'zioen aots bat'), mendeko perpausa ('zen heinean', 'zuen baino'), eta horrek maila ona erakusten du."
+        ],
+        "hobetzekoak": [
+          "Errepikapen lexiko altuak ditugu: 'dirua' 17 aldiz, 'baina' 23 aldiz, 'bere burua' 8 aldiz, 'barruanzeukan/barruan' 10 aldiz... Sinonimoak erabili: diruari 'kapital', 'irabazi', 'sarrera'; bainari 'hala ere', 'ordea', 'alabaina'...",
+          "Gaztelaniako hitzak zuzenean sartu dituzu: 'El que no arriesga no gana', 'Plata o plomo', 'Todos tienen un precio', 'Prefiero una tumba...' Horiek gaztelaniaz uztea ez da egokia euskarazko narrazioan. Itzuli behar zenituen edo euskaraz zuzenean idatzi."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, berrikusi eta errepikapenak identifikatu. Hitz bat gehiegitan agertzen bada, bilatu sinonimoak hiztegian eta txandakatu. Gaztelaniazko aipuak badituzu, itzuli itzazu euskarara edo adierazi pertsonaiak gaztelaniaz hitz egiten duela (adib. '—El que no arriesga no gana —esan zion bere buruari gaztelaniaz.')."
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 4,
+      "maila": "hasiberria",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORI-NORK sistema ondo kontrolatuta daukazu: 'ematen zion', 'iruditzen zitzaizkion', 'ematen ziolako'. Hau ez da erraza eta oso ondo egin duzu!",
+          "NOR-NORK aditzen gehiengoa ondo daukazu: 'nahi nahi izan zuen', 'ulertu zuen', 'konturatu zen'... Primeran!"
+        ],
+        "hobetzekoak": [
+          "Akats-kopurua oso altua da (EP100 23.4). Kategoria nagusiak: ergatiboa falta (×6), aditz komunztadura okerra (×5), puntuazio-falta larria (×15+), erderakadak ugari (×12). Hau oso larriki kaltetzen du irakurketa.",
+          "Ergatiboa (-K) 6 aldiz falta da subjektu iragankorretan: 'dirua gustatzen zitzaion' → 'diruA gustatzen zitzaion' OKERRA da — 'diruari gustatzen zaio' behar da (NOR-NORI da!); 'emozioek ahultzen zituztela' ONDO; 'luxuak prezio bat duela' ONDO. Ergatiboa kontuz!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, esaldi bakoitza berrikusi: aditza NOR-NORK bada, subjektuak -K behar du. NOR-NORI bada (gustatu, gertatu, iruditu...), subjektuak EZ du -K behar. Eta puntuak jarri esaldi bakoitzaren bukaeran — testu luze batean funtsezkoa da!"
+      },
+      "zl_modelo": 3,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=3 baxuegi da EP100=8.16 (tartekoa, tartea 5-6). ZL=4 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 3.5,
+    "biribiltzea": 3,
+    "heziberri_maila": "hasiberria",
+    "orokorra": "Ideia originala eta ausarta hautatu duzu istorioa garatzeko, eta horrek kurajioa erakusten du. Baina zoritxarrez, testua ez da benetako narrazioa: erreflexio luzea da gehiago, elkarrizketarik eta deskribapen biziarik gabe. Gainera, akats-kopurua oso altua da (ergatiboa, puntuazioa, erderakadak) eta hori kaltetzen du testua irakurtzea. Baina ez etsi: ideia onak dituzu eta egitura konplexuak erabiltzen saiatzen zara. Hori da bidea! Orain, paragrafotan zatitu, akatsak zuzendu eta narrazioa bizirik jarri behar duzu.",
+    "lehentasuna": "Narrazioa zer den ulertu: istorioa kontatu behar duzu, ez gogoeta. Elkarrizketak, deskribapenak, ekintza zehatzak behar dira. Hori da lehenengo lana!",
+    "batez_bestekoa_modelo": 3.25,
+    "biribiltzea_modelo": 3.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Ergatiboa (-K) falta / okerra",
+      "akats_id": "ZL-KAS-1",
+      "kopurua": 6,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "dirua gustatzen zitzaion",
+        "zuzenketa": "diruari gustatzen zaio",
+        "azalpena": "Aditza NOR-NORI denean (gustatu), subjektuak EZ du -K behar; datiboa (-RI) behar da. 'Diruari gustatzen zaio' da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz komunztadura okerra — plurala",
+      "akats_id": "ZL-ADI-2",
+      "kopurua": 5,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "emozioek ahultzen zituztela",
+        "zuzenketa": "emozioek ahultzen DITUZTELA (ondo dago)",
+        "azalpena": "Kasu honetan ONDO dago. Baina beste tokietan plurala okerra da: adibidez, 'gure eremua biurtu zen' → 'gure eremua BIHURTU zen' (ondo); 'kontaktua handitzen joan ziren' → 'kontaktuAK handitzen joan ziren' (plurala ondo jarri behar da)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntuazio-falta larria — esaldiak batera",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 18,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "Bere eremua, kontrola sekretuak eta luxua istorio berri bat idazten.",
+        "zuzenketa": "Bere eremua, kontrola, sekretuak eta luxua. Istorio berri bat idazten.",
+        "azalpena": "Esaldi asko punturik gabe jarraitzen dute. Testu luze batean, esaldi bakoitzak puntua behar du bukaeran. Bestela, irakurlea galtzen da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 12,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Baina barruan hutsune bat sortzen hasi zitzaion",
+        "zuzenketa": "Baina, barruan hutsune bat sortzen hasi zitzaion",
+        "azalpena": "Lotura-hitzen ondoren (baina, hala ere, ordea, gainera...) koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — gaztelaniazko hitzak zuzenean",
+      "akats_id": "ZL-ERD-2",
+      "kopurua": 8,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "El que no arriesga no gana",
+        "zuzenketa": "Arriskatu ez duenak ez du irabazten",
+        "azalpena": "Gaztelaniazko esaldi osoak ezin dira euskarazko testuan sartu zuzenean. Itzuli behar dira euskarara edo adierazi pertsonaiak gaztelaniaz hitz egiten duela."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Erderakada — mailegu okerra",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 4,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "distrakzio hutsak",
+        "zuzenketa": "entretenimendu hutsak / baliogabeko gauzak",
+        "azalpena": "'Distrakzio' erdaratik dator zuzenean ('distracción'). Euskaraz 'entretenimendu', 'alferrikako gauza' edo 'aspertze-aurkakoa' erabil daiteke."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia-akatsak",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "hbuhybuybubuyb",
+        "zuzenketa": "[EZABATU]",
+        "azalpena": "Testu erdian karaktere ausazkoak daude. Hau typo bat da edo testu-zataki bat. Ezabatu behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz-banaketa / elkarketa okerra",
+      "akats_id": "ZL-ORT-2",
+      "kopurua": 3,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "orrela",
+        "zuzenketa": "horrela",
+        "azalpena": "'Orrela' ez da existitzen euskaraz. 'Horrela' da forma zuzena (hori + -la)."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "dirua (×17), baina (×23), bere burua (×8), barruan (×10)",
+        "zuzenketa": "Sinonimoak erabili: dirua → kapital, irabazi, sarrera; baina → hala ere, ordea, alabaina; bere burua → bera, berak, Ikerrek",
+        "azalpena": "Hitz bera gehiegitan errepikatzen da. Hiztegi aberatsagoa erabili behar da eta sinonimoak txandakatu."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 1287,
+    "minor": 23,
+    "major": 41,
+    "critical": 0,
+    "EP100_gordina": 8.16,
+    "EP100_pisuduna": 1.52,
+    "EP100_gordina_modelo": 7.2,
+    "EP100_pisuduna_modelo": 23.4,
+    "minor_modelo": 31,
+    "major_modelo": 31,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 0,
+        "S4": 0,
+        "S5": 1,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia da. Akats ugari daude: puntuazio falta (\"hbuhybuybubuyb\" karaktere bitxiak tartean), esaldi luzeak etenik gabe, puntuazio arazoak (koma asko falta), errepikapenak (\"prest egoteko beti isilean\" motakoak), koherentzia arazoak eta narrazioa amaiera aldera azkarregi joaten da. Hiztegi arrunta da DBH mailarako, esaldi batzuk gaizki eratuak daude eta egitura ez da perfektua. Luzera handia du (1800+ hitz) baina kalitatea uniformea ez da, hasieran hobeto idatzita dago eta amaieran nahasiagoa. Erreferentziak (Pablo Escobar, El Patrón del Mal) eta gaiak (narkotrafikoa) DBH ikasle batentzat egokiak dira, nahiz eta kontrobertsialak. IAk ez luke akats horiek egingo eta edukia hobeto egituratuta egongo litzateke."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": true,
+      "arrazoiak": [
+        "Nota oso baxua (3.0) — irakaslearen berrikusketa komeni da",
+        "Off-topic (CAP-1) aplikatua — gaia ez da bete",
+        "EP100 oso altua (23.4) — akats sistematikoak",
+        "Eduki susmagarria: narkotrafikoa gai gisa — irakaslearekin hitz egin behar da gaiaren egokitasunari buruz"
+      ]
+    }
+  }
+}

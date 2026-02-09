@@ -1,0 +1,227 @@
+{
+  "kodea": "AIALA URIBE ASTOREKA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 8,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Ttak! Oso istorio polita eta pertsonala kontatu duzu. Idaztearen zailatasunari buruzko hausnarketa zintzoa da, eta horrek nabarmena egiten du testua. Gaia berez originala da eta ondo landua!",
+          "Narrazioaren egitura klasikoa jarraitu duzu bikain: hasiera (ataza), korapiloa (blokeo idazteari), garapena (gainditze prozesua) eta amaiera (kontzientzia hartzea). Oso koherentea eta argia!"
+        ],
+        "hobetzekoak": [
+          "Pertsona batzuen deskribapena gehiago landu zenezake: nola zen Goñi, nola ziren zure ikaskideak, nola sentitu zinen une bakoitzean... Xehetasun sentsorialak (koloreak, soinuak, sentsazioak) gehituz istorioa biziagoa eta hurbilago egingo luke.",
+          "Elkarrizketaren bat sartu zenezake zuzenean (dialogo bat Goñirekin edo ikaskide batekin), narrazioa are dinamikoago egiteko."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu deskribapen sentsorialak gehitzen (\"Goñik irribarre egin zidan, bere begi argiek konfiantza transmititzen zutela\" bezalakoak). Horrek istorioa are sendoagoa egingo luke!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura narratiboa argia da eta jarraitzeko erraza. Paragrafo bakoitzak une edo ideia bat du, eta horrek koherentzia ematen dio testuari. Primeran!",
+          "Lotura-hitz onak erabili dituzu: 'Orduan', 'Zenbait saiakera egin ondoren', 'Lehen aldiz', 'Amaitu nuenean'... Hauek guztiak istorioa logikoki lotzen dute."
+        ],
+        "hobetzekoak": [
+          "Paragrafo batzuk oso luzeak dira (batez ere 6. eta 7.a). Zatitu zitezke banaketa hobea izateko: adibidez, klasean irakurtzeko kezka paragrafo batean, eta irakurketa bera bestean.",
+          "Lotura-hitz gehiago erabil zenitzake esaldien artean paragrafo barruan. Adibidez, 'gainera', 'hala ere', 'bestalde'... Horrek fluxua are hobetu egingo luke."
+        ],
+        "feed_forward": "Hurrengo aldian, paragrafo luze bat idazten duzunean, gelditu eta pentsatu: bi gai desberdin nahasten al ditut? Baietz bada, zatitu! Horrek irakurketa erraztu egingo du."
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Hiztegia nahiko aberatsa da: 'konbentzitzen', 'motibatzen', 'ziurgabetasuna', 'hausnarketa', 'zintzotasuna'... Hitz hauek maila ona erakusten dute eta testua aberastu egiten dute!",
+          "Perpaus-egitura konplexuak erabili dituzu: mendekoak ('Nire burua ordezkatuko zuen testu bat idatzi nahi nuen'), kontzesibozkoak ('nahiz eta hatzak pixka bat dardarka nituen')... Hau oso ona da!"
+        ],
+        "hobetzekoak": [
+          "Zenbait hitz errepikatu dituzu asko: 'idatzi/idazten' (14 aldiz), 'testu' (16 aldiz), 'pentsatu' (9 aldiz). Sinonimoak erabili zenitzake: 'idatzi' → 'prestatu, landu, sortu'; 'testu' → 'lan, idazlan, narrazioa'; 'pentsatu' → 'hausnartu, bueltaka eman'.",
+          "Erregistroa ondo aukeratu duzu (pertsonala, naturala), baina zenbait esamolde informalegi dira idatzizko narraziorako: 'Ttak!', 'baino ez', 'ezko baizik eta'... Hauek zuzendu behar dira."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepikapen lexikoak identifikatu eta ordezkatu sinonimoekin. Hitz bakoitza tresna bat da, eta askotarikoak erabiliz testua askoz aberatsagoa izango da!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 7,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Aditz-sistema orokorrean ondo kontrolatzen duzu: NOR-NORK laguntzaileak gehienetan zuzenak dira ('nuen', 'ninduen', 'zidan'), eta aspektuak ere ondo ('idazten ari nintzena', 'irakurtzen dudanean'). Hau ez da erraza eta oso ondo egin duzu!",
+          "Deklinabidea gehienetan zuzena da: kasuak ondo erabiltzen dituzu ('buruari', 'ordenagailuan', 'testu bat', 'klasean')."
+        ],
+        "hobetzekoak": [
+          "Puntuazioan akats ugari: gehienbat komak esaldien artean falta dira edo gaizki kokatuta daude. Adibidez: 'Goñik esan zuenean, ...' (koma mendeko perpausaren ondoren), 'Baino, ez' (ez koma 'baino' aurretik). Komei arreta gehiago jarri behar diezu.",
+          "Ortografia-akatsak: 'Goiñiri' → 'Goñiri', 'Aldia momentuan horretan' → 'Une horretan' edo 'Momentu horretan', 'Ordezkatuko' (letra larriz zergatik?), 'benetan' letra larriz hasi behar da esaldi hasieran, 'ezko baizik eta' → 'ez bakarrik... baizik eta...', 'tutoreak' → 'irakasleak edo Goñik' (tutor ez da batua). Hitz-banaketa: 'Goñik Esan' → 'Goñik esan', 'Goñik Ikustean' → 'Goñik ikustean'."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu ondo komak: mendeko perpaus bat nagusiaren aurretik badago, beti koma jarri ondoren. Eta lotura-hitz baten ondoren ere bai ('hala ere,', 'orduan,', 'azken finean,'...). Hau ikasita, akats asko desagertuko dira!"
+      },
+      "zl_modelo": 6,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=6 baxuegi da EP100=1.61 (bikaintasuna, tartea 9-10). ZL=7 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 7.25,
+    "biribiltzea": 7,
+    "heziberri_maila": "aurreratua",
+    "orokorra": "Oso lan polita egin duzu, Aiala! Narrazioa zintzoa, pertsonala eta emozioz beteta dago. Gaia originala da eta ondo garatu duzu, egitura argiarekin. Puntuazioan eta ortografian hobetzeko tartea dago, baina oinarrizko gaitasuna hor dago. Jarraitu irakurtzen eta idazten, eta ziur zurekin gora egingo duzula!",
+    "lehentasuna": "Komak: mendeko perpausak (denborazkoak, baldintzazkoak) nagusiaren aurretik badaude, BETI koma jarri ondoren. Lotura-hitzen ondoren ere bai. Hau errepasatuz, ZL nota nabarmen igoko zaizu!",
+    "batez_bestekoa_modelo": 7.0,
+    "biribiltzea_modelo": 7.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Koma falta mendeko perpausaren ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Goñik esan zuenean idazlan bat prestatu behar genuela",
+        "zuzenketa": "Goñik esan zuenean, idazlan bat prestatu behar genuela",
+        "azalpena": "Mendeko perpaus bat nagusiaren aurretik badago (denborazkoa, baldintzazkoa...), BETI koma jarri behar da ondoren."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-1",
+      "kopurua": 5,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Orduan pentsatu nuen",
+        "zuzenketa": "Orduan, pentsatu nuen",
+        "azalpena": "Lotura-hitzen ondoren (orduan, beraz, hala ere, azken finean...) BETI koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Koma okerra 'baino' aurretik",
+      "akats_id": "ZL-PUN-2",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "azkar egin eta entregatzeko modukoa, baino ez",
+        "zuzenketa": "azkar egin eta entregatzeko modukoa baino ez",
+        "azalpena": "Euskaraz 'baino' aurretik ez da koma jartzen normalean."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Puntua falta esaldien artean",
+      "akats_id": "ZL-PUN-7",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "eman.Aldia momentuan horretan imajinatzen",
+        "zuzenketa": "eman. Une horretan imajinatzen",
+        "azalpena": "Esaldi independente bat amaitzen denean, puntua jarri behar da eta esaldi berria letra larriz hasi. Hemen bi akats: puntua eta zuriunea falta, eta 'Aldia momentuan horretan' gaizki."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Letra larrien erabilera okerra",
+      "akats_id": "ZL-ORT-3",
+      "kopurua": 7,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Goñik Esan zuenean / Ordezkatuko / Goñik Ikustean",
+        "zuzenketa": "Goñik esan zuenean / ordezkatuko / Goñik ikustean",
+        "azalpena": "Letra larria perpausaren hasieran soilik jarri behar da eta izen propioen hasieran. Aditzak eta adjektiboak letra xehez idazten dira."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — Hitz okerra / mailegu okerra",
+      "akats_id": "ZL-ORT-4",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "tutoreak",
+        "zuzenketa": "irakasleak / Goñik",
+        "azalpena": "'Tutor' ez da batuko hitz arrunta. Erabili 'irakaslea', 'tutorea' edo zuzenean 'Goñik'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Kalko sintaktikoa edo egitura okerra",
+      "akats_id": "ZL-ERD-1",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "ezko baizik eta",
+        "zuzenketa": "ez bakarrik... baizik eta... ere",
+        "azalpena": "Gaztelaniako 'no solo... sino también' kalkoaren saiakera. Euskaraz: 'ez bakarrik idatzi behar genuen, baizik eta klasean irakurri eta Goñiri pertsonalki eman ere'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "categoria": "Errepikapen lexiko nabarmena",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'idatzi/idazten' 14 aldiz, 'testu' 16 aldiz, 'pentsatu' 9 aldiz",
+        "zuzenketa": "Sinonimoak erabili: 'idatzi' → 'prestatu, landu, sortu'; 'testu' → 'lan, idazlan, narrazioa'; 'pentsatu' → 'hausnartu, bueltaka eman'",
+        "azalpena": "Hitz beraren errepikapen altua testua monotonoa egiten du. Sinonimoak erabili aberastasun lexikoa erakusteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ordena sintaktikoa / egitura okerra",
+      "akats_id": "ZL-SIN-1",
+      "kopurua": 2,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "Aldia momentuan horretan imajinatzen",
+        "zuzenketa": "Une horretan imajinatzen / Momentu horretan imajinatzen",
+        "azalpena": "'Aldia momentuan horretan' ez da egitura zuzena euskaraz. 'Une horretan' edo 'Momentu horretan' erabili behar da."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 931,
+    "minor": 28,
+    "major": 6,
+    "critical": 0,
+    "EP100_gordina": 4.3,
+    "EP100_pisuduna": 1.61,
+    "EP100_gordina_modelo": 4.5,
+    "EP100_pisuduna_modelo": 4.5,
+    "minor_modelo": 25,
+    "major_modelo": 8,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testu hau argi eta garbi DBH4ko ikasle batek idatzia dela dirudi. Akats naturalak ugari daude: 'ezko baizik eta' ('ez bakarrik, baizik eta' izan beharko luke), 'Aldia momentuan horretan' (nahaspila sintaktikoa), 'Goñiri pertsonalki' (tartea falta), 'nire burua Ordezkatuko' (maiuskula deslekua), 'konbentzitzen' (pertsonaren nahasmendua), puntuazio erroreak, eta hainbat esaldi-egitura desegokiak. Hizkuntza naturala da, ez dago C1/C2 mailako hitzik, eta idazlearen ahotsa pertsonala eta emoziozko da. Egitura orokorra ona da baina ez perfektua, eta testuan zehar kalitatea aldakorra da, akats gehiago pilatuz. Luzera (700 hitz inguru) egokia da DBH4rentzat. Narrazioak esperientzia pertsonal bat kontatzen du, meta-reflexio batekin (idazteari buruz idaztea), eta tonu zintzoa eta gazte bat du. Guztira, ikasle on batek idatzitako lan bat dirudi, ez IA batek sortutakoa."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}

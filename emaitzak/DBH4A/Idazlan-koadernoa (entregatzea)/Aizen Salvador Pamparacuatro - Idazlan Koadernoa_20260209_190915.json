@@ -1,0 +1,215 @@
+{
+  "kodea": "AIZEN SALVADOR PAMPA",
+  "ebaluazioa": {
+    "atazaren_betetzea": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Istorio oso garbia eta koherentea kontatu duzu! Hasiera-korapiloa-amaiera egitura perfektua da, eta pertsonaiaren bilakaera ondo garatuta dago. Zorionak!",
+          "Gaia oso interesgarria da eta mezu sozial garrantzitsua dauka alkoholari buruz. Hau benetan baloratzen da narrazioan!"
+        ],
+        "hobetzekoak": [
+          "Narrazioa luzea da baina sarrera gehiago landu zenezake: nola zen Martinen egunerokotasuna txikitatik? Zein esperientzia zehatzen oroitzapenak zituen saxofoiarekin? Detaile sentsorial gehiago (nola soinatzen zuen lehen saxofoia?) aberastu egingo luke istorioa.",
+          "Amaiera pixka bat azkarregia da: Martinek akademian irakasle bezala lan egiten hasten duela eta alkoholari buruzko hitzaldiak ematen dituena aipatzen duzu, baina ez da garatu nola lortu zuen hori, zein zailtasunei aurre egin zien... Hori garatzeak istorioa biribilagoa egingo luke."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu istorioan une nagusiak GEHIAGO garatzen: ez bakarrik zer gertatu zen esaten, baizik eta NOLA sentitu zuen pertsonaiak, zer ikusi, entzun, usaindu zuen... Detaile sentsorial horiek irakurlea istoriora erakarri egiten dute eta idazlana bizitzagoa egiten dute. Horiek gehituta, 8-9ra iritsi ahalko zara!"
+      }
+    },
+    "antolaketa_koherentzia": {
+      "nota": 7,
+      "maila": "aurreratua",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Paragrafoen banaketa argia da: paragrafo bakoitzak istorioko une bat kontatzen du (haurtzaroa, kontserbatorioa, lana, istripua, suspertzea...). Egitura hori ondo barneratuta daukazu!",
+          "Lotura-hitzak egokiak dira gehienetan: 'baina', 'horregaitik', 'orduan', 'azkenean', 'horren ostean'... Hauek istorioa ondo lotzen dute."
+        ],
+        "hobetzekoak": [
+          "Lotura-hitz errepikatuak: 'baina' 8 aldiz, 'horregaitik' 5 aldiz... Erabili sinonimoak: 'hala ere', 'hori dela eta', 'ordea', 'gainera', 'bestalde'. Hau aniztasuna emango dizu!",
+          "Narrazioaren denborazko jauzia azkarregiak dira batzuetan: txikitatiketatik nagusiagora, eta gero istripura... Elipsi horiek argitu behar dira lotura-hitz egokiekin: 'urte batzuetara', 'denborak aurrera egin ahala', 'hilabete batzuetara'..."
+        ],
+        "feed_forward": "Hurrengo aldian, saiatu lotura-hitz bakoitza testu osoan gehienez 2-3 aldiz bakarrik erabiltzen. Idatzi ondoren, bilatu berdin errepikatzen direnak eta ordezkatu sinonimoekin. Sistema sinple honekin koherentzia-maila nabarmen igoko da!"
+      }
+    },
+    "baliabide_linguistikoen_hedadura": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "Egitura konplexuak erabiltzen saiatu zara eta hori oso positiboa da: 'musikak entretenitzen eta lasaitzen zuelako gainera izaten zituen arazoetatik alde egiten laguntzen zion' — egitura hau korapilotsua da eta zuzen erabili duzu gehienetan. Primeran!",
+          "Narrazioaren denbora-aldaketa ondo kontrolatzen duzu: orainaldia (da, guztatzen zitzaion), lehenaldia (zen, zuen), geroaldia (izango da)... Aspektu-sistema ondo lantzen ari zara!"
+        ],
+        "hobetzekoak": [
+          "Hiztegi errepikatzailea: 'oso' 12 aldiz, 'joan' aditza 15 aldiz forma desberdinetan... Erabili sinonimoak: 'oso' → benetan, guztiz, izugarri, asko; 'joan' → igo, sartu, heldu, abiatu... Hiztegia aberasteak BLH nota igoko dizu nabarmen!",
+          "Erregistroa aldakorra da batzuetan: 'pskologoari galdetu zion' (formala) vs 'ezer egin gabe' (informala). Mantendu erregistro bat testu osoan. DBH4 mailako narrazioan, erregistro formala edo erdi-formala hobetsia da."
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, bilatu hitz errepikatuak eta ordezkatu sinonimoekin. Egin ezazu zerrenda: 'oso' → benetan/guztiz/izugarri/asko; 'joan' → igo/sartu/heldu/abiatu; 'egin' → burutu/gauzatu/landu... Hitz-altxor hori lantzeak BLH 7-8ra iristeko bidea zabalduko dizu!"
+      }
+    },
+    "zuzentasun_linguistikoa": {
+      "nota": 6,
+      "maila": "tartekoa",
+      "cap_aplikatua": null,
+      "iruzkina": {
+        "indarguneak": [
+          "NOR-NORK sistema gehienetan ondo kontrolatuta dago: 'gurasoak esan zioten', 'musikak entretenitzen zuelako'... Hau ez da erraza eta benetan ondo egiten duzu!",
+          "Ortografia nahiko zuzena da orokorrean: letra larriak, hitz-elkarketa... Horrek erakusten du arreta jartzen duzula idaztean."
+        ],
+        "hobetzekoak": [
+          "Akats errepikatu garrantzitsuenak dialektismoak dira: 'zuen' (behar), 'heman' (eman), 'zahiatu' (saiatu), 'baze' (bazuen), 'buhurtu' (bihurtu)... Hauek ez dira erderakadak, baina testu idatzi formal batean batua erabili behar da. Ikasi forma batuak: behar, eman, saiatu, bazuen, bihurtu.",
+          "Ortografia-akatsak txikiak baina errepikatuak: 'postazun' (poztasun), 'mediku' (mediku), 'pskologoa' (psikologoa), 'bidio' (bideo), 'nibel' (maila/nivel)... Hauek hiztegian begiratzea erraz konpontzen dira!"
+        ],
+        "feed_forward": "Hurrengo aldian, idatzi ondoren, errepasatu testu osoa eta bilatu dialektismoak (bizkaierazko formak). Aldatu batuan: 'zuen' → behar, 'heman' → eman, 'zahiatu' → saiatu. Hau eginda, ZL 6-7ra igoko da seguru! Gainera, hitz zalantzazkoetan hiztegian begiratu: Elhuyar Hiztegia online erabilgarria da."
+      },
+      "zl_modelo": 5,
+      "python_doikuntza": "DOITUA: Modeloaren ZL=5 baxuegi da EP100=1.43 (bikaintasuna, tartea 9-10). ZL=6 ezarri da (+1 max)."
+    }
+  },
+  "laburpena": {
+    "batez_bestekoa": 6.5,
+    "biribiltzea": 7,
+    "heziberri_maila": "tartekoa",
+    "orokorra": "Oso lan ona egin duzu, benetan! Istorio oso ederra eta koherentea kontatu duzu, Martinen bilakaera garbia da hasieratik amaierara. Egitura ondo kontrolatzen duzu eta lotura-hitzak egokiak dira. Hobetzeko bideak argi daude: batua finkatu (dialektismoak kendu), hiztegia aberastu (sinonimoak erabili), eta istorioko une nagusiak gehiago garatu. Gauzak ondo doaz, jarraitu honela!",
+    "lehentasuna": "Batua finkatu: 'zuen' → behar, 'heman' → eman, 'zahiatu' → saiatu, 'buhurtu' → bihurtu. Idatzi ondoren, bilatu bizkaierazko formak eta aldatu batuan. Hau da lehen lehentasuna!",
+    "batez_bestekoa_modelo": 6.25,
+    "biribiltzea_modelo": 6.0,
+    "python_postprozesatua": true
+  },
+  "akats_taldeak": [
+    {
+      "kategoria": "Dialektismoak — bizkaierazko formak batua espero denean",
+      "akats_id": "LH-7",
+      "kopurua": 18,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "aukeratu bahar izan zuen",
+        "zuzenketa": "aukeratu behar izan zuen",
+        "azalpena": "Bizkaieraz 'bahar/zuen' erabiltzen da, baina batuan 'behar' da forma zuzena. Testu idatzi batean batua hobetsia da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Dialektismoak — aditz-partizipioak",
+      "akats_id": "LH-7",
+      "kopurua": 7,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "postazun handia heman zion",
+        "zuzenketa": "poztasun handia eman zion",
+        "azalpena": "Bizkaieraz 'heman' erabiltzen da, baina batuan 'eman' da forma zuzena."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Ortografia — hitz-idazketa okerra",
+      "akats_id": "ZL-ORT-1",
+      "kopurua": 8,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "pskologoari",
+        "zuzenketa": "psikologoari",
+        "azalpena": "Hitz hau 'psikologo' idazten da euskaraz, ez 'pskologo'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Aditz-morfologia — aldia okerra",
+      "akats_id": "ZL-ADI-4",
+      "kopurua": 2,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "denpora zijoala",
+        "zuzenketa": "denbora joan ahala / denborarekin",
+        "azalpena": "Egitura hau ez da zuzena euskaraz. Erabili 'joan ahala' edo 'denborarekin'."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "categoria": "Koma falta lotura-hitz ondoren",
+      "akats_id": "ZL-PUN-3",
+      "kopurua": 4,
+      "larritasuna": "minor",
+      "adibidea": {
+        "detektatutakoa": "orduan Arantza kamarotera igo zen",
+        "zuzenketa": "orduan, Arantza kamarotera igo zen",
+        "azalpena": "Lotura-hitz ondoren ('orduan', 'horregatik', 'azkenean'...) beti koma jarri behar da."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Errepikapen lexiko altua",
+      "akats_id": "LH-1",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'oso' hitza 12 aldiz, 'joan' aditza 15 aldiz",
+        "zuzenketa": "Erabili sinonimoak: 'oso' → benetan/guztiz/izugarri; 'joan' → igo/sartu/heldu/abiatu",
+        "azalpena": "Hitz bera testu osoan gehiegi errepikatzen denean, hiztegi-pobrezia sentsazioa ematen du. Erabili sinonimoak aberasteko."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Hitz generikoen gehiegizko erabilera",
+      "akats_id": "LH-2",
+      "kopurua": 1,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "'egin' aditza 9 aldiz forma desberdinetan",
+        "zuzenketa": "Erabili aditz zehatzagoak: burutu, gauzatu, landu, sortu, lortu...",
+        "azalpena": "'Egin' aditz generikoegia da. DBH4 mailan aditz zehatzagoak erabili behar dira."
+      },
+      "zalantzazkoa": false
+    },
+    {
+      "kategoria": "Determinazioa falta",
+      "akats_id": "ZL-KAS-5",
+      "kopurua": 3,
+      "larritasuna": "major",
+      "adibidea": {
+        "detektatutakoa": "etxe bat erosi zuten. Horrek postazun handia heman zion",
+        "zuzenketa": "etxe bat erosi zuten. Horrek poztasun handia eman zion (KONTUZ: 'horrek' subjektu da, beraz ergatiboa behar du, eta hori ONDO dago)",
+        "azalpena": "Testuinguruan, 'postazun' ez da hitz zuzena euskaraz. Zuzena: 'poztasun'."
+      },
+      "zalantzazkoa": false
+    }
+  ],
+  "EP100": {
+    "hitz_kopurua": 628,
+    "minor": 12,
+    "major": 5,
+    "critical": 0,
+    "EP100_gordina": 3.5,
+    "EP100_pisuduna": 1.43,
+    "EP100_gordina_modelo": 9.2,
+    "EP100_pisuduna_modelo": 7.8,
+    "minor_modelo": 42,
+    "major_modelo": 8,
+    "critical_modelo": 0,
+    "kalkulua": "python"
+  },
+  "meta": {
+    "segurtasun_azterketa": {
+      "susmagarria": false,
+      "ia_puntuazioa": 1,
+      "ia_puntuazioa_modelo": 0.5,
+      "seinaleak": {
+        "S1": 0,
+        "S2": 0,
+        "S3": 1,
+        "S4": 0,
+        "S5": 0,
+        "S6": 0,
+        "S7": 0
+      },
+      "maila": "BAXUA",
+      "iruzkina": "Testua argi eta garbi DBH4ko ikasle batek idatzia dela dirudi. Akats tipiko ugari aurkitzen dira: 'guztatzen zitzaon' (zitzaion), 'horduan' (orduan), 'zaitu' (saiatu), 'heman' (eman), 'zijoala' (zihoala), 'buhurtu' (bihurtu), 'haurrez-haurrez' (harraskaka), 'pilloak' (piloa), 'pskologoa' (psikologoa), etab. Ortografia akatsen pila dago, deklinabide akatsak ('gusu txarrez', 'soldata horreri', 'animazen'), aditz-formetan okerrak ('zahiatu', 'heman', 'gomendatu'). Egitura oinarrizko bat du (sarrera-garapena-ondorioa) baina ez da perfektua, nahastea dago zenbait tokitan. Hiztegiak ez du C1/C2 mailarik erakusten. Luzera (850 hitz inguru) nahiko normala da konposizio luzeetarako DBH4n. Kalitatea ez da uniformea, akats naturalak ageri dira testu osoan zehar. Tonu pertsonala eta naturala du. Argi dago ikasle gazte batek idatzi duela."
+    },
+    "irakasle_berrikusketa": {
+      "beharrezkoa": false,
+      "arrazoiak": []
+    }
+  }
+}
