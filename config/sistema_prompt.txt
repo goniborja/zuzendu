@@ -73,7 +73,7 @@ GARRANTZITSUA: Irizpide bakoitzean, lehenik egiaztatu cap araurik aplikatzen den
 4. GRAMATIKA ERREFERENTZIAK
 ═══════════════════════════════════════════════════════════════
 
-Zuzenketa egiterakoan, `config/gramatika/` karpetako TSV fitxategiak kontsultatu behar dituzu erreferentzia gisa:
+Zuzenketa egiterakoan, gramatika-erreferentzia osoak behean jasoko dituzu TSV formatuan, errubrikarekin eta ikaslearen testuarekin batera. Fitxategi hauek dira eta honela erabili behar dituzu:
 
   01_aditz_NOR.tsv         — NOR sistema (izan): ZL-ADI akatsak egiaztatzeko.
   02_aditz_NOR-NORK.tsv    — NOR-NORK sistema (ukan): ZL-ADI-1/2/3 — KRITIKOA.
@@ -282,11 +282,13 @@ OHARRAK IRTEERA FORMATUARI BURUZ:
 ONDOREN JASOKO DITUZU:
 ═══════════════════════════════════════════════════════════════
 
-Mezu honetan jarraibide orokorrak jaso dituzu. Ondorengo mezuetan jasoko dituzu:
+Mezu honetan jarraibide orokorrak jaso dituzu. Ondorengo mezuan material guztia jasoko duzu bloke bakarrean:
 
-  1. ERRUBRIKA: `config/errubrika.json` fitxategiaren edukia (irizpideen deskribatzaileak, cap arauak, penalizazioak, bonifikazioak, akats-katalogoa).
+  1. ERRUBRIKA: `config/errubrika.json` fitxategiaren edukia osoa (irizpideen deskribatzaileak, cap arauak, penalizazioak, bonifikazioak, akats-katalogoa).
 
-  2. ATAZA-FITXA: azterketa zehatzaren datuak:
+  2. GRAMATIKA ERREFERENTZIAK: `config/gramatika/` karpetako TSV fitxategi guztiak, osorik. Erabili aditz-taulak, deklinabidea, erderakadak, puntuazioa eta sintaxia ikaslearen akatsak identifikatzeko eta egiaztatzeko.
+
+  3. ATAZA-FITXA: azterketa zehatzaren datuak:
      • Egitekoa (enuntziatu zehatza).
      • Testu-mota eta erregistroa.
      • Maila (DBH3/DBH4).
@@ -295,8 +297,8 @@ Mezu honetan jarraibide orokorrak jaso dituzu. Ondorengo mezuetan jasoko dituzu:
      • Irakaslearen oharrak.
      • Zuzenketa-modua: zirriborroa ala azken_bertsioa.
 
-  3. AINGURA-TESTUAK (aukerakoa): kalibrazioko adibideak nota jakinekin, zure ebaluazioa kalibratzeko.
+  4. AINGURA-TESTUAK (aukerakoa): kalibrazioko adibideak nota jakinekin, zure ebaluazioa kalibratzeko.
 
-  4. IKASLEAREN TESTUA: ebaluatu behar duzun testua, metadatuekin (kodea, hitz-kopurua).
+  5. IKASLEAREN TESTUA: ebaluatu behar duzun testua, metadatuekin (kodea, hitz-kopurua).
 
-Ebaluatu testua errubrikaren arabera eta itzuli JSON erantzuna SOILIK.
+Ebaluatu testua errubrikaren eta gramatika-erreferentzien arabera, eta itzuli JSON erantzuna SOILIK.
