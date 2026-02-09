@@ -18,7 +18,7 @@ El proyecto se implementa en 4 fases incrementales. Cada fase produce algo funci
 
 ## Fase 1: Motor de corrección
 
-### 1.1. Rúbrica en JSON
+### 1.1. Rúbrica en JSON — COMPLETADA
 
 **Fichero:** `config/errubrika.json`
 
@@ -28,30 +28,35 @@ Traducir la especificación de `ZUZENDU_v3_sistema.md` (secciones 2-5) a un JSON
 - Penalizaciones (PEN-1 a PEN-7) con valores y acumulación máxima
 - Bonificaciones (BON-1 a BON-4)
 - Bandas EP100
-- Catálogo de errores completo con IDs, severidad y acciones
+- Catálogo de 60 errores tipificados con IDs, severidad y acciones
+- Tipologías textuales y niveles de conectores
 
-### 1.2. Prompt de sistema
+### 1.2. Prompt de sistema — COMPLETADA
 
 **Fichero:** `config/sistema_prompt.txt`
 
 Prompt que recibe el LLM con:
 - Rol y enfoque formativo
-- Rúbrica completa (referencia al JSON o inline)
+- Referencia a `errubrika.json` y `config/gramatika/*.tsv` (inyectados en el mensaje)
 - Reglas de feedback (positivo primero, feed-forward, no saturar, agrupar errores)
-- Protocolo anti-alucinación ("zalantzazkoa")
+- Protocolo anti-alucinación ("zalantzazkoa") y señales de alerta para el profesor
 - Regla de penalización decreciente por repetición
 - Formato de salida JSON esperado
+- Ejemplo few-shot completo (DBH4-015, 138 hitz, con errores y JSON de salida)
 - Idioma del feedback: euskera
 
-### 1.3. Script de test mínimo
+### 1.3. Script de test mínimo — COMPLETADA
 
 **Fichero:** `src/zuzendu_test.py`
 
-Script que toma un texto, lo envía a la API de Claude con el prompt de sistema, y devuelve el JSON de evaluación. Flujo mínimo:
-
-```
-texto (string) → API Claude → JSON evaluación
-```
+Script que junta toda la configuración, llama a la API de Anthropic y guarda el JSON:
+- System prompt: `config/sistema_prompt.txt`
+- User message con XML tags: `<errubrika>` + `<gramatika_fitxategia>` x11 + `<ataza_metadatuak>` + `<ikaslearen_testua>`
+- CLI: `--kodea`, `--maila`, `--mota`, `--hitzak`, `--modua`, `--stdin`
+- Sin argumentos usa texto few-shot hardcodeado (DBH4-015)
+- Salida rich: panel nota, tabla criterios, EP100, akats-taldeak, lehentasuna
+- Validación de claves JSON; raw response guardado si falla
+- Resultado en `data/emaitzak/{kodea}_{timestamp}.json`
 
 ### 1.4. Calibración
 
@@ -144,8 +149,8 @@ Integrar en el flujo HTML:
 ## Prioridades
 
 ```
-URGENTE     Fase 1.1 + 1.2 + 1.3  →  Motor funcional (copiar-pegar)
-IMPORTANTE  Fase 1.4               →  Calibración (fiabilidad)
+COMPLETADO  Fase 1.1 + 1.2 + 1.3  →  Motor funcional (copiar-pegar)
+URGENTE     Fase 1.4               →  Calibración (fiabilidad)
 ÚTIL        Fase 2.1 + 2.3        →  Interfaz + batch (eficiencia)
 MEJORA      Fase 3 + 4            →  Reporting + herramientas
 ```
