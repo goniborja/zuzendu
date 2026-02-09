@@ -21,6 +21,7 @@ from pathlib import Path
 
 import anthropic
 from dotenv import load_dotenv
+from ep100 import post_prozesatu
 from rich.console import Console
 from rich.panel import Panel
 from rich.table import Table
@@ -358,6 +359,21 @@ def main():
     missing = validate_json(result)
     if missing:
         console.print(f"[yellow]ABISUA:[/] JSON-ean gako hauek falta dira: {', '.join(missing)}")
+
+    # 6b. Post-prozesatu: EP100 birkalkulatu eta ZL doitu
+    result = post_prozesatu(result)
+    zl_info = result["ebaluazioa"]["zuzentasun_linguistikoa"]
+    if zl_info.get("zl_modelo") is not None and zl_info["zl_modelo"] != zl_info["nota"]:
+        console.print(
+            f"[yellow]POST-PROZESATU:[/] ZL {zl_info['zl_modelo']} -> {zl_info['nota']} "
+            f"(EP100_pisuduna={result['EP100']['EP100_pisuduna']})"
+        )
+    else:
+        console.print(
+            f"[dim]Post-prozesatu: EP100 birkalkulatuta "
+            f"(gordina={result['EP100']['EP100_gordina']}, "
+            f"pisuduna={result['EP100']['EP100_pisuduna']})[/]"
+        )
 
     # 7. Emaitza gorde
     output_path = save_json(result, args.kodea)
